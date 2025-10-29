@@ -1,0 +1,71 @@
+﻿l_russian:
+ #ministers
+ FRA_Pierre_Poujade_hog:0 "Pierre Poujade"
+ FRA_Jerome_Carcopino_hog:0 "Jérôme Carcopino"
+ FRA_Pierre_Drieu_la_Rochelle_hog:0 "Pierre Drieu la Rochelle"
+ FRA_Jacques_Le_Roy_Ladurie_hog:0 "Jacques Le Roy Ladurie"
+ FRA_Francois_Lehideux_hog:0 "François Lehideux"
+ FRA_Lucien_Rebatet_hog:0 "Lucien Rebatet"
+
+ FRA_Marcel_Peyrouton_for:0 "Marcel Peyrouton"
+ FRA_Jacques_Benoist_Mechin_for:0 "Jacques Benoist-Méchin"
+ FRA_Philippe_Aries_for:0 "Philippe Ariès"
+
+ FRA_Yves_Bouthillier_eco:0 "Yves Bouthillier"
+ FRA_Leon_Gingembre_eco:0 "Léon Gingembre"
+ FRA_Jean_Marie_le_Pen_eco:0 "Jean-Marie le Pen"
+ FRA_Max_Bonnafous_eco:0 "Max Bonnafous"
+ FRA_Jean_Bichelonne_eco:0 "Jean Bichelonne"
+ FRA_Rene_Belin_eco:0 "René Belin"
+ 
+ FRA_Charles_Huntziger_sec:0 "Charles Huntziger"
+ FRA_Marcel_Carpentier_sec:0 "Marcel Carpentier"
+ FRA_Henri_Lafont_sec:0 "Henri Lafont"
+ FRA_Pierre_Debizet_sec:0 "Pierre Debizet"
+ FRA_Robert_Gibrat_sec:0 "Robert Gibrat"
+ FRA_Marcel_Bucard_sec:0 "Marcel Bucard"
+
+ #parties
+ FRA_communist_party:0 "Various Movements"
+ FRA_communist_party_long:0 "Various Student Mouvements"
+ FRA_socialist_party:0 "Various Movements"
+ FRA_socialist_party_long:0 "Various Student Mouvements"
+ FRA_social_democrat_party:0 "PSP"
+ FRA_social_democrat_party_long:0 "Parti Social-Pétainiste"
+ FRA_social_liberal_party:0 "UDF"
+ FRA_social_liberal_party_long:0 "Union pour la Démocratie Française"
+ FRA_social_conservative_party:0 "RPN"
+ FRA_social_conservative_party_long:0 "Rassemblement pour la Nation"
+ FRA_authoritarian_democrat_party:0 "PN-CNIP"
+ FRA_authoritarian_democrat_party_long:0 "Parti National - Centre National des Indépendants et Paysans"
+ FRA_despotism_party:0 "AF"
+ FRA_despotism_party_long:0 "Action Française"
+ FRA_fascism_party:0 "PN"
+ FRA_fascism_party_long:0 "Parti National"
+ FRA_national_socialism_party:0 "PPF"
+ FRA_national_socialism_party_long:0 "Parti Populaire Français"
+ FRA_ultranational_socialism_party:0 "MF"
+ FRA_ultranational_socialism_party_long:0 "Mouvement Franciste"
+ 
+ #ideas
+ FRA_economic_meltdown:0 "Крах Экономики"
+ FRA_economic_meltdown_desc:0 "В результате нашего поражения во Второй Мировой войне наша экономика стала навечно зависимой от Рейха. Под давлением Рейха мы были вынуждены были вынуждены поучаствовать в неудачном эксперименте Германии по превращению рейхсмарки в единственную европейскую валюту, в результате крах немецкой экономики, произошедший в 50-х оставил нам разрушенную валюту, которая к тому же полностью контролируется другой страной. Тем не менее, в то время как германская экономика начинает медленно восстанавливаться, свет в конце туннеля становится все более отчетливым."
+ FRA_the_OAS:0 "САО"
+ FRA_the_OAS_desc:0 "Секретная армейская организация или САО, служит в качестве секретной полиции государства. Специализируясь на проведении контртеррористических операций, всё последнее десятилетие  они боролись с  силами сопротивления по всей Франции. К сожалению, давление на правительство, направленное на искоренение этого элемента общества, привело к тому, что САО начало становится все более сильной организацией, что вызывает тревогу. В связи с несколькими заметными инцидентами, когда командиры САО игнорировали инструкции правительственных, полицейских и военных чинов, многие в правительстве опасаются, что со временем САО может стать только смелее."
+ FRA_the_treaty_of_vichi:0 "Договор Виши"
+ FRA_the_treaty_of_vichi_desc:0 "Для французского народа Вторая мировая война была коротким и унизительным действом, но наибольший удар немцы нанесли нам навязав  Договор Виши. Обвиняя Францию в кровопролитности обеих мировых войн, договор накладывает тяжелые ограничения на наши военные возможности, фактически сводя нашу армию к церемониальным силам. Однако договор также ограничивает то, какие исследования государство может спонсировать, накладывает ряд политических правил на нашу систему и фактически предоставляет Германии неограниченный доступ к французским территориям, с которыми она может делать то, что ей заблагорассудится."
+ FRA_les_annees_noires:0 "Темные Года"
+ FRA_les_annees_noires_desc:0 "Поддержка нашего режима, в прежнее время державшаяся на популярности маршала Петейна практически полностью перестала сушествовать после его гибели. Тиксье-Виньянкур не пользуется популярностью позднего маршала, а марши в крупных городах стали далеко не редким явлением. Несмотря на усилия наших государственных служб безопасности, популярность всякой идеологической мысли стремительно растет по всей Франции по мере того, как наш народ сейчас ищет и требует замены фашизму."
+ 
+ #events
+ FRA_DUMMY.1.t:0 "Tixier-Vignancour flees the nation"
+ FRA_DUMMY.1.desc:0 ""
+ FRA_DUMMY.1.a:0 "Huntziger take power"
+
+ FRA_DUMMY.2.t:0 "Huntziger dies of a stroke"
+ FRA_DUMMY.2.desc:0 ""
+ FRA_DUMMY.2.a:0 "The Conseil in in dismay"
+
+ FRA_DUMMY.3.t:0 "The new Président of France"
+ FRA_DUMMY.3.desc:0 ""
+ FRA_DUMMY.3.a:0 "The Conseil has chosen"

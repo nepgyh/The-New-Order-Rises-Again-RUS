@@ -1,0 +1,27 @@
+﻿l_russian:
+ ## Country Names ##
+ ZUL_social_conservative:0 "Альянс Зулу-Коса"
+ ZUL_social_conservative_DEF:0 "Альянс Зулу-Коса"
+ ZUL_social_conservative_ADJ:0 "Зулу"
+ 
+ ####Party Names#####
+
+ ZUL_social_conservative_party:0 "Социал-консервативная партия"
+ ZUL_social_conservative_party_long:0 "Социал-консервативная партия"
+
+ ## Ministers ##
+ 
+ ## Ideas ##
+ 
+ ZUL_ifp_anc_split:0 "IFP-ANC Split"
+ ZUL_anti_segregation_resurgence:0 "Возрождение борьбы с сегрегацией"
+
+ ## Decisions ##
+ 
+ ## Tooltips ##
+ 
+ ## Focus Tree ##
+ 
+ ## Events ##
+
+ 

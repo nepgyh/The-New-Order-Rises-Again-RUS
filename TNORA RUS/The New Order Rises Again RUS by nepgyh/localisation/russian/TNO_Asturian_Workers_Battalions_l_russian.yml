@@ -1,0 +1,198 @@
+﻿l_russian:
+
+ #Party Names
+ TBA_communist_party:0 "BTA"
+ TBA_communist_party_long:0 "Batallones de Trabajadores de Asturias"
+ TBA_socialist_party:0 "АСА" # <<TRANSLATED>>
+ TBA_socialist_party_long:0 "Альянса социалистов Астуриана" # <<TRANSLATED>>
+ TBA_national_socialism_party:0 "AO"
+ TBA_national_socialism_party_long:0 "Autoridades de Ocupaçao"
+
+ #Country names 
+ TBA_fascism:0 "Asturian Governate"
+ TBA_fascism_DEF:0 "The Asturian Governate"
+ TBA_social_liberal:0 "Asturian Republic"
+ TBA_social_liberal_DEF:0 "The Asturian Republic"
+ TBA_market_liberal:0 "Asturian Republic"
+ TBA_market_liberal_DEF:0 "The Asturian Republic"
+ TBA_social_conservative:0 "Asturian Republic"
+ TBA_social_conservative_DEF:0 "The Asturian Republic"
+ TBA_authoritarian_democrat:0 "Asturian Republic"
+ TBA_authoritarian_democrat_DEF:0 "The Asturian Republic"
+ TBA_social_democrat:0 "Asturian Republic"
+ TBA_social_democrat_DEF:0 "The Asturian Republic"
+ TBA_despotism:0 "Asturian Governate"
+ TBA_despotism_DEF:0 "The Asturian Governate"
+ TBA_communist:0 "Asturian Workers' Battalions"
+ TBA_communist_DEF:0 "The Asturian Workers' Battalions"
+ TBA_socialist:0 "Asturian Workers' Battalions"
+ TBA_socialist_DEF:0 "The Asturian Workers' Battalions"
+ TBA_national_socialism:0 "Asturian Governate"
+ TBA_national_socialism_DEF:0 "The Asturian Governate"
+ TBA_ultranational_socialism:0 "Asturian Governate"
+ TBA_ultranational_socialism_DEF:0 "The Asturian Governate"
+
+ TBA_GNS_district_national_socialism:0 "Distrito Militar do Norte"
+ TBA_GNS_district_national_socialism_DEF:0 "El Distrito Militar do Norte"
+ TBA_GNS_district_national_socialism_ADJ:0 "Northern"
+ 
+ #Ministers
+ TBA_Horacio_Fernandez_Inguanzo_hog:0 "Horacio Fernández Inguanzo"
+ TBA_Antonio_Expedito_Carvalho_Perera_for:0 "Antonio Expedito Carvalho Perera"
+ TBA_Juan_Delgado_mil:0 "Juan Carlos Delgado"
+ TBA_Amaro_Rosal_eco:0 "Amaro del Rosal"
+ 
+ #Leader Description
+ 
+ #Leader Traits
+ red_caudillo:0 "Красный Каудильо"
+
+
+ #War Tree
+ TBA_a_new_red_spark:0 "Новый красный спарк" # <<TRANSLATED>>
+ TBA_a_new_red_spark_desc:0 "Опять 1934-й!" # <<TRANSLATED>>
+ TBA_a_new_red_spark_tt:0 "§eAsturias prefiere morir de pie a vivir de rodillas§!" # <<TRANSLATED>>
+
+ TBA_total_peoples_defense:0 "Общая защита населения" # <<TRANSLATED>>
+ TBA_total_peoples_defense_desc:0 "Защищайся или умри." # <<TRANSLATED>>
+
+ TBA_the_revolutionary_council:0 "Революционный совет" # <<TRANSLATED>>
+ TBA_the_revolutionary_council_desc:0 "У некоторых есть право голоса." # <<TRANSLATED>>
+
+ TBA_introduce_military_commissars:0 "Создание военных комиссаров" # <<TRANSLATED>>
+ TBA_introduce_military_commissars_desc:0 "Верность стоит больше золота." # <<TRANSLATED>>
+
+ TBA_total_committal_to_the_revolution:0 "Общая приверженность революции" # <<TRANSLATED>>
+ TBA_total_committal_to_the_revolution_desc:0 "Никаких полумер." # <<TRANSLATED>>
+ 
+ TBA_take_the_fight_to_the_sky:0 "Отправьте борьбу на небо" # <<TRANSLATED>>
+ TBA_take_the_fight_to_the_sky_desc:0 "Смерть сверху." # <<TRANSLATED>>
+
+ TBA_the_red_motor_brigades:0 "Красные моторные бригады" # <<TRANSLATED>>
+ TBA_the_red_motor_brigades_desc:0 "Революция на колесах." # <<TRANSLATED>>
+
+ TBA_the_young_revolutionaries:0 "Молодые революционные деятели" # <<TRANSLATED>>
+ TBA_the_young_revolutionaries_desc:0 "Даже молодость будет служить." # <<TRANSLATED>>
+
+ TBA_the_party_vanguard:0 "Партия \"Вангард\"" # <<TRANSLATED>>
+ TBA_the_party_vanguard_desc:0 "Чтобы обеспечить революционную ортодоксальность." # <<TRANSLATED>>
+
+ TBA_liquidate_private_assets:0 "Ликвидировать частные активы" # <<TRANSLATED>>
+ TBA_liquidate_private_assets_desc:0 "Не нужно личного богатства." # <<TRANSLATED>>
+
+ TBA_a_call_to_the_world:0 "Призыв к миру" # <<TRANSLATED>>
+ TBA_a_call_to_the_world_desc:0 "ОФН, оставшиеся социалисты, звонят всем." # <<TRANSLATED>>
+
+ TBA_socialize_the_economy:0 "Социальная интеграция экономики" # <<TRANSLATED>>
+ TBA_socialize_the_economy_desc:0 "Будет создана надлежащая экономика." # <<TRANSLATED>>
+
+ TBA_industrial_seizures:0 "Объем изъятий в промышленности" # <<TRANSLATED>>
+ TBA_industrial_seizures_desc:0 "Средства производства будут нашими." # <<TRANSLATED>>
+
+ TBA_revolution_in_the_universities:0 "Революция в университетах" # <<TRANSLATED>>
+ TBA_revolution_in_the_universities_desc:0 "Они наконец-то научат чему-то хорошему." # <<TRANSLATED>>
+
+ TBA_the_miners_due:0 "Причитается шахтёрам" # <<TRANSLATED>>
+ TBA_the_miners_due_desc:0 "Без них нет богатства." # <<TRANSLATED>>
+
+ TBA_expand_unions_powers:0 "Расширение полномочий профсоюзов" # <<TRANSLATED>>
+ TBA_expand_unions_powers_desc:0 "Профсоюзы будут проводить день." # <<TRANSLATED>>
+
+ TBA_prioritize_gun_production:0 "Приоритетное производство оружия" # <<TRANSLATED>>
+ TBA_prioritize_gun_production_desc:0 "Нам нужно оружие!" # <<TRANSLATED>>
+
+ TBA_fortify_oviedo:0 "Укрепить Овиедо" # <<TRANSLATED>>
+ TBA_fortify_oviedo_desc:0 "Фашисты не пройдут!" # <<TRANSLATED>>
+
+ TBA_keeping_the_people_satisfied:0 "Сохранять счастье людей" # <<TRANSLATED>>
+ TBA_keeping_the_people_satisfied_desc:0 "Держи их на боку." # <<TRANSLATED>>
+ 
+ TBA_vanguards_of_the_revolution:0 "Враги революции" # <<TRANSLATED>>
+ TBA_vanguards_of_the_revolution_desc:0 "Слишком долго народ Иберии оставался в отчаянии и ужасе двухфашистского режима. Почти 30 долгих, ужасных и кровавых лет массам приходилось падать в разруху деспотического фашизма, отвратительной идеологии, угнетанной отвратительными реакционными деятелями Франко и Салазара. И хотя теперь они наконец-то могут вдохнуть момент передряги, когда в фашистском рабочем батальоне появилась борьба с фашистской угрозой. Мы являемся материальной реальностью воли народа, самой конструкцией их взглядов с"BTA" shall be inscribed into their cursed minds as a real-life bogeyman. We are here, comrades, to accomplish at least one key objective. To take our vengeance for decades of tyranny and murder.\n\n"We have no compassion and we ask no compassion from you...we shall not make excuses for the terror." - Karl Marx" # <<TRANSLATED>>
+ TBA_vanguards_of_the_revolution_tt:0 "Мы - единственные настоящие чемпионы революции." # <<TRANSLATED>>
+ TBA_asymmetric_warfare:0 "Асимметричное военное положение" # <<TRANSLATED>>
+ TBA_asymmetric_warfare_desc:0 "Наша революция - это необычная, но нетрадиционная, товарищи. Враг обгоняет нас и превзойдет во всех аспектах, кроме идеологии. Но нашей живой силы воли недостаточно. Чтобы вести борьбу непосредственно фашисту, мы должны использовать более... нетрадиционные средства ведения войны. Мы будем атаковать только в те моменты, когда мы выберемся и убежим, когда враг перегруппируется. Мы будем наносить удары непосредственно в их сердце в городских центрах бомбами и убийствами. Мы будем использовать все имеющиеся у нас средства, независимо от стоимости," # <<TRANSLATED>>
+ TBA_raid_their_supply_lines:0 "Проверьте их линии снабжения" # <<TRANSLATED>>
+ TBA_raid_their_supply_lines_desc:0 "На протяжении всей истории задавался принципиальный вопрос. Откуда происходят перемены? Раньше, когда-то, в пользу хобби, существовавшего в прошлом, менялось только благодаря идеям. Теперь мы знаем, что это не больше, чем просто херня буржуазной херни. Если бы это было правдой, то наши вдохновляющие идеалы социализма одержали бы победу против идеологии реакционного фашизма в последней войне. Это было не так, и мы были обречены на десятилетия страданий, мы не будем повторять эту ошибку, ибо наша" # <<TRANSLATED>>
+ TBA_booby_traps:0 "Мины-ловушки" # <<TRANSLATED>>
+ TBA_booby_traps_desc:0 "Фашистская армия дрожит вокруг рабочей территории, их агенты скучают и скучают по тому, что должно быть на земле рабочих, чтобы создать атмосферу враждебности. Таким образом, эти мафиози фашизма заслуживают более чем нескольких скрытых ловушек, чтобы заложить ключ к своим делам. Мы больше не будем агент фашизма проскакивать вдоль аффилированной территории БТА, когда наши мины ловушки выловят и разоблачат любого из подставных фалангистов. nn ni me that th"fair". Every possible means available to us to wage revolution shall be utilized to the nth degree. It is only truly "fair" that we match the Fascist war machine by unconventional means or we might as well give up the fight now. And we, comrades, are certainly no quitters." # <<TRANSLATED>>
+ TBA_guardias_rojos:0 "Охранники Рохос" # <<TRANSLATED>>
+ TBA_guardias_rojos_desc:0 "Каждой революции нужен авангард, направляющий свет, чтобы научить народ через диалектическую борьбу, которая является вооруженным сопротивлением государству и гражданскому обществу. Армия тоже нуждается в авангарде и авангарде с созданием Красной гвардии. ~ ~ Несмотря на то, что эти рыжие, схватившиеся в самых лучших идеологических и боевых условиях, будут в числе наших самых больших сил, способных вести революционную войну против фашистов, ни одна битва не будет непреодолимой, ни одно подтверждение не будет осуждено как невозможно" # <<TRANSLATED>>
+ TBA_breaking_the_chains:0 "Разбить цепи" # <<TRANSLATED>>
+ TBA_breaking_the_chains_desc:0 "Скромный работник больше не будет чувствовать бремени угнетения в своей повседневной жизни. Слишком долго они были заперты в своих повседневных неудачах, и были заперты в работе квазикорпоративистской системы. К счастью, это время заканчивается освобождением рабочего класса от Фордистского фашизма, когда мы приходим, на мессу, чтобы освободить рабочего человека от структурного угнетения. - История астрониана была одной из классовых драок. Однажды героические шахтеры храбрым восстали против своих токсичных условий, чтобы встретиться с вооруженными головореза" # <<TRANSLATED>>
+ TBA_unity_above_all:0 "Единство прежде всего" # <<TRANSLATED>>
+ TBA_unity_above_all_desc:0 "Хотя наша революция продвигается сильными и устойчивыми темпами, остается еще один возрождающийся, так называемый,"revolution" emerging from over yonder in Catalonia. At its heart, lies the re-emergence of the hated revisionist organization known as the CNT-FAI. Some may call for some kind of "left unity" in the current situation we find ourselves in, but the BTA never forgives nor forgets the crimes of the past.\n\nIn 1934, when the heroic miners of Asturias rebelled against the entry of Fascists into the government, the CNT turned scab on their fellow workers in a clear act of class treachery. Made blind by the revisionist ideology of anarcho-syndicalism, the CNT dismissed our brave strike action and gave the army little to no resistance when they rode in to butcher the workers revolt on CNT controlled railroads. Gijón and Avilés were left abandoned, condemning our strike to be ruthlessly put down by the most heinous xenophobic forces of rightist reaction. The CNT have changed little since that time and we condemn them as strongly now as we did in '34. The liberation of the Asturian worker is the job of the Asturian worker alone and we need no treacherous anarchist scab involved in our socialist struggle." # <<TRANSLATED>>
+ TBA_a_commissar_in_every_unit:0 "Коммисс в каждом подразделении" # <<TRANSLATED>>
+ TBA_a_commissar_in_every_unit_desc:0 "Нет недостатка в причинах, почему храбрые, но смущенные левые ополченцы проиграли последнюю войну против контрреволюционных кадов."independence" as a far more pressing matter than total victory against Franco's army of murderers. To lose again would sentence Asturias once more to decades upon decades of anguish.\n\nTo stop the occurrence of this odious future, there must always be a commissar amongst our fighters to ensure their loyalty to the revolution and enforce Comrade Inguanzo's orders. It is only through this way that our mission can be accomplished, with an armed mass of workers that are united behind a single struggle and the commissar is there to remind them precisely of this. The commissar shall lead the way in our revolutionary army and direct our great struggle from the frontlines. It is a thankful task and one that shall be rewarded through the spoils of revolution." # <<TRANSLATED>>
+ TBA_not_one_step_back:0 "Ни шаг назад" # <<TRANSLATED>>
+ TBA_not_one_step_back_desc:0 "Что бы ни случилось в этой войне, мы не можем потерять. Проиграть было бы, если бы мы уступили будущему, постоянному убийству, страданиям и злому поведению, направленного ненавидимыми врагами революции. Наши бойцы знают это, потому что мы остро напомнили им, что может произойти в будущем в Астурии, где нет БСТ, способной сражаться за простого человека. Ни один из наших бойцов не желает, чтобы это ужасное будущее стало ужасной реальностью и поэтому они знают, что должно быть сделано. ~ Несмотря на то, что каждый" # <<TRANSLATED>>
+ TBA_a_dream_of_red_iberia:0 "Мечта о революции" # <<TRANSLATED>>
+ TBA_a_dream_of_red_iberia_desc:0 "Когда товарищ Ингуанзо спит ночью, он мечтает об одном и одном, это мечта о Иберии, свободной от бедствия фашизма. Больше не будет убиваться за даже смелость думать о забастовках, больше не будет бояться говорить свой разум в страхе перед фалангистским головорезом и больше не придется жить в ужасающих структурах фашистского капитализма. В один прекрасный день Иберия будет свободна от пятна фашизма, независимо от его стоимости. Это мечта, которую разделяют все в рядах БТА; она руководит нашей борьбой" # <<TRANSLATED>>
+ TBA_el_paisano:0 "Эль-Пайсано" # <<TRANSLATED>>
+ TBA_el_paisano_desc:0 "Горасио Фернандес Ингуанзо был всего лишь работником, из-за его прогрессивных убеждений в борьбу рабочих он был заключен в тюрьму франко, во время своего пребывания в плохой тюремной системе Франко он столкнулся с отвратительной жестокостью фашистской идеологии. Как и многие другие марксистские политические заключенные до него, включая таких мучеников, как Антонио Грамши и Мария Лакрамп, товарищ Ингуанзо столкнулся с невыразимой жестокостью, которую ему понесли самые порочные части фашистской тюремной системы" # <<TRANSLATED>>
+ TBA_leading_from_the_front:0 "Ведущие с фронта" # <<TRANSLATED>>
+ TBA_leading_from_the_front_desc:0 "Товарищ Ингуанзо не может сидеть позади, пока другие ссорятся. Он не является слоба-политиком, который позволяет другим делать свою грязную работу, пока он сидит в уюте своего собственного дома. Товарищ Ингуанзо ведет по примеру, на фронте против врагов революции. Истинный лидер, который привит наукой революции, не выходит лицом к драке с товарищами. Военачальник остается воинствующим, приверженным вечной диалектической борьбе, независимо от их положения или ранга. Против этого зерна будет акт" # <<TRANSLATED>>
+ TBA_revolutionary_government:0 "Революционное правительство" # <<TRANSLATED>>
+ TBA_revolutionary_government_desc:0 "Реакторы, которые сижут в каждом углу, как паразиты, спёрлись по всей земле, отгоняя от труда рабочих классов. Они должны быть вырваны, как грызуновая грязь, и какими бы ни были нужными средствами. Для этого мы взглянем на историю, чтобы понять, как лучше всего уничтожить эту враждебную угрозу контрреволюции. ~ ~ ~ Когда Робеспьер и Сен-Жюль оказались окружены трусами и реакциями, они приказали править Террором"Red Terror" but we know it simply to be the revolutionary justice of the proletariat against their oppressors. Brave BTA fighters will now spread out across the land to accomplish this sacred mission." # <<TRANSLATED>>
+ TBA_the_first_stone:0 "Первый камень" # <<TRANSLATED>>
+ TBA_the_first_stone_desc:0 "Война против фашистской тирании продолжается неустанно. Кровавая и продолжительная борьба, но и необходимая, и добрая. К счастью, у нас есть вдохновляющий лидер в великом революционном товарище Ингуанзо, который глубоко заботится о своей общине, несмотря на потрясения народной войны. Народ должен знать, что вооруженная борьба БТА против распада фашистского капитала Иберии является моральным и простым. ~n no, чтобы довести это послание до народа, товарищ Ингуанзо выступит с речью перед массами, излагающими" # <<TRANSLATED>>
+ TBA_funding_the_struggle:0 "Финансирование борьбы" # <<TRANSLATED>>
+ TBA_funding_the_struggle_desc:0 "Революция не может идти только на идеи. Человек - это второстепенное по отношению к природе, и природа революции требует материальных возможностей. Это не товарищи по ужину, оружие должно быть защищено, чтобы освободить Иберию от проклятого бедствия фашизма. Чтобы оснастить себя оружием, необходимым для проведения более высокого уровня вооруженной борьбы, нам нужны средства и где лучше найти жалкие богатства, чем на банковских счетах класса богатых."liberate" these petit-bourgeois socialites of their stolen wealth. For years they have benefited direCTLy from the violent oppression of the working class and have used their poached affluence for mindless consumerism. When we raid their estates, we shall be taking back what is rightfully ours. They can be happy knowing their assets will now go direCTLy to the workers struggle for emancipation, instead of the materialistic shit the hedonistic class choose to spend their money on." # <<TRANSLATED>>
+ TBA_revolutionary_decrees:0 "Революционные декреты" # <<TRANSLATED>>
+ TBA_revolutionary_decrees_desc:0 "Банки относятся к числу самых явных представителей господства столицы над иберийским обществом, они являются механическими институтами капиталистического общества и непосредственными носителями таких бедствий, как империализм и фашизм. Эти болезни наиболее явно характерны для фигуры банкира, жадного посредника буржуазного господства, который мало заботится о тех, кто ежедневно попирает капиталистический порядок. Банки заполнены экстремальными богатствами, где скопители капитала стремятся сохранить свои деньги в безопасности. Клири, они не предвидели мести рабочих в форме БТА. Н" # <<TRANSLATED>>
+ TBA_world_comrades:0 "Товарищи по всему миру" # <<TRANSLATED>>
+ TBA_world_comrades_desc:0 "Как уже отмечалось, мы, в БСТ, не страдаем от какого-либо исторического ревизионизма. Как глубокие студии исторического материализма, мы знаем прошлое изнутри и снаружи. Мы особенно хорошо знаем свое прошлое и то, что произошло в Иберии за последнее столетие. Мы помним с яркой детализированной стороной, какую сторону взяла церковь, когда в 1936 году произошел фашистский переворот."speak up for those who cannot speak for themselves, for the rights of all who are destitute" (Proverbs 31:8-9), the clergy acted in the same way as any landowning class and saw the awfulness of Fascism as preferable to the victory of the workers. Well now the workers have rose once again and this time, there will be no shackles in place that would stop us from our righteous anti-clerical strife.\n\nThe churches are home to grand materialistic objects of gold and silver just ripe for the taking. With it, we will be securing yet more funds for the war against Fascism. The hated clergyman should complain little though surely. For is it not pronounced in their own holy book that "whoever oppresses the poor shows contempt for their Maker" (Proverbs 14:31). In reality, we "heathenish communist apostates" are far more "devout" than any one of these snake oil salesmen. Their hoarded wealth will now go to the workers salvation and no Fascist sympathizing clergyman can stop us from doing so." # <<TRANSLATED>>
+ TBA_guns_of_the_revolution:0 "Оружие революции" # <<TRANSLATED>>
+ TBA_guns_of_the_revolution_desc:0 "Однажды было сказано, что застенчивый и уставший революционер, довольно хитро, заявил"this place would be a paradise tomorrow if every supervisor had a submachine gun". Indeed, it seems the days of sitting down and talking with our oppressors are long gone. The revolutions struggle needs to command political power and comrades; political power grows out of the barrel of a gun. The politics of the gun gives the guerrilla a tool that could never be given through the politics of reform. And so, the funds we have so righteously seized from the capitalistic corruptors of society are to be used to fulfill the needs of gun barrel politics.\n\nThere may be some questions as to where we got this high-tech weaponry from but it matters little in the end. For the ends justifies the means, do they not? Who cares who we got these guns from! What matters is how they're going to be used and they shall be used to kill many a Fascist bootlicker. The source may be from some less than savoury figures, we shall admit to some, but when all is said and done it shall be with these guns that the workers freedom will be achieved. We all make certain sacrifices for the revolution and this deal shall be one of many but with Comrade Inguanzo at the helm, the BTA will always do what is necessary whilst keeping on the dialectical line to guarantee a faithful communist revolution." # <<TRANSLATED>>
+ TBA_guns_of_the_revolution_tt:0 "Если мы хотим победить буржуазию, нам понадобится оружие из любого источника, который мы можем получить." # <<TRANSLATED>>
+ TBA_total_peoples_defence:0 "Общая народная защита" # <<TRANSLATED>>
+ TBA_total_peoples_defence_desc:0 "Уникальная борьба, в которой мы находимся, требует определенных, довольно уникальных решений. Победа - это необходимость в этой войне, и быть просто мучениками за побежденное дело уже не достаточно. Это происходит или умирает за социалистическую борьбу в эти изнурительные времена и мы не можем позволить себе проиграть на поле боя. Таким образом, мы придумали поистине революционную концепцию войны, которая гарантирует победу нашей могущественной армии рабочих против реакционных брутатов. nathal People's estaments as estament of f" # <<TRANSLATED>>
+ TBA_arise_ye_workers:0 "Встаньте, рабочие" # <<TRANSLATED>>
+ TBA_arise_ye_workers_desc:0 "Для каждого работника в нашей области будет честью быть непосредственным участником революционной борьбы. Чтобы быть настолько неотъемлемой частью эмансипирующего процесса, другие угнетенные народы мира могут только мечтать о том, что прямо здесь, в Иберии, БТА позволит создать условия, в которых работник стал своим собственным освободителем. Это действительно революционное время, в котором мы живем, и это зависит от нас, здесь, в БТА, от того, чтобы вовлечь как можно больше масс в их борьбу за свободу. Это будет определяющей линией в нашей нынешней кампании по набору. ~ Немного усталые граждане, которые" # <<TRANSLATED>>
+ TBA_a_gun_in_every_hand:0 "Оружие в каждой руке" # <<TRANSLATED>>
+ TBA_a_gun_in_every_hand_desc:0 "Изменения происходят через бочку оружия. Это поговорка на устах каждого революционного коллектива в наших рядах. И БТА не является дискуссионным клубом, когда наши кадры призывают к действию. Эта форма праксиса отличает нашу великую борьбу от борьбы ревизионистов или реакционеров, которые являются всего лишь двумя сторонами одной антикоммунистической монеты. Все, независимо от того, что капитализм представляет собой их понятия."inabilities" were, is part of the great struggle for freedom. We are fighting for everyone's freedom, so it is only fair that the people fight with us side by side.\n\nAll who can fight will do so, as all will be armed with the means to do so. For it is not only guns we are arming these people with, but also the weaponry of ideology. Equipped with the powers of class consciousness and the knowledge of what needs to be done, no Fascist bastard can stop what was once the most timid of citizens. Our guns outmatch those of the bourgeoisie, for they are guns in the hands of the masses. Every man woman and child will be prepared if the Fascist ever knocks on their door, now outfitted with the means to fight off any would-be oppressor." # <<TRANSLATED>>
+ TBA_guerrilla_legacy:0 "Гепардное наследие" # <<TRANSLATED>>
+ TBA_guerrilla_legacy_desc:0 "Недавняя история дала нам свет, яркий путь, как вы можете сказать, как направить нашу борьбу против чудовищного фашизма. Мы слышали, что на Кубе Че Гевара помог осуществить трудовую революцию благодаря своей теории Фоко партизанской войны. В бывшем Советском Союзе мы слышали истории товарищей, которые храбрые красные партизаны калечат и убивают нацистского негодяя с большим успехом. Наконец, в нашей стране в 1934 году мы увидели великое увеличение рабочих, которые шокировали (и избавились) многих богатых паразитов, прежде чем" # <<TRANSLATED>>
+ TBA_fight_for_utopia:0 "Борьба за Утопию" # <<TRANSLATED>>
+ TBA_fight_for_utopia_desc:0 "Мы боремся не за одни лишь крошки, не за краткосрочные завоевания или эгоистические попытки захватить власть для избранных. Наша борьба выходит далеко за пределы любой из этих реформистских хваток. Это борьба за социализм, за рабочих и за будущее человечества. Каждый гражданин нашей территории, каждый борец в наших рядах и каждый чиновник, помогающий направлять революцию, должен знать об этом. Все знают, за что они борются. Эта война приведет к утопистому социализму, который будет совершен во имя работника, или к фашистскому варвар" # <<TRANSLATED>>
+ TBA_seize_the_factories:0 "Схватить фабрики" # <<TRANSLATED>>
+ TBA_seize_the_factories_desc:0 "Изъятие средств производства и постановка их под контроль пролетарий — это поистине великое достижение, которое не многие так называют"revolutionaries" turned revisionist can claim to have achieved. No longer will the oppressive bosses and factory managers dictate conditions and wages to the valiant workers. With the productive forces in the hands of the working class, their destiny is now in their hands as well. It's an incredible feat of the BTA's revolutionary line and more than shows off of our capabilities as a force for the workers.\n\nThere are no breaks on the train known as worker revolution now! For the factories of Asturias belong to the workers and the workers alone! Nothing can stop this immovable force and all will be touched by the fires of socialist revolution!" # <<TRANSLATED>>
+ TBA_raise_the_red_flag:0 "Поднять красный флаг" # <<TRANSLATED>>
+ TBA_raise_the_red_flag_desc:0 "Флаг народа - самый красный, он закрыл нас мертвыми, и вот их конечности стали тихими и холодными, кровь их сердец покраснела в каждую связку.".\n\nTo proclaim true socialism is a bold one, it is not something that can be done by any bourgeoisie reformist. Yet, we here in the BTA have found ourselves to be in a position where we can affirm our territory is one that is truly Red. As the Red Flag, the symbol of our socialist struggle, flies high across BTA aligned territory the victory of our struggle over reactionary forces rings truer day by day. They cannot hope to ever stop this struggle; its momentum will carry it on through the generations. Our army has become inspired by the Red Flag's presence on the battlefield; it fills them with a sense of duty that capitalism could never hope to aspire. It is both an honour and a privilege for the BTA to hoist the Red Flag up, so it can be seen as far as the eye can see. Wherever that flag can be spotted, there will always be hope for socialist revolution.\n\n"Though cowards flinch and traitors sneer, we'll keep the Red Flag flying here."" # <<TRANSLATED>>
+ TBA_for_whom_the_bell_tolls:0 "Для Кого колокола" # <<TRANSLATED>>
+ TBA_for_whom_the_bell_tolls_desc:0 "Остается очевидная проблема предателей и реакторов, которые скрываются на нашей территории. Враги революции - это неосознанная группа, они скрывают свои преступления против людей, в отличие от других фашистов, с которыми мы имели удовольствие иметь дело. Мы не можем допустить, чтобы революция скатилась на этих ключевых этапах и подвергла опасности все. Поэтому необходимо использовать необходимые средства для того, чтобы собрать врагов народа и обеспечить им революционную справедливость, которую они заслуживают. Наши службы безопасности составили список нескольких подозреваемых в заговоре против коммунистов, с которыми мы вскоре поймаем и предадим" # <<TRANSLATED>>
+ TBA_venceremos:0 "Венсеремос!" # <<TRANSLATED>>
+ TBA_venceremos_desc:0 "С глубокой родины голос народа поднимается. Новый день на горизонте, когда работник присоединяется к призыву БТА. Несмотря на то, что на нас наступает великая долгая победа социализма. Это... почти неописуемое зрелище, чтобы увидеть начало конца всемирного фашизма. Здесь, в Иберии, он более чем встретил свой матч в форме авангарда революции, народной армии, великого и славного, атуристского рабочего батальона. Это только начало, хотя и товарищи, настоящее давление начинается сейчас. Мы добились" # <<TRANSLATED>>
+ 
+ #National Spirits 
+ TBA_revolution_cradle:0 "Край революции" # <<TRANSLATED>>
+ TBA_reactionary_holdouts:0 "Реакционные задержки" # <<TRANSLATED>>
+
+ #Events 
+ TBA_wars.1.t:0 "Полуночные раунды" # <<TRANSLATED>>
+ TBA_wars.1.d:0 "Лес был очень тихим, когда Хуан и Мигель, два фаланга, патрулировали периметр своего лагеря, их ботинки медленно дрожащие на сосны. Хуан, хрустя о холоде, внезапно спотыкаясь по тихому проводу, опускаясь головой в глубокую яму, скрытую запутанной листвей. Мигель, испуганный, оглядывавшийся по краю, его световой луч едва достиг Хуана, раскаченный ниже. . / Помолчи, И" # <<TRANSLATED>>
+ TBA_wars.1.a:0 "- Я не знаю."Don't Make A Sound"" # <<TRANSLATED>>
+
+ TBA_wars.2.t:0 "Освобождение" # <<TRANSLATED>>
+ TBA_wars.2.d:0 "Войны в тюрьме Овиедо, где были тяжелыми железными воротами, были открыты, и Антонио, хвастаясь и бледный после многих лет заключения, завязал в пятнах за связь с ПДК, вышел в хрустальный воздух свободы. В ожидании ворот его подружка Мария, глаза ее слегка опустошали, а его старый товарищ Луис, другой член ПЦ, который ударил его по плечу, улыбнулся, как Антонио, его голос хрипел, но ожесточенно" # <<TRANSLATED>>
+ TBA_wars.2.a:0 "Еще один для батальона рабочего" # <<TRANSLATED>>
+
+ TBA_wars.3.t:0 "Старая война" # <<TRANSLATED>>
+ TBA_wars.3.d:0 "На хитрой кухне старый республиканский ветеран Матео, который сидел напротив своего внука Карлоса, который задел изношенные пятна ополчения, его глаза светлые с решимостью бороться с Иберийским Союзом и фалангомистами. Матеоцы выдержали руки, шрамы от гражданской войны, отследили зерно стола, его голос был низким и тяжелым с памятью. Он рассказал хаос 36-ти баррикад в Барселоне, горький холод Эбро, друзья, потерянные в" # <<TRANSLATED>>
+ TBA_wars.3.a:0 "Новая надежда" # <<TRANSLATED>>
+
+ TBA_wars.4.t:0 "Правильное знание" # <<TRANSLATED>>
+ TBA_wars.4.d:0 "Хавьер, студент-муравейник, схвативший с собой кучу книг, подошел к библиотеке Университета Овиедо, чтобы найти свой путь, заблокированный его одноклассником Раульом, который стоял крепко перед цепными дверями. Рауль, одетый в красный наручники, объяснил, что библиотека была закрыта из-за реорганизации университета согласно директивам коммунистов. Хавьерс смылся с разочарованием, надавив против Раульса вытянутую руку, настаивая на том, что ему нужно учиться" # <<TRANSLATED>>
+ TBA_wars.4.a:0 "- Я не знаю."He'll Get Killed Talking Like That," He Muttered" # <<TRANSLATED>>
+
+ TBA_wars.5.t:0 "- Я не знаю." # <<TRANSLATED>>
+ TBA_wars.5.d:0 "Два солдата хунты патрулируют лес вокруг лагеря, один пролетает по проволочной голове в яму, спрятанную листвей, другой пытается вытащить его, но яма слишком глубокая, и он не может до него добраться, он кричит, что ему помогут в лагере, оставляя павшего солдата в покое, один солдат дрочит и думает, насколько бесполезна его напарница, когда мысль проникает в его разум, кто ставит эту ловушку сюда? Его страдания сокращены, когда он видит три фигуры, которые указывают" # <<TRANSLATED>>
+ TBA_wars.5.a:0 "- Я не знаю." # <<TRANSLATED>>
+
+ TBA_wars.6.t:0 "- Я не знаю." # <<TRANSLATED>>
+ TBA_wars.6.d:0 "Два солдата хунты патрулируют лес вокруг лагеря, один пролетает по проволочной голове в яму, спрятанную листвей, другой пытается вытащить его, но яма слишком глубокая, и он не может до него добраться, он кричит, что ему помогут в лагере, оставляя павшего солдата в покое, один солдат дрочит и думает, насколько бесполезна его напарница, когда мысль проникает в его разум, кто ставит эту ловушку сюда? Его страдания сокращены, когда он видит три фигуры, которые указывают" # <<TRANSLATED>>
+ TBA_wars.6.a:0 "- Я не знаю." # <<TRANSLATED>>
+
+ #
+ BTA_booby_traps:0 "Мины-ловушки" # <<TRANSLATED>>
+ 

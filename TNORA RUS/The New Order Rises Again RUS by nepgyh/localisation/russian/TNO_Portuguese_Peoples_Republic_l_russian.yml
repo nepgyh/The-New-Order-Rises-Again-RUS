@@ -1,0 +1,139 @@
+﻿l_russian:
+
+ #############
+ ## Parties ##
+ #############
+ PPR_communist_party:0 "ARA"
+ PPR_communist_party_long:0 "Acção Revolucionária Armada"
+ PPR_socialist_party:0 "ARA"
+ PPR_socialist_party_long:0 "Acção Revolucionária Armada"
+ PPR_social_democrat_party:0 "MFA"
+ PPR_social_democrat_party_long:0 "Movimento Forças Armadas"
+ PPR_market_liberal_party:0 "МИД" # <<TRANSLATED>>
+ PPR_market_liberal_party_long:0 "&lt; &lt; Демокрасия Португеса &gt; &gt;" # <<TRANSLATED>>
+ PPR_social_conservative_party:0 "MFA"
+ PPR_social_conservative_party_long:0 "Movimento Forças Armadas"
+ PPR_authoritarian_democrat_party:0 "FPLN"
+ PPR_authoritarian_democrat_party_long:0 "Frente Portuguesa de Libertação Nacional"
+ PPR_despotism_party:0 "CCP"
+ PPR_despotism_party_long:0 "Centro Católico Português"
+ PPR_burgundian_system_party:0 "ФВ" # <<TRANSLATED>>
+ PPR_burgundian_system_party_long:0 "Фильос де Вириато" # <<TRANSLATED>>
+
+ #country names 
+
+ PPR:0 "Португальский народный фронт" # <<TRANSLATED>>
+ PPR_DEF:0 "Народный фронт Португалии" # <<TRANSLATED>>
+ PPR_ADJ:0 "Португальский" # <<TRANSLATED>>
+ 
+ #################
+ ## Leader Desc ##
+ #################
+# POLITICS_Costa_Gomes_DESC:0 "" #duplicate loc key
+ 
+ ################
+ ## Characters ##
+ ################
+ PPR_Carlos_Antunes:0 "Карлос Антунс" # <<TRANSLATED>>
+
+ PPR_Alvaro_Cunhal:0 "Альвару Куньял"
+
+
+ PPR_Francisco_Martins:0 "Франциско Мартинс Родригес" 
+
+
+ PPR_Arnaldo_Matos:0 "Арнальду Матос"
+
+
+ PPR_Mario_Tome:0 "Марио Томе" # <<TRANSLATED>>
+
+
+ PPR_Vasco_Goncalves:0 "Васко Гонсалвес" # <<TRANSLATED>>
+ PPR_Carlos_Fabiao:0 "Карлуш Алберту Фабиан"
+ PPR_Rui_Espiney:0 "Руи д'Эспини" # <<TRANSLATED>>
+ PPR_Antonio_Metello:0 "Антониу Арнао Метелло" # <<TRANSLATED>>
+ PPR_Antonio_Ferreira:0 "Антонио Педро Феррейра" # <<TRANSLATED>>
+ PPR_Antonio_Coutinho:0 "Антониу Роза Кутинью" # <<TRANSLATED>>
+
+ PPR_Marxivi:0 "Марсиви" # <<TRANSLATED>>
+
+ #Focus Trees
+ ##Iberian War
+ PPR_a_guerra_iberica:0 "Гуэрра Иберика" # <<TRANSLATED>>
+ PPR_a_guerra_iberica_tt:0 "ВУНИР, организуй, брось, держи в руках." # <<TRANSLATED>>
+ PPR_a_guerra_iberica_desc:0 "Революция началась." # <<TRANSLATED>>
+ PPR_o_exercito:0 "О Эксерито" # <<TRANSLATED>>
+ PPR_o_exercito_desc:0 "За свободу" # <<TRANSLATED>>
+ PPR_reorganize_the_popular_army:0 "Реорганизовать Народную армию" # <<TRANSLATED>>
+ PPR_reorganize_the_popular_army_desc:0 "Нет победы без силы оружия." # <<TRANSLATED>>
+ PPR_favor_the_suv:0 "Создать революционную Красную Армию" # <<TRANSLATED>>
+ PPR_favor_the_suv_desc:0 "Революционная Красная Армия будет нашим мечом и щитом." # <<TRANSLATED>>
+ PPR_a_professional_army:0 "Профессиональная армия" # <<TRANSLATED>>
+ PPR_a_professional_army_desc:0 "Толпа боевиков не выиграет нам войну." # <<TRANSLATED>>
+ PPR_lean_on_the_ara:0 "Сохранять народную армию" # <<TRANSLATED>>
+ PPR_lean_on_the_ara_desc:0 "Народная армия спасет Иберию!" # <<TRANSLATED>>
+ PPR_a_popular_force:0 "Народная сила" # <<TRANSLATED>>
+ PPR_a_popular_force_desc:0 "Все ради победы!" # <<TRANSLATED>>
+ PPR_the_army_of_the_proletariat:0 "Армия Пролетариата" # <<TRANSLATED>>
+ PPR_the_army_of_the_proletariat_desc:0 "Рабочие вооружились." # <<TRANSLATED>>
+ PPR_a_economia:0 "Экономия" # <<TRANSLATED>>
+ PPR_a_economia_desc:0 "Черт, почему мы всегда возвращаемся к деньгам?" # <<TRANSLATED>>
+ PPR_the_road_to_industrialisation:0 "Дорога к индустриализации" # <<TRANSLATED>>
+ PPR_the_road_to_industrialisation_desc:0 "Для того чтобы революция действительно начала осуществляться, потребуется промышленно развитое государство." # <<TRANSLATED>>
+ PPR_stick_with_the_prp:0 "Займитесь Бухарином" # <<TRANSLATED>>
+ PPR_stick_with_the_prp_desc:0 "Сибирский план... только не в Сибири." # <<TRANSLATED>>
+ PPR_follow_in_the_steps_of_the_nep:0 "Осуществление шагов в рамках НПД" # <<TRANSLATED>>
+ PPR_follow_in_the_steps_of_the_nep_desc:0 "Ничего не было неправого с NEP, это было бы успешно, если бы немцы не вторглись." # <<TRANSLATED>>
+ PPR_back_the_pcp:0 "Новый путь" # <<TRANSLATED>>
+ PPR_back_the_pcp_desc:0 "Только государство может нас направлять." # <<TRANSLATED>>
+ PPR_a_state_controlled_economy:0 "Государственная контролируемая экономика" # <<TRANSLATED>>
+ PPR_a_state_controlled_economy_desc:0 "Как и должно быть." # <<TRANSLATED>>
+ PPR_apply_theoretical_economics_to_practicality:0 "Применить теоретические методы к практической деятельности" # <<TRANSLATED>>
+ PPR_apply_theoretical_economics_to_practicality_desc:0 "Все кажется на бумаге нормальным, пока ты не сделаешь это." # <<TRANSLATED>>
+ PPR_o_camarada:0 "О, Камарада" # <<TRANSLATED>>
+ PPR_o_camarada_desc:0 "Мы должны сражаться, товарищи!" # <<TRANSLATED>>
+ PPR_rally_the_people:0 "Собрать людей" # <<TRANSLATED>>
+ PPR_rally_the_people_desc:0 "Вперед!" # <<TRANSLATED>>
+ PPR_the_shadow_of_cunhal:0 "Тень кунхалов" # <<TRANSLATED>>
+ PPR_the_shadow_of_cunhal_desc:0 "Кунал верит в ревизионистскую форму коммунизма, выступая за более строгий государственный контроль." # <<TRANSLATED>>
+ PPR_the_path_for_proletarian_liberation:0 "Путь к свободе пролетарий" # <<TRANSLATED>>
+ PPR_the_path_for_proletarian_liberation_desc:0 "Свобода ждет!" # <<TRANSLATED>>
+ PPR_seek_international_recognition:0 "Поиск международного признания" # <<TRANSLATED>>
+ PPR_seek_international_recognition_desc:0 "Даже если они и являются буржуазными диктатурами, нам нужна их помощь." # <<TRANSLATED>>
+ PPR_proudly_alone:0 "Гордость одна" # <<TRANSLATED>>
+ PPR_proudly_alone_desc:0 "Нам не нужно ничего, кроме нас самих." # <<TRANSLATED>>
+ PPR_in_amazonas_footsteps:0 "Учитесь у кубинцев" # <<TRANSLATED>>
+ PPR_in_amazonas_footsteps_desc:0 "Кубинцы освоили революционную войну, и нам предстоит многому научиться." # <<TRANSLATED>>
+ PPR_unite_the_army_and_politics:0 "Объединить армию и политику" # <<TRANSLATED>>
+ PPR_unite_the_army_and_politics_desc:0 "Одна борьба." # <<TRANSLATED>>
+ PPR_the_proletariats_economics:0 "Экономика Пролетариата" # <<TRANSLATED>>
+ PPR_the_proletariats_economics_desc:0 "Для людей." # <<TRANSLATED>>
+ PPR_uma_revolucao_gloriosa:0 "Ума Револусан Глориоса" # <<TRANSLATED>>
+ PPR_uma_revolucao_gloriosa_desc:0 "ТРИМЕНТ ТРЕЙД ТРЕЙДРАМА РАБОТАЕТ!" # <<TRANSLATED>>
+ #National Spirits 
+ PPR_ideological_infighting:0 "Идеологические проблемы" # <<TRANSLATED>>
+ PPR_iberian_claims:0 "Иберийские претензии" # <<TRANSLATED>>
+ PPR_the_peoples_army:0 "Революционная армия" # <<TRANSLATED>>
+ PPR_revolutionary_guard:0 "Народная армия" # <<TRANSLATED>>
+ PPR_glorious_revolution:0 "Революция через Иберию!" # <<TRANSLATED>>
+
+ #Event 
+ PPR_wars.1.t:0 "Амбуш" # <<TRANSLATED>>
+ PPR_wars.1.desc:0 "Взрывом вертится компактный военный конвой в сторону узкого моста, его двигатели рычат под весом бронированных грузовиков. Без предупреждения, разлетается оглушительный взрыв, разбив мост на каскад из извилина и ломающегося бетона. Конвой дрожит в воздух, пыл и дым бьется. С плотной подручной оболочки, которая окутает дорогу, появляется группа боевиков, быстро и скоординированно их движения. Бронирование винтовок и движение с смертельной точностью приводят к разгулу," # <<TRANSLATED>>
+ PPR_wars.1.a:0 "И вылет" # <<TRANSLATED>>
+
+ PPR_wars.2.t:0 "Красная экономика" # <<TRANSLATED>>
+ PPR_wars.2.desc:0 "В грязном загоревшемся офисе, тяжелом запахом грязного кофе и старой кожи, Куньхал и Антун сидят на замке с засоренной малагасийской стойкой. Антуны наклоняются вперед, его бровь забросает и ломает напряжённое молчание. . Экономическая политика даёт, Куньхал, . Он говорит, что его голос сжимается от разочарования. . . Мы не можем спотыкаться вперед, как это неизбежно. Кунхал, за" # <<TRANSLATED>>
+ PPR_wars.2.a:0 "Это должно быть" # <<TRANSLATED>>
+
+ PPR_wars.3.t:0 "Аргумент" # <<TRANSLATED>>
+ PPR_wars.3.desc:0 "В пещерном конференц-зале, где жужжание флуоресцентных огней подчеркивает вес обсуждений, Карлос Антунс председательствует на напряженной встрече правительства. Этот стол окутан бумагами, в которых излагается проект политической программы правительства , и ропот согласия, пронзительный стул через зрителей, когда они кивают над его основными принципами. Но раздоры между членами PRI, которые слегка раздирают свои мысли, их голоса резко раздирают инакомыслие. nnál" # <<TRANSLATED>>
+ PPR_wars.3.a:0 "Единство?" # <<TRANSLATED>>
+
+ PPR_wars.4.t:0 "Эта земля - наша земля." # <<TRANSLATED>>
+ PPR_wars.4.desc:0 "Ваша частная собственность только что была собрана на имя людей."\n\n"Excuse me?"\n\nGuilherme knew that the times were hard, and that the "great Iberian proletarian revolution" was supposed to come any day now, but this? This was barbary! Who did these people think they were, exactly?\n\n"I said," the militiaman repeated, slightly annoyed at his unintentional host's stubbornness, "your private property has just been collectivized in the name of the people. This herdade shall from now on belong to the people, and shall serve as a base for further PPRI operations."\n\n"Hold up, hold up, hold-" Guilherme said, burying his face in his hands, "What the hell do you think you're doing? I'm an honest man, I've never done anything wrong to you people, what are you-"\n\n"Listen, I don't doubt you were a nice farmer owner who treated his workers just the right way," the man interrupted, with a falsely affected voice, "but do you really think the people's revolution gives a damn about that? You heard me, people! Start packing!" he added, shouting at the men standing next to him.\n\nWell, there had to be a way out of this, right? They weren't gonna just steal his home, without him having a single word to say about it, no! He was Guilherme de Carvalho, dammit! He wasn't going to be expropriated by some red-tinted dimwits!\n\n"No, but I don't think you understand. You see, um-"\n\nGuilherme's pleas suddenly met the butt of the revolutionary's rifle, sending him straight to the floor. The great revolution was here at last, it seemed, and yet..." # <<TRANSLATED>>
+ PPR_wars.4.a:0 "Гильерме хотел, чтобы это не было вообще." # <<TRANSLATED>>
+
+ PPR_wars.5.t:0 "Обсуждение в рамках программы" # <<TRANSLATED>>
+ PPR_wars.5.desc:0 "В конце заседания, кресло стула и рулетка бумаги наполняют зал заседаний, теперь покрытая жалким запахом чернил и дыма сигарет. Члены партии выходят, их шаги эхо в верхнем зале, но Альваро Куньаль застрял у двери, его острые глаза заперты на Франсиско Мартинсе Родригисе, огненном лидере революционного фронта. Кунхал подходит ближе, его голос низок и резан, поверженный историческим позором. Вы двигаетесь на" # <<TRANSLATED>>
+ PPR_wars.5.a:0 "Для Иберии - это только лучшее" # <<TRANSLATED>>

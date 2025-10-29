@@ -1,0 +1,370 @@
+﻿l_russian:
+ #PARTIES
+ WIN_communist_party:0 "PCM"
+ WIN_communist_party_long:0 "Parti Communiste Martiniquais"
+ WIN_socialist_party:0 "DLP"
+ WIN_socialist_party_long:0 "Democratic Labour Party"
+ WIN_social_democrat_party:0 "DLP"
+ WIN_social_democrat_party_long:0 "Democratic Labour Party"
+ WIN_social_liberal_party:0 "FLP"
+ WIN_social_liberal_party_long:0 "Federal Labour Party"
+ WIN_market_liberal_party:0 "FLP"
+ WIN_market_liberal_party_long:0 "Federal Labour Party"
+ WIN_social_conservative_party:0 "FLP"
+ WIN_social_conservative_party_long:0 "Federal Labour Party"
+ WIN_authoritarian_democrat_party:0 "MNM"
+ WIN_authoritarian_democrat_party_long:0 "Military Nationalist Movement"
+
+ #LEADER DESCRIPTIONS
+ POLITICS_GRANTLEY_ADAMS_DESC:0 "Grantley Herbert Adams started off as a trade unionist and socialist protester, but times have changed for this Barbadian. Seeing the United States occupy his home island enraged him to no end, but him and his Federal Labour Party have been forced into the effective position of what is known as the 'United States favorite party'. Many see him as someone who has lost his roots and has become the typical power hungry president sucking up to the United States. In reality, he has seen the failures of those before him and is afraid to make any moves in his position to avoid another collapse. This position of almost complete neutrality has worked so far to keep the federation alive, but for how long?"
+
+ #IDEAS
+ WIN_jamaican_nationalism:0 "Jamaican Nationalism"
+ WIN_jamaican_nationalism_desc:0 "Jamaica is carrying almost the entire federation on its back alongside Trinidad & Tobago, responsible for 43% of the federation's financing. This has almost completely halted the economic development of the island, making the people there resentful towards the federation causing it to be the most nationalist within the federation."
+ 
+ WIN_jamaican_nationalism2:0 "Jamaican Nationalism"
+ WIN_jamaican_nationalism2_desc:0 "Jamaica is carrying almost the entire federation on it's back alongside Trinidad & Tobago, responsible for 43% of the federation's financing. This has almost completely halted the economic development of the island, making the people there resentful towards the federation causing it to be the most nationalist within the federation."
+ 
+ WIN_jamaican_nationalism3:0 "Martial Law in Jamaica"
+ WIN_jamaican_nationalism3_desc:0 "The protesters are cowed; the politicians are silenced. All is calm in Kingston. Unless there is something we've forgotten..."
+ 
+ WIN_jamaican_nationalism4:0 "Jamaica's Burden Eased"
+ WIN_jamaican_nationalism4_desc:0 "We've eased the burden that Jamaica carries, but the nationalists still seem to be very active. No matter, the politicians, at least, are on our side."
+
+ WIN_splitting_apart:0 "Splitting Apart"
+ WIN_splitting_apart_desc:0 "The West Indies is on the verge of splitting apart for a third time due to a number of factors. For all we know, this could be the last split as the United States grows tired of constant intervention and even the government avoids conscription in certain places to avoid betrayals in the army."
+ 
+ WIN_splitting_apart2:0 "Splitting Apart"
+ WIN_splitting_apart2_desc:0 "The West Indies is on the verge of splitting apart for a third time due to a number of factors. For all we know, this could be the last split as the United States grows tired of constant intervention and even the government avoids conscription in certain places to avoid betrayals in the army."
+
+ WIN_history_occupation:0 "History of Occupation"
+ WIN_history_occupation_desc:0 "Three times now the West Indies has fallen under United States military occupation, leaving us to deal with it's effects. As everytime our industry completely collapses, it has led a permanent scar on the economy."
+ 
+ WIN_economic_meltdown:0 "Economic Meltdown"
+ WIN_economic_meltdown_desc:0 "Having lost the island responsible for carrying almost half of the West Indies Federation on its shoulders, the economy has entered a death spiral. "
+ 
+ WIN_economic_meltdown2:0 "Economic Meltdown"
+ WIN_economic_meltdown2_desc:0 "The government has taken extensive measures to prevent the complete disintegration of the West Indies economy; unpopular though they are, they shall prove essential to the continued survival of the nation."
+ 
+ WIN_election_workers_rights:0 "Expanded Social Welfare"
+ WIN_election_workers_rights_desc:0 "The backbone of any nation is a well-fed, well-cared-for populace."
+ 
+ 
+ #FOCUSES
+ 
+ WIN_flp_win:0 "Victory of the Federal Labour Party"
+ WIN_flp_win_desc:0 "As expected, the Federal Labour Party has declared victory in the general elections."
+ 
+ WIN_flp_contain_nationalism:0 "Put a Lid on Jamaican Nationalism"
+ WIN_flp_contain_nationalism_desc:0 "Jamaican nationalism is beginning to grow out of hand, and we have seen how Jamaican nationalism might lead to the death of the Federation. We may not be able to completely destroy it, but hopefully we can at least contain it."
+ 
+ WIN_flp_calm_the_workers:0 "Calm the Working Class"
+ WIN_flp_calm_the_workers_desc:0 "The working class still presents a big problem for the government; with the rise of radical mass movements in the West Indies, we could have a workers' revolution on our hands alongside a nationalist one. It's important to keep the working class satisfied so this doesn't become an eventuality."
+ 
+ WIN_flp_streamline_gov:0 "Streamline the Bureaucracy"
+ WIN_flp_streamline_gov_desc:0 "The West Indies is no byzantine nightmare, like - ha! - Germany, but the nation's bureaucracy could surely use a general restructuring, as much of it was haphazardly constructed in the wake of the fall of Britain."
+ 
+ WIN_leader_adams:0 ""The West Indies will endure!""
+ WIN_leader_adams_desc:0 ""
+ 
+ WIN_adams_status_quo:0 "Protect the Status Quo"
+ WIN_adams_status_quo_desc:0 "The public sees Adams as being merely the lapdog of the United States: a puppet. If only they'd see that it is neccessary in order to keep the West Indies together. If being a puppet and lapdog will keep the West Indies united, then so be it: the alternative is far worse."
+ 
+ WIN_try_and_fix:0 "Cautious Steps"
+ WIN_try_and_fix_desc:0 "Of course, while the stability of the Federation is our primary goal, there are many actions we can take in order to alleviate the many woes of the common West Indian. We have to be cautious, of course, lest we upset the balance we have been so careful to cultivate."
+ 
+ WIN_leader_barrow:0 ""What kind of mirror image do you have of yourself?""
+ WIN_leader_barrow_desc:0 "Too many of our brethren move elsewhere, to the United States, to Australia - elsewhere, so that they might earn a living as a second citizen, never truly one of their neighbours' comrades. But not one of our comrades either. I ask of you: will your ambition be to move out of here, afraid of your own people and yourself? Or will you stay here to build - with us - a strong West Indies? I want to ask you, what mirror image you have of yourselves? "
+ 
+ WIN_barrow_loosen_ties:0 "Loosen Our Dependence on the United States"
+ WIN_barrow_loosen_ties_desc:0 ""
+ 
+ WIN_barrow_a_strong_west_indies:0 "A Strong West Indies"
+ WIN_barrow_a_strong_west_indies_desc:0 ""
+ 
+ WIN_safe_for_now:0 "Clearing Another Hurdle"
+ WIN_safe_for_now_desc:0 ""
+ 
+ ##
+ 
+ WIN_dlp_win:0 "Victory of the Democratic Labour Party"
+ WIN_dlp_win_desc:0 "The Democratic Labour Party - against all odds - has won the general election in the West Indies!"
+ 
+ WIN_first_things_first:0 "What to do with the Radicals?"
+ WIN_first_things_first_desc:0 "There are elements of the Democratic Labour Party to the left of us, that many might consider dangerous to democracy: the Marxists, anarchists and other socialists. However, they are useful allies, so the question now stands: do we let them in?"
+ 
+ WIN_dlp_labour_relations:0 "Labour Relations"
+ WIN_dlp_labour_relations_desc:0 "It's important to foster good relations with the unions and the working class in general, as they do comprise of our main base of support."
+ 
+ WIN_dlp_expand_welfare:0 "Expand Welfare"
+# WIN_dlp_expand_welfare:0 "We feel as if the welfare reforms that the past regime made when it capitulated to the strikers several years ago are lacking. A well-fed, housed and clothed populace is essential for the economy. " #duplicate loc key
+ 
+ WIN_referendum_prep:0 "Prepare for the Jamaican Referendum"
+ WIN_referendum_prep_desc:0 "Now that we've completed out initial agenda, it's time to get onto the most important of our goals: the Jamaican Independence Referendum."
+ 
+ WIN_voting_booths:0 "Voting Booths"
+ WIN_voting_booths_desc:0 "A referendum, for rather obvious reasons, can't function without places for the people to deposit their votes. Thankfully, we can repurpose those used in the recent election, but it will take time to convert them."
+ 
+ WIN_disseminate_info:0 "Educate the Voters"
+ WIN_disseminate_info_desc:0 "The people of Jamaica must be taught about the issues facing them, and how they will be able to choose ni the coming referendum. Yet, we feel as if most have already made up their minds..."
+ 
+ WIN_ensure_order:0 "Ensure Order"
+ WIN_ensure_order_desc:0 "We must ensure that the referendum is conducted in an orderly fashion, lest it fall into chaos. Though a section of the party greatly supports the independence of Jamaica, even to the point of extra-legal tactics, we must preserve civility."
+ 
+ WIN_referendum_voting:0 "Cast Your Votes!"
+ WIN_referendum_voting_desc:0 "The time has come for the populace to vote for the independence of Jamaica."
+ 
+ ##
+ 
+ WIN_hold_it_together:0 "Hold the Federation Together!"
+ WIN_hold_it_together_desc:0 "Jamaica is gone, with the best of our economy. Nationalist agitation has spread across the West Indies, but we WILL hold the Federation together."
+ 
+ WIN_desperate_times_means:0 "Desperate Times..."
+ WIN_desperate_times_means_desc:0 "A united front will be neccessary for us to navigate this crisis. We can't be arguing in Parliament while the Federation burns outside."
+ 
+ WIN_desperate_measures:0 "...Desperate Measures"
+ WIN_desperate_measures_desc:0 "Many corporate lobbyists and their politicians are pushing for us to take the chance to privatise the economy further while everyone's distracted - the "Shock Doctrine", they call it. We doubt this will help the people of the West Indies, to be sure, but elements from the other side have urged a similar type of plan. The only difference is the target..."
+ 
+ WIN_this_isnt_working:0 "Plan B?"
+ WIN_this_isnt_working_desc:0 ""
+ 
+ WIN_send_the_marines:0 "United States Intervention?"
+ WIN_send_the_marines_desc:0 "We have realised that we may not be able to deal with the crisis in the West Indies without help from the Americans. A sizable portion of the Parliament is urging us to swallow our pride and call in the Yankees. But pride may not be the only thing we lose..."
+ 
+ ##
+ 
+ WIN_rally:0 "The Jamaican Powderkeg"
+ WIN_rally_desc:0 "Jamaica has, once again, reached its boiling point. Riots have broken out across the island and more and more are agitating for independence. We need to defuse this bomb, if we are to survive at all."
+ 
+ WIN_words:0 "Let's Talk it Out"
+ WIN_words_desc:0 ""
+ 
+ WIN_meeting:0 "Meet With the Protesters"
+ WIN_meeting_desc:0 ""
+ 
+ WIN_economic_concessions:0 "Ease the Burden"
+ WIN_economic_concessions_desc:0 ""
+ 
+ WIN_jamaican_autonomy:0 "Grant Political Autonomy"
+ WIN_jamaican_autonomy_desc:0 ""
+ 
+ WIN_successful_negotiations:0 "Successful Negotiations?"
+ WIN_successful_negotiations_desc:0 ""
+ 
+ WIN_war:0 "Our Patience Has Worn Thin"
+ WIN_war_desc:0 ""
+ 
+ WIN_crack_down:0 "Crack Down on the Protests "
+ WIN_crack_down_desc:0 ""
+ 
+ WIN_jail_leader:0 "Jail the Leaders"
+ WIN_jail_leader_desc:0 ""
+ 
+ WIN_martial_law:0 "Declare Martial Law"
+ WIN_martial_law_desc:0 ""
+ 
+ WIN_order_restored:0 "Order Restored?"
+# WIN_order_restored:0 "" #duplicate loc key
+
+ ##
+ 
+ #EVENTS
+ WIN.20.t:0 "Выборы 1965 года"
+ WIN.20.desc:0 "Приближаются долгожданные выборы! Это будут самые первые демократические выборы, которые пройдут в Вест-Индской Федерации, несмотря на то, что страна существует уже 20 лет.\n\nГрантли Герберт Адамс возглавляет Федеральную Лейбористскую Партию. Против него выступает Демократическая Рабочая Партия, возглавляемая ямайцем Александром Бустаманте, чья националистическая риторика делает его опасным врагом."
+ WIN.20.a:0 "Начнем подготовку!"
+ 
+ WIN.21.t:0 "Эррол Бэрроу объявляет о своих намерениях"
+ WIN.21.desc:0 "Популярность Грантли Герберта Адамса давно упала. Его обвиняют в том, что он не более чем оппортунист, выслуживающийся перед США за счет своей Родины. Несмотря на правдивость этих заявлений, скептики в собственной партии Адамса сплотились вокруг "
+ WIN.21.a:0 "Неожиданно!"
+ 
+ WIN.22.t:0 "Споры в ФЛП!"
+ WIN.22.desc:0 ""
+ WIN.22.a:0 "Почему мы все не можем просто поладить?"
+ 
+ WIN.23.t:0 "Вопрос лидерства"
+ WIN.23.desc:0 ""
+ WIN.23.a:0 "Адамс сохраняет свой пост"
+ WIN.23.b:0 "Бэрроу становится лидером!"
+ 
+ WIN.24.t:0 "Дебаты"
+ WIN.24.desc:0 "Партии организовали дебаты между двумя кандидатами, чтобы заручиться поддержкой населения.\n\nТысячи людей по всей стране настроили радиоприемники на прослушивание, в то время как многие другие читают о дебатах в бесчисленных газетах, которые распространяются на островах. Среди наиболее обсуждаемых проблем были поставлены вопросы о слабеющей экономике страны, всепроникающем влиянии Соединенных Штатов и, прежде всего, о движении за независимость Ямайки."
+ WIN.24.a:0 "Адамс побеждает"
+ WIN.24.b:0 "Бустаманте одерживает верх"
+ 
+ WIN.25.t:0 "Митинги на Ямайке"
+ WIN.25.desc:0 "Ямайские националисты собрались сегодня в Кингстоне, чтобы отпраздновать дату своей недолгой независимости в 1952 году. Бремя экономики Вест-Индии легло в основном на плечи Ямайки, и в результате жители острова испытывали большое негодование по отношению к другим членам Федерации.\n\nБустаманте посетил толпу и заверил ее в своих намерениях завоевать независимость Ямайки, если он будет избран."
+ WIN.25.a:0 "Понятно"
+ 
+ WIN.26.t:0 "Выборы 1965 года"
+ WIN.26.desc:0 "Самые долгожданные выборы состоялись! Победит ли действующая Федеральная Лейбористская Партия? Или они будут свергнуты с трона оппозиционной Демократической Рабочей Партией?"
+ WIN.26.a:0 "Федеральная Партия побеждает!"
+ WIN.26.b:0 "Демократическая Рабочая Партия лидирует!"
+
+ WIN.30.t:0 "Победа Демократической Рабочей Партии!"
+ WIN.30.desc:0 ""
+ WIN.30.a:0 "За работу!"
+ 
+ WIN.31.t:0 "Вместе с радикалами?"
+ WIN.31.desc:0 "В Демократической Рабочей Партии идут дебаты: что делать с нашими бывшими товарищами, марксистами и анархистами? Большинство членов правительства признают, что они представляют опасность для демократической системы в целом, если их вовремя не остановить. Но при этом мы не можем забывать об огромной поддержке радикалов среди пролетариата Вест-Индии, особенно после забастовок."
+ WIN.31.a:0 "Мы едины!"
+ WIN.31.b:0 "Вместе с ними?! Никогда!"
+ 
+ WIN.35.t:0 "Начало голосования"
+ WIN.35.desc:0 ""
+ WIN.35.a:0 "Кто же победит?"
+ 
+ WIN.36.t:0 "Националисты Ямайки набирают силу"
+ WIN.36.desc:0 ""
+ WIN.36.a:0 "Мне кажется, что я знаю к чему это приведет..."
+ 
+ WIN.37.t:0 "Независимая Ямайка? Да!"
+ WIN.37.desc:0 ""
+ WIN.37.a:0 "Они завоевали свою независимость."
+ 
+ WIN.38.t:0 "Ямайка покидает Федерацию"
+ WIN.38.desc:0 ""
+ WIN.38.a:0 ""
+ 
+ ##FLP
+ 
+ WIN.40.t:0 "Победа Федеральной Лейбористской Партии"
+ WIN.40.desc:0 "Любимая партия Соединенных Штатов, ФЛП, работая на платформе общей стабильности для нации, объявила о победе на всеобщих выборах, что неудивительно."
+ WIN.40.a:0 ""
+ 
+ WIN.41.t:0 "Экономические реформы"
+ WIN.41.desc:0 ""
+ WIN.41.a:0 "Отличная работа!"
+ 
+ WIN.42.t:0 "Протесты против нового экономического плана!"
+ WIN.42.desc:0 ""
+ WIN.42.a:0 ""
+ 
+ WIN.43.t:0 "Суровый упрек от Штатов"
+ WIN.43.desc:0 ""
+ WIN.43.a:0 "Как ничтожно..."
+ 
+ ###1967 JAMAICAN INDEPENDENCE
+ 
+ WIN.50.t:0 "Рост напряженности в Ямайке"
+ WIN.50.desc:0 ""
+ WIN.50.a:0 "Снова..."
+ 
+ WIN.51.t:0 "Массовые беспорядки!"
+ WIN.51.desc:0 "Катастрофа! Протесты, которые до этого дня были в основном мирными, переросли в насилие после того, как полицейский, как утверждается, открыл огонь по толпе. Слова демагогов и потенциальных революционеров, похоже, воспламенили массы, и улицы Кингстона погрузились в хаос. От коммунистов до националистов и Растафари, люди жаждут крови."
+ WIN.51.a:0 "Пора что-то предпринять!"
+ 
+ WIN.52.t:0 "Наш план действий"
+ WIN.52.desc:0 "Беспорядки вспыхнули по всей Ямайке в годовщину их недолгой независимости около десяти лет назад."
+ WIN.52.a:0 "Мы победим без помощи оружия!"
+ WIN.52.b:0 "Послать армию!"
+ 
+ WIN.53.t:0 "Ввод военного положения"
+ WIN.53.desc:0 ""
+ WIN.53.a:0 "Порядок будет восстановлен!"
+ 
+ WIN.54.t:0 "Уступки для Ямайки"
+ WIN.54.desc:0 ""
+ WIN.54.a:0 "Это причинит нам боль сейчас, но данный шаг необходим в долгосрочной перспективе."
+ 
+ WIN.55.t:0 "Напряжение спало?"
+ WIN.55.desc:0 "Переговоры завершены, и лидеры ямайского националистического движения приняли наши уступки. Мы можем лишь надеяться, что сумеем двигаться дальше..."
+ WIN.55.a:0 "Мы закончили с самым трудным, верно?"
+ 
+ WIN.56.t:0 "Возвращение в норму?"
+ WIN.56.desc:0 "На улицах Кингстона тишина. Протестующих заставили замолчать, их лидеров посадили в тюрьму, а революционные настроения были подавлены. Хотя применение силы в борьбе с кризисом широко осуждалось, никто больше не может сомневаться в эффективности этого метода: мы справились."
+ WIN.56.a:0 "Подождите, а мы ничего не забыли?"
+ 
+ WIN.69.t:0 "Военные захватывают Ямайку"
+ WIN.69.desc:0 "Зря правительству показалось, что ситуация на Ямайке решена, и что бомба замедленного действия была обезврежена. В течение нескольких дней все думали, что это суждение истинно, и Вест-Индия начала переориентировать свое внимание на другие проблемы, например на больную экономику. Однако сегодня националистические элементы ямайских военных взяли под контроль остров: сначала столицу, затем остальную Ямайку. Паника охватила правительство, и нация, затаив дыхание, ждет, что будет дальше."
+ WIN.69.a:0 "Подожди, давай успокоимся, дай мне одну секу..."
+ 
+ WIN.70.t:0 "Ямайка провозглашает независимость"
+ WIN.70.desc:0 ""
+ WIN.70.a:0 "Боже мой..."
+ 
+ ###AFTERMATH OF 1965 INDEPENDENCE
+ 
+ WIN.80.t:0 "Кризис настигает Федерацию"
+ WIN.80.desc:0 "С отделением Ямайки, будущее Вест-Индской Федерации кажется мрачным. Правительство было повергнуто в хаос, и по всей стране националисты осмелели.\n\nВдохновленные успехом ямайцев сторонники независимости островов Тринидада и Тобаго привели улицы Порт-оф-Спейна в ярость. В закоулках города произносятся пламенные речи, в которых обвиняют Федерацию в порабощении островов-близнецов, обнищании населения и экономическом кризисе. И  теперь, когда независимая Ямайка доказала, что ненавистное ярмо можно сбросить, националисты решили, что свободу Тринидада и Тобаго можно завоевать! Люди начинают верить этим посланиям, и призывы к референдуму уже начали расти, а приток американских миротворцев вряд ли сможет сдержать протесты, которые должны вот-вот вспыхнуть.\n\nИ давайте не будем забывать об экономике..."
+ WIN.80.a:0 "Вместе мы выдержим!"
+ 
+ WIN.81.t:0 "Экономический кризис"
+ WIN.81.desc:0 "Пока Ямайка была членом Вест-Индской Федерации, на нее приходилось почти 43% экономики страны, и поэтому экономика островов почти полностью лежала на ее плечах (и плечах Тринидада и Тобаго). Поэтому неудивительно, что независимость этого острова влечет за собой ужасные последствия для Вест-Индии, предвестники которых уже видны. Экономика вошла в смертельную спираль, и правительству придется принять радикальные меры, чтобы избежать краха."
+ WIN.81.a:0 "Все ниже, и ниже, и ниже..."
+ 
+ WIN.82.t:0 "Требования референдума в Тринидаде и Тобаго"
+ WIN.82.desc:0 "Призывы к независимости охватили Тринидад и Тобаго в течение нескольких недель после отделения Ямайки, поскольку экономическая ситуация ухудшается, а Федерация все больше трещит по швам. Это не имело большого значения до тех пор, пока несколько дней назад эти требования не попали в парламент. Теперь у нас нет другого выбора, кроме как официально рассмотреть эту идею, и в связи с ростом уличного насилия мы будем вынуждены провести поспешный референдум о независимости Тринидада и Тобаго и необходимости сохранения Федерации."
+ WIN.82.a:0 "Черт!"
+ 
+ WIN.83.t:0 "Начало референдума в Тринидаде и Тобаго"
+ WIN.83.desc:0 ""
+ WIN.83.a:0 "Будем надеяться, они примут верное решение..."
+ 
+ WIN.84.t:0 "США предлагает интервенцию"
+ WIN.84.desc:0 ""
+ WIN.84.a:0 "Это вынужденный шаг."
+ WIN.84.b:0 "Мы сами справимся со своими проблемами, хорошо?"
+ 
+ WIN.85.t:0 "Независимые Тринидад и Тобаго? ДА!"
+ WIN.85.desc:0 ""
+ WIN.85.a:0 "Думаю, нам пора заканчивать с этим"
+ 
+ WIN.86.t:0 "Если оно движется, используй это!"
+ WIN.86.desc:0 ""
+ WIN.86.a:0 "Сейчас нам нужны все ресурсы страны"
+ 
+ WIN.87.t:0 "Кооперация в парламенте"
+ WIN.87.desc:0 ""
+ WIN.87.a:0 "Мы пройдем через это, вместе."
+ 
+###AFTERMATH OF 1967 JAMAICAN INDEPENDENCE
+ 
+ WIN.130.t:0 "Новый кризис"
+ WIN.130.desc:0 ""
+ WIN.130.a:0 ""
+ 
+ WIN.131.t:0 "Экономический крах"
+ WIN.131.desc:0 ""
+ WIN.131.a:0 ""
+ 
+ 
+ WIN.95.t:0 "Хаос в Федерации"
+ WIN.95.desc:0 ""
+ WIN.95.a:0 ""
+ WIN.95.b:0 ""
+ 
+ WIN.96.t:0 "Соединенные Штаты вмешиваются!"
+ WIN.96.desc:0 ""
+ WIN.96.a:0 ""
+ 
+ WIN.97.t:0 "Америка отказывается нам помочь!"
+ WIN.97.desc:0 ""
+ WIN.97.a:0 ""
+ 
+ WIN.98.t:0 "Америка сдается!"
+ WIN.98.desc:0 ""
+ WIN.98.a:0 ""
+ WIN.98.b:0 ""
+ 
+ WIN.99.t:0 "Соединенным Штатам все равно на нас"
+ WIN.99.desc:0 ""
+ WIN.99.a:0 ""
+
+ WIN.100.t:0 "Соединенные Штаты объявляют войну!"
+ WIN.100.desc:0 ""
+ WIN.100.a:0 ""
+ 
+ WIN.101.t:0 "Америка отступает"
+ WIN.101.desc:0 ""
+ WIN.101.a:0 ""
+ 
+ WIN.102.t:0 "Колыбельная для Федерации"
+ WIN.102.desc:0 ""
+ WIN.102.a:0 ""
+ 
+
+ WIN.150.t:0 "За гранью"
+ WIN.150.desc:0 "В новой книге известного марксистского автора К. Л. Р. Джеймса "
+ WIN.150.a:0 "Что знают о крикете те, кто знает только крикет?"
+ 
+ 

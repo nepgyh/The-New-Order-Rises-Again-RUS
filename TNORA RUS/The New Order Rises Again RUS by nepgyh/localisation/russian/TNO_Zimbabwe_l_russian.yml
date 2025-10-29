@@ -1,0 +1,56 @@
+﻿l_russian:
+ ## Country Names ##
+ ZIM_ultranational_socialism:0 "Зимбабвийский африканский национальный союз"
+ ZIM_ultranational_socialism_DEF:0 "Республика Зимбабве"
+ ZIM_ultranational_socialism_ADJ:0 "Зимбабвия"
+ ZIM_fascism:0 "Зимбабве"
+ ZIM_fascism_DEF:0 "Республика Зимбабве"
+ ZIM_fascism_ADJ:0 "Зимбабвия"
+ ZIM_despotism:0 "Зимбабве"
+ ZIM_despotism_DEF:0 "Республика Зимбабве"
+ ZIM_despotism_ADJ:0 "Зимбабвия"
+ ZIM_authoritarian_democrat:0 "Зимбабве"
+ ZIM_authoritarian_democrat_DEF:0 "Республика Зимбабве"
+ ZIM_authoritarian_democrat_ADJ:0 "Зимбабвия"
+ ZIM_social_conservative:0 "Союз африканского народа Зимбабве"
+ ZIM_social_conservative_DEF:0 "Республика Зимбабве"
+ ZIM_social_conservative_ADJ:0 "Зимбабвия"
+ ZIM_social_liberal:0 "Союз африканского народа Зимбабве"
+ ZIM_social_liberal_DEF:0 "Республика Зимбабве"
+ ZIM_social_liberal_ADJ:0 "Зимбабвия"
+ ZIM_social_democrat:0 "Зимбабве"
+ ZIM_social_democrat_DEF:0 "Республика Зимбабве"
+ ZIM_social_democrat_ADJ:0 "Зимбабвия"
+ ZIM_socialist:0 "Зимбабве"
+ ZIM_socialist_DEF:0 "Народная Республика Зимбабве"
+ ZIM_socialist_ADJ:0 "Зимбабвия"
+ ZIM_communist:0 "Зимбабве"
+ ZIM_communist_DEF:0 "Народная Республика Зимбабве"
+ ZIM_communist_ADJ:0 "Зимбабвия"
+ 
+ 
+ ####Party Names#####
+
+ ZIM_social_liberal_party:0 "САНЗ"
+ ZIM_social_liberal_party_long:0 "Союз африканского народа Зимбабве"
+ ZIM_ultranational_socialism_party:0 "ЗАНС"
+ ZIM_ultranational_socialism_party_long:0 "Зимбабвийский африканский национальный союз"
+
+ ## Ministers ##
+ 
+ ZIM_Leopold_Takawira_hog:0 "Leopold Takawira"
+ ZIM_Edgar_Tekere_for:0 "Edgar Tekere"
+ ZIM_Leopold_Takawira_eco:0 "Leopold Takawira"
+ ZIM_Robert_Mugabe_sec:0 "Robert Mugabe"
+
+ ## Ideas ##
+ 
+ ## Decisions ##
+ 
+ ## Tooltips ##
+ 
+ ## Focus Tree ##
+ 
+ ## Events ##
+
+ 

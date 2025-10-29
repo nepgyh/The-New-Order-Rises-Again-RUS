@@ -1,0 +1,65 @@
+﻿l_russian:
+
+ RNW_schorners_germany_ultranational_socialism:0 "Германия Шёрнера"
+ RNW_schorners_germany_ultranational_socialism_DEF:0 "Германия Шёрнера"
+ Regierung_des_Nationalen_Wiederaufbaus:0 "Правительство национального восстановления"
+### Events ###
+
+ RNW.1.t:0 "RNW.1.t"
+ RNW.1.desc:0 ""
+ RNW.1.a:0 ""
+ 
+ RNW.2.t:0 "RNW.2.t"
+ RNW.2.desc:0 ""
+ RNW.2.a:0 ""
+ 
+ RNW.3.t:0 "RNW.3.t"
+ RNW.3.desc:0 ""
+ RNW.3.a:0 ""
+ 
+ RNW.4.t:0 "RNW.4.t"
+ RNW.4.desc:0 ""
+ RNW.4.a:0 ""
+ 
+ RNW.5.t:0 "RNW.5.t"
+ RNW.5.desc:0 ""
+ RNW.5.a:0 ""
+ 
+ RNW.6.t:0 "RNW.6.t"
+ RNW.6.desc:0 ""
+ RNW.6.a:0 ""
+ 
+#RNWParties ###
+
+ RNW_communist_party:0 "НДПГ"
+ RNW_communist_party_long:0 "Национал-демократическая партия Германии"
+ RNW_socialist_party:0 "СЕПГ"
+ RNW_socialist_party_long:0 "Социалистическая единая партия Германии"
+ RNW_social_democrat_party:0 "ЛСтП"
+ RNW_social_democrat_party_long:0 "Левая государственная партия"
+ RNW_social_liberal_party:0 "ДСтП"
+ RNW_social_liberal_party_long:0 "Немецкая государственная партия"
+ RNW_market_liberal_party:0 "ДСтП"
+ RNW_market_liberal_party_long:0 "Р-ДСтП"
+ RNW_social_conservative_party:0 "Р-ДСтП"
+ RNW_social_conservative_party_long:0 "Правая немецкая государственная партия"
+ RNW_authoritarian_democrat_party:0 "ДМП"
+ RNW_authoritarian_democrat_party_long:0 "Военная партия Германии"
+ RNW_despotism_party:0 "ДНВП"
+ RNW_despotism_party_long:0 "Немецкая национальная народная партия"
+ RNW_fascism_party:0 "НСДАП"
+ RNW_fascism_party_long:0 "Национал-социалистическая немецкая рабочая партия"
+ RNW_national_socialism_party:0 "ПНПП-У"
+ RNW_national_socialism_party_long:0 "Партия национального порядка и процветания - Умеренные"
+ RNW_ultranational_socialism_party:0 "НОП"
+ RNW_ultranational_socialism_party_long:0 "Национальный порядок и процветание"
+ 
+ ### Ideas ###
+ RNW_Eduard_Wagner_hog:0 "Эдуард Вагнер"
+ RNW_Theodor_Tolsdorff_sec:0 "Теодор Тольсдорф"
+ RNW_Otto_Ernst_Remer_for:0 "Отто Эрнст Ремер"
+ RNW_Kurt_Schmucker_eco:0 "Курт Шмюкер"
+    
+ ### Leaders ###
+ POLITICS_FERDINAND_SCHORNER_DESC:0 "Многие называли Шёрнера неудачником. Ему не удалось добиться той славы, которую он действительно желал в мировой войне, ему не удалось растоптать русских и заполнить вакуум власти, оставленный СС в Западной России, и ему не удалось взять под контроль Вермахт после многих лет планирования, когда проклятый Шпайдель предал его и разрушил ему карьеру. Шёрнер, однако, человек с планом. Следуя за Герингом столько времени, сколько было необходимо, чтобы однажды обрести значительную силу, Шёрнер теперь сражается ни за кого, кроме себя.\n\nРазрушая инфраструктуру, которую Геринг так отчаянно построил, чтобы сформировать свою воинствующую фракцию, Шёрнер теперь заявил, что Гражданская война закончится только тогда, когда каждый "
+ 

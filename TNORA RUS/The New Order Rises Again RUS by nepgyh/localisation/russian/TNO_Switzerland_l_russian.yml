@@ -1,0 +1,20 @@
+﻿l_russian:
+ #Political Parties
+ SWI_social_conservative_party:0 "FDP"
+ SWI_social_conservative_party_long:0 "Freisinnig-Demokratische Partei"
+
+ SWI_social_liberal_party:0 "Liberale Partei der Schweiz"
+ SWI_social_liberal_party_long:0 "Liberale Partei der Schweiz"
+
+ SWI_social_democrat_party:0 "SP"
+ SWI_social_democrat_party_long:0 "Sozialdemokratische Partei der Schweiz"
+
+ SWI_authoritarian_democrat_party:0 "SD"
+ SWI_authoritarian_democrat_party_long:0 "Schweizer Demokraten"
+
+ #Ideas
+ 
+ SWI_fortress_switzerland:0 "Крепость Швейцария"
+ SWI_fortress_switzerland_desc:0 "Швейцария уже почти сто лет придерживается политики вооруженного нейтралитета. Окруженная врагами, жаждущими кусок швейцарского пирога, она вооружилась до зубов и построила крепости, бункеры и базы во всех уголках страны. В случае войны в игру вступает Национальный редут, благодаря которому вся нация мобилизуется для ведения изнурительной партизанской войны, которая может длиться в течение десятилетий. Каждый мужчина проходит обязательную службу. Горное государство готово к войне в любой момент."
+ SWI_the_cash_must_flow:0 "Деньги должны течь ручьем"
+ SWI_the_cash_must_flow_desc:0 "Поскольку Швейцария является нейтральной страной, она без колебаний торгует со странами, которые могут находиться в противоречии друг с другом. Сохраняя немецкое золото, она делает шоколад для Америки и швейцарские часы для богатых в Японии. Богатая перед лицом сверхдержав, которые предпочли бы видеть ее обездоленной, Швейцария выигрывает в поисках как можно большего количества денег, и, похоже, это не изменится в ближайшее время. Поскольку бесчисленные рабы трудятся по всему миру, Гельвеция процветает."

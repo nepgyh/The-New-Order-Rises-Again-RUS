@@ -1,0 +1,32 @@
+﻿l_russian:
+
+ ###########
+ ##PARTIES##
+ ###########
+ DFK_despotism_party:0 "Freikorps - Militaristen"
+ DFK_despotism_party_long:0 "Deutsches Freikorps"
+ DFK_ultranational_socialism_party:0 "Freikorps - Extremisten"
+ DFK_ultranational_socialism_long:0 "Deutsches Freikorps"
+ DFK_national_socialism_party:0 "Baku Industrialists"
+ DFK_national_socialism_party_long:0 "Baku Industrialists"
+ 
+ ################
+ ##LEADER DESCS##
+ ################
+ POLITICS_OTTO_WEIDINGER_DESC:0 "Восстание рабов посеяло хаос и разруху в восточных владениях Рейха, но нигде Родина не понесла такие потери, как на Кавказе. На земле, известной тяжелейшим, рабским положением её жителй и уроженцев, в горниле революционного пламени пылали всё новые восстания, разрушая старый порядок в яростном водовороте. Последние остатки немецкой администрации отступили в Баку - сердце нефтедобычи Рейха - и были вынуждены полагаться на силы наемников, купленных местными корпорациями, дабы те поддержали местный гарнизон. Казалось бы, их ждёт верная погибель.\n\nОтто Вайдингер не бюрократ. Он солдат, простой и прямолинейный. Эсэсовец, подавшийся в наёмники, Вейдингер провел большую часть своей жизни носясь по всему востоку, предлагая свои услуги тем, кто был готов и мог оплатить их. От подавления партизанских восстаний до защиты корпоративных концернов, Вейдингер застал всё это - буквально квинтэссенцию жизни наемника, наравне с Зигфридом Мюллером. Однако, если и есть что-то, в чем у Вейдингера нет опыта, так это управлении страной. Вот тут-то и вступают в дело корпорации.\n\nВайдингер - не более чем подставное лицо, когда как для реальных административных полномочий есть компании. Нефтяные концерны, вольфрамовые компании, всевозможные корпорации объединились вокруг обещаний Шёрнера вернуться при первой возможности. Их влияние на Кавказ вытеснило прогерманское правительство, поставив Вейдингера на первое место и дав ему власть, необходимую для борьбы с этими надоедливыми рабами. Сам Вайдингер не испытывает угрызений совести по поводу своего положения - толстый кошелёк и полный контроль над своим гарнизоном - это всё что его интересует, в отличии от абстрактного вопроса возвращения былого величия Германии."
+ 
+ #############
+ ##MINISTERS##
+ #############
+
+ 
+ #########
+ ##IDEAS##
+ #########
+ DFK_Funding_from_the_Shadows:0 "Funding from the Shadows"
+ DFK_Funding_from_the_Shadows_desc:0 "From shadowy depths emerge pouches filled with coin, and Weidinger is more than happy to snatch them. In order to maintain their rule over Baku in the Caucasus, the Deutsches Freikorps is receiving secret funding from powerful corporations and the Marshal of Moskowien himself, Ferdinand Schörner."
+ DFK_Band_of_Brothers:0 "Band of Brothers"
+ DFK_Band_of_Brothers_desc:0 "Other than blood and heritage, the only thing that can bond men together is war. The Deutsches Freikorps are a band of mercenary soldiers who have fought alongside each other through thick and thin, bantering in hours of peace and falling before their brothers in times of battle. The Freikorps are united together by the flames of war, and nothing will break them apart."
+ DFK_Rule_of_the_Mercenaries:0 "Rule of the Mercenaries"
+ DFK_Rule_of_the_Mercenaries_desc:0 "Baku lies under the chaotic leadership of the Deutsches Freikorps, a band of vicious German mercenaries with no experience of state administration. Due to the nature of such a mercenary government Baku has become highly militarized, and its extreme instability – both socially and politically – is of no surprise to anyone."
+ 

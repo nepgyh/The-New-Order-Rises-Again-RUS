@@ -1,0 +1,137 @@
+﻿l_russian:
+ MOR_fascism:0 "Moroccan Governate"
+ MOR_fascism_DEF:0 "The Moroccan Governate"
+ MOR_social_liberal:0 "Republic of Morocco"
+ MOR_social_liberal_DEF:0 "The Republic of Morocco"
+ MOR_market_liberal:0 "Republic of Morocco"
+ MOR_market_liberal_DEF:0 "The Republic of Morocco"
+ MOR_social_conservative:0 "Republic of Morocco"
+ MOR_social_conservative_DEF:0 "The Republic of Morocco"
+ MOR_authoritarian_democrat:0 "Kingdom of Morocco"
+ MOR_authoritarian_democrat_DEF:0 "The Kingdom of Morocco"
+ MOR_despotism:0 "Kingdom of Morocco"
+ MOR_despotism_DEF:0 "The Kingdom of Morocco"
+ MOR_communist:0 "Revolutionary Republic of Morocco"
+ MOR_communist_DEF:0 "The Revolutionary Republic of Morocco"
+ MOR_socialist:0 "Revolutionary Republic of Morocco"
+ MOR_socialist_DEF:0 "The Revolutionary Republic of Morocco"
+ MOR_fascism_ADJ:0 "Moroccan"
+ MOR_social_liberal_ADJ:0 "Moroccan"
+ MOR_market_liberal_ADJ:0 "Moroccan"
+ MOR_social_conservative_ADJ:0 "Moroccan"
+ MOR_authoritarian_democrat_ADJ:0 "Moroccan"
+ MOR_despotism_ADJ:0 "Moroccan"
+ MOR_communist_ADJ:0 "Moroccan"
+
+#Parties 
+ MOR_social_liberal_party:0 "AA"
+ MOR_social_liberal_party_long:0 "Alharakat Alshaebia"
+ MOR_social_conservative_party:0 "HA"
+ MOR_social_conservative_party_long:0 "Hizb Alaistiqlal"
+ MOR_social_democrat_party:0 "AALA"
+ MOR_social_democrat_party_long:0 "Alaitihad Alaishtirakiu Lilquaa Alshaebia"
+ MOR_communist_party:0 "HAW"
+ MOR_communist_party_long:0 "Hizb Altahrir Walaishitirakia"
+ MOR_socialist_party:0 "AALA"
+ MOR_socialist_party_long:0 "Alaitihad Alwataniu Lilquaa Alshaebia"
+ MOR_social_conservative_party:0 "HA"
+ MOR_social_conservative_party_long:0 "Hizb Alaistiqlal"
+ MOR_authoritarian_democrat_party:0 "HAA" #Democratic Independence Party
+ MOR_authoritarian_democrat_party_long:0 "Hizb Alaistiqlal Aldiymuqratiu"
+ MOR_despotism_party:0 "AD"
+ MOR_despotism_party_long:0 "Alaouite Dynasty"
+
+#Ministers 
+MOR_Hassan_II_hog:0 "Hassan II"
+MOR_Mahjoubi_Aherdane_mil:0 "Mahjoubi Aherdane"
+MOR_Ahmed_Balafrej_for:0 "Ahmed Balafrej"
+MOR_Bensalem_Guessous_eco:0 "Bensalem Guessous"
+POLITICS_HASSAN_II_DESC:0 "Хасан II является преемником покойного Мухаммеда V по титулу султаната Марокко. Как и отец, Хасан воспользовался нестабильностью в стране для усиления собственной власти на престоле. Хассан получил образование, столь необходимое для управления над государством, будь то полученные знания в Королевской академии или боевой опыт, полученный во время главенствования над армией, противостоящей ордам повстанцев. Он уже объявил о своих планах в отношении политики, что он нарёк "Moroccanisation" in which state-held assets that are majority foreign owned will be transferred to "friends of the Moroccan people" which has received very vocal support from the nationalists in the country.\n\nDeclared by many as an autocrat and an absolute monarch under the Iberians, Hassan has seized the opportunity to declare Morocco an independent state and has annexed West Sahara and Mauritania much to the chagrin of the locals. In addition, the declaration of the Rif republic shows that Hassan's fiefdom faces a great amount of opposition that will require a strong hand to defeat. Now, the future of Morocco seems to lie entirely in his hands as the central authority within the Kingdom but whether such a ruler, whose focus resides in increasing and maintaining his own power rather than addressing the variety of problems that plague his subjects, will be able to lead his country will be lay bare in the years to come."
+
+
+#National Spirits 
+MOR_king_government:0 "Правительство короля" # <<TRANSLATED>>
+MOR_morocanization_policies:0 "Политика мороканизации" # <<TRANSLATED>>
+
+#Tree
+ MOR_the_kingdom_ascendant:0 "Возлюбленный Царства" # <<TRANSLATED>>
+ MOR_the_kingdom_ascendant_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ MOR_the_kingdom_ascendant_tt:0 "§kAllahu, alwatani, almalk§!" # <<TRANSLATED>>
+
+ MOR_revolution_of_the_king_and_people:0 "Революция короля и народа" # <<TRANSLATED>>
+ MOR_revolution_of_the_king_and_people_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_moroccanization_in_business:0 "Марокканская деятельность в бизнесе" # <<TRANSLATED>>
+ MOR_moroccanization_in_business_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_rally_the_independents:0 "Встретить независимых" # <<TRANSLATED>>
+ MOR_rally_the_independents_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_reorganize_protectorate_assets:0 "Реорганизовать активы защиты" # <<TRANSLATED>>
+ MOR_reorganize_protectorate_assets_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_open_atlantic_trade:0 "Открытая атлантическая торговля" # <<TRANSLATED>>
+ MOR_open_atlantic_trade_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_support_from_the_business_world:0 "Поддержка со стороны организации &lt; &lt; Бизнес мир &gt; &gt;" # <<TRANSLATED>>
+ MOR_support_from_the_business_world_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_hush_the_dissenters:0 "Заткнись, Дизентеры" # <<TRANSLATED>>
+ MOR_hush_the_dissenters_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_help_to_the_rural_areas:0 "Помощь сельским районам" # <<TRANSLATED>>
+ MOR_help_to_the_rural_areas_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_contact_the_islamic_world:0 "Обращайтесь в исламский мир" # <<TRANSLATED>>
+ MOR_contact_the_islamic_world_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_the_southern_push:0 "Южный тужься" # <<TRANSLATED>>
+ MOR_the_southern_push_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_foreign_military_advisors:0 "Иностранные военные советники" # <<TRANSLATED>>
+ MOR_foreign_military_advisors_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_saharan_logistics:0 "Сахарская логистика" # <<TRANSLATED>>
+ MOR_saharan_logistics_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_rethinking_military_strategies:0 "Переосмысление военных стратегий" # <<TRANSLATED>>
+ MOR_rethinking_military_strategies_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_sahrawi_support_units:0 "Сахарские вспомогательные группы" # <<TRANSLATED>>
+ MOR_sahrawi_support_units_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_establish_the_royal_airforce:0 "Создать Королевские военно-воздушные силы" # <<TRANSLATED>>
+ MOR_establish_the_royal_airforce_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_keep_the_army_moving:0 "Продолжайте движение армии" # <<TRANSLATED>>
+ MOR_keep_the_army_moving_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_find_collaborators:0 "Поиск соучастников" # <<TRANSLATED>>
+ MOR_find_collaborators_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_build_fort_lines:0 "Строить линии крепости" # <<TRANSLATED>>
+ MOR_build_fort_lines_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ MOR_masters_of_our_own_destiny:0 "Владыки нашей судьбы" # <<TRANSLATED>>
+ MOR_masters_of_our_own_destiny_desc:0 "- Я не знаю." # <<TRANSLATED>>
+
+ #Events
+ MOR_wars.1.t:0 "- Я не знаю." # <<TRANSLATED>>
+ MOR_wars.1.desc:0 "Хассан II выступает с речью, сплотив вокруг него страну, чтобы обеспечить независимость Марокко, и борясь с мавританцами, чтобы обеспечить Марокко-Восхождение в Африке." # <<TRANSLATED>>
+ MOR_wars.1.a:0 "- Я не знаю." # <<TRANSLATED>>
+
+ MOR_wars.2.t:0 "- Я не знаю." # <<TRANSLATED>>
+ MOR_wars.2.desc:0 "(Ассистент подслушивает, случайно, но затем продолжает, в разговоре между Хасаном II и группой бизнесменов. Бизнесмены кажутся чужими, хотя помощник не может определить место своего происхождения. Этот разговор вращается между бизнесменами, которые ведут переговоры о поставках оружия в Марокко в обмен на мароккацию, не прикасающуюся к определенным активам, и их бизнес получает лучшее положение в Марокко." # <<TRANSLATED>>
+ MOR_wars.2.a:0 "- Я не знаю." # <<TRANSLATED>>
+
+ MOR_wars.3.t:0 "- Я не знаю." # <<TRANSLATED>>
+ MOR_wars.3.desc:0 "Общее описание недавно построенной тюрьмы Тазмарт, как она расположена в глубине пустыни, далеко от любого города и используется для размещения людей, которые монархия считает наиболее опасными для их правления" # <<TRANSLATED>>
+ MOR_wars.3.a:0 "- Я не знаю." # <<TRANSLATED>>
+
+ MOR_wars.4.t:0 "- Я не знаю." # <<TRANSLATED>>
+ MOR_wars.4.desc:0 "В своем кабинете министр иностранных дел координирует контакты и встречи с различными арабскими странами." # <<TRANSLATED>>
+ MOR_wars.4.a:0 "- Я не знаю." # <<TRANSLATED>>
+
+ MOR_wars.5.t:0 "- Я не знаю." # <<TRANSLATED>>
+ MOR_wars.5.desc:0 "Вождь мавританского племени принимает в Рабате, чтобы встретиться с королем." # <<TRANSLATED>>
+ MOR_wars.5.a:0 "- Я не знаю." # <<TRANSLATED>>

@@ -1,0 +1,195 @@
+﻿l_russian:
+ ST:0 "я"
+ ND:0 "я"
+ RD:0 "я"
+ TH:0 "я"
+ WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ Война"
+ CIVIL_WAR_NAME:0 "$ORDER$$SECOND$ Гражданская война"
+ WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$ война за возвращение $STATE$"
+ WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$ война за $STATE$"
+ 
+ ### Russian Wars ###
+ WAR_NAME_IRK_BRY:0 "Бурятский Мятеж"
+ WAR_NAME_BRY_IRK:0 "Бурятский Мятеж"
+ 
+ ### Indonesia ###
+ WAR_NAME_FRI_INS:0 "Гражданская война в Индонезии"
+ WAR_NAME_INS_FRI:0 "Гражданская война в Индонезии"
+
+ ### Mongolian Civil War ###
+ WAR_NAME_MON_MEN:0 "Гражданская война в Монголии"
+ WAR_NAME_MEN_MON:0 "Гражданская война в Монголии"
+ WAR_NAME_JAP_MON:0 "Восстановление порядка в Монголии"
+ WAR_NAME_MON_JAP:0 "Восстановление порядка в Монголии"
+ WAR_NAME_MEN_SVO:0 "Покорение Западной Монголии"
+ WAR_NAME_SVO_MEN:0 "Покорение Западной Монголии"
+ WAR_NAME_JAP_SVO:0 "Покорение Западной Монголии"
+ WAR_NAME_SVO_JAP:0 "Покорение Западной Монголии"
+ ### World War 3 ###
+ WAR_NAME_USA_GER:0 "Третья мировая война"
+ WAR_NAME_USA_JAP:0 "Третья мировая война"
+ WAR_NAME_GER_USA:0 "Третья мировая война"
+ WAR_NAME_GER_JAP:0 "Третья мировая война"
+ WAR_NAME_JAP_USA:0 "Третья мировая война"
+ WAR_NAME_JAP_GER:0 "Третья мировая война"
+
+ ###Indian Wars###
+ #CIVIL_WAR_NAME_RAJ_INF:0 "Indian Civil War: INC - JF"
+ #CIVIL_WAR_NAME_RAJ_INC:0 "Indian Civil War: INC - AISL:
+ #CIVIL_WAR_NAME_INF_INC:0 "Indian Civil War: JF - AISL"
+ #WAR_NAME_RAJ_SRI:0 "Indian Civil War: INC - ACL"
+ #WAR_NAME_RAJ_PAK:0 "Indian Civil War: INC - ACL"
+ #WAR_NAME_RAJ_BEN:0 "17th Indo-Bengali War"
+ #WAR_NAME_RAJ_JAP:0 "Indo-Japanese War"
+ #WAR_NAME_BEN_RAJ:0 "Indo-Bengali War"
+ #WAR_NAME_RAJ_SHK:0 "Indian Civil War: INC - ACL"
+ #WAR_NAME_RAJ_INCOMMUNIST:0 "Indian Civil War: INC - AISL"
+ #WAR_NAME_INCON_INCOMMUNIST:0 "Indian Civil War: INC - AISL"
+ #WAR_NAME_INCON_PAK:0 "Indian Civil War: INC - ACL"
+
+ ### German Civil War ###
+ WAR_NAME_BGR_GGR:0 "ГГВ: Конфликт Бормана и Геринга"
+ WAR_NAME_GGR_BGR:0 "ГГВ: Конфликт Бормана - Геринга"
+ WAR_NAME_BGR_SGR:0 "ГГВ: Конфликт Бормана - Шпеера"
+ WAR_NAME_SGR_BGR:0 "ГГВ: Конфликт Бормана - Шпеера"
+ WAR_NAME_BGR_HGR:0 "ГГВ: Конфликт Бормана - Гейдриха"
+ WAR_NAME_HGR_BGR:0 "ГГВ: Конфликт Бормана - Гейдриха"
+ WAR_NAME_BGR_GER:0 "ГГВ: Конфликт Бормана - Шпайделя"
+ WAR_NAME_GER_BGR:0 "ГГВ: Конфликт Бормана - Шпайделя"
+ WAR_NAME_BGR_RNW:0 "ГГВ: Конфликт Бормана - Шёрнера"
+ WAR_NAME_RNW_BGR:0 "ГГВ: Конфликт Бормана - Шёрнера"
+ WAR_NAME_BGR_DSR:0 "ГГВ: Конфликт Бормана - ГСР"
+ WAR_NAME_DSR_BGR:0 "ГГВ: Конфликт Бормана - ГСР"
+ WAR_NAME_GGR_SGR:0 "ГГВ: Конфликт Геринга - Шпеера"
+ WAR_NAME_SGR_GGR:0 "ГГВ: Конфликт Геринга - Шпеера"
+ WAR_NAME_GGR_HGR:0 "ГГВ: Конфликт Геринга - Гейдриха"
+ WAR_NAME_HGR_GGR:0 "ГГВ: Конфликт Геринга - Гейдриха"
+ WAR_NAME_GGR_GER:0 "ГГВ: Конфликт Геринга - Шпайделя"
+ WAR_NAME_GER_GGR:0 "ГГВ: Конфликт Геринга - Шпайделя"
+ WAR_NAME_GGR_RNW:0 "ГГВ: Конфликт Геринга - Шёрнера"
+ WAR_NAME_RNW_GGR:0 "ГГВ: Конфликт Геринга - Шёрнера"
+ WAR_NAME_GGR_DSR:0 "ГГВ: Конфликт Геринга - ГСР"
+ WAR_NAME_DSR_GGR:0 "ГГВ: Конфликт Геринга - ГСР"
+ WAR_NAME_SGR_HGR:0 "ГГВ: Конфликт Шпеера - Гейдриха"
+ WAR_NAME_HGR_SGR:0 "ГГВ: Конфликт Шпеера - Гейдриха"
+ WAR_NAME_SGR_GER:0 "ГГВ: Конфликт Шпеера - Шпайделя"
+ WAR_NAME_GER_SGR:0 "ГГВ: Конфликт Шпеера - Шпайделя"
+ WAR_NAME_SGR_RNW:0 "ГГВ: Конфликт Шпеера - Шёрнера"
+ WAR_NAME_RNW_SGR:0 "ГГВ: Конфликт Шпеера - Шёрнера"
+ WAR_NAME_SGR_DSR:0 "ГГВ: Конфликт Шпеера - ГСР"
+ WAR_NAME_DSR_SGR:0 "ГГВ: Конфликт Шпеера - ГСР"
+ WAR_NAME_HGR_GER:0 "ГГВ: Конфликт Гейдриха - Шпайделя"
+ WAR_NAME_GER_HGR:0 "ГГВ: Конфликт Гейдриха - Шпайделя"
+ WAR_NAME_HGR_RNW:0 "ГГВ: Конфликт Гейдриха - Шёрнера"
+# WAR_NAME_RNW_GGR:0 "GCW: Heydrich - Schorner Conflict" #duplicate loc key
+# WAR_NAME_GGR_DSR:0 "GCW: Heydrich - DSR Conflict" #duplicate loc key
+# WAR_NAME_DSR_GGR:0 "GCW: Heydrich - DSR Conflict" #duplicate loc key
+ WAR_NAME_GER_RNW:0 "ГГВ: Конфликт Шпайделя - Шёрнера"
+ WAR_NAME_RNW_GER:0 "ГГВ: Конфликт Шпайделя - Шёрнера"
+ WAR_NAME_GER_DSR:0 "ГГВ: Конфликт Шпайделя - ГСР"
+ WAR_NAME_DSR_GER:0 "ГГВ: Конфликт Шпайделя - ГСР"
+ WAR_NAME_RNW_DSR:0 "ГГВ: Конфликт Шёрнера - ГСР"
+ WAR_NAME_DSR_RNW:0 "ГГВ: Конфликт Шёрнера - ГСР"
+ 
+ ### Hungarian Civil War ###
+ WAR_NAME_HUN_D01:0 "Гражданская война в Венгрии"
+ WAR_NAME_D01_HUN:0 "Гражданская война в Венгрии"
+ 
+ ### Warsaw Uprising ###
+ WAR_NAME_POL_GGN:0 "Варшавское восстание"
+ WAR_NAME_GGN_POL:0 "Варшавское восстание"
+ 
+ ### French-Burgundian War ###
+ WAR_NAME_BRG_FRA:0 "Франко-Бургундская Война"
+ WAR_NAME_FRA_BRG:0 "Франко-Бургундская Война"
+ WAR_NAME_BRT_FRA:0 "Франко-Бретаньская Война"
+ WAR_NAME_FRA_BRT:0 "Франко-Бретаньская Война"
+ 
+ ###Iberian Wars##
+ WAR_NAME_CTL_CNT:0 "Каталонская революционная война"
+ WAR_NAME_CNT_CTL:0 "Каталонская революционная война"
+ WAR_NAME_IBR_CTL:0 "Каталонская война за независимость"
+ WAR_NAME_CTL_IBR:0 "Каталонская война за независимость"
+ WAR_NAME_SPS_CTL:0 "Каталонская война за независимость"
+ WAR_NAME_CTL_SPS:0 "Каталонская война за независимость"
+ WAR_NAME_BSQ_ETA:0 "Баскская революционная война"
+ WAR_NAME_ETA_BSQ:0 "Баскская революционная война"
+ WAR_NAME_IBR_BSQ:0 "Баскская война за независимость"
+ WAR_NAME_BSQ_IBR:0 "Баскская война за независимость"
+ WAR_NAME_SPS_BSQ:0 "Баскская война за независимость"
+ WAR_NAME_BSQ_SPS:0 "Баскская война за независимость"
+ WAR_NAME_SPR_SPS:0 "Вторая гражданская война в Испании"
+ WAR_NAME_SPS_SPR:0 "Вторая гражданская война в Испании"
+ WAR_NAME_IBR_SPS:0 "Война за объединение Иберии"
+ WAR_NAME_SPS_IBR:0 "Война за объединение Иберии"
+ WAR_NAME_SPR_IBR:0 "Война за объединение Иберии"
+ WAR_NAME_IBR_SPR:0 "Война за объединение Иберии"
+ WAR_NAME_SPS_FSR:0 "Война за национальное освобождение"
+ WAR_NAME_SPR_FSR:0 "Война за национальное освобождение"
+ WAR_NAME_FSR_SPR:0 "Война за национальное освобождение"
+ WAR_NAME_BSQ_FSR:0 "Война за национальное освобождение"
+ WAR_NAME_FSR_BSQ:0 "Война за национальное освобождение"
+ WAR_NAME_ETA_FSR:0 "Война за национальное освобождение"
+ WAR_NAME_FSR_ETA:0 "Война за национальное освобождение"
+ WAR_NAME_RIF_MOR:0 "Марокканская гражданская война"
+ WAR_NAME_MOR_RIF:0 "Марокканская гражданская война"
+ WAR_NAME_TRZ_MOR:0 "Мавританская война"
+ WAR_NAME_MOR_TRZ:0 "Мавританская война"
+ ### South African War ###
+ 
+ ### Ostland Civil War ###
+ 
+ ### Madagascar Civil War ###
+ 
+ ### Second English Civil War ###
+ 
+ ### Hungarian-Romanian War ###
+
+ ### Great Asian War ###
+ WAR_NAME_CHI_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_CHI:0 "Великая Азиатская Война"
+ WAR_NAME_YUN_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_YUN:0 "Великая Азиатская Война"
+ WAR_NAME_MEN_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_MEN:0 "Великая Азиатская Война"
+ WAR_NAME_GXC_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_GXC:0 "Великая Азиатская Война"
+ WAR_NAME_GUZ_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_GUZ:0 "Великая Азиатская Война"
+ WAR_NAME_YAA_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_YAA:0 "Великая Азиатская Война"
+ WAR_NAME_SIC_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_SIC:0 "Великая Азиатская Война"
+ WAR_NAME_XSM_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_XSM:0 "Великая Азиатская Война"
+ WAR_NAME_SIK_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_SIK:0 "Великая Азиатская Война"
+ WAR_NAME_ETR_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_ETR:0 "Великая Азиатская Война"
+ WAR_NAME_TIB_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_TIB:0 "Великая Азиатская Война"
+ WAR_NAME_SHX_JAP:0 "Великая Азиатская Война"
+ WAR_NAME_JAP_SHX:0 "Великая Азиатская Война"
+
+ WAR_NAME_YUN_CHI:0 "Западное Восстание"
+ WAR_NAME_CHI_YUN:0 "Западное Восстание"
+ 
+ ### Second Indian War of Independence ###
+ WAR_NAME_RAJ_BEN:0 "Вторая индийская война за независимость"
+ WAR_NAME_BEN_RAJ:0 "Вторая великая революция"
+ 
+ ### Indo-Afghan War ###
+ WAR_NAME_RAJ_AFG:0 "Индо-Афганская война"
+ WAR_NAME_AFG_RAJ:0 "Индо-Афганская война"
+ 
+ ### Indian Terrorism Wars ###
+ WAR_NAME_RAJ_TIG:0 "Тамильская война"
+ WAR_NAME_TIG_RAJ:0 "Тамильская война"
+
+ ##Italo Turkish War##
+ WAR_NAME_IME_TUR:0 "Вторая Итало-Турецкая война"
+ WAR_NAME_TUR_IME:0 "Вторая Итало-Турецкая война"
+
+ ##Irish War##
+ WAR_NAME_IRE_ULS:0 "Ирландская война"
+ WAR_NAME_ULS_IRE:0 "Ирландская война"

@@ -1,0 +1,119 @@
+﻿l_russian:
+
+###################
+## COUNTRY NAMES ##
+###################
+
+ PAR_socialist_DEF: "Республика Парагвай"
+ PAR_socialist_ADJ: "Парагвайск"
+
+
+
+
+
+
+
+
+
+
+
+#################
+## PARTY NAMES ##
+#################
+ PAR_communist_party: "ПКП"
+ PAR_communist_party_long: "Парагвайская Коммунистическая Партия"
+
+ PAR_socialist_party: "N/A"
+ PAR_socialist_party_long: "N/A"
+
+ PAR_social_democrat_party: "Фебреристы"
+ PAR_social_democrat_party_long: "Фебреристская Революционная Партия"
+
+ PAR_social_liberal_party: "Либералы"
+ PAR_social_liberal_party_long: "Партия Либералов"
+
+ PAR_market_liberal_party: "N/A"
+ PAR_market_liberal_party_long: "N/A"
+
+ PAR_social_conservative_party: "Колорадос - Демократы"
+ PAR_social_conservative_party_long: "Объединение Национал - Республикиканцев - Демократы"
+
+ PAR_authoritarian_democrat_party: "Колорадос - Эпифанисты"
+ PAR_authoritarian_democrat_party_long: "Объединение Национал - Республикиканцев - Эпифанисты"
+
+ PAR_despotism_party: "N/A"
+ PAR_despotism_party_long: "N/A"
+
+ PAR_fascism_party: "Колорадос - Красный стяг"
+ PAR_fascism_party_long: "Объединение Национал - Республикиканцев - Красный стяг"
+
+ PAR_national_socialism_party: "Колорадос - ФдГ"
+ PAR_national_socialism_party_long: "Объединение Национал - Республикиканцев - Линия фронта"
+
+ PAR_ultranational_socialism_party: "N/A"
+ PAR_ultranational_socialism_party_long: "N/A"
+
+ PAR_burgundian_system_party: "Жертвенное кольцо"
+ PAR_burgundian_system_party_long: "Жертвенное кольцо"
+
+##################
+## LEADER DESCS ##
+##################
+ #1962 Leader
+ Paraguay_Higinio_Morinigo_desc: "Родившийся в 1897 году в семье торговца средней руки, Мориниго сделал карьеру в армии и к моменту начала войны с Боливией в 1932 году получил чин полковника. ВО время войны в Чако Мориниго поднялся до должности начальника генерального штаба, получив звание маршала после прекращения огня в 1935 году. Эта престижная должность сделала его, в глазах Либеральной партии, хорошим кандидатом на пост временного президента в условиях политического хаоса, последовавшего за крахом правительства фебреристов в 1937 году.\n\nНо Мориниго пользовался поддержкой армии, и вместо того, чтобы проводить выборы, он захватил абсолютную власть над страной и провозгласил Парагвай фашистским государством. Мориниго построил шесть концентрационных лагерей и заполнил их все; его политические враги бежали или были убиты во время террора, который он развязал. Всегда восхищаясь нацистами, Мориниго с их одобрения превратил Парагвай в немецкий плацдарм на западном полушарии. В течение следующих двадцати лет его все более жестокое правление оттолкнуло от него всех возможных друзей, кроме Гитлера.\n\nМориниго не возражает против такой изоляции - "
+
+ ##Colorados Leader Descs
+ #Colorado Stable Coup Leader
+ Paraguay_Frederico_Chavez_desc: "ЗАГЛУШКА"
+ #Colorado Unstable Coup Leader 
+ Paraguay_Alfredo_Stroessner_desc: "ЗАГЛУШКА"
+
+ ##FULNA Leader Descs
+ #FULNA Victory Leader
+ Paraguay_Rafael_Franco_desc: "ЗАГЛУШКА"
+ #FULNA- Comunista Leader
+ Paraguay_Antonio_Maidana_desc: "МЕСТО ПРОВЕДЕНИЯ" # <<TRANSLATED>>
+ #FULNA- Liberal Leader
+ Paraguay_Domingo_Laino_desc: "МЕСТО ПРОВЕДЕНИЯ" # <<TRANSLATED>>
+
+#######################
+## IDEAS & MINISTERS ##
+#######################
+ 
+ ##Starting Spirits
+ PAR_disciplina_jerarquia_y_orden: "Дисциплина, иерархия и порядок!"
+ PAR_disciplina_jerarquia_y_orden_desc: "ЗАГЛУШКА"
+
+ PAR_coloradan_dissidence: "Раскол в партии Колорадо"
+ PAR_coloradan_dissidence_desc: "ЗАГЛУШКА"
+
+ PAR_fulna_insurgency: "Восстание FULNA"
+ PAR_fulna_insurgency_desc: "ЗАГЛУШКА"
+
+ PAR_new_state_chavez: "Новое государство"
+ PAR_new_state_chavez_desc: "ЗАГЛУШКА"
+
+ PAR_new_state_stroessner: "Новое государство"
+ PAR_new_state_stroessner_desc: "ЗАГЛУШКА"
+
+ PAR_new_state_franco: "Новое государство"
+ PAR_new_state_franco_desc: "ЗАГЛУШКА"
+
+ ##Ministers
+ #Starting Cabinet, Morinigo's Cabinet
+ ramon_luciano_paredes_hog: "Рамон Лучиано Паредес" # <<TRANSLATED>>
+ ramon_luciano_paredes_hog_desc: "- Я не знаю." # <<TRANSLATED>>
+ rogelio_espinoza_eco: "Рохелио Эспиноза" # <<TRANSLATED>>
+ rogelio_espinoza_eco_desc: "- Я не знаю." # <<TRANSLATED>>
+ horacio_chiriani_for: "Горасио Чириани" # <<TRANSLATED>>
+ horacio_chiriani_for_desc: "- Я не знаю." # <<TRANSLATED>>
+ amancio_pampliega_sec: "Амансио Памплига" # <<TRANSLATED>>
+ amancio_pampliega_sec_desc: "- Я не знаю." # <<TRANSLATED>>
+
+############
+## EVENTS ##
+############
+
+######################
+## NATIONAL FOCUSES ##
+######################

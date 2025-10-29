@@ -1,0 +1,203 @@
+﻿l_russian:
+
+ TNO_PEACE_POPUP_TITLE:0 "ДИПЛОМАТИЧЕСКОЕ ОПОВЕЩЕНИЕ"
+ TNO_PEACE_POPUP_DESCRIPTION:0 "[GetWarStatus]"
+ TNO_PEACE_POPUP_FLAVOR:0 "[GetFlavor]"
+
+ TNO_PEACE_POPUP_CLOSE:0 "ЗАКРЫТЬ"
+
+ TNO_PEACE_POPUP_COUNTRY_PLURAL:0 " и их союзники "
+ TNO_PEACE_POPUP_COUNTRY_SINGULAR:0 " "
+
+ TNO_PEACE_POPUP_COUNTRY_PLURAL_HAS:0 " и их союзники "
+ TNO_PEACE_POPUP_COUNTRY_SINGULAR_HAS:0 " "
+
+ #TNO_PEACE_POPUP_WINNER_FACTION_LEADER:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§!"
+ #TNO_PEACE_POPUP_WINNER_NOT_FACTION_LEADER:0 "As part of §Y[winning_country.GetFactionName]§!, [winning_country.GetFlag] §Y[winning_country.GetNameDef]§!, "
+#
+ #TNO_PEACE_POPUP_LOSER_FACTION_LEADER:0 "[losing_country.GetFlag] §Y[losing_country.GetNameDef]§!"
+ #TNO_PEACE_POPUP_LOSER_NOT_FACTION_LEADER:0 "[losing_country.GetFlag] §Y[losing_country.GetNameDef]§!, as part of §Y[losing_country.GetFactionName]§!,"
+
+ #Peace event/war loc
+ TNO_PEACE_POPUP_WAR_CONCLUSION:0 "[GetWarConclusionLoc]"
+ TNO_PEACE_POPUP_WAR_CONTINUING:0 "[GetWarContinuationLoc]"
+
+ #Wars that have finished
+ TNO_PEACE_POPUP_WAR_CONCLUSION_OSTLAND:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]победила [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies] и бой за §YОстланд§! продолжается."
+ 
+ TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_WIN:0 "§YВойна за Южную Африку§! завершилась, [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]наконец победили [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]."
+ TNO_PEACE_POPUP_WAR_CONCLUSION_SAF_LOSE:0 "§YВойна за Южную Африку§! завершилась, [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]наконец победили [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]."
+ 
+ TNO_PEACE_POPUP_WAR_CONCLUSION_BRG_FRA:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]seized land from [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! in the chaos of §YThe German Civil War§!"
+
+ TNO_PEACE_POPUP_WAR_CONCLUSION_GCW:0 "Осторожный баланс сил в §YГражданской Войне в Германии§! продолжает смещаться, [winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAllies]захватывает [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]"
+
+ TNO_PEACE_POPUP_WAR_CONCLUSION_DEFAULT:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]побеждает [losing_country.GetFlag] §Y[losing_country.GetNameDef]§![GetLoserAllies]в войне."
+ 
+ TNO_PEACE_POPUP_WAR_IBERIAN_WARS:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]побеждает [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! в ходе §YИберийских Войн§!."
+ 
+ TNO_PEACE_POPUP_WAR_CONCLUSION_AMERICAN_POLICING:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§![GetWinnerAlliesWithHas]побеждает [losing_country.GetFlag] §Y[losing_country.GetNameDef]§!, всё согласно §YАмериканской внешней политике§!."
+
+ TNO_PEACE_POPUP_WAR_CONCLUSION_TURKISH_VICTORY:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! забрала территории, на которые претендовала, у [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! в §Yпограничной войне§!, произошёдшей из-за взрыва на §YМальтийской Конференции§!."
+
+ TNO_PEACE_POPUP_WAR_CONCLUSION_IME_VICTORY:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! остановил наступление [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! в §Yпограничной войне§!, произошёдшей из-за взрыва на §YМальтийской Конференции§!."
+
+ TNO_PEACE_POPUP_WAR_CONCLUSION_GER_PLANZEROWIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! восстановила свою хватку в [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! после их смелого побега."
+
+ TNO_PEACE_POPUP_WAR_SCOTLAND_WIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! захватывает [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! и наследует Альбион."
+
+ #Capitulation (war continuing) events
+ 
+ TNO_PEACE_POPUP_WAR_CONTINUING_DEFAULT:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! has defeated [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! in an ongoing conflict."
+ 
+ #Flavor loc
+ 
+ TNO_PEACE_POPUP_FLAVOR_DEFAULT:0 "Война - это ад."
+
+ #Germany flavor
+
+ TNO_PEACE_POPUP_FLAVOR_BORMANN:0 "Эта земля - не сказочная страна, а борьба за жизнь."
+ TNO_PEACE_POPUP_FLAVOR_SPEER:0 "История покажет, что испытания были необходимы."
+ TNO_PEACE_POPUP_FLAVOR_GOERING:0 "Победитель всегда будет судьей, а побежденный - обвиняемым."
+ TNO_PEACE_POPUP_FLAVOR_HEYDRICH:0 "Мир - это всего лишь шарманка, которую крутит сам Господь Бог. Мы все должны танцевать под мелодию, которая уже звучит на барабане."
+ TNO_PEACE_POPUP_FLAVOR_DSR:0 "Не бойтесь смерти, как неадекватная жизнь." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_SPEIDEL:0 "Вы сражались, как львы, но вас вели ослы."
+ TNO_PEACE_POPUP_FLAVOR_SCHOERNER:0 "Дезертиры больше не получат от него пощады;\nТеперь они все висят на деревьях."
+
+ #Ostland flavor
+ TNO_PEACE_POPUP_FLAVOR_KOVNER:0 "Но что случится с отложенной мечтой?"
+ TNO_PEACE_POPUP_FLAVOR_MEYER:0 "Птица в золотой клетке больше не поёт."
+ TNO_PEACE_POPUP_FLAVOR_OSTLAND:0 "Статус-кво разрушен."
+ TNO_PEACE_POPUP_FLAVOR_JECKELN:0 "Над СС зашло солнце."
+ TNO_PEACE_POPUP_FLAVOR_VITUSKA:0 "Корона нищего разбита."
+ TNO_PEACE_POPUP_FLAVOR_DRECHSLER:0 "Когти обрезаны."
+
+
+ #Mongolia flavor
+ TNO_PEACE_POPUP_FLAVOR_MEN:0 "Монгольская нация вновь едина."
+ TNO_PEACE_POPUP_FLAVOR_MON:0 "В степи вернулся порядок."
+ TNO_PEACE_POPUP_FLAVOR_SVO_MEN:0 "Монголия объединена."
+
+ #Western Insurrection
+ TNO_PEACE_POPUP_FLAVOR_YUN_NPA:0 "Безумный Пёс усыплён, на Юго-Востоке вновь порядок."
+
+ #GAW flavor
+ TNO_PEACE_POPUP_FLAVOR_CHI_GAW:0 "Японские войска маршируют по Шанхаю, Пекину, и Нанкину, надежда на свободу разрушена. Япония победила Китай в войне, а следовательно - и весь Восток."
+ 
+ #BRG-BRT-FRA flavor
+ TNO_PEACE_POPUP_FLAVOR_FRA:0 "Над Францией нависает тень."
+ 
+ #Iberian Wars
+ TNO_PEACE_POPUP_FLAVOR_SPR:0 "Hemos pasado!"
+ TNO_PEACE_POPUP_FLAVOR_SPA:0 "Кто родился с мечём, от меча и погибнет."
+ TNO_PEACE_POPUP_FLAVOR_SPS:0 "В итоге, скатерть вся изорвана, розы пали, перевёрнут стол."
+ TNO_PEACE_POPUP_FLAVOR_CNT:0 "El sueño esta muerto."
+ TNO_PEACE_POPUP_FLAVOR_CTL:0 "Catalunya siempre será libre en nuestros corazones."
+ TNO_PEACE_POPUP_FLAVOR_IBR:0 "Измученный Союз встретил свой конец."
+ TNO_PEACE_POPUP_FLAVOR_MOR:0 "Марокко вновь остаётся лишь в истории."
+ TNO_PEACE_POPUP_FLAVOR_BSQ:0 "Который раз, молодые побеждают старых."
+ TNO_PEACE_POPUP_FLAVOR_TBA:0 "Пламя юношества выгорает."
+ TNO_PEACE_POPUP_FLAVOR_FSR:0 "Dona eis requiem."
+ TNO_PEACE_POPUP_FLAVOR_GAL:0 "Путь странника завершён."
+ TNO_PEACE_POPUP_FLAVOR_WAI:0 "Мечта Дадды уже никогда не сбудется."
+ TNO_PEACE_POPUP_FLAVOR_POR:0 "Эстадо Ново встречает свой конец."
+ TNO_PEACE_POPUP_FLAVOR_RPP:0 "Гвоздика вянет."
+ TNO_PEACE_POPUP_FLAVOR_PRT:0 "Порто вновь в мире."
+ TNO_PEACE_POPUP_FLAVOR_RIF:0 "История повторяет себя."
+ 
+ 
+ #American policing actions flavor
+ TNO_PEACE_POPUP_FLAVOR_GUY:0 "Несправедливость где-либо – это угроза справедливости повсюду."
+ TNO_PEACE_POPUP_FLAVOR_WIN:0 "Павшая Вест-Индия не выстояла."
+
+ #2nd Italo Turkish War
+ TNO_PEACE_POPUP_FLAVOR_IME:0 "O, mia patria, sì bella e perduta!"
+ TNO_PEACE_POPUP_FLAVOR_TUR:0 "Del Giordano le rive saluta, di Sionne le torri atterrate..."
+ 
+ #SAF flavor
+ TNO_PEACE_POPUP_FLAVOR_ANC:0 "Мечта о Пан-Африке сломлена."
+ TNO_PEACE_POPUP_FLAVOR_BOR:0 "Государству Буров пришёл конец, но война ещё идёт."
+ TNO_PEACE_POPUP_FLAVOR_SAF:0 "Свет демократии в Африке потух."
+ TNO_PEACE_POPUP_FLAVOR_ANG:0 "Аэропорт Африки не выдержал Американцев в воздухе."
+ TNO_PEACE_POPUP_FLAVOR_MZB:0 "Так и настал конец ужасному режиму Хюттига."
+
+ #War Plan 0 
+ TNO_PEACE_POPUP_FLAVOR_CZE:0 "Хоть и их храбрость была отличительной, Богемцы вновь стали добычей Германского Рейха."
+ TNO_PEACE_POPUP_FLAVOR_SLO:0 "Братислава горит, а с ней - и последний бастион светлого будущего. У народа Словакии больше нет никакой надежды."
+ TNO_PEACE_POPUP_FLAVOR_POL:0 "Хоть польские мужи и жёны пустили в бой всё, что у них было, Польша всё же потеряна. В этот раз, скорее всего, навсегда."
+
+ #UOB Flavour
+ TNO_PEACE_POPUP_FLAVOR_SCO:0 "Возвышаясь в галантой славе, Шотландия, горная родина моя, пусть славно развевается штандарт твой высоко."
+ 
+ #Russia
+ TNO_PEACE_POPUP_FLAVOR_WRS:0 "Лишь в смерти кончается служба."
+ TNO_PEACE_POPUP_FLAVOR_VOL:0 "Видимо, у мира в нет шансов в России."
+ TNO_PEACE_POPUP_FLAVOR_NIK:0 "Коробка Пандоры будет навечно закрыта."
+ TNO_PEACE_POPUP_FLAVOR_GAY:0 "Верующего похоронят с благословениями."
+ TNO_PEACE_POPUP_FLAVOR_KIR:0 "Не суждено больше кричать Орлу."
+ TNO_PEACE_POPUP_FLAVOR_MAR:0 "Не добра Россия к Дуалистичным Режимам."
+ TNO_PEACE_POPUP_FLAVOR_SAM:0 "Предатели не расскажут историю со своей точки зрения."
+ TNO_PEACE_POPUP_FLAVOR_CHU:0 "Машины войны сломлены и разбиты."
+ TNO_PEACE_POPUP_FLAVOR_PRM:0 "В Русской Анархии ещё осталась какая-то справедливость."
+ TNO_PEACE_POPUP_FLAVOR_TAR:0 "Свобода достойна того, чтобы умереть за неё."
+ TNO_PEACE_POPUP_FLAVOR_BKR:0 "Муэдзины больше не поют."
+ TNO_PEACE_POPUP_FLAVOR_VTY:0 "Путь в Европу вновь открыт - а через него и проносится запах войны."
+ TNO_PEACE_POPUP_FLAVOR_KST:0 "Нейтральный город, без своих покровителей, был просто брошен волкам."
+ TNO_PEACE_POPUP_FLAVOR_DON:0 "Польша вновь утеряна."
+ TNO_PEACE_POPUP_FLAVOR_ARL:0 "Эксперимент Генерального Секретаря Оноприенко провалился."
+ TNO_PEACE_POPUP_FLAVOR_AKT:0 "Лишь пепел остался в печах Актау."
+ TNO_PEACE_POPUP_FLAVOR_KAZ:0 "Солдаты тоже нападут, они пробьют ряды и остановятся..."
+ TNO_PEACE_POPUP_FLAVOR_DER:0 "Аллах вправду самый Прощающий и Милосердный!"
+ TNO_PEACE_POPUP_FLAVOR_SEM:0 "Самый милый из всех цветков завял со стеблем."
+ TNO_PEACE_POPUP_FLAVOR_KOK:0 "Хан не смог уехать от истории."
+ TNO_PEACE_POPUP_FLAVOR_VOR:0 "Проклятые души больше не сторожат свой Ад."
+ TNO_PEACE_POPUP_FLAVOR_KOM:0 "Воры и бандиты никогда не победят армию."
+ TNO_PEACE_POPUP_FLAVOR_TOB:0 "Старые солдаты не умирают - они просто затухают в небытие."
+ TNO_PEACE_POPUP_FLAVOR_ISH:0 "Нация железа, земля слёз."
+ TNO_PEACE_POPUP_FLAVOR_OMS:0 "Они найдут умиротворение в смерти."
+ TNO_PEACE_POPUP_FLAVOR_UDM:0 "Торговцы продали верёвку, на которой сейчас висят."
+ TNO_PEACE_POPUP_FLAVOR_FAV:0 "Она грустно улыбнулась, и улетела в ночь."
+ TNO_PEACE_POPUP_FLAVOR_PAV:0 "Даже Сокол не летит против ветра."
+ TNO_PEACE_POPUP_FLAVOR_ERS:0 "Погиб поэт, невольник чести."
+ TNO_PEACE_POPUP_FLAVOR_KHA:0 "И уплыла река Анархии."
+ TNO_PEACE_POPUP_FLAVOR_SAH:0 "Восстание Андреева закончилось так же, как и началось."
+ TNO_PEACE_POPUP_FLAVOR_KEM:0 "Правление безумного короля окончено."
+ TNO_PEACE_POPUP_FLAVOR_ALT:0 "Зов к традиции заглушили барабаны войны."
+ TNO_PEACE_POPUP_FLAVOR_SVO:0 "Последние их мысли были о своих домах, и о тех, кого они любили."
+ TNO_PEACE_POPUP_FLAVOR_IRK:0 "Для боли нет героев."
+ TNO_PEACE_POPUP_FLAVOR_BRY:0 "Во славу смелости смеющих мы песню поём."
+ TNO_PEACE_POPUP_FLAVOR_SEV:0 "Утерянные души наконец нашли свой покой."
+ TNO_PEACE_POPUP_FLAVOR_YAK:0 "Их алмазы больше не сияют."
+ TNO_PEACE_POPUP_FLAVOR_WCH:0 "Нет середины - русский царь либо правит, либо исчезает."
+ TNO_PEACE_POPUP_FLAVOR_AMR:0 "Фашисты России, зажжённые трагедией, исчезли в фарсе."
+ TNO_PEACE_POPUP_FLAVOR_MAG:0 "Лучшие планы мышей и людей часто идут наперекосяк."
+ TNO_PEACE_POPUP_FLAVOR_KMC:0 "Их печаль раздалась по бессердечному морю."
+ TNO_PEACE_POPUP_FLAVOR_OMO:0 "Он сотрёт все слёзы с их глаз, и смерти для них больше не будет."
+
+ #After Midnight
+ TNO_PEACE_POPUP_FLAVOR_WRS_AM:0 "Через могилы ветер дует." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_VOL_AM:0 "Порабощенные не были кирпичами на вашей дороге, и их жизни не были главами в вашей предупредительной истории." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_NIK_AM:0 "Мерзость Регента проходит в ночь." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_MAR_AM:0 "\"Плечая лошадь\" больше не едет." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_SAM_AM:0 "Ты сотворил нас для Себя, Господи, и сердце наше неуравновешено, пока оно не обретет покой в Тебе." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_MIR_AM:0 "Польша умерла в третий раз, задыхаясь от собственной крови." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_TAR_AM:0 "Прижимаясь к нам, наши враги бойкотируют, не спят, стремятся нас ослабить, если нас презирают, если нас стыдят слава, что определяет нас как народ?" # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_ORE_AM:0 "Цель может оправдывать средства, если есть что-то, что оправдывает цель." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_URL_AM:0 "Спой свою смертную песню и умри, как герой, возвращающийся домой." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_BAS_AM:0 "Свет прогресса в России вышел из строя." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_AKT_AM:0 "Безумный пёс убрал." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_KOK_AM:0 "Мужчина плачет о смерти жены, пока ее не похоронят, а человек плачет о потере своей родины, пока его не похоронят." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_KOM_AM:0 "Мерзость Регента уходит в ночь."
+ TNO_PEACE_POPUP_FLAVOR_TOB_AM:0 "То, что остается в болезнях после кризиса, может вызвать рецидивы." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_OMS_AM:0 "Но его смерть оставила его еще более гневным, а теперь мысль о потерянном счастье и о вечной боли мучает его." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_FAV_AM:0 "Они бы больше не стали кричать о свободе." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_PAV_AM:0 "Новая республика, построенная на надежде, была задушена в колыбели." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_ERS_AM:0 "Мы никогда не должны забывать, что искусство не является формой пропаганды; это форма истины." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_KHA_AM:0 "Они умерли свободными." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_SAH_AM:0 "Вы не можете купить революцию, вы не можете осуществить революцию. Вы можете быть только революцией. Это в вашем духе, или это нигде." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_ALT_AM:0 "Рурик был сбит с толку, и больше никогда не будет замечен." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_IRK_AM:0 "Алексей прошел вечно, не понимая этого." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_BRY_AM:0 "Другой король входит в ряды русских дворянских призраков." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_AMR_AM:0 "Ни одно доброе дело не останется безнаказанным." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_MAG_AM:0 "Реки богатства были заменены кровью." # <<TRANSLATED>>
+ TNO_PEACE_POPUP_FLAVOR_KMC_AM:0 "Никто не пришёл их спасти." # <<TRANSLATED>>

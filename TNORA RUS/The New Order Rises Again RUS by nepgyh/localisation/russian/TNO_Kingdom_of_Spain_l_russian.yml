@@ -1,0 +1,156 @@
+﻿l_russian:
+ #Parties
+ FSR_communist_party:0 "ПСЕ" # <<TRANSLATED>>
+ FSR_communist_party_long:0 "Партия Испании" # <<TRANSLATED>>
+ FSR_socialist_party:0 "ПП" # <<TRANSLATED>>
+ FSR_socialist_party_long:0 "Социалистическая партия &lt; &lt; Обреро Эспоньоль &gt; &gt;" # <<TRANSLATED>>
+ FSR_market_liberal_party:0 "CD" # <<TRANSLATED>>
+ FSR_market_liberal_party_long:0 ":: Координация в области демократии" # <<TRANSLATED>>
+ FSR_authoritarian_democrat_party:0 "UdPE"
+ FSR_authoritarian_democrat_party_long:0 "Unión del Pueblo Español"
+ FSR_despotism_party:0 "CT"
+ FSR_despotism_party_long:0 "Comunión Tradicionalista"
+ FSR_fascism_party:0 "FE"
+ FSR_fascism_party_long:0 "Falange Española"
+ FSR_national_socialism_party:0 "FE"
+ FSR_national_socialism_party_long:0 "Falange Española"
+ FSR_ultranationalism_party:0 "НФИ"
+ FSR_ultranationalism_party_long:0 "Национальный Фронт Искупления"
+
+ #Country names 
+ FSR_fascism:0 "Castille-Leon"
+ FSR_fascism_DEF:0 "Castille-Leon"
+ FSR_social_liberal:0 "Castille-Leon"
+ FSR_social_liberal_DEF:0 "Castille-Leon"
+ FSR_social_conservative:0 "Castille-Leon"
+ FSR_social_conservative_DEF:0 "Castille-Leon"
+ FSR_authoritarian_democrat:0 "Castille-Leon"
+ FSR_authoritarian_democrat_DEF:0 "Castille-Leon"
+ FSR_despotism:0 "Castille-Leon"
+ FSR_despotism_DEF:0 "Castille-Leon"
+ FSR_communist:0 "Castille-Leon"
+ FSR_communist_DEF:0 "Castille-Leon"
+ FSR_socialist:0 "Castille-Leon"
+ FSR_socialist_DEF:0 "Castille-Leon"
+ FSR_national_socialism:0 "Castille-Leon"
+ FSR_national_socialism_DEF:0 "Castille-Leon"
+ FSR_ultranationalism:0 "Фронт Национального Искупления"
+ FSR_ultranationalism_DEF:0 "Фронт Национального Искупления"
+ 
+ #Characters
+ FSR_Jose_Valiente:0 "Хосе Мария Вальенте" # <<TRANSLATED>>
+ FSR_Unorganized:0 "Неорганизованная деятельность" # <<TRANSLATED>>
+
+ FSR_Mauricio_Sivatte:0 "Маурисио де Сиватте" # <<TRANSLATED>>
+ FSR_Mauricio_Sivatte_hog_desc:0 "Второй секретарь Традиционной комиссии noAbsolute Monarchy§!" # <<TRANSLATED>>
+
+ FSR_Fidel_Carazo:0 "Фидель Карасо Эрнандес" # <<TRANSLATED>>
+ FSR_Fidel_Carazo_for_desc:0 "Министр иностранных дел!" # <<TRANSLATED>>
+
+ FSR_Jose_Perez_Nievas:0 "Хосе Анхель Перес-Ниевас" # <<TRANSLATED>>
+ FSR_Jose_Perez_Nievas_sec_desc:0 "Министр обороны!" # <<TRANSLATED>>
+
+ FSR_Jose_Zubiaur:0 "Хосе Анхель Зубиаур" # <<TRANSLATED>>
+ FSR_Jose_Zubiaur_eco_desc:0 "Министр экономики, монархия!" # <<TRANSLATED>>
+
+ FSR_Jose_Zamanillo:0 "Хосе Луис Заманильо" # <<TRANSLATED>>
+ FSR_Ricardo_Pardo:0 "Рикардо Пардо Занкада" # <<TRANSLATED>>
+ FSR_Miguel_Urmeneta:0 "Мигель Хавьер Урменета" # <<TRANSLATED>>
+ FSR_Jose_Pareja:0 "Хосе Артуро Маркес де Прадо и Парея" # <<TRANSLATED>>
+ FSR_Jose_Azcarraga:0 "Хосе Луис де Азкаррага" # <<TRANSLATED>>
+
+ #National Spirits 
+ FSR_spirit_zumalacarregui:0 "Дух Зумалакарреги" # <<TRANSLATED>>
+ FSR_precious_cargo:0 "Ценный груз" # <<TRANSLATED>>
+
+ #Tree
+  FSR_the_sane_choice:0 "Выбор сан" # <<TRANSLATED>>
+ FSR_the_sane_choice_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ FSR_the_sane_choice_tt:0 "§kAl legitimo rey se requiió. §!" # <<TRANSLATED>>
+
+ FSR_the_question_of_unity:0 "Вопрос единства" # <<TRANSLATED>>
+ FSR_the_question_of_unity_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_reestablish_the_comit_de_accin:0 "Восстановление Комитета по наблюдению" # <<TRANSLATED>>
+ FSR_reestablish_the_comit_de_accin_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_embrace_carloctavismo:0 "Приготовить Карлоктависмо" # <<TRANSLATED>>
+ FSR_embrace_carloctavismo_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_speak_with_the_aet:0 "Поговорите с ЭБТ" # <<TRANSLATED>>
+ FSR_speak_with_the_aet_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_celebrate_the_margaritas:0 "Отпразднуем Маргариту" # <<TRANSLATED>>
+ FSR_celebrate_the_margaritas_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_rise_requet_rise:0 "Подъём подъёма реквит" # <<TRANSLATED>>
+ FSR_rise_requet_rise_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_promises_of_public_participation:0 "ОБЯЗАТЕЛЬСТВА ОБЩЕСТВЕННОСТИ" # <<TRANSLATED>>
+ FSR_promises_of_public_participation_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_promises_of_a_mass_movement:0 "Обещания массового движения" # <<TRANSLATED>>
+ FSR_promises_of_a_mass_movement_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_promises_of_continuity:0 "ОБЯЗАТЕЛЬСТВА В ОТНОШЕНИИ КОНФЛИКТНОСТИ" # <<TRANSLATED>>
+ FSR_promises_of_continuity_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_dios_patria_fueros_rey:0 "Диос, Патриция, Фуэрос, Рей" # <<TRANSLATED>>
+ FSR_dios_patria_fueros_rey_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_new_navarrese_brigades:0 "Новые бригады Наваррес" # <<TRANSLATED>>
+ FSR_new_navarrese_brigades_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_experts_of_propaganda:0 "Эксперты по вопросам пропаганды" # <<TRANSLATED>>
+ FSR_experts_of_propaganda_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_experts_of_guerrilla:0 "Эксперты по вопросам гражданской юстиции" # <<TRANSLATED>>
+ FSR_experts_of_guerrilla_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_azcarragas_marines:0 "Морские пехотинцы Азкарраги" # <<TRANSLATED>>
+ FSR_azcarragas_marines_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_autonomous_infantry_battalions:0 "Автономные пехотные батальоны" # <<TRANSLATED>>
+ FSR_autonomous_infantry_battalions_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_in_the_name_of_the_red_beret:0 "Во имя красного берета" # <<TRANSLATED>>
+ FSR_in_the_name_of_the_red_beret_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_mobilise_auxiliary_tercios:0 "Мобилизовать вспомогательные Терсио" # <<TRANSLATED>>
+ FSR_mobilise_auxiliary_tercios_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_sivattes_catalonian_influence:0 "Каталонское влияние Сиватты" # <<TRANSLATED>>
+ FSR_sivattes_catalonian_influence_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_urmenetas_basque_connections:0 "Баскские связи Урменеты" # <<TRANSLATED>>
+ FSR_urmenetas_basque_connections_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_el_fuero_de_guerra:0 "Эль-Фуэро-де-Гуэрра" # <<TRANSLATED>>
+ FSR_el_fuero_de_guerra_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_mobilize_the_countryside:0 "Мобилизация усилий на благо развития страны" # <<TRANSLATED>>
+ FSR_mobilize_the_countryside_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_mobilize_the_cities:0 "Мобилизовать города" # <<TRANSLATED>>
+ FSR_mobilize_the_cities_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_mobilize_the_exiles:0 "Мобилизовать изгнание" # <<TRANSLATED>>
+ FSR_mobilize_the_exiles_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_economic_pragmatism:0 "Экономический прагматизм" # <<TRANSLATED>>
+ FSR_economic_pragmatism_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_decentralize_the_war_industry:0 "Децентрализация военной промышленности" # <<TRANSLATED>>
+ FSR_decentralize_the_war_industry_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_reestablish_the_sindicatos_libres:0 "Восстановление либре синдикато" # <<TRANSLATED>>
+ FSR_reestablish_the_sindicatos_libres_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_break_up_war_strikes:0 "Разрушить военные удары" # <<TRANSLATED>>
+ FSR_break_up_war_strikes_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ FSR_selfpolicing_workers:0 "Самоламенительные работники" # <<TRANSLATED>>
+ FSR_selfpolicing_workers_desc:0 "- Я не знаю." # <<TRANSLATED>>
+
+ FSR_the_hunt_for_grafters_and_corrupters:0 "Охота на плотников и коррупторов" # <<TRANSLATED>>
+ FSR_the_hunt_for_grafters_and_corrupters_desc:0 "- Я не знаю." # <<TRANSLATED>>

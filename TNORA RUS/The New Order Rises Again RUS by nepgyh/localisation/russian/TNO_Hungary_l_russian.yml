@@ -1,0 +1,155 @@
+﻿l_russian:
+
+ POLITICS_BELA_IMREDY_DESC:0 ""
+
+ HUN_social_democrat:0 "Королевство Венгрия"
+ HUN_social_democrat_DEF:0 "Королевство Венгрия"
+ HUN_social_democrat_ADJ:0 "Венгерск."
+ HUN_fascism:0 "Королевство Венгрия"
+ HUN_fascism_DEF:0 "Венгрия"
+ HUN_social_liberal:0 "Венгерская Республика"
+ HUN_social_liberal_DEF:0 "Венгерская Республика"
+ HUN_market_liberal:0 "Венгерская Республика"
+ HUN_market_liberal_DEF:0 "Венгерская Республика"
+ HUN_social_conservative:0 "Венгерская Республика"
+ HUN_social_conservative_DEF:0 "Венгерская Республика"
+ HUN_authoritarian_democrat:0 "Королевство Венгрия"
+ HUN_authoritarian_democrat_DEF:0 "Королевство Венгрия"
+ HUN_despotism:0 "Королевство Венгрия"
+ HUN_despotism_DEF:0 "Королевство Венгрия"
+ HUN_communist:0 "Венгерская Народная Республика"
+ HUN_communist_DEF:0 "Венгерская Народная Республика"
+ HUN_socialist:0 "Венгерская Народная Республика"
+ HUN_socialist_DEF:0 "Венгерская Народная Республика"
+ HUN_national_socialism:0 "Королевство Венгрия"
+ HUN_national_socialism_DEF:0 "Венгрия"
+ HUN_ultranational_socialism:0 "Венгрия"
+ HUN_ultranational_socialism_DEF:0 "Венгрия"
+ HUN_fascism_ADJ:0 "Венгерск."
+ HUN_social_liberal_ADJ:0 "Венгерск."
+ HUN_market_liberal_ADJ:0 "Венгерск."
+ HUN_social_conservative_ADJ:0 "Венгерск."
+ HUN_authoritarian_democrat_ADJ:0 "Венгерск."
+ HUN_communist_ADJ:0 "Венгерск."
+ HUN_despotism_ADJ:0 "Венгерск."
+ HUN_socialist_ADJ:0 "Венгерск."
+ HUN_ultranational_socialism_ADJ:0 "Венгерск."
+ HUN_national_socialism_ADJ:0 "Венгерск."
+    
+
+ ### PARTIES ###
+ HUN_communist_party:0 "KMP"
+ HUN_communist_party_long:0 "Kommunisták Magyarországi Pártja"
+
+ HUN_socialist_party:0 "MSM"
+ HUN_socialist_party_long:0 "Magyarországi Szocialista Munkáspárt"
+
+ HUN_social_democrat_party:0 "MSZDP"
+ HUN_social_democrat_party_long:0 "Magyarországi Szociáldemokrata Párt"
+
+ HUN_social_liberal_party:0 "PDP"
+ HUN_social_liberal_party_long:0 "Polgári Demokrata Párt"
+
+ HUN_market_liberal_party:0 "Ancapball"
+ HUN_market_liberal_party_long:0 "Ancapball with glasses"
+
+ HUN_social_conservative_party:0 "FKgP"
+ HUN_social_conservative_party_long:0 "Független Kisgazda-, Földmunkás- és Polgári Párt"
+
+ HUN_authoritarian_democrat_party:0 "MEP"
+ HUN_authoritarian_democrat_party_long:0 "Magyar Élet Pártja - Horthy Wing"
+
+ HUN_despotism_party:0 "MKH"
+ HUN_despotism_party_long:0 "Magyar Királyi Honvédség"
+
+ HUN_fascism_party:0 "MEP"
+ HUN_fascism_party_long:0 "Magyar Élet Pártja - Imrédy Wing"
+
+ HUN_national_socialism_party:0 "VB"
+ HUN_national_socialism_party_long:0 "Volksbund der Deutschen in Ungarn"
+
+ HUN_ultranational_socialism_party:0 "NYKP"
+ HUN_ultranational_socialism_party_long:0 "Nyilaskeresztes Párt – Hungarista Mozgalom"
+
+ HUN_burgundian_system_party:0 "Ancapball but Himmler"
+ HUN_burgundian_system_party_long:0 "Ancapball with glasses but Himmler"
+
+ ### MINISTERS ###
+ HUN_Andor_Jaross_hog:0 "Andor Jaross"
+ HUN_Bela_Miklos_sec:0 "Béla Miklós"
+ HUN_Ferenc_Rajniss_for:0 "Ferenc Rajniss"
+ HUN_Lajos_Remenyi_Schneller_eco:0 "Lajos Reményi-Schneller"
+ 
+ #Decisions
+ HUN_Asking_for_Slovenia:0 "Ask for the return of Slovenia"
+ HUN_Factories_Strike_because_radical:0 "Factory Strikes"
+    
+ 
+ #### NATIONAL UNREST ####  
+ HUN_National_Unrest_desc:0 "    Текущие народные волнения:    §R[?Root.national_unrest]§!\n"
+ HUN_Very_Low_National_Unrest:0 "Волнения отсутствуют"
+ HUN_Low_National_Unrest:0 "Малое недовольство"
+ HUN_Medium_National_Unrest:0 "Среднее недовольство среди населения"
+ HUN_High_National_Unrest:0 "Большое недовольство"
+ HUN_Very_High_National_Unrest:0 "Массовое недовольство среди населения"
+ 
+ HUN_Hire_International_Personell:0 "Нанять международный персонал"
+ HUN_Five_Year_Plan:0 "Пятилетний план"
+ HUN_deal_with_the_banks:0 "Сделка с банками"
+ #Miklas Horthy Jr.
+ #Ideas
+ HUN_Payment_to_other_Nation:0 "Военные долги"
+ HUN_Payment_from_other_Nation:0 "Получение военного долга"
+ HUN_Educational_Reform:0 "Реформа образования"
+ HUN_Cooperation_with_the_Bankers:0 "Кооперация с банкирами"
+ 
+HUN_International_Contacts_0:0 "Международные контракты"
+HUN_International_Contacts_JAP:0 "Международные контракты"
+HUN_International_Contacts_USA:0 "Международные контракты"
+HUN_International_Contacts_GER:0 "Международные контракты"
+HUN_International_Contacts_JAP_GER:0 "Международные контракты"
+HUN_International_Contacts_JAP_USA:0 "Международные контракты"
+HUN_International_Contacts_JAP_USA_GER:0 "Международные контракты"
+HUN_International_Contacts_USA_GER:0 "Международные контракты"
+
+ HUN_Recovering_Economy_2:0 "Восстановление экономики"
+ HUN_Recovering_Economy_1:0 "Восстановление экономики"
+ HUN_Red_Fear:0 "Красная тревога"
+ HUN_Prevent_Royal_Intervention:1 "Предотвратить королевское вмешательство"
+ HUN_Free_Speech:0 "Свобода слова"
+ HUN_Worked_for_Hungary:0 "Работа для Венгрии"
+ HUN_Agricultural_Assistance_i:0 "Поддержка агрокультуры"
+ HUN_received_attache:0 "Получить атташе"
+ HUN_Central_Planning_Commision:0 "Комиссия Централизированного Планирования"
+ HUN_Infantry_Production:0 "Пехотное производство"
+ HUN_Army_Production:0 "Военное производство"
+ HUN_Block_all_Opposition:0 "Не допускать оппозицию"
+ HUN_Political_Instability:0 "Политическая нестабильность"
+ HUN_Recovering_Economy:0 "Восстановление экономики"
+ HUN_Memory_of_Tisza:0 "Память о Тиссе"
+ HUN_Protect_the_Coast:0 "Защита границ!"
+ HUN_God_and_the_State:0 "Бог и Государство"
+ HUN_Agriculture_Subsidies:0 "Агрокультурные субсидии"
+ HUN_Family_Programs:0 "Программа помощи семьям"
+ HUN_Submarines_support:0 "Поддержка субмарин"
+ HUN_Italian_Experts:0 "Итальянские эксперты"
+# HUN_Red_Fear:0 "Red Fear Campaign" #duplicate loc key
+
+ ### Ideas ###
+ HUN_az_kormanypart:0 "A Kormánypárt"
+ HUN_az_kormanypart_desc:0 "Основанная в 1922 году как Партия единства, Венгерская партия жизни (или MEP) получила прозвище «правительственная партия» из-за почти безоговорочного доминирования в венгерской политике на протяжении всей своей истории. Несколько разнородная группа фашистов, консерваторов, монархистов и националистов, МЕР объединилась под харизматическим адмиралом Хорти, но теперь, когда во главе партии стоит новый и гораздо более радикальный регент, фракционность внутри партии начинает по-настоящему разгораться с внутренним противодействием. Имреди достигает тревожного уровня. Что еще хуже, другие венгерские партии, никогда полностью не объявленные вне закона, но полностью маргинализованные гегемонией МЕР, начинают бросать вызов его власти. Голоса за восстановление истинной демократии в Венгрии становятся все громче и громче.."the government party" because of its nearly uncontested domination of Hungarian politics for the whole duration of its history. A somewhat diverse grouping of fascists, conservatives, monarchists and nationalists, the MEP unified under the charismatic admiral Horthy, but now that a new and much more radical Regent is in charge factionalism within the party is beginning to truly flare up, with internal opposition to Imrédy reaching worrisome levels. What's worse, the other Hungarian parties, never completely outlawed but totally marginalized by MEP hegemony, are beginning to challenge its power - and voices for a restoration of true democracy in Hungary are growing louder and louder."
+
+ HUN_suffocated_economy:0 "Уничтоженная экономика"
+ HUN_suffocated_economy_desc:0 "После конфликта с Румынией в 1950-х годах и исключения Венгрии из статуса члена Пакта, страна погрязла в разрушительном экономическом кризисе. В ее промышленности преобладают немецкие инвестиции, в сельском хозяйстве преобладают невольничьи плантации и поля Украины, а торговля задушена неравноправными договорами с Пактом и Триумвиратом, даже финансовые навыки Имреди не могли спасти венгерскую экономику от краха, что в значительной степени запятнало имидж Регента."
+
+ HUN_der_volksbund:0 "Der Volksbund"
+ HUN_der_volksbund_desc:0 "Volksbund der Deutschen в Унгарне был основан в 1938 году как политическая ассоциация, призванная представлять этнических немцев в Венгрии. Фольксбунд - это открытая нацистская организация, с которой нужно считаться в венгерской политике: она пользуется почти полной поддержкой немецкого меньшинства (составляющей почти десятую часть населения Венгрии) и сохраняет постоянное представительство в парламенте. Однако высокий уровень жизни немцев и подозрения в отношении деятельности Абвера и СС, связанной с Фольксбундом, привели к тому, что многие венгры из всех слоев общества более или менее открыто ополчились против немцев и Фольксбунд, и, несмотря на фасад мира , межнациональная напряженность в стране впервые настолько высока."
+
+ ### Ministers ###
+ HUN_rezso_Nyers:0 "Rezső Nyers"
+ HUN_miklos_kallay:0 "Miklos Kallay"
+ HUN_erno_mihalyfi:0 "Erno Mihalyfi"
+ HUN_vilmos_nagy:0 "Vilmos Nagy"
+ HUN_antos_istvan:0 "Antos István"
+ HUN_lajos_czinege:0 "Lajos Czinege"
+ HUN_gusztav_hennyey:0 "Gusztáv Hennyey"

@@ -1,0 +1,148 @@
+﻿l_russian:
+ 
+ CTL_fascism:0 "Государство Каталония"
+ CTL_fascism_DEF:0 "Государство Каталония"
+ CTL_fascism_ADJ:0 "Каталонск."
+ CTL_social_democrat:0 "Республика Каталония"
+ CTL_social_democrat_DEF:0 "Республика Каталония"
+ CTL_social_democrat_ADJ:0 "Каталонск."
+ CTL_social_liberal:0 "Республика Каталония"
+ CTL_social_liberal_DEF:0 "Республика Каталония"
+ CTL_social_liberal_ADJ:0 "Каталонск."
+ CTL_market_liberal:0 "Республика Каталония"
+ CTL_market_liberal_DEF:0 "Республика Каталония"
+ CTL_market_liberal_ADJ:0 "Каталонск."
+ CTL_social_conservative:0 "Республика Каталония"
+ CTL_social_conservative_DEF:0 "Республика Каталония"
+ CTL_social_conservative_ADJ:0 "Каталонск."
+ CTL_authoritarian_democrat:0 "Республика Каталония"
+ CTL_authoritarian_democrat_DEF:0 "Республика Каталония"
+ CTL_authoritarian_democrat_ADJ:0 "Каталонск."
+ CTL_despotism:0 "Государство Каталония"
+ CTL_despotism_DEF:0 "Государство Каталония"
+ CTL_despotism_ADJ:0 "Каталонск."
+ CTL_communist:0 "Демократическая Народная Республика Каталония"
+ CTL_communist_DEF:0 "Демократическая Народная Республика Каталония"
+ CTL_communist_ADJ:0 "Каталонск."
+ CTL_socialist:0 "Социалистическая Республика Каталония"
+ CTL_socialist_DEF:0 "Социалистическая Республика Каталония"
+ CTL_socialist_ADJ:0 "Каталонск."
+ CTL_national_socialism:0 "Каталонская Социальная Республика"
+ CTL_national_socialism_DEF:0 "Каталонская Социальная Республика"
+ CTL_national_socialism_ADJ:0 "Каталонск."
+ CTL_ultranational_socialism:0 "Каталонская Социальная Республика"
+ CTL_ultranational_socialism_DEF:0 "Каталонская Социальная Республика"
+ CTL_ultranational_socialism_ADJ:0 "Каталонск."
+
+ CTL_GNS_district_national_socialism:0 "Distrito Militar Mediterraneo"
+ CTL_GNS_district_national_socialism_DEF:0 "El Distrito Militar Mediterraneo"
+ CTL_GNS_district_national_socialism_ADJ:0 "Mediterranean"
+
+ #Ministers
+ CTL_Jordi_Pujol_hog:0 "Jordi Pujol"
+ CTL_Herribert_Barrera_for:0 "Herribert Barrera"
+ CTL_Joan_Folchi_eco:0 "Joan Josep Folchi"
+ CTL_Francesc_Dalmau_mil:0 "Francesc Dalmau"
+ 
+ ###Parties###
+ CTL_social_liberal_party:0 "ERC"
+ CTL_social_liberal_party_long:0 "Esquerra Республикаana de Catalunya"
+ CTL_social_conservative_party:0 "ERC"
+ CTL_social_conservative_party_long:0 "Esquerra Республикаana de Catalunya"
+ CTL_social_democrat_party:0 "ERC"
+ CTL_social_democrat_party_long:0 "Esquerra Республикаana de Catalunya"
+ CTL_authoritarian_democrat_party:0 "CC"
+ CTL_authoritarian_democrat_party_long:0 "Conservadors de Catalunya"
+ CTL_communist_party:0 "PSUC"
+ CTL_communist_party_long:0 "Partit Socialista Unificat de Catalunya"
+ CTL_socialist_party:0 "MSC"
+ CTL_socialist_party_long:0 "Movimient Socialista de Catalunya"
+ CTL_national_socialism_party:0 "AO"
+ CTL_national_socialism_party_long:0 "Autoridades de Ocupaçao"
+
+ #National Spirits 
+ CTL_discontinued_government:0 "Правительство, лишенное права" # <<TRANSLATED>>
+ CTL_pancatalan_claims:0 "Претензии панкаталанцев" # <<TRANSLATED>>
+
+ #Tree
+  CTL_the_rebirth_of_the_generalitat:0 "Возрождение Всеобщей хартии" # <<TRANSLATED>>
+ CTL_the_rebirth_of_the_generalitat_desc:0 "Мы будем свободны!" # <<TRANSLATED>>
+ CTL_the_rebirth_of_the_generalitat_tt:0 "§fCatalunya, триомфант, рванара решетка it Penna!" # <<TRANSLATED>>
+
+ CTL_to_bring_catalonia_to_a_new_generation:0 "Чтобы привести Каталонию в новое поколение" # <<TRANSLATED>>
+ CTL_to_bring_catalonia_to_a_new_generation_desc:0 "Снова живи." # <<TRANSLATED>>
+ 
+ CTL_return_of_the_old_guard:0 "Возвращение старой гвардии" # <<TRANSLATED>>
+ CTL_return_of_the_old_guard_desc:0 "Долг зовет." # <<TRANSLATED>>
+ 
+ CTL_mobilise_catalan_industry:0 "Мобилизовать катало-скую промышленность" # <<TRANSLATED>>
+ CTL_mobilise_catalan_industry_desc:0 "За борьбу" # <<TRANSLATED>>
+ 
+ CTL_bring_omnium_cultural_into_the_light:0 "Приведите в свет омнийский культурный мир" # <<TRANSLATED>>
+ CTL_bring_omnium_cultural_into_the_light_desc:0 "На Культуру Омниума возложена задача сохранения культуры и языка Каталоники." # <<TRANSLATED>>
+ 
+ CTL_choosing_our_approach:0 "Выбор нашего подхода" # <<TRANSLATED>>
+ CTL_choosing_our_approach_desc:0 "Пойдёшь один или поможешь республиканцам?" # <<TRANSLATED>>
+ 
+ CTL_restore_pyrenees_hydroelectricity:0 "Возвращение Пиренеев" # <<TRANSLATED>>
+ CTL_restore_pyrenees_hydroelectricity_desc:0 "Энергия для Каталонии" # <<TRANSLATED>>
+ 
+ CTL_drown_them_in_catalan_steel:0 "Утопить их в Каталонской стали!" # <<TRANSLATED>>
+ CTL_drown_them_in_catalan_steel_desc:0 "Они не выиграют." # <<TRANSLATED>>
+ 
+ CTL_the_drive_to_independence:0 "Движение к независимости" # <<TRANSLATED>>
+ CTL_the_drive_to_independence_desc:0 "Каталония будет свободной!" # <<TRANSLATED>>
+ 
+ CTL_complete_prewar_naval_projects:0 "Полные довоенные военно-морские проекты" # <<TRANSLATED>>
+ CTL_complete_prewar_naval_projects_desc:0 "Для нас - флот." # <<TRANSLATED>>
+ 
+ CTL_against_our_enemies:0 "Против наших врагов" # <<TRANSLATED>>
+ CTL_against_our_enemies_desc:0 "Они погибнут." # <<TRANSLATED>>
+ 
+ CTL_sacramental_self_defense_forces:0 "Сакраментальные силы самообороны" # <<TRANSLATED>>
+ CTL_sacramental_self_defense_forces_desc:0 "Неважно, сколько." # <<TRANSLATED>>
+ 
+ CTL_crack_down_on_unionists:0 "Разрушить союзников" # <<TRANSLATED>>
+ CTL_crack_down_on_unionists_desc:0 "Мы не можем доверять профсоюзам, чтобы они были верными." # <<TRANSLATED>>
+ 
+ CTL_a_concrete_border:0 "Конкретная граница" # <<TRANSLATED>>
+ CTL_a_concrete_border_desc:0 "Бункеры пересекают границу." # <<TRANSLATED>>
+ 
+ CTL_the_spirit_of_montjuic:0 "Дух Монтжуика" # <<TRANSLATED>>
+ CTL_the_spirit_of_montjuic_desc:0 "Место рождения Барселоны." # <<TRANSLATED>>
+ 
+ CTL_if_you_are_catalan_you_shall_fight:0 "Если ты катализатор, ты будешь драться!" # <<TRANSLATED>>
+ CTL_if_you_are_catalan_you_shall_fight_desc:0 "Как и твой долг." # <<TRANSLATED>>
+ 
+ CTL_an_understanding_with_other_regions:0 "Понимание с другими регионами" # <<TRANSLATED>>
+ CTL_an_understanding_with_other_regions_desc:0 "Против испанских тиранов." # <<TRANSLATED>>
+ 
+ CTL_m1938s_for_everyone:0 "М-1938-е для всех!" # <<TRANSLATED>>
+ CTL_m1938s_for_everyone_desc:0 "Вооруженное общество — это безопасное общество." # <<TRANSLATED>>
+ 
+ CTL_with_the_republic:0 "С Республикой" # <<TRANSLATED>>
+ CTL_with_the_republic_desc:0 "Я уверен, что они готовы предоставить нам автономию в обмен на нашу поддержку." # <<TRANSLATED>>
+ 
+ CTL_technocratic_middlemen:0 "Технократические средние люди" # <<TRANSLATED>>
+ CTL_technocratic_middlemen_desc:0 "Оставьте детали нам." # <<TRANSLATED>>
+ 
+ CTL_refining_for_prisoners:0 "Уточнение условий содержания заключенных" # <<TRANSLATED>>
+ CTL_refining_for_prisoners_desc:0 "Мы разберемся с человеческим мусором." # <<TRANSLATED>>
+ 
+ CTL_maintain_access_to_spanish_banks:0 "Поддерживать доступ к испанским банкам" # <<TRANSLATED>>
+ CTL_maintain_access_to_spanish_banks_desc:0 "Поддерживать стабильность экономики." # <<TRANSLATED>>
+ 
+ CTL_food_for_guns:0 "Пища для оружия" # <<TRANSLATED>>
+ CTL_food_for_guns_desc:0 "У нас есть запас продовольствия для торговли, а республиканцы согласились предоставить нам оружие." # <<TRANSLATED>>
+ 
+ CTL_shared_bases_and_intelligence:0 "Общие базы и разведка" # <<TRANSLATED>>
+ CTL_shared_bases_and_intelligence_desc:0 "Сотрудничество идеально." # <<TRANSLATED>>
+ 
+ CTL_share_pegaso_blueprints:0 "Разделить голубые отпечатки Пегасо" # <<TRANSLATED>>
+ CTL_share_pegaso_blueprints_desc:0 "Лучшие грузовики." # <<TRANSLATED>>
+ 
+ CTL_hunt_down_terra_lliure:0 "Охотиться на CNT" # <<TRANSLATED>>
+ CTL_hunt_down_terra_lliure_desc:0 "Уничтожить анархистов." # <<TRANSLATED>>
+ 
+ CTL_remember_the_diada:0 "Помните Диаду" # <<TRANSLATED>>
+ CTL_remember_the_diada_desc:0 "Каталония снова будет свободной." # <<TRANSLATED>>

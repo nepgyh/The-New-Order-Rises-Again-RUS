@@ -1,0 +1,40 @@
+﻿l_russian:
+ RMN_fascism:0 "LEGIO IX HISPANIA"
+ RMN_fascism_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_social_liberal:0 "LEGIO IX HISPANIA"
+ RMN_social_liberal_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_market_liberal:0 "LEGIO IX HISPANIA"
+ RMN_market_liberal_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_social_conservative:0 "LEGIO IX HISPANIA"
+ RMN_social_conservative_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_authoritarian_democrat:0 "LEGIO IX HISPANIA"
+ RMN_authoritarian_democrat_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_despotism:0 "LEGIO IX HISPANIA"
+ RMN_despotism_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_communist:0 "LEGIO IX HISPANIA"
+ RMN_communist_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_socialist:0 "LEGIO IX HISPANIA"
+ RMN_socialist_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_radical_socialist:0 "LEGIO IX HISPANIA"
+ RMN_radical_socialist_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_fascism_ADJ:0 "Roman"
+ RMN_social_liberal_ADJ:0 "Roman"
+ RMN_market_liberal_ADJ:0 "Roman"
+ RMN_social_conservative_ADJ:0 "Roman"
+ RMN_authoritarian_democrat_ADJ:0 "Roman"
+ RMN_despotism_ADJ:0 "Roman"
+ RMN_communist_ADJ:0 "Roman"
+ 
+ ### National Focus Tree ###
+ 
+ ##### LEADER DESCRIPTIONS #####
+ POLITICS_LEGION_ADEODATUS_IOVITA_MANLIUS:0 "Легат был награжден лавровым венком за то, что много лет назад спас свой Легион от неминуемого уничтожения в Галатии. Когда-то это было его гордостью, истинным знаком чести, знаком величия и славы.\n\nОднако теперь венок ложится на его голову все тяжелее, поскольку он понимает, что это был знак не величия, а позора. Для человека, который навеки проклял свой Легион.\n\nОн одержал тысячу побед, тысячу триумфов и завоевал тысячу миров. Бесконечные места, которые не поддавались объяснению и отказывались подчиняться тому, что когда-то считалось законами человека, теперь склонились перед ним. Никто не может утверждать, что он не по-настоящему велик, что он не по-настоящему величайший завоеватель всей вечности.\n\nНо он не Император. Он не Цезарь. Он не Август. Он не хочет править доминионом, он хочет снова увидеть Рим. Увидеть зеленые глаза, которые когда-то смотрели в его, и тех, кого он когда-то мечтал воспитать сильными. Он мечтает о том дне, когда он сможет состариться и обрести покой.\n\nПо мере того, как шепот становится громче, а тьма бездны, по которой ступает его Легион, становится все темнее, с каждым разом, когда он снова восстает из праха, становится все яснее, что мир никогда больше не найдет его. Он проклят.\n\nКак и те, кто противостоят ему."
+ 
+ ###PARTIES###
+ RMN_despotism_party:0 "Legion Loyalists"
+ RMN_despotism_party_long:0 "Legion Loyalists"
+
+ ### Events ###
+### Ideas ###
+RMN_conquest_of_the_realms:0 "Conquest of the Realms"
+RMN_conquest_of_the_realms_desc:0 "On and on they march. From world to world. From lands of endless metal and flying chariots to lands left turned to ash and dust by the anger of the Gods. The Legion of the undying has seen many worlds, have seen many times, and have conquered each and every one.\n\nWith every conquest they have become stronger, and with every domination their thirst for freedom from the torment of victory has grown. Release, however, eludes them, and so they conquer. On and on until the end of all time.\n\nBut what lurks in the darkness?"
