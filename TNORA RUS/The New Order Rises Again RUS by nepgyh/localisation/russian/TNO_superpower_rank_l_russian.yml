@@ -1,46 +1,46 @@
 ﻿l_russian:
 
- TNO_prestige_gain:0 "Престиж: $PRESTIGE_VALUE$" # <<TRANSLATED>>
- TNO_COLOR_RED:0 "♪ Меняю ♪!" # <<TRANSLATED>>
- TNO_COLOR_GREEN:0 "♪ ♪ Меняю ♪!" # <<TRANSLATED>>
- TNO_set_superpower_status_tt:0 "Мы станем А!" # <<TRANSLATED>>
- TNO_superpower_score_tt:0 "Общий счет: [? rank_score_всего]" # <<TRANSLATED>>
- TNO_detente_title:0 "§ § § §!" # <<TRANSLATED>>
- TNO_superpower_title:0 "♪ Потрясающие ♪!" # <<TRANSLATED>>
- TNO_military_score_tt:0 "§Y Военный счет # ne Разрешен в зависимости от численности военных, а также количества союзников/кукол §!" # <<TRANSLATED>>
- TNO_economy_score_tt:0 "§ Ecoномия Скорая ~ ~ ne Рассчитанная количеством гражданских фабрик, а также общим ВВП ~ ~ ~ ~ ~ ~ ~ задолженность может снизить ваш экономический рейтинг §!" # <<TRANSLATED>>
- TNO_prestige_tt:0 "§YPrestige§!" # <<TRANSLATED>>
- TNO_superpower_rank_tt:0 "[? Это. Назовите Ранк]" # <<TRANSLATED>>
- TNO_world_hegemon_tt:0 "Мировые боевые силы: +3 ·n Attack Factor: +10,00% ·n Division Organization: +15,00% ~ nWeekly War Support: +1,00%" # <<TRANSLATED>>
- TNO_global_contender_tt:0 "Глобальная скорость строительства предприятий: +2 · · · · · · · · · · · · +10,00% · · · · · · · · · · +10,00% · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·" # <<TRANSLATED>>
- TNO_rising_force_tt:0 ":: nn Volunteer Force Cap: +1 nn un un section Organization: +5,0%" # <<TRANSLATED>>
- TNO_normal_superpower_tt:0 "Суперсила" # <<TRANSLATED>>
- TNO_no_detente_text:0 "♪ ДЕТЕНТЫ ЗАДЕРЖАНЫ §!" # <<TRANSLATED>>
- TNO_detente_name:0 "[? Это. Успокойся.]" # <<TRANSLATED>>
- TNO_detente_usa_japan_text:0 "§BHolulu Agreements§!" # <<TRANSLATED>>
- TNO_detente_usa_japan_text_tt:0 "§B [США. Найти имя] §-§T [JAP.GetName]§!" # <<TRANSLATED>>
- TNO_detente_usa_germany_text:0 "§RPact of the Eagles§!" # <<TRANSLATED>>
- TNO_detente_usa_germany_text_tt:0 "§B [США. Найти] §! §R [ГЕР.ГЭК]§!" # <<TRANSLATED>>
- TNO_detente_italy_usa_text:0 "\"Свобода для Медного соглашения\"!" # <<TRANSLATED>>
- TNO_detente_italy_usa_text_tt:0 "§G [ITA.GetName] §-§B [USA.GetName]§!" # <<TRANSLATED>>
- TNO_detente_italy_jap_text:0 "АЛЬТЕРМИНЫ Имперского Альянса!" # <<TRANSLATED>>
- TNO_detente_italy_jap_text_tt:0 "§G[ITA.GetName] §-§T [JAP.GetName] §G" # <<TRANSLATED>>
- TNO_detente_italy_germany_text:0 "§j Новая ось!" # <<TRANSLATED>>
- TNO_detente_italy_germany_text_tt:0 "§G [ITA.GetName] §! §-§R[GER.GetName]§!" # <<TRANSLATED>>
- TNO_detente_rus_usa_text:0 "§z Северный альянс§!" # <<TRANSLATED>>
- TNO_detente_rus_usa_text_tt:0 "§g [RUS.GetName] §-§B [USA.GetName]§!" # <<TRANSLATED>>
- TNO_detente_rus_italy_text:0 "§ Игры Рима§!" # <<TRANSLATED>>
- TNO_detente_rus_italy_text_tt:0 "§g [RUS.GetName] §-§G [ITA.GetName]§!" # <<TRANSLATED>>
- TNO_detente_china_rus_text:0 "§ Договор о сотрудничестве!" # <<TRANSLATED>>
- TNO_detente_china_rus_text_tt:0 "§ [Чи. Найти имя] §-§g [Русс. Найти имя]§!" # <<TRANSLATED>>
- TNO_detente_china_usa_text:0 "Организация свободы Тихого океана!" # <<TRANSLATED>>
- TNO_detente_china_usa_text_tt:0 "§ [Чи. Найти имя] §-§B [США. Найти имя]§!" # <<TRANSLATED>>
- TNO_detente_china_germany_text:0 "Старый Альянс!" # <<TRANSLATED>>
- TNO_detente_china_germany_text_tt:0 "§ [Чи. Найти имя] §-§R[Герман. Найти]§!" # <<TRANSLATED>>
- TNO_detente_japan_germany_text:0 "§xreferord Iron Pact§!" # <<TRANSLATED>>
- TNO_detente_japan_germany_text_tt:0 "§ [JAP.GetName] §! §-§R[GER.GetName]§!" # <<TRANSLATED>>
- TNO_detente_kn_text:0 "§LKoalition der Nationen§!" # <<TRANSLATED>>
- TNO_detente_kn_text_tt:0 "Мир вечно" # <<TRANSLATED>>
- TNO_detente_formed:0 "Новый разряд будет сформирован!" # <<TRANSLATED>>
- TNO_detente_broken:0 "Это разрушит разряд!!!!!!" # <<TRANSLATED>>
- TNO_detente_possible:0 "§z Это может привести к разрядке §!" # <<TRANSLATED>>
+ TNO_prestige_gain:0 "Престиж: $PRESTIGE_VALUE$"
+ TNO_COLOR_RED:0 "§R$VALUE_CHANGE$§!"
+ TNO_COLOR_GREEN:0 "§G$VALUE_CHANGE$§!"
+ TNO_set_superpower_status_tt:0 "§gМы Станем§! §OМировой Сверхдержавой!§!"
+ TNO_superpower_score_tt:0 "Общий счёт: [?this.rank_score_total]"
+ TNO_detente_title:0 "§yАКТИВНЫЕ РАЗРЯДКИ§!"
+ TNO_superpower_title:0 "§MСВЕРХДЕРЖАВЫ§!"
+ TNO_military_score_tt:0 "§YВоенный Счёт \nОпределяется размерами армии, а также количеством союзников и марионеток§!"
+ TNO_economy_score_tt:0 "§YЭкономический Счёт \nОпределяется количеством гражданских фабрик и общим ВВП \nОднако долг может снизить экономический счёт§!"
+ TNO_prestige_tt:0 "§YПрестиж§!"
+ TNO_superpower_rank_tt:0 "[?this.GetRankName]"
+ TNO_world_hegemon_tt:0 "Мировой Гегемон \nМодификаторы: \nЛимит добровольческих сил: +3 \nФактор атаки армии: +10.00% \nОрганизация дивизий: +15.00% \nЕженедельная поддержка войны: +1.00%"
+ TNO_global_contender_tt:0 "Глобальный Претендент \nМодификаторы: \nЛимит добровольческих сил: +2 \nСкорость строительства гражданских фабрик: +10.00% \nОрганизация дивизий: +10.00%"
+ TNO_rising_force_tt:0 "Восходящая Сила \nМодификаторы: \nЛимит добровольческих сил: +1 \nОрганизация дивизий: +5.00%"
+ TNO_normal_superpower_tt:0 "Сверхдержава"
+ TNO_no_detente_text:0 "§RРАЗРЯДКИ НЕ ОБНАРУЖЕНЫ§!"
+ TNO_detente_name:0 "[?this.GetDetenteName]"
+ TNO_detente_usa_japan_text:0 "§BГонолульские Соглашения§!"
+ TNO_detente_usa_japan_text_tt:0 "§B[USA.GetName]§!-§T[JAP.GetName]§!"
+ TNO_detente_usa_germany_text:0 "§RПакт Орлов§!"
+ TNO_detente_usa_germany_text_tt:0 "§B[USA.GetName]§!-§R[GER.GetName]§!"
+ TNO_detente_italy_usa_text:0 "§GСвобода Для Средиземноморья§!"
+ TNO_detente_italy_usa_text_tt:0 "§G[ITA.GetName]§!-§B[USA.GetName]§!"
+ TNO_detente_italy_jap_text:0 "§EИмперский Альянс§!"
+ TNO_detente_italy_jap_text_tt:0 "§G[ITA.GetName]§!-§T[JAP.GetName]§G"
+ TNO_detente_italy_germany_text:0 "§jНовая Ось§!"
+ TNO_detente_italy_germany_text_tt:0 "§G[ITA.GetName]§!-§R[GER.GetName]§!"
+ TNO_detente_rus_usa_text:0 "§zСеверный Альянс§!"
+ TNO_detente_rus_usa_text_tt:0 "§g[RUS.GetName]§!-§B[USA.GetName]§!"
+ TNO_detente_rus_italy_text:0 "§IНаследники Рима§!"
+ TNO_detente_rus_italy_text_tt:0 "§g[RUS.GetName]§!-§G[ITA.GetName]§!"
+ TNO_detente_china_rus_text:0 "§YЕвразийский Договор О Сотрудничестве§!"
+ TNO_detente_china_rus_text_tt:0 "§Y[CHI.GetName]§!-§g[RUS.GetName]§!"
+ TNO_detente_china_usa_text:0 "§CОрганизация Тихоокеанской Свободы§!"
+ TNO_detente_china_usa_text_tt:0 "§Y[CHI.GetName]§!-§B[USA.GetName]§!"
+ TNO_detente_china_germany_text:0 "§QСтарый Альянс§!"
+ TNO_detente_china_germany_text_tt:0 "§Y[CHI.GetName]§!-§R[GER.GetName]§!"
+ TNO_detente_japan_germany_text:0 "§xВозрождённый Железный Пакт§!"
+ TNO_detente_japan_germany_text_tt:0 "§T[JAP.GetName]§!-§R[GER.GetName]§!"
+ TNO_detente_kn_text:0 "§LКоалиция Наций§!"
+ TNO_detente_kn_text_tt:0 "Мир Навеки"
+ TNO_detente_formed:0 "§aБудет Создана Новая Разрядка!§!"
+ TNO_detente_broken:0 "§rЭто Приведёт К Разрыву Разрядки!!!§!"
+ TNO_detente_possible:0 "§zЭто Может Привести К Разрядке§!"

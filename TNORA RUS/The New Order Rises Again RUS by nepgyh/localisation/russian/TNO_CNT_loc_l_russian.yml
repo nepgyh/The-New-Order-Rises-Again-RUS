@@ -8,110 +8,110 @@
 
  #Ministers
  CNT_Juan_Garcia_dep:0 "Joan García i Oliver"
- CNT_Carles_Fontsere_for: "Carles Fontseré"
+ CNT_Carles_Fontsere_for:0 "Carles Fontseré"
  CNT_Germinal_Esgleas_eco:0 "Germinal Esgleas"
  CNT_Antonio_Ortiz_mil:0 "Antonio Ortiz"
- 
 
 #Iberian Wars focuses
- CNT_an_army_fit_for_the_revolution:0 "Армия, пригодная для революции" # <<TRANSLATED>>
- CNT_an_army_fit_for_the_revolution_desc:0 "Надлежащую армию нужно подстроить." # <<TRANSLATED>>
- CNT_revolutionary_catalonia_reborn:0 "Революционная Каталония, Рекорн" # <<TRANSLATED>>
- CNT_revolutionary_catalonia_reborn_tt:0 "§VES la lluita final, unim-nos i dema la internacional serà el genre humà. §!" # <<TRANSLATED>>
- CNT_revolutionary_catalonia_reborn_desc:0 "Мы снова боремся за революцию." # <<TRANSLATED>>
- CNT_the_peoples_war:0 "Народная война" # <<TRANSLATED>>
- CNT_the_peoples_war_desc:0 "Народ должен вести войну за народ." # <<TRANSLATED>>
- CNT_an_army_of_militias:0 "Армия ополчения" # <<TRANSLATED>>
- CNT_an_army_of_militias_desc:0 "Их будет много, но их дело одно." # <<TRANSLATED>>
- CNT_a_cohesive_army_for_an_uncohesive_movement:0 "Совершающая войну армия за непримиримое движение" # <<TRANSLATED>>
- CNT_a_cohesive_army_for_an_uncohesive_movement_desc:0 "Приказ должен быть доставлен к военным." # <<TRANSLATED>>
- CNT_organize_the_armies:0 "Организуйте армии" # <<TRANSLATED>>
- CNT_organize_the_armies_desc:0 "Армия в беспорядке будет нашей смертью." # <<TRANSLATED>>
- CNT_a_newborn_military_democratic_system:0 "Новорожденная военная демократическая система" # <<TRANSLATED>>
- CNT_a_newborn_military_democratic_system_desc:0 "Военные должны быть такими же демократическими, как и государство, или же их отсутствие." # <<TRANSLATED>>
- CNT_following_psucs_wisdom:0 "Следуя мудрости ППУК" # <<TRANSLATED>>
- CNT_following_psucs_wisdom_desc:0 "Коммунисты правильно представляют войну, мы не можем победить с толпой." # <<TRANSLATED>>
- CNT_solidifying_a_corps_system:0 "Укрепляющая система корпусов" # <<TRANSLATED>>
- CNT_solidifying_a_corps_system_desc:0 "Анархисты будут жаловаться, но иерархия принесет нам победу." # <<TRANSLATED>>
- CNT_the_matter_of_revolution:0 "Вопрос революции" # <<TRANSLATED>>
- CNT_the_matter_of_revolution_desc:0 "В чем наша цель?" # <<TRANSLATED>>
- CNT_solving_the_riddle_of_the_officer_corps:0 "Разрешить « Обрушение » Офицерского корпуса" # <<TRANSLATED>>
- CNT_solving_the_riddle_of_the_officer_corps_desc:0 "Как же вести армию?" # <<TRANSLATED>>
- CNT_sorting_out_the_logistical_hazards:0 "Выработка логистических рисков" # <<TRANSLATED>>
- CNT_sorting_out_the_logistical_hazards_desc:0 "Поставки эссентиалов для войны." # <<TRANSLATED>>
- CNT_ideological_loyalty:0 "Идеологическая преданность" # <<TRANSLATED>>
- CNT_ideological_loyalty_desc:0 "Никаких разногласий." # <<TRANSLATED>>
- CNT_tighten_training_standards:0 "Более жесткие стандарты подготовки" # <<TRANSLATED>>
- CNT_tighten_training_standards_desc:0 "Они должны быть дисциплинированы в ряды." # <<TRANSLATED>>
- CNT_anarchist_commissars:0 "Анархисты" # <<TRANSLATED>>
- CNT_anarchist_commissars_desc:0 "Все должны быть привержены свободе, или же." # <<TRANSLATED>>
- CNT_ensure_broader_professionalism:0 "Обеспечение более широкой профессиональной подготовки" # <<TRANSLATED>>
- CNT_ensure_broader_professionalism_desc:0 "Профессиональная армия - это победная армия." # <<TRANSLATED>>
- CNT_power_in_numbers:0 "Мощность в цифрах" # <<TRANSLATED>>
- CNT_power_in_numbers_desc:0 "Масса поднимется." # <<TRANSLATED>>
- CNT_pull_from_the_ranks:0 "Вытащить с градусов" # <<TRANSLATED>>
- CNT_pull_from_the_ranks_desc:0 "Солдаты будут драться." # <<TRANSLATED>>
- CNT_pull_from_the_populace:0 "Вытащить из Популаса" # <<TRANSLATED>>
- CNT_pull_from_the_populace_desc:0 "Люди будут драться." # <<TRANSLATED>>
- CNT_ensure_minimum_training:0 "Обеспечение минимальной подготовки" # <<TRANSLATED>>
- CNT_ensure_minimum_training_desc:0 "Они должны хотя бы знать, как стрелять и стрелять, или они могут быть террористами-смертниками, если не будут." # <<TRANSLATED>>
- CNT_heightened_recruitment_standards:0 "Просветительные стандарты набора персонала" # <<TRANSLATED>>
- CNT_heightened_recruitment_standards_desc:0 "Только лучшее для армии." # <<TRANSLATED>>
- CNT_laying_the_groundwork:0 "Складывая землю" # <<TRANSLATED>>
- CNT_laying_the_groundwork_desc:0 "Будущее Иберии будет определено позже, но пока мы должны решить будущее Каталонии." # <<TRANSLATED>>
- CNT_establish_regional_authority_leadership:0 "Создание регионального органа управления" # <<TRANSLATED>>
- CNT_establish_regional_authority_leadership_desc:0 "Централизованное государство распространяет только тиранию." # <<TRANSLATED>>
- CNT_the_cnts_strength_of_ideology:0 "Сила идеологии КНТ" # <<TRANSLATED>>
- CNT_the_cnts_strength_of_ideology_desc:0 "ЦНТ освободит массы." # <<TRANSLATED>>
- CNT_strengthening_the_states_position:0 "Укрепление позиции государства" # <<TRANSLATED>>
- CNT_strengthening_the_states_position_desc:0 "Только государство может бороться за революцию." # <<TRANSLATED>>
- CNT_a_break_from_tradition:0 "Прекратить традицию" # <<TRANSLATED>>
- CNT_a_break_from_tradition_desc:0 "Возможно, пришло время нам оттолкнуть некоторые из наших более радикальных убеждений?" # <<TRANSLATED>>
- CNT_return_to_the_communal_system:0 "Возвращение в общинную систему" # <<TRANSLATED>>
- CNT_return_to_the_communal_system_desc:0 "Люди правят, а не элита." # <<TRANSLATED>>
- CNT_industry_for_the_people:0 "Промышленность для людей" # <<TRANSLATED>>
- CNT_industry_for_the_people_desc:0 "Для нужд работника, а не капиталиста." # <<TRANSLATED>>
- CNT_patrols_down_the_street:0 "Патрульные вниз по улице" # <<TRANSLATED>>
- CNT_patrols_down_the_street_desc:0 "Реакционные действия повсюду..." # <<TRANSLATED>>
- CNT_seize_the_industry:0 "Изымать промышленность" # <<TRANSLATED>>
- CNT_seize_the_industry_desc:0 "Для революции." # <<TRANSLATED>>
- CNT_seize_the_traitors:0 "Схватить предателей" # <<TRANSLATED>>
- CNT_seize_the_traitors_desc:0 "Они должны погибнуть." # <<TRANSLATED>>
- CNT_collectivized_agriculture:0 "Совместное сельское хозяйство" # <<TRANSLATED>>
- CNT_collectivized_agriculture_desc:0 "Еда для всех или для всех." # <<TRANSLATED>>
- CNT_an_industry_fitting_of_warfare:0 "Индустрия, занимающаяся ведением войны" # <<TRANSLATED>>
- CNT_an_industry_fitting_of_warfare_desc:0 "Коммунизм войны работает!" # <<TRANSLATED>>
- CNT_strength_in_unity:0 "Сила в единстве" # <<TRANSLATED>>
- CNT_strength_in_unity_desc:0 "Будет время, когда мы повернемся друг против друга, и новая Иберия будет решать победителем. Сейчас не время. Теперь мы должны бороться вместе и победить капиталистов и фашистов." # <<TRANSLATED>>
+ CNT_an_army_fit_for_the_revolution:0 "Армия, годная для революции"
+ CNT_an_army_fit_for_the_revolution_desc:0 "Нужно закалить надёжную и дисциплинированную армию."
+ CNT_revolutionary_catalonia_reborn:0 "Революционная Каталония возрождается"
+ CNT_revolutionary_catalonia_reborn_tt:0 "§VÉs la lluita final, unim-nos i demà la internacional serà el gènere humà.§!"
+ CNT_revolutionary_catalonia_reborn_desc:0 "Мы снова сражаемся за революцию."
+ CNT_the_peoples_war:0 "Народная война"
+ CNT_the_peoples_war_desc:0 "Война за народ должна вестись самим народом."
+ CNT_an_army_of_militias:0 "Армия из милиций"
+ CNT_an_army_of_militias_desc:0 "Их будет много, но цель у них одна."
+ CNT_a_cohesive_army_for_an_uncohesive_movement:0 "Единая армия для разрозненного движения"
+ CNT_a_cohesive_army_for_an_uncohesive_movement_desc:0 "Нужно ввести порядок в военных рядах."
+ CNT_organize_the_armies:0 "Организовать армии"
+ CNT_organize_the_armies_desc:0 "Армия в беспорядке — наша гибель."
+ CNT_a_newborn_military_democratic_system:0 "Новорождённая военная демократическая система"
+ CNT_a_newborn_military_democratic_system_desc:0 "Военные должны быть так же демократичны, как и государство (или его отсутствие)."
+ CNT_following_psucs_wisdom:0 "Следуя мудрости PSUC"
+ CNT_following_psucs_wisdom_desc:0 "Коммунисты правы насчёт войны. Мы не можем выиграть толпой."
+ CNT_solidifying_a_corps_system:0 "Укрепление корпуса"
+ CNT_solidifying_a_corps_system_desc:0 "Анархисты будут недовольны, но иерархия приведёт нас к победе."
+ CNT_the_matter_of_revolution:0 "Дело революции"
+ CNT_the_matter_of_revolution_desc:0 "В чём наша цель? Что мы защищаем?"
+ CNT_solving_the_riddle_of_the_officer_corps:0 "Разгадка вопроса офицерского корпуса"
+ CNT_solving_the_riddle_of_the_officer_corps_desc:0 "Кто и как будет руководить армией?"
+ CNT_sorting_out_the_logistical_hazards:0 "Устранение логистических проблем"
+ CNT_sorting_out_the_logistical_hazards_desc:0 "Снабжение — ключ к ведению войны."
+ CNT_ideological_loyalty:0 "Идеологическая лояльность"
+ CNT_ideological_loyalty_desc:0 "Никакого инакомыслия."
+ CNT_tighten_training_standards:0 "Ужесточить стандарты подготовки"
+ CNT_tighten_training_standards_desc:0 "В рядах должна быть дисциплина."
+ CNT_anarchist_commissars:0 "Анархистские комиссары"
+ CNT_anarchist_commissars_desc:0 "Все должны быть абсолютно преданы свободе. Иначе — нет."
+ CNT_ensure_broader_professionalism:0 "Обеспечить более широкий профессионализм"
+ CNT_ensure_broader_professionalism_desc:0 "Профессиональная армия — армия, которая побеждает."
+ CNT_power_in_numbers:0 "Сила в числах"
+ CNT_power_in_numbers_desc:0 "Массы поднимутся."
+ CNT_pull_from_the_ranks:0 "Призывать из рядов"
+ CNT_pull_from_the_ranks_desc:0 "Солдаты будут сражаться."
+ CNT_pull_from_the_populace:0 "Привлечь население"
+ CNT_pull_from_the_populace_desc:0 "Народ мобилизуется на борьбу."
+ CNT_ensure_minimum_training:0 "Обеспечить минимальную подготовку"
+ CNT_ensure_minimum_training_desc:0 "Они хотя бы должны уметь целиться и стрелять. В противном случае — это самоубийство."
+ CNT_heightened_recruitment_standards:0 "Повышенные стандарты набора"
+ CNT_heightened_recruitment_standards_desc:0 "В армию — только лучшие."
+ CNT_laying_the_groundwork:0 "Закладываем основу"
+ CNT_laying_the_groundwork_desc:0 "Будущее Иберии решится позже, сейчас решается судьба Каталонии."
+ CNT_establish_regional_authority_leadership:0 "Учредить региональные органы власти"
+ CNT_establish_regional_authority_leadership_desc:0 "Централизованное государство тянет к тирании. Регионам нужна автономия."
+ CNT_the_cnts_strength_of_ideology:0 "Идейная сила CNT"
+ CNT_the_cnts_strength_of_ideology_desc:0 "CNT освободит массы."
+ CNT_strengthening_the_states_position:0 "Укрепление позиций государства"
+ CNT_strengthening_the_states_position_desc:0 "Только государство способно вести революционную войну."
+ CNT_a_break_from_tradition:0 "Отход от традиции"
+ CNT_a_break_from_tradition_desc:0 "Возможно, пора притушить некоторые радикальные идеи — хотя бы на время."
+ CNT_return_to_the_communal_system:0 "Возврат к коммунальной системе"
+ CNT_return_to_the_communal_system_desc:0 "Правит народ, а не элита."
+ CNT_industry_for_the_people:0 "Промышленность для народа"
+ CNT_industry_for_the_people_desc:0 "Производство для нужд рабочих, а не капиталистов."
+ CNT_patrols_down_the_street:0 "Патрули в улицах"
+ CNT_patrols_down_the_street_desc:0 "Реакционные элементы повсюду..."
+ CNT_seize_the_industry:0 "Конфисковать промышленность"
+ CNT_seize_the_industry_desc:0 "Во имя революции."
+ CNT_seize_the_traitors:0 "Поймать предателей"
+ CNT_seize_the_traitors_desc:0 "Они должны быть наказаны."
+ CNT_collectivized_agriculture:0 "Коллективное сельское хозяйство"
+ CNT_collectivized_agriculture_desc:0 "Пища для всех или для никого."
+ CNT_an_industry_fitting_of_warfare:0 "Промышленность, подходящая для войны"
+ CNT_an_industry_fitting_of_warfare_desc:0 "Военный коммунизм работает!"
+ CNT_strength_in_unity:0 "Сила в единстве"
+ CNT_strength_in_unity_desc:0 "Рано или поздно мы можем обратиться друг против друга и будущее Иберии решит победитель.\n\nНо сейчас не время. Сейчас мы должны сражаться вместе и победить капиталистов и фашистов."
 
 #National Spirits 
-CNT_unequal_revolution:0 "Неравная революция" # <<TRANSLATED>>
-CNT_unorganized_army:0 "Неорганизованная армия" # <<TRANSLATED>>
+ CNT_unequal_revolution:0 "Неравная революция"
+ CNT_unorganized_army:0 "Неорганизованная армия"
+
 #Events
-CNT_wars.1.t:0 "Честно говоря" # <<TRANSLATED>>
-CNT_wars.1.desc:0 "На бумаге анархия кажется вполне хорошей. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ." # <<TRANSLATED>>
-CNT_wars.1.a:0 "Это цена демократии?" # <<TRANSLATED>>
+ CNT_wars.1.t:0 "Честно говоря"
+ CNT_wars.1.desc:0 "Анархия на бумаге выглядит красиво: «Полная свобода, подпишите меня! Смерть буржуа!» — можно кричать так. Но на практике не всегда всё солнечно и чинят церкви поджигают. Прошлая пятница на штабе выдалась жаркой — два дурака-командира устроили драку из-за припасов. Товарищи? Нет. Эти двое сцепились друг с другом из-за патронов и бинтов! Когда я был в иберийской армии, кто-то сверху решал, кто что получит. А у нас теперь «демократическая» армия. Что это значит?\n\nПросто — ничего не делается!"
+ CNT_wars.1.a:0 "Разве это цена демократии?"
 
-CNT_wars.2.t:0 "- Я не знаю." # <<TRANSLATED>>
-CNT_wars.2.desc:0 "В том же региональном штабе, два сотрудника из предыдущих, спорят, на этот раз из-за распространения оружия, однако на этот раз женщина срезает разговор и ведет их в небольшое отделение, где несколько человек работают над файлами и архивами. Три сотрудника садятся и после того, как офицеры будут надлежащим образом опознаны, женщина дает другому коллеге несколько бумаг. После короткого периода времени, когда офицеры начали снова спорить, коллега возвращается и рассказывает офицерам, как будет работать распространение, основываясь на информации, которую имеет штаб-квартира об их подразделениях." # <<TRANSLATED>>
-CNT_wars.2.a:0 "- Я не знаю." # <<TRANSLATED>>
+ CNT_wars.2.t:0 ""
+ CNT_wars.2.desc:0 "В том же региональном штабе те же два офицера спорят, теперь из-за распределения оружия. Но вмешивается женщина и заводит их в небольшой офис, где люди работают с документами и архивами. После опознания офицеров один из коллег получает пачку бумаг и, немного подумав, возвращается объяснить, как теперь будет организовано распределение, опираясь на данные штаба."
+ CNT_wars.2.a:0 ""
 
-CNT_wars.3.t:0 "Объединенный фронт?" # <<TRANSLATED>>
-CNT_wars.3.desc:0 "Но если бы Народный фронт состоял из только хороших и дисциплинированных коммунистов, то война была бы просто тортиком. Но если бы он не был в стороне от Бухаринисма и ревизионизма, коммунисту можно было бы доверять следовать приказам и делать то, что нужно. Но он не был в этой фантазии. Он был застрял в этой стране. Если бы они захватили контроль, все было бы потеряно. Он был уверен в этом. Ничего не было бы, ни один из их региональных ополчений был бы праведным, ради Бога." # <<TRANSLATED>>
-CNT_wars.3.a:0 "Что Маркс скажет?" # <<TRANSLATED>>
+ CNT_wars.3.t:0 "Единый фронт?"
+ CNT_wars.3.desc:0 "Недавно назначенный «командир корпуса» Эммануэль был раздосадован. \n\nЕсли бы Народный фронт состоял только из грамотных и дисциплинированных коммунистов, война была бы лёгкой. Коммуниста можно было бы поручить выполнить приказ и он бы сделал это. \n\nНо он не в фантазии: ему приходится работать с CNT. Это анархо-синдикалисты, и они не дают забыть об этом. Для него они — безумная толпа. Такой хаос рождает реакцию. У CNT нет революционной дисциплины; нет авангарда. Недавно он узнал, что одну из их региональных милиций командует женщина. Женщина! \n\nХотя... она как минимум приятна внешне... \n\nСтой! Что это он говорит? Настоящий коммунист не должен думать о таком!"
+ CNT_wars.3.a:0 "Что бы сказал Маркс!?"
 
-CNT_wars.4.t:0 "- Я не знаю." # <<TRANSLATED>>
-CNT_wars.4.desc:0 "Мероприятие, посвященное новой программе подготовки, предусматривающей более широкое обучение и обучение по теории боевых действий для даже неуспевающих офицеров." # <<TRANSLATED>>
-CNT_wars.4.a:0 "- Я не знаю." # <<TRANSLATED>>
+ CNT_wars.4.t:0 ""
+ CNT_wars.4.desc:0 "Событие о новой программе подготовки с усиленной физической подготовкой и курсами боевой теории даже для младших офицеров."
+ CNT_wars.4.a:0 ""
 
-CNT_wars.5.t:0 "- Я не знаю." # <<TRANSLATED>>
-CNT_wars.5.desc:0 "Два офицера рассматривают кучу возможных кандидатов на повышение, большинство из них средние, и только пара из них хороши, но с большим количеством мест, чтобы заполнить их, они решили получить топ 5 и начать процесс повышения в должности" # <<TRANSLATED>>
-CNT_wars.5.a:0 "- Я не знаю." # <<TRANSLATED>>
+ CNT_wars.5.t:0 ""
+ CNT_wars.5.desc:0 "Два офицера просматривают список кандидатов на повышение: большинство — средние, лишь пара человек достойны, но с большим количеством вакансий они решают выбрать пятёрку лучших и начать процесс повышения."
+ CNT_wars.5.a:0 ""
 
-CNT_wars.6.t:0 "Служитель масс" # <<TRANSLATED>>
-CNT_wars.6.desc:0 "Сельский коммуна была создана без затылок, но он хотел сказать то же самое за то, что произошло вчера. ~nn htm Что это все? ~ Алехандро жест к массивной куча бумаг, сидящих за столом. ~nnn / prievances, conduments and proposits от членов коммуны, ~ Товарищ Даниэль ответил, ♫ Мы взяли их на вчерашний конгресс. ~ Тот, на котором вы были слишком больны, чтобы присутствовать. ~ ~n" # <<TRANSLATED>>
-CNT_wars.6.a:0 "Потому что он знал, что Даниил говорит правду" # <<TRANSLATED>>
+ CNT_wars.6.t:0 "Слуга масс"
+ CNT_wars.6.desc:0 "Коммуну создали без серьёзных проблем, но дальше было не так просто. \n\n«Что это такое?» — жестом указал Алехандро на огромную кипу бумаг на столе. \n\n«Жалобы, вопросы и предложения членов коммуны», — ответил товарищ Даниэль. «Мы записали их на собрании вчера — того самого, на котором тебя не было». \n\nОн поморщился. «Не напоминай», — подумал он; надо бы пить меньше. \n\n«Ну что ж, за работу», — спокойно сказал Даниэль. «Большинство — жалобы о коровах и пастбищах». \n\n«Прекрасно». \n\n«Это реальность управления коммуной. Мы служим». \n\nАлехандро вздохнул и молчал."
+ CNT_wars.6.a:0 "Потому что он знал — Даниэль говорит правду"
 
-CNT_wars.7.t:0 "- Я не знаю." # <<TRANSLATED>>
-CNT_wars.7.desc:0 "Патруль PSAN проводит раунд поиска : isbreverives, который ведет антиреволюционную пропаганду, и через некоторое время они находят пару мужчин с этой пропагандой и погоней." # <<TRANSLATED>>
-CNT_wars.7.a:0 "- Я не знаю." # <<TRANSLATED>>
+ CNT_wars.7.t:0 ""
+ CNT_wars.7.desc:0 "Патруль милиции PSAN прочёсывает район в поисках «подрывной» пропаганды. Через некоторое время они находят пару человек с такими листовками и начинается погоня. Финал остаётся за автором события."
+ CNT_wars.7.a:0 ""

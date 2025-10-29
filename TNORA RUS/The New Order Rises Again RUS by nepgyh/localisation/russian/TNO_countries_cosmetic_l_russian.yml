@@ -2668,102 +2668,111 @@
  SAH_unified:0 "Всероссийский Освободительный Авангард"
  #RA
  #HGR Europa
- GER_EUROPA:0 "Европейш Volksreich" # <<TRANSLATED>>
- GER_EUROPA_DEF:0 "Европейское Volksreich" # <<TRANSLATED>>
- GER_EUROPA_ADJ:0 "Европейш" # <<TRANSLATED>>
+ GER_EUROPA:0 "Европейский Фольксрейх"
+ GER_EUROPA_DEF:0 "Европейский Фольксрейх"
+ GER_EUROPA_ADJ:0 "европейск"
+
  #Serb yugo
- SER_Yugoslavia_national_socialism:0 "Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_national_socialism_DEF:0 "Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_national_socialism_ADJ:0 "Япония" # <<TRANSLATED>>
- SER_Yugoslavia_fascism:0 "Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_fascism_DEF:0 "Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_social_liberal:0 "Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_social_liberal_DEF:0 "Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_social_democrat:0 "Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_social_democrat_DEF:0 "Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_market_liberal:0 "Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_market_liberal_DEF:0 "Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_social_conservative:0 "Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_social_conservative_DEF:0 "Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_authoritarian_democrat:0 "Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_authoritarian_democrat_DEF:0 "Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_despotism:0 "Королевство Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_despotism_DEF:0 "Королевство Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_communist:0 "Демократическая" # <<TRANSLATED>>
- SER_Yugoslavia_communist_DEF:0 "Демократическая Союзная Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_socialist:0 "Демократическая" # <<TRANSLATED>>
- SER_Yugoslavia_socialist_DEF:0 "Демократическая Союзная Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_radical_socialist:0 "Демократическая" # <<TRANSLATED>>
- SER_Yugoslavia_radical_socialist_DEF:0 "Демократическая Союзная Республика Югославия" # <<TRANSLATED>>
- SER_Yugoslavia_fascism_ADJ:0 "Япония" # <<TRANSLATED>>
- SER_Yugoslavia_social_liberal_ADJ:0 "Япония" # <<TRANSLATED>>
- SER_Yugoslavia_social_democrat_ADJ:0 "Япония" # <<TRANSLATED>>
- SER_Yugoslavia_market_liberal_ADJ:0 "Япония" # <<TRANSLATED>>
- SER_Yugoslavia_social_conservative_ADJ:0 "Япония" # <<TRANSLATED>>
- SER_Yugoslavia_authoritarian_democrat_ADJ:0 "Япония" # <<TRANSLATED>>
- SER_Yugoslavia_despotism_ADJ:0 "Япония" # <<TRANSLATED>>
- SER_Yugoslavia_communist_ADJ:0 "Япония" # <<TRANSLATED>>
- SER_Yugoslavia_radical_socialist_ADJ:0 "Япония" # <<TRANSLATED>>
- SER_Yugoslavia_socialist_ADJ:0 "Япония" # <<TRANSLATED>>
+ SER_Yugoslavia_national_socialism:0 "Югославия"
+ SER_Yugoslavia_national_socialism_DEF:0 "Республика Югославия"
+ SER_Yugoslavia_national_socialism_ADJ:0 "югославск"
+ SER_Yugoslavia_fascism:0 "Югославия"
+ SER_Yugoslavia_fascism_DEF:0 "Республика Югославия"
+ SER_Yugoslavia_social_liberal:0 "Югославия"
+ SER_Yugoslavia_social_liberal_DEF:0 "Республика Югославия"
+ SER_Yugoslavia_social_democrat:0 "Югославия"
+ SER_Yugoslavia_social_democrat_DEF:0 "Республика Югославия"
+ SER_Yugoslavia_market_liberal:0 "Югославия"
+ SER_Yugoslavia_market_liberal_DEF:0 "Республика Югославия"
+ SER_Yugoslavia_social_conservative:0 "Югославия"
+ SER_Yugoslavia_social_conservative_DEF:0 "Республика Югославия"
+ SER_Yugoslavia_authoritarian_democrat:0 "Республика Югославия"
+ SER_Yugoslavia_authoritarian_democrat_DEF:0 "Республика Югославия"
+ SER_Yugoslavia_despotism:0 "Королевство Югославия"
+ SER_Yugoslavia_despotism_DEF:0 "Королевство Югославия"
+ SER_Yugoslavia_communist:0 "Демократическая Федеративная Республика Югославия"
+ SER_Yugoslavia_communist_DEF:0 "Демократическая Федеративная Республика Югославия"
+ SER_Yugoslavia_socialist:0 "Демократическая Федеративная Республика Югославия"
+ SER_Yugoslavia_socialist_DEF:0 "Демократическая Федеративная Республика Югославия"
+ SER_Yugoslavia_radical_socialist:0 "Демократическая Федеративная Республика Югославия"
+ SER_Yugoslavia_radical_socialist_DEF:0 "Демократическая Федеративная Республика Югославия"
+ SER_Yugoslavia_fascism_ADJ:0 "югославск"
+ SER_Yugoslavia_social_liberal_ADJ:0 "югославск"
+ SER_Yugoslavia_social_democrat_ADJ:0 "югославск"
+ SER_Yugoslavia_market_liberal_ADJ:0 "югославск"
+ SER_Yugoslavia_social_conservative_ADJ:0 "югославск"
+ SER_Yugoslavia_authoritarian_democrat_ADJ:0 "югославск"
+ SER_Yugoslavia_despotism_ADJ:0 "югославск"
+ SER_Yugoslavia_communist_ADJ:0 "югославск"
+ SER_Yugoslavia_radical_socialist_ADJ:0 "югославск"
+ SER_Yugoslavia_socialist_ADJ:0 "югославск"
+
  #MOS russian puppet
- MOS_german_russia:0 "Автономия России" # <<TRANSLATED>>
- MOS_german_russia_DEF:0 "Русская автономия" # <<TRANSLATED>>
- MOS_german_russia_ADJ:0 "Русский" # <<TRANSLATED>>
+ MOS_german_russia:0 "Русская автономия"
+ MOS_german_russia_DEF:0 "Русская автономия"
+ MOS_german_russia_ADJ:0 "русск"
+
  #FSR vic
- FSR_unified:0 "Святое Королевство Гиберия" # <<TRANSLATED>>
- FSR_unified_DEF:0 "Святое Королевство Гиберия" # <<TRANSLATED>>
- FSR_unified_ADJ:0 "Хибериан" # <<TRANSLATED>>
+ FSR_unified:0 "Святое королевство Хиберии"
+ FSR_unified_DEF:0 "Святое королевство Хиберии"
+ FSR_unified_ADJ:0 "хиберийск"
+
  #SPS vic
  SPS_unified:0 "Испанское государство"
  SPS_unified_DEF:0 "Испанское государство"
- SPS_unified_ADJ:0 "Испанский" # <<TRANSLATED>>
+ SPS_unified_ADJ:0 "испанск"
+
  #FZL vic
- FZL_unified:0 "Испанское Государство"
- FZL_unified_DEF:0 "Испанское Государство"
- FZL_unified_ADJ:0 "Испанск"
+ FZL_unified:0 "Народная Республика Испания"
+ FZL_unified_DEF:0 "Народная Республика Испания"
+ FZL_unified_ADJ:0 "испанск"
+
  #CNT vic
- CNT_unified:0 "Демократический союз Иберии" # <<TRANSLATED>>
- CNT_unified_DEF:0 "Демократический союз Иберии" # <<TRANSLATED>>
- CNT_unified_ADJ:0 "Иберийцы" # <<TRANSLATED>>
+ CNT_unified:0 "Демократический Союз Иберии"
+ CNT_unified_DEF:0 "Демократический Союз Иберии"
+ CNT_unified_ADJ:0 "иберийск"
+
  #Speidel RKS
- GGN_protectorate:0 "Рейхспротэкторат Полен" # <<TRANSLATED>>
- GGN_protectorate_DEF:0 "Дас Рейхспротэкторат Полен" # <<TRANSLATED>>
- GGN_protectorate_ADJ:0 "Польский" # <<TRANSLATED>>
- OST_protectorate:0 "Рейхспротекторат Балтенленд" # <<TRANSLATED>>
- OST_protectorate_DEF:0 "Дас Рейхспротэкторат Балтенленд" # <<TRANSLATED>>
- OST_protectorate_ADJ:0 "Балтийская" # <<TRANSLATED>>
- UKR_protectorate:0 "Украина" # <<TRANSLATED>>
- UKR_protectorate_DEF:0 "Украина" # <<TRANSLATED>>
- UKR_protectorate_ADJ:0 "Украинский" # <<TRANSLATED>>
- CAU_protectorate:0 "Рейхспротекторат Каукасьен" # <<TRANSLATED>>
- CAU_protectorate_DEF:0 "Дас Рейхспротэкторат Каукасьен" # <<TRANSLATED>>
- CAU_protectorate_ADJ:0 "Кауказианский" # <<TRANSLATED>>
- MCW_protectorate:0 "Московьен" # <<TRANSLATED>>
- MCW_protectorate_DEF:0 "Московьен" # <<TRANSLATED>>
- MCW_protectorate_ADJ:0 "Московьен" # <<TRANSLATED>>
+ GGN_protectorate:0 "Рейхспротекторат Польша"
+ GGN_protectorate_DEF:0 "Рейхспротекторат Польша"
+ GGN_protectorate_ADJ:0 "польск"
+ OST_protectorate:0 "Рейхспротекторат Балтенланд"
+ OST_protectorate_DEF:0 "Рейхспротекторат Балтенланд"
+ OST_protectorate_ADJ:0 "балтийск"
+ UKR_protectorate:0 "Рейхспротекторат Украина"
+ UKR_protectorate_DEF:0 "Рейхспротекторат Украина"
+ UKR_protectorate_ADJ:0 "украинск"
+ CAU_protectorate:0 "Рейхспротекторат Кавказиен"
+ CAU_protectorate_DEF:0 "Рейхспротекторат Кавказиен"
+ CAU_protectorate_ADJ:0 "кавказск"
+ MCW_protectorate:0 "Рейхспротекторат Московиен"
+ MCW_protectorate_DEF:0 "Рейхспротекторат Московиен"
+ MCW_protectorate_ADJ:0 "московск"
+
  #G4 Germany
- GER_gfour:0 "Грогерманише Рейх" # <<TRANSLATED>>
- GER_gfour_DEF:0 "Дас Грогерманиша Рейх дер Немецкий народ" # <<TRANSLATED>>
- GER_gfour_ADJ:0 "Немецкий" # <<TRANSLATED>>
+ GER_gfour:0 "Великогерманский Рейх"
+ GER_gfour_DEF:0 "Великогерманский Рейх Германской нации"
+ GER_gfour_ADJ:0 "германск"
+
  #SAF african administrations
- TND_south_african:0 "Государство Танганьика" # <<TRANSLATED>>
- TND_south_african_DEF:0 "Государство Танганьика" # <<TRANSLATED>>
- TND_south_african_ADJ:0 "Танганьикан" # <<TRANSLATED>>
- RMB_south_african:0 "Ньясалендский штат" # <<TRANSLATED>>
- RMB_south_african_DEF:0 "Ньясалендский штат" # <<TRANSLATED>>
- RMB_south_african_ADJ:0 "Ньяса" # <<TRANSLATED>>
- ZBO_south_african:0 "Федерация северных Родезий" # <<TRANSLATED>>
- ZBO_south_african_DEF:0 "Федерация Северной Родезии" # <<TRANSLATED>>
- ZBO_south_african_ADJ:0 "Северный Родезийский" # <<TRANSLATED>>
- CPR_south_african:0 "Территория Киву" # <<TRANSLATED>>
- CPR_south_african_DEF:0 "Территория Киву" # <<TRANSLATED>>
- CPR_south_african_ADJ:0 "Киву" # <<TRANSLATED>>
- UGD_south_african:0 "Королевство Уганда" # <<TRANSLATED>>
- UGD_south_african_DEF:0 "Королевство Уганда" # <<TRANSLATED>>
- UGD_south_african_ADJ:0 "Уганда" # <<TRANSLATED>>
- COG_south_african:0 "Конгойская конфедерация" # <<TRANSLATED>>
- COG_south_african_DEF:0 "Конфедерация Конго" # <<TRANSLATED>>
- COG_south_african_ADJ:0 "Конголезский" # <<TRANSLATED>>
- ANG_south_african:0 "Ангола" # <<TRANSLATED>>
- ANG_south_african_DEF:0 "Государство Ангола" # <<TRANSLATED>>
- ANG_south_african_ADJ:0 "Ангола" # <<TRANSLATED>>
+ TND_south_african:0 "Государство Танганьика"
+ TND_south_african_DEF:0 "Государство Танганьика"
+ TND_south_african_ADJ:0 "танганьикск"
+ RMB_south_african:0 "Государство Ньясаленд"
+ RMB_south_african_DEF:0 "Государство Ньясаленд"
+ RMB_south_african_ADJ:0 "нясалендск"
+ ZBO_south_african:0 "Федерация Северной Родезии"
+ ZBO_south_african_DEF:0 "Федерация Северной Родезии"
+ ZBO_south_african_ADJ:0 "северно-родезийск"
+ CPR_south_african:0 "Территория Киву"
+ CPR_south_african_DEF:0 "Территория Киву"
+ CPR_south_african_ADJ:0 "кивунск"
+ UGD_south_african:0 "Королевство Уганда"
+ UGD_south_african_DEF:0 "Королевство Уганда"
+ UGD_south_african_ADJ:0 "угандийск"
+ COG_south_african:0 "Конфедерация Конго"
+ COG_south_african_DEF:0 "Конфедерация Конго"
+ COG_south_african_ADJ:0 "конголезск"
+ ANG_south_african:0 "Государство Ангола"
+ ANG_south_african_DEF:0 "Государство Ангола"
+ ANG_south_african_ADJ:0 "ангольск"

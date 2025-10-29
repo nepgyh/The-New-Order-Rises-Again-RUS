@@ -1425,9 +1425,9 @@
 
  STATE_208_rus:0 "Волосовский" # <<TRANSLATED>>
 
- STATE_244_rus:0 "Волховский" # <<TRANSLATED>>
+ STATE_244_rus:0 "Волхов" # <<TRANSLATED>>
 
- STATE_264_rus:0 "Тихвинский" # <<TRANSLATED>>
+ STATE_264_rus:0 "Тихвин" # <<TRANSLATED>>
 
  STATE_209_rus:0 "Псков" # <<TRANSLATED>>
 
@@ -1435,11 +1435,11 @@
 
  STATE_210_rus:0 "Островский" # <<TRANSLATED>>
 
- STATE_246_rus:0 "Ржевский" # <<TRANSLATED>>
+ STATE_246_rus:0 "Ржев" # <<TRANSLATED>>
 
- STATE_247_rus:0 "Твер" # <<TRANSLATED>>
+ STATE_247_rus:0 "Тверь" # <<TRANSLATED>>
 
- STATE_248_rus:0 "Ярославл" # <<TRANSLATED>>
+ STATE_248_rus:0 "Ярославль" # <<TRANSLATED>>
 
  STATE_1314_rus:0 "Северная Москва" # <<TRANSLATED>>
  
@@ -1451,11 +1451,11 @@
 
  STATE_224_rus:0 "Донской бассейн"
 
- STATE_254_rus:0 "Рязан" # <<TRANSLATED>>
+ STATE_254_rus:0 "Рязань" # <<TRANSLATED>>
 
- STATE_222_rus:0 "Ориол" # <<TRANSLATED>>
+ STATE_222_rus:0 "Орёл" # <<TRANSLATED>>
 
- STATE_258_rus:0 "Липетск" # <<TRANSLATED>>
+ STATE_258_rus:0 "Липецк" # <<TRANSLATED>>
 
  STATE_243_rus:0 "Волгоград"
 
@@ -1469,11 +1469,11 @@
 
  STATE_239_rus:0 "Саратов" # <<TRANSLATED>>
 
- STATE_401_com:0 "Энгели" # <<TRANSLATED>>
+ STATE_401_com:0 "Энгельс" # <<TRANSLATED>>
  STATE_401_rus:0 "Тула"
 
  STATE_217_com:0 "Волгоград" # <<TRANSLATED>>
- STATE_217_kag:0 "Стилинград" # <<TRANSLATED>>
+ STATE_217_kag:0 "Сталинград" # <<TRANSLATED>>
  STATE_217_rus:0 "Волжский"
 
  STATE_245_rus:0 "Миллеровский" # <<TRANSLATED>>
@@ -1487,7 +1487,7 @@
  STATE_234_com:0 "Краснодар" # <<TRANSLATED>>
  STATE_234_rus:0 "Екатеринодар" # <<TRANSLATED>>
 
- STATE_235_rus:0 "Стравпол" # <<TRANSLATED>>
+ STATE_235_rus:0 "Страврополь" # <<TRANSLATED>>
 
  STATE_232_rus:0 "Дагестан" # <<TRANSLATED>>
 
@@ -1513,27 +1513,27 @@
 
  STATE_259_rus:0 "Полтава" # <<TRANSLATED>>
 
- STATE_225_rus:0 "Сьюми" # <<TRANSLATED>>
+ STATE_225_rus:0 "Сумы" # <<TRANSLATED>>
 
- STATE_193_rus:0 "Чернихив" # <<TRANSLATED>>
+ STATE_193_rus:0 "Чернигов" # <<TRANSLATED>>
 
  STATE_202_rus:0 "Киев" # <<TRANSLATED>>
 
- STATE_773_rus:0 "Северная Виннитсия" # <<TRANSLATED>>
+ STATE_773_rus:0 "Винница" # <<TRANSLATED>>
 
  STATE_201_rus:0 "Житомир" # <<TRANSLATED>>
 
  STATE_199_rus:0 "Хмельницкий" # <<TRANSLATED>>
 
- STATE_93_rus:0 "Волин" # <<TRANSLATED>>
+ STATE_93_rus:0 "Волыния" # <<TRANSLATED>>
 
  STATE_94_rus:0 "Брест" # <<TRANSLATED>>
 
- STATE_194_rus:0 "Мазир" # <<TRANSLATED>>
+ STATE_194_rus:0 "Бобруйск" # <<TRANSLATED>>
 
- STATE_204_rus:0 "Могилев" # <<TRANSLATED>>
+ STATE_204_rus:0 "Могилёв" # <<TRANSLATED>>
 
- STATE_95_rus:0 "Гронда" # <<TRANSLATED>>
+ STATE_95_rus:0 "Гродно" # <<TRANSLATED>>
 
  STATE_96_rus:0 "Минск" # <<TRANSLATED>>
 
@@ -1543,17 +1543,17 @@
 
  STATE_11_rus:0 "Каунас" # <<TRANSLATED>>
 
- STATE_189_rus:0 "Сяуляй" # <<TRANSLATED>>
+ STATE_189_rus:0 "Шяуляй" # <<TRANSLATED>>
 
- STATE_190_rus:0 "Курленд" # <<TRANSLATED>>
+ STATE_190_rus:0 "Курляндия" # <<TRANSLATED>>
 
  STATE_12_rus:0 "Видземе" # <<TRANSLATED>>
 
- STATE_943_rus:0 "Латгал" # <<TRANSLATED>>
+ STATE_943_rus:0 "Латгалия" # <<TRANSLATED>>
 
  STATE_191_rus:0 "Тарту" # <<TRANSLATED>>
 
- STATE_13_rus:0 "Харджу" # <<TRANSLATED>>
+ STATE_13_rus:0 "Таллин" # <<TRANSLATED>>
 
  STATE_97_rus:0 "Подласки" # <<TRANSLATED>>
 

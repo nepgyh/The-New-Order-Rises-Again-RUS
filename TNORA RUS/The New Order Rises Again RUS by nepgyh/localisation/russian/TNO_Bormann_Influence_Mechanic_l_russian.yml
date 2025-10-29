@@ -271,14 +271,14 @@
  TNO_Bormann_InfMech_Card_SelectionBtn_Mil_text_inactive: "§gMIL§!"
 
  # Interaction Button
- TNO_Bormann_InfMech_Card_InteractionBtn_Power_Add_tt: "добавить §Y5 влияние §!  §Y[BOR_SIG_GetName_Formatted_New]§!"
- TNO_Bormann_InfMech_Card_InteractionBtn_Power_Sub_tt: "забрать §Y5 влияние§! from §Y[BOR_SIG_GetName_Formatted_New]§!"
- TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_Add_tt: "[BOR_InfMech_Select Btn_AddLoyalty_GetAvailability]" # <<TRANSLATED>>
- TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_Sub_tt: "[BOR_InfMech_SelectBtn_SubLoyalty_GetAvailability]" # <<TRANSLATED>>
- TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_Unavailable_tt: "§ В первую очередь § § § § § § §" # <<TRANSLATED>>
- TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_AvailableAdd_tt: "Добавить §Y2§! [BOR_InfMech_SelectBtn_Loyalty_GetTarget] § §YLoyalty§!" # <<TRANSLATED>>
- TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_AvailableSub_tt: "Вычитать §Y2§! [BOR_InfMech_SelectBtn_Loyalty_GetTarget] § §YLoyalty§! ] из §Y [BOR_SIG_GetName_Formact_New]§!" # <<TRANSLATED>>
- TNO_Bormann_InfMech_Card_Interaction_Btn_Cost_tt: "§WIt costs§! £political_power_texticon §Y40§! §Wto do this action§!"
+ TNO_Bormann_InfMech_Card_InteractionBtn_Power_Add_tt: "Добавить §Y5 влияния§! к §Y[BOR_SIG_GetName_Formatted_New]§!"
+ TNO_Bormann_InfMech_Card_InteractionBtn_Power_Sub_tt: "Убрать §Y5 влияния§! у §Y[BOR_SIG_GetName_Formatted_New]§!"
+ TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_Add_tt: "[BOR_InfMech_SelectionBtn_AddLoyalty_GetAvailability]"
+ TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_Sub_tt: "[BOR_InfMech_SelectionBtn_SubLoyalty_GetAvailability]"
+ TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_Unavailable_tt: "§YСНАЧАЛА НУЖНО ВЫБРАТЬ ЦЕЛЬ§!"
+ TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_AvailableAdd_tt: "Добавить §Y2§! [BOR_InfMech_SelectionBtn_Loyalty_GetTarget] §Yлояльности§! к §Y[BOR_SIG_GetName_Formatted_New]§!"
+ TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_AvailableSub_tt: "Убрать §Y2§! [BOR_InfMech_SelectionBtn_Loyalty_GetTarget] §Yлояльности§! у §Y[BOR_SIG_GetName_Formatted_New]§!"
+ TNO_Bormann_InfMech_Card_Interaction_Btn_Cost_tt: "§WЭто действие стоит§! £political_power_texticon §Y40§! §Wполитической власти§!"
 
  # SIGType Display
  TNO_Bormann_InfMech_Card_SIGTypeDisplay_text: "[BOR_Card_SIG_GetTypeTitle]"

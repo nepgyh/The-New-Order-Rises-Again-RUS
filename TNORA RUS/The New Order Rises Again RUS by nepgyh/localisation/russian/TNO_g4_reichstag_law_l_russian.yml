@@ -1,90 +1,90 @@
 ﻿l_russian:
- 
- GER_reichstag_law_button_tt:0 "Меню Рейхстагского закона" # <<TRANSLATED>>
- GER_reichstag_law_nsdap_laws_button:0 "Законы §!" # <<TRANSLATED>>
- GER_reichstag_law_vup_laws_button:0 "Законы zVUP!" # <<TRANSLATED>>
- GER_reichstag_law_rsp_laws_button:0 "Законы!" # <<TRANSLATED>>
- GER_reichstag_law_vaaf_laws_button:0 "Законы §!" # <<TRANSLATED>>
- GER_reichstag_law_dg_laws_button:0 "§TDie Grünen Laws§!" # <<TRANSLATED>>
- GER_reichstag_law_dap_laws_button:0 "Законы!" # <<TRANSLATED>>
- GER_reichstag_law_ler_laws_button:0 "Законы §!" # <<TRANSLATED>>
- GER_reichstag_law_total_seats:0 "§YTYTYTYTER_REIHRTAGR_Seats SRO0] ~ ~ ~N §Seats нуждались в §! ~THIS.GER_REichstag_sats_majority >W0] ~ ~THIS.GER_nsAP_ ~ ~ zevaAF § ~ ~n §zVUP! ~ ~ ~TH" # <<TRANSLATED>>
- #law names
- #nsdap laws
- ##term 1
- GER_reichstag_volk_support_act_text:0 "Закон о поддержке §!" # <<TRANSLATED>>
- GER_reichstag_freedom_law_text:0 "Закон о свободе!" # <<TRANSLATED>>
- GER_reichstag_industrial_revitalization_act_text:0 "Закон об активизации промышленности!" # <<TRANSLATED>>
- GER_reichstag_youth_productiveness_act_text:0 "Закон о производительности молодежи!" # <<TRANSLATED>>
- GER_reichstag_general_reich_law_button_text:0 "§ § § § генерал Рейх!" # <<TRANSLATED>>
- GER_reichstag_law_for_rural_support_text:0 "§rlaw for grural assistance§!" # <<TRANSLATED>>
- GER_reichstag_oberlander_law_text:0 "§ § закон §!" # <<TRANSLATED>>
- GER_reichstag_workers_protection_bill_text:0 "Законопроект о защите рабочих!" # <<TRANSLATED>>
- GER_reichstag_law_for_restoring_pride_in_the_reich_text:0 "§rpide in the Reych Law§!" # <<TRANSLATED>>
- GER_reichstag_professional_adjustment_act_text:0 "Закон о профессиональной адаптации!" # <<TRANSLATED>>
- GER_reichstag_banking_simplification_bill_text:0 "§rbanking Processy Билл!" # <<TRANSLATED>>
- GER_reichstag_bill_for_support_of_lawful_and_just_proceedings_text:0 "Законопроект о судопроизводстве!" # <<TRANSLATED>>
- GER_reichstag_new_lebensborn_act_text:0 "§r New Lebensborn Act§!" # <<TRANSLATED>>
- GER_reichstag_unification_law_text:0 "Закон об объединении!" # <<TRANSLATED>>
- GER_reichstag_historical_education_act_text:0 "Закон об образовании §!" # <<TRANSLATED>>
- ##term 2
- GER_reichstag_economic_consolidation_act_text:0 "Закон об экономическом укреплении!" # <<TRANSLATED>>
- GER_reichstag_reich_defense_act_text:0 "Закон о защите Риха!" # <<TRANSLATED>>
- GER_reichstag_general_security_law_text:0 "§r Общий закон о безопасности!" # <<TRANSLATED>>
- GER_reichstag_bill_for_informative_media_text:0 "§rBill for Informative Media§!" # <<TRANSLATED>>
- GER_reichstag_veteran_support_act_text:0 "Закон о поддержке §!" # <<TRANSLATED>>
- GER_reichstag_voter_registation_act_text:0 "Закон о регистрации §!" # <<TRANSLATED>>
- GER_reichstag_reich_banking_law_text:0 "§rRiich Banking Law§!" # <<TRANSLATED>>
- GER_reichstag_national_trade_union_act_text:0 "Национальный профсоюзный закон!" # <<TRANSLATED>>
- GER_reichstag_motion_to_condemn_rus_aggression_text:0 "§rmotion to oсуждaeт агрессию§!" # <<TRANSLATED>>
- GER_reichstag_volks_public_works_act_text:0 "Закон о общественных товарах!" # <<TRANSLATED>>
- GER_reichstag_act_for_price_control_text:0 "§rAct for Price Control§!" # <<TRANSLATED>>
- GER_reichstag_bill_law_on_new_political_organizations_text:0 "§rlaw on New Polical Organizations§!" # <<TRANSLATED>>
- GER_reichstag_goebbels_law_text:0 "Закон §!" # <<TRANSLATED>>
- GER_reichstag_majority_law_text:0 "Закон о величии!" # <<TRANSLATED>>
- GER_reichstag_law_national_unity_front_text:0 "Закон о Фронте национального единства!" # <<TRANSLATED>>
- ##bomber's spring
- GER_reichstag_reich_police_act_text:0 "Закон о полиции Риха!" # <<TRANSLATED>>
- GER_reichstag_law_against_unruly_populations_text:0 "§rlaw против неуправляемого населения §!" # <<TRANSLATED>>
- GER_reichstag_anti_ss_law_text:0 "Закон о борьбе со СПИДом!" # <<TRANSLATED>>
- GER_reichstag_internal_fortification_act_text:0 "§r Внутреннее укрепление §!" # <<TRANSLATED>>
- GER_reichstag_national_accounting_law_text:0 "Закон о национальной бухгалтерской отчетности!" # <<TRANSLATED>>
- #vup laws
- ##term 1
- GER_reichstag_unemployment_act_text:0 "Закон о нетрудоспособности!" # <<TRANSLATED>>
- GER_reichstag_agrarian_fund_act_text:0 "Закон об аграрном фонде!" # <<TRANSLATED>>
- GER_reichstag_fair_compensation_act_text:0 "Закон о компенсации ущерба!" # <<TRANSLATED>>
- GER_reichstag_reich_school_law_text:0 "§zReich School Law§!" # <<TRANSLATED>>
- GER_reichstag_religious_tolerance_law_button_text:0 "Закон о религиозной терпимости!" # <<TRANSLATED>>
- GER_reichstag_general_finance_reform_law_text:0 "§z Общий закон о финансовой реформе!" # <<TRANSLATED>>
- GER_reichstag_reich_democracy_act_text:0 "Закон о демократии Рейха!" # <<TRANSLATED>>
- GER_reichstag_connective_infrastructure_act_text:0 "§z Закон о конденсативной инфраструктуре!" # <<TRANSLATED>>
- GER_reichstag_repatriation_law_text:0 "§z Закон о репатриации!" # <<TRANSLATED>>
- GER_reichstag_class_cooperation_act_text:0 "Закон о сотрудничестве §zlass!" # <<TRANSLATED>>
- GER_reichstag_popular_welfare_law_text:0 "Закон о благосостоянии zPoll!" # <<TRANSLATED>>
- GER_reichstag_bill_of_public_dignity_text:0 "§zBill of Public Novel!" # <<TRANSLATED>>
- GER_reichstag_market_fairness_law_text:0 "§z Market Fairness Law §!" # <<TRANSLATED>>
- GER_reichstag_museum_act_text:0 "§zMuseum Акт§!" # <<TRANSLATED>>
- GER_reichstag_reich_outreach_law_text:0 "Закон о работе с общественностью §zReich!" # <<TRANSLATED>>
- ##term 2
- GER_reichstag_impoverished_support_act_text:0 "§zboverded Act assistance §!" # <<TRANSLATED>>
- GER_reichstag_reich_education_law_text:0 "Закон об образовании § § §!" # <<TRANSLATED>>
- GER_reichstag_bill_for_civil_law_reform_text:0 "§zBill for Civil Law Reform§!" # <<TRANSLATED>>
- GER_reichstag_anti_greed_act_text:0 "§z Анти-Сердцейный акт§!" # <<TRANSLATED>>
- GER_reichstag_pakt_aid_law_text:0 "Закон о помощи § §!" # <<TRANSLATED>>
- GER_reichstag_reich_sick_law_text:0 "Национальный закон о больных!" # <<TRANSLATED>>
- GER_reichstag_wehrmacht_funding_act_text:0 "Закон о финансировании §zWermacht!" # <<TRANSLATED>>
- GER_reichstag_vote_streamlining_act_text:0 "§zVote Rapaction Act§!" # <<TRANSLATED>>
- GER_reichstag_anti_intimidation_law_text:0 "§z Закон о борьбе с запугиванием!" # <<TRANSLATED>>
- GER_reichstag_safety_regulation_law_text:0 "§z Закон о регулировании безопасности!" # <<TRANSLATED>>
- GER_reichstag_constitutional_protection_act_text:0 "§z Закон о конституционной защите!" # <<TRANSLATED>>
- GER_reichstag_bill_church_understanding_act_text:0 "Закон о понимании §!" # <<TRANSLATED>>
- GER_reichstag_inter_pakt_autobahn_law_text:0 "§z InterPakt Autobahn Law§!" # <<TRANSLATED>>
- GER_reichstag_general_rights_act_text:0 "§z Общий закон о правах!" # <<TRANSLATED>>
- GER_reichstag_imperial_restoration_law_text:0 "Закон о восстановлении империи!" # <<TRANSLATED>>
- ##bomber's spring
- GER_reichstag_peoples_protection_act_text:0 "Закон о защите людей!" # <<TRANSLATED>>
- GER_reichstag_law_for_reconciliation_text:0 "§zlaw for conciliation§!" # <<TRANSLATED>>
- GER_reichstag_governmental_policing_law_text:0 "§zGovergal Policy Act §!" # <<TRANSLATED>>
- GER_reichstag_poland_act_text:0 "§zovil act!" # <<TRANSLATED>>
- GER_reichstag_heritage_protection_act_text:0 "Закон о защите наследства!" # <<TRANSLATED>>
+
+GER_reichstag_law_button_tt:0 "Меню законов Рейхстага"
+GER_reichstag_law_nsdap_laws_button:0 "§rЗаконы НСДАП§!"
+GER_reichstag_law_vup_laws_button:0 "§zЗаконы VUP§!"
+GER_reichstag_law_rsp_laws_button:0 "§gЗаконы RSP§!"
+GER_reichstag_law_vaaf_laws_button:0 "§eЗаконы VAAF§!"
+GER_reichstag_law_dg_laws_button:0 "§TЗаконы «Die Grünen»§!"
+GER_reichstag_law_dap_laws_button:0 "§IЗаконы DAP§!"
+GER_reichstag_law_ler_laws_button:0 "§qЗаконы LER§!"
+GER_reichstag_law_total_seats:0 "§YВсего мест§! [?THIS.GER_reichstag_seats|W0] \n\n§YМест, необходимых \nдля большинства§! [?THIS.GER_reichstag_seats_majority|W0] \n\n§rНСДАП§! [?THIS.GER_nsdap_seats|r0]  \n\n§zVUP§! [?THIS.GER_vup_seats|z0]  \n\n§gRSP§! [?THIS.GER_rsp_seats|g0]  \n\n§eVAAF§! [?THIS.GER_vaaf_seats|e0]  \n\n§T«Die Grünen»§! [?THIS.GER_dg_seats|T0]  \n\n[GER_get_dap_seats]  \n\n[GER_get_ler_seats]"
+#law names
+#nsdap laws
+##term 1
+GER_reichstag_volk_support_act_text:0 "§rЗакон о поддержке народа§!"
+GER_reichstag_freedom_law_text:0 "§rЗакон о свободе§!"
+GER_reichstag_industrial_revitalization_act_text:0 "§rЗакон о промышленном возрождении§!"
+GER_reichstag_youth_productiveness_act_text:0 "§rЗакон о деятельности молодёжи§!"
+GER_reichstag_general_reich_law_button_text:0 "§rОбщий закон Рейха§!"
+GER_reichstag_law_for_rural_support_text:0 "§rЗакон о поддержке сельских районов§!"
+GER_reichstag_oberlander_law_text:0 "§rЗакон Оберландера§!"
+GER_reichstag_workers_protection_bill_text:0 "§rЗаконопроект о защите рабочих§!"
+GER_reichstag_law_for_restoring_pride_in_the_reich_text:0 "§rЗакон о гордости за Рейх§!"
+GER_reichstag_professional_adjustment_act_text:0 "§rЗакон о профессиональной перестройке§!"
+GER_reichstag_banking_simplification_bill_text:0 "§rЗаконопроект об упрощении банковского дела§!"
+GER_reichstag_bill_for_support_of_lawful_and_just_proceedings_text:0 "§rЗаконопроект о судебных процедурах§!"
+GER_reichstag_new_lebensborn_act_text:0 "§rЗакон о новом «Лебенсборне»§!"
+GER_reichstag_unification_law_text:0 "§rЗакон об объединении§!"
+GER_reichstag_historical_education_act_text:0 "§rЗакон о народном образовании§!"
+##term 2
+GER_reichstag_economic_consolidation_act_text:0 "§rЗакон об экономической консолидации§!"
+GER_reichstag_reich_defense_act_text:0 "§rЗакон о защите Рейха§!"
+GER_reichstag_general_security_law_text:0 "§rОбщий закон о безопасности§!"
+GER_reichstag_bill_for_informative_media_text:0 "§rЗаконопроект об информационных СМИ§!"
+GER_reichstag_veteran_support_act_text:0 "§rЗакон о поддержке ветеранов§!"
+GER_reichstag_voter_registation_act_text:0 "§rЗакон о регистрации избирателей§!"
+GER_reichstag_reich_banking_law_text:0 "§rРейховский банковский закон§!"
+GER_reichstag_national_trade_union_act_text:0 "§rЗакон о национальных профсоюзах§!"
+GER_reichstag_motion_to_condemn_rus_aggression_text:0 "§rРезолюция о порицании агрессии§!"
+GER_reichstag_volks_public_works_act_text:0 "§rЗакон о народных общественных работах§!"
+GER_reichstag_act_for_price_control_text:0 "§rЗакон о контроле цен§!"
+GER_reichstag_bill_law_on_new_political_organizations_text:0 "§rЗакон о новых политических организациях§!"
+GER_reichstag_goebbels_law_text:0 "§rЗакон Геббельса§!"
+GER_reichstag_majority_law_text:0 "§rЗакон о большинстве§!"
+GER_reichstag_law_national_unity_front_text:0 "§rЗакон о фронте национального единства§!"
+##bomber's spring
+GER_reichstag_reich_police_act_text:0 "§rЗакон о полиции Рейха§!"
+GER_reichstag_law_against_unruly_populations_text:0 "§rЗакон против мятежных масс§!"
+GER_reichstag_anti_ss_law_text:0 "§rАнти-СС закон§!"
+GER_reichstag_internal_fortification_act_text:0 "§rЗакон об внутренних укреплениях§!"
+GER_reichstag_national_accounting_law_text:0 "§rЗакон о национальной отчётности§!"
+#vup laws
+##term 1
+GER_reichstag_unemployment_act_text:0 "§zЗакон о безработице§!"
+GER_reichstag_agrarian_fund_act_text:0 "§zЗакон об аграрном фонде§!"
+GER_reichstag_fair_compensation_act_text:0 "§zЗакон о справедливой компенсации§!"
+GER_reichstag_reich_school_law_text:0 "§zРейховский школьный закон§!"
+GER_reichstag_religious_tolerance_law_button_text:0 "§zЗакон о религиозной терпимости§!"
+GER_reichstag_general_finance_reform_law_text:0 "§zЗакон о реформе финансов§!"
+GER_reichstag_reich_democracy_act_text:0 "§zЗакон о демократии Рейха§!"
+GER_reichstag_connective_infrastructure_act_text:0 "§zЗакон о связующей инфраструктуре§!"
+GER_reichstag_repatriation_law_text:0 "§zЗакон о репатриации§!"
+GER_reichstag_class_cooperation_act_text:0 "§zЗакон о классовом сотрудничестве§!"
+GER_reichstag_popular_welfare_law_text:0 "§zЗакон о народном благосостоянии§!"
+GER_reichstag_bill_of_public_dignity_text:0 "§zЗаконопроект о народном достоинстве§!"
+GER_reichstag_market_fairness_law_text:0 "§zЗакон о честности рынка§!"
+GER_reichstag_museum_act_text:0 "§zЗакон о музеях§!"
+GER_reichstag_reich_outreach_law_text:0 "§zЗакон о внешних связях Рейха§!"
+##term 2
+GER_reichstag_impoverished_support_act_text:0 "§zЗакон о помощи обедневшим§!"
+GER_reichstag_reich_education_law_text:0 "§zРейховский закон об образовании§!"
+GER_reichstag_bill_for_civil_law_reform_text:0 "§zЗаконопроект о реформе гражданского права§!"
+GER_reichstag_anti_greed_act_text:0 "§zЗакон против жадности§!"
+GER_reichstag_pakt_aid_law_text:0 "§zЗакон о помощи Пакту§!"
+GER_reichstag_reich_sick_law_text:0 "§zЗакон об медицинской защите граждан§!"
+GER_reichstag_wehrmacht_funding_act_text:0 "§zЗакон о финансировании Вермахта§!"
+GER_reichstag_vote_streamlining_act_text:0 "§zЗакон об упрощении голосования§!"
+GER_reichstag_anti_intimidation_law_text:0 "§zЗакон против запугивания§!"
+GER_reichstag_safety_regulation_law_text:0 "§zЗакон о правилах безопасности§!"
+GER_reichstag_constitutional_protection_act_text:0 "§zЗакон о защите конституции§!"
+GER_reichstag_bill_church_understanding_act_text:0 "§zЗакон о взаимодействии с церковью§!"
+GER_reichstag_inter_pakt_autobahn_law_text:0 "§zЗакон об межпактовой автобане§!"
+GER_reichstag_general_rights_act_text:0 "§zЗакон об общих правах§!"
+GER_reichstag_imperial_restoration_law_text:0 "§zЗакон о восстановлении империи§!"
+##bomber's spring
+GER_reichstag_peoples_protection_act_text:0 "§zЗакон о защите народа§!"
+GER_reichstag_law_for_reconciliation_text:0 "§zЗакон о примирении§!"
+GER_reichstag_governmental_policing_law_text:0 "§zЗакон о правительственной полиции§!"
+GER_reichstag_poland_act_text:0 "§zЗакон о Польше§!"
+GER_reichstag_heritage_protection_act_text:0 "§zЗакон о защите наследия§!"
