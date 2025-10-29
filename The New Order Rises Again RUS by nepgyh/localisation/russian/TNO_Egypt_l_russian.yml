@@ -1,0 +1,969 @@
+﻿l_russian:
+
+ #Leader descriptions
+ POLITICS_FAROUK_I_DESC:0 "Король Египта Фарук - человек многих, многих вкусов. Чтобы представить его в позитивном свете, Фарук полон решимости превратить жизнь в вечеринку, чтобы каждый момент был наполнен весельем и волнением, чтобы никогда не стареть и не скучать. Если говорить о нем негативно, то он является провалом для египетской экономики, полностью отстраненным от своих политических обязанностей и позором для Египта. Король, возможно, когда-то был молодым человеком, увлеченным и увлеченным реформированием и модернизацией своей страны. Однако те дни прошли, и теперь Фарук хочет только развлечь себя любым доступным ему способом.\n\nФарук проводит свои дни за едой, выпивкой и курением в спокойные минуты. В свои, к сожалению, частые дикие моменты он проводит время, разъезжая по улицам Каира на полной скорости в своем красном спортивном автомобиле или, возможно, занимаясь благотворительностью, бросая дождь золотых монет в толпу. Если король окажется в особенно активном настроении, он может сесть в свой самолет и полететь в любое место, куда пожелает. Его отсутствие в Египте ощущается с радостью, так как обычно на неделю или две за него отвечает кто-то более компетентный.\n\nВо время своих путешествий по миру Фарук "great" use, spending it lavishly to obtain all the objects of his desires, whether that be a diamond necklace for his latest mistress, a set of coins for his ever-expanding collection, or perhaps a shot at immortality. Regardless of what he purchases, it is certainly never of any use to the people of Egypt. Farouk is not malicious or evil, but he is a man that cares little for the world outside of his immediate vicinity. Politics is a serious, drawn out, and often boring matter for the King, and as such he ignores it. He would rather be happy himself than stress about what the world wishes for him to do."
+
+ #PARTIES
+ EGY_communist_party:0 "АСБ"
+ EGY_communist_party_long:0 "Арабский социалистический союз"
+ EGY_socialist_party:0 "АСБ"
+ EGY_socialist_party_long:0 "Арабский социалистический союз"
+ EGY_social_democrat_party:0 "ЛСП"
+ EGY_social_democrat_party_long:0 "Либерально-социалистическая партия"
+ EGY_social_liberal_party:0 "ХХС"
+ EGY_social_liberal_party_long:0 "Хизб Эль-Хайят Эль-Судейат"
+ EGY_social_conservative_party:0 "ХВ - Левое Крыло"
+ EGY_social_conservative_party_long:0 "Хизб Эль-Вафд - Левое Крыло"
+ EGY_authoritarian_democrat_party:0 "ХВ - Правое Крыло"
+ EGY_authoritarian_democrat_party_long:0 "Хизб Эль-Вафд - Правое Крыло"
+ EGY_despotism_party:0 "Королевская династия"
+ EGY_despotism_party_long:0 "Династия Мухаммада Али"
+ EGY_fascism_party:0 "Братья-мусульмане - Умеренное крыло"
+ EGY_fascism_party_long:0 "Братья-мусульмане - Умеренное крыло"
+ EGY_national_socialism_party:0 "Братья-мусульмане - Центристское крыло"
+ EGY_national_socialism_party_long:0 "Братья-мусульмане - Центристское крыло"
+ EGY_ultranational_socialism_party:0 "Мусульманское Братство - Экстремистское Крыло"
+ EGY_ultranational_socialism_party_long:0 "Мусульманское Братство - Экстремистское Крыло"
+ 
+ EGB_communist_party:0 "АСБ"
+ EGB_communist_party_long:0 "Арабский социалистический союз"
+ EGB_socialist_party:0 "АСБ"
+ EGB_socialist_party_long:0 "Арабский социалистический союз"
+ EGB_social_democrat_party:0 "ЛСП"
+ EGB_social_democrat_party_long:0 "Либерально-социалистическая партия"
+ EGB_social_liberal_party:0 "ХХС"
+ EGB_social_liberal_party_long:0 "Хизб Эль-Хайят Эль-Судейат"
+ EGB_social_conservative_party:0 "ХВ - Левое Крыло"
+ EGB_social_conservative_party_long:0 "Хизб Эль-Вафд - Левое Крыло"
+ EGB_authoritarian_democrat_party:0 "ХВ - Правое Крыло"
+ EGB_authoritarian_democrat_party_long:0 "Хизб Эль-Вафд - Правое Крыло"
+ EGB_despotism_party:0 "Королевская династия"
+ EGB_despotism_party_long:0 "Династия Мухаммада Али"
+ EGB_fascism_party:0 "Братья-мусульмане - Умеренное крыло"
+ EGB_fascism_party_long:0 "Братья-мусульмане - Умеренное крыло"
+ EGB_national_socialism_party:0 "Братья-мусульмане - Центристское крыло"
+ EGB_national_socialism_party_long:0 "Братья-мусульмане - Центристское крыло"
+ EGB_ultranational_socialism_party:0 "Мусульманское Братство - Экстремистское Крыло"
+ EGB_ultranational_socialism_party_long:0 "Мусульманское Братство - Экстремистское Крыло"
+ balbo_group:0 "Кабинет Бальбо"
+ EGB_fascism:0 "Совет революционного командования Египта"
+ EGB_fascism_DEF:0 "Совет революционного командования Египта"
+ EGB_social_liberal:0 "Совет революционного командования Египта"
+ EGB_social_liberal_DEF:0 "Совет революционного командования Египта"
+ EGB_market_liberal:0 "Совет революционного командования Египта"
+ EGB_market_liberal_DEF:0 "Совет революционного командования Египта"
+ EGB_social_conservative:0 "Совет революционного командования Египта"
+ EGB_social_conservative_DEF:0 "Совет революционного командования Египта"
+ EGB_authoritarian_democrat:0 "Совет революционного командования Египта"
+ EGB_authoritarian_democrat_DEF:0 "Совет революционного командования Египта"
+ EGB_despotism:0 "Совет революционного командования Египта"
+ EGB_despotism_DEF:0 "Совет революционного командования Египта"
+ EGB_communist:0 "Совет революционного командования Египта"
+ EGB_communist_DEF:0 "Совет революционного командования Египта"
+ EGB_socialist:0 "Совет революционного командования Египта"
+ EGB_socialist_DEF:0 "Совет революционного командования Египта"
+ EGB_national_socialism:0 "Совет революционного командования Египта"
+ EGB_national_socialism_DEF:0 "Совет революционного командования Египта"
+ EGB_ultranational_socialism:0 "Совет революционного командования Египта"
+ EGB_ultranational_socialism_DEF:0 "Совет революционного командования Египта"
+ 
+ EGQ_national_socialism:0 "Братья-мусульмане"
+ EGQ_national_socialism_DEF:0 "Братья-мусульмане"
+ EGQ_ultranational_socialism:0 "Братья-мусульмане"
+ EGQ_ultranational_socialism_DEF:0 "Братья-мусульмане"
+ 
+ #ideas
+# EGY_idea_colonial_government:0 "Colonial Government" #duplicate loc key
+ egy_arab_socialist_union:0 "Арабский социалистический союз"
+ egy_arab_socialist_union_desc:0 ""
+ egy_farouks_hedonism:0 "Гедонизм Фарука"
+ egy_farouks_hedonism_desc:0 "Наш король, Фарук I, известен во всем мире своей экстравагантностью. Считается, что он съедает 600 устриц в неделю. Сейчас Фарук больше похож на плейбоя, чем на короля. Это привело к росту недовольства королем и также сильно подорвало экономику государства."
+ egy_muslim_brotherhood:0 "Братья-мусульмане"
+ egy_muslim_brotherhood_desc:0 ""
+
+ #Decisions
+ egy_intro_event:0 "Королевство Египет"
+
+ #Events
+ egy.2.t:0 "Положение Королевства Египет"
+ egy.2.d:0 "Изгнав британских империалистов с помощью наших верных итальянских союзников, Египет наконец-то обрел долгожданную независимость. Несмотря на то, насколько великой и славной была эта победа для всех египтян, подлая шайка недовольных сторонников фашизма попыталась свергнуть нашего великого короля Фарука. Этот предательский заговор вылился в попытку "revolution", which was little more then a blind power grab by traitors within our armed forces.\n\nDespite some initial blunders on our part, and the temporary retreat from Cairo, help from our great Italian friends easily dispatched the remaining traitors. Of course, the Italians expected compensation, which was granted by our great king Farouk who personally allowed several Italian Advisers into our government.\n\nFarouk himself has celebrated our new found friendship with the Italians, and trusts them so much he's allowed them to begin governing in his absence. With this new found free time, Farouk has engaged in several important diplomatic trips, to such foreign places as Las Vegas, Havana, and Montecarlo."
+ egy.2.a:0 "Фарук действительно идеальный монарх"
+
+ egy.3.t:0 "Удар по нашей казне"
+ egy.3.d:0 "Вставьте Текст"
+ egy.3.a:0 "Тревожно"
+
+ egy.4.t:0 "Итальянские Кредиты"
+ egy.4.d:0 "Вставьте Текст"
+ egy.4.a:0 "Это все еще управляемо"
+
+ egy.5.t:0 "Итальянцы отказывают нам"
+ egy.5.d:0 "Вставьте Текст"
+ egy.5.a:0 "Фарук, пожалуйста остановись."
+
+ egy.6.t:0 "Швейцарские контакты"
+ egy.6.d:0 "Наш король Фарук получил предложение от ведущих швейцарских банков о весьма заманчивой сделке. Поскольку его авантюры попали на первые полосы газет по всему миру, возник вопрос, как именно он это финансирует. Похоже, что швейцарцы поняли, что он пользуется государственными богатствами, и путем тщательных расчетов выяснили, что они скоро закончатся.\n\nПоэтому они обратились к Фаруку с предложением предоставить ему чрезвычайно большие кредиты под высокий процент, чтобы он продолжал свои приключения по всему миру, что Фарук и намерен сделать. Ведущие экономисты нашего правительства настоятельно рекомендовали не делать этого, говоря, что это разрушит и без того слабую египетскую экономику, однако Фарук еще не ответил правительству."
+ egy.6.a:0 "Какое очевидное мошенничество."
+
+ egy.7.t:0 "Швецарские Кредиты"
+ egy.7.d:0 "Сегодня в дворцовых залах и правительственных учреждениях царит потрясенная тишина, поскольку Фарук получил ответ по вопросу о швейцарских кредитах, что он принимает все кредиты. Министр экономики тихо плачет в своем кабинете, а правительственные бухгалтеры до сих пор не пришли к выводу, насколько дорого это обойдется Королевству. Однако ясно одно. Это будет стоить больше, чем Египет может выдержать."
+ egy.7.a:0 "Фарук, ради всего святого, ПОЖАЛУЙСТА прекрати."
+
+ egy.8.t:0 "Швейцарцы хотят вернуть свои деньги"
+ egy.8.d:0 "Вставьте Текст"
+ egy.8.a:0 "Может быть, они дадут продление..."
+
+ egy.9.t:0 "Требование вернуть кредит"
+ egy.9.d:0 "Вставьте Текст"
+ egy.9.a:0 "Боже правый...."
+ 
+ egy.13.t:0 "Собрания Баатистов в Каире"
+ egy.13.d:0 "Хотя "
+ egy.13.a:0 "Эти бандиты баасисты должны быть уничтожены!"
+ 
+ egy.14.t:0 "Выступление Кутба в Хартуме"
+ egy.14.d:0 "Судан всегда был оторван от остального Египта, и стал отличной питательной средой для антимонархических настроений. Это наиболее очевидно на примере роста исламизма в Судане, который в своем большинстве возглавляет египтянин Сайид Кутб.\n\nКак раз сегодня он провел митинг в Хартуме, говоря о гунах египетского режима и о самом Фаруке. Он также призвал людей вернуться к истинному свету ислама и не оставаться Такфирами, в которых их превратили.\n\nНе успел он закончить свою речь, как на площади появились египетские полицейские, чтобы разогнать митинг, к большому гневу толпы."
+ egy.14.a:0 "В наши дни люди верят во что угодно."
+
+ egy.16.t:0 "Нассер произносит свою речь"
+ egy.16.d:0 "Вставьте Текст"
+ egy.16.a:0 "Он уже должен был умереть..."
+ 
+ egy.17.t:0 "Если вы видите это, сообщите об этом"
+ egy.17.d:0 "Вставьте Текст"
+ egy.17.a:0 "Смотрите выше."
+ 
+ egy.18.t:0 "Полицейский участок взорван в Каире!"
+ egy.18.d:0 "Вставьте Текст"
+ egy.18.a:0 "Варвары!"
+ 
+ egy.19.t:0 "Баасисты пойманы на контрабанде оружия!"
+ egy.19.d:0 "Вставьте Текст"
+ egy.19.a:0 "Слава Богу, мы их остановили!"
+ 
+ egy.20.t:0 "Следователи таинственно исчезают!"
+ egy.20.d:0 "Вставьте Текст"
+ egy.20.a:0 "Может ли это быть больше, чем мы ожидали?"
+ 
+ egy.21.t:0 "Полиция разгромила собрание исламистов!"
+ egy.21.d:0 "Вставьте Текст"
+ egy.21.a:0 "По крайней мере, мы их поймали."
+ 
+ egy.22.t:0 "Слухи о сотрудничестве"
+ egy.22.d:0 "Вставьте Текст"
+ egy.22.a:0 "Если это так..."
+ 
+ egy.23.t:0 "Найдена баасистская пропагандистская сеть!"
+ egy.23.d:0 "Вставьте Текст"
+ egy.23.a:0 "Разнесите всё это!"
+ 
+ egy.24.t:0 "Всплеск случаев дезертирства!"
+ egy.24.d:0 "Вставьте Текст"
+ egy.24.a:0 "Отдать их под трибунал!"
+ 
+ egy.25.t:0 "Слухи на улицах"
+ egy.25.d:0 "Вставьте Текст"
+ egy.25.a:0 "Относительно."
+ 
+ egy.26.t:0 "Противотанковое оружие украдено!"
+ egy.26.d:0 "Вставьте Текст"
+ egy.26.a:0 "Найти их! Сейчас!"
+ 
+ egy.27.t:0 "Нечестивый союз"
+ egy.27.d:0 "Вставьте Текст"
+ egy.27.a:0 "Будем надеяться, что это неправда."
+ 
+ egy.28.t:0 "Напряжение на улицах"
+ egy.28.d:0 "Вставьте Текст"
+ egy.28.a:0 "Нам нужно больше полицейских, срочно!"
+ 
+ egy.29.t:0 "Тишина на улицах"
+ egy.29.d:0 "Вставьте Текст"
+ egy.29.a:0 "О нет..."
+ 
+ egy.30.t:0 "Большая охота"
+ egy.30.d:0 "Вставьте Текст"
+ egy.30.a:0 "За ними!"
+ 
+ egy.31.t:0 "Инспекция в армии"
+ egy.31.d:0 "Вставьте Текст"
+ egy.31.a:0 "Мы должны обеспечить их лояльность."
+ 
+ egy.32.t:0 "Инспекция в Полиции"
+ egy.32.d:0 "Вставьте Текст"
+ egy.32.a:0 "Мы должны обеспечить их лояльность."
+ 
+ egy.33.t:0 "Политическая Инспекция"
+ egy.33.d:0 "Вставьте Текст"
+ egy.33.a:0 "Они должны что-то скрывать..."
+ 
+ egy.34.t:0 "Офицерский заговор раскрыт!"
+ egy.34.d:0 "Вставьте Текст"
+ egy.34.a:0 "Нет! Только не снова!"
+ 
+ egy.35.t:0 "Солдаты арестованы!"
+ egy.35.d:0 "Вставьте Текст"
+ egy.35.a:0 "По крайней мере, мы получили их вовремя.."
+ 
+ egy.36.t:0 "Завеса тишины"
+ egy.36.d:0 "Вставьте Текст"
+ egy.36.a:0 "Тревожно..."
+ 
+ egy.37.t:0 "Полиция скомпрометирована!"
+ egy.37.d:0 "Вставьте Текст"
+ egy.37.a:0 "Пришлите военную полицию!"
+ 
+ egy.38.t:0 "Ячейка проникновения обнаружена!"
+ egy.38.d:0 "Вставьте Текст"
+ egy.38.a:0 "Окружите их!"
+ 
+ egy.39.t:0 "Завеса тишины"
+ egy.39.d:0 "Вставьте Текст"
+ egy.39.a:0 "Тревожно..."
+ 
+ egy.40.t:0 "Симпатии на высшем уровне?"
+ egy.40.d:0 "Вставьте Текст"
+ egy.40.a:0 "Как это могло зайти так далеко?"
+ 
+ egy.41.t:0 "Судья арестован в Александрии!"
+ egy.41.d:0 "Вставьте Текст"
+ egy.41.a:0 "Печальные последствия..."
+ 
+ egy.42.t:0 "Завеса Тишины"
+ egy.42.d:0 "Вставьте Текст"
+ egy.42.a:0 "Тревожно..."
+ 
+ egy.43.t:0 "Баасисты восстали против Фауда!"
+ egy.43.d:0 "Вставьте Текст"
+ egy.43.a:0 "Стоять за короля!"
+ egy.43.b:0 "Поддержать Революцию!"
+ 
+ egy.44.t:0 "Баасисты восстали против Фауда!"
+ egy.44.d:0 "Вставьте Текст"
+ egy.44.a:0 "Стоять за короля!"
+ egy.44.b:0 "Поддержать Революцию!"
+ 
+ egy.45.t:0 "Баасисты восстали против Фауда!"
+ egy.45.d:0 "Вставьте Текст"
+ egy.45.a:0 "Стоять за короля!"
+ egy.45.b:0 "Поддержать Революцию!"
+ 
+ 
+ ##### Farouks Grand Tour Focuses #######
+ egy_farouks_new_gig:0 "Королевство Египет"
+ egy_farouks_new_gig_desc:0 "Королевство Египет"
+ 
+ egy_the_fun_side_of_monarchy:0 "Королевство Египет"
+ egy_the_fun_side_of_monarchy_desc:0 "Королевство Египет"
+
+ egy_withdraw_from_the_treasurey:0 "Королевство Египет"
+ egy_withdraw_from_the_treasurey_desc:0 "Королевство Египет"
+
+ egy_let_the_italians_do_it:0 "Королевство Египет"
+ egy_let_the_italians_do_it_desc:0 "Королевство Египет"
+
+ egy_farouks_big_break:0 "Королевство Египет"
+ egy_farouks_big_break_desc:0 "Королевство Египет"
+
+ egy_fly_to_iberia:0 "Королевство Египет"
+ egy_fly_to_iberia_desc:0 "Королевство Египет"
+
+ egy_portugese_wine:0 "Королевство Египет"
+ egy_portugese_wine_desc:0 "Королевство Египет"
+
+ egy_barcelona_spree:0 "Королевство Египет"
+ egy_barcelona_spree_desc:0 "Королевство Египет"
+
+ egy_head_to_the_boot:0 "Королевство Египет"
+ egy_head_to_the_boot_desc:0 "Королевство Египет"
+
+ egy_italian_fashion:0 "Королевство Египет"
+ egy_italian_fashion_desc:0 "Королевство Египет"
+
+ egy_the_fast_and_farouk:0 "Королевство Египет"
+ egy_the_fast_and_farouk_desc:0 "Королевство Египет"
+
+ egy_party_like_a_egyptian:0 "Королевство Египет"
+ egy_party_like_a_egyptian_desc:0 "Королевство Египет"
+
+ egy_blitz_the_baazars:0 "Королевство Египет"
+ egy_blitz_the_baazars_desc:0 "Королевство Египет"
+
+ egy_visit_the_turks:0 "Королевство Египет"
+ egy_visit_the_turks_desc:0 "Королевство Египет"
+
+ egy_the_wealth_of_istanbul:0 "Королевство Египет"
+ egy_the_wealth_of_istanbul_desc:0 "Королевство Египет"
+
+ egy_farouks_baazar_bargain:0 "Королевство Египет"
+ egy_farouks_baazar_bargain_desc:0 "Королевство Египет"
+
+ egy_athens_spree:0 "Королевство Египет"
+ egy_athens_spree_desc:0 "Королевство Египет"
+
+ egy_expanding_our_horizons:0 "Королевство Египет"
+ egy_expanding_our_horizons_desc:0 "Королевство Египет"
+
+ egy_back_in_the_usa:0 "Королевство Египет"
+ egy_back_in_the_usa_desc:0 "Королевство Египет"
+
+ egy_sex_drugs_and_rocknroll:0 "Королевство Египет"
+ egy_sex_drugs_and_rocknroll_desc:0 "Королевство Египет"
+
+ egy_playboy_farouk:0 "Королевство Египет"
+ egy_playboy_farouk_desc:0 "Королевство Египет"
+
+ egy_walk_broadway:0 "Королевство Египет"
+ egy_walk_broadway_desc:0 "Королевство Египет"
+
+ egy_the_colombian_exchange:0 "Королевство Египет"
+ egy_the_colombian_exchange_desc:0 "Королевство Египет"
+
+ egy_blitz_the_pakt:0 "Королевство Египет"
+ egy_blitz_the_pakt_desc:0 "Королевство Египет"
+
+ egy_go_go_nippon_another_trip_to_japan:0 "Королевство Египет"
+ egy_go_go_nippon_another_trip_to_japan_desc:0 "Королевство Египет"
+
+ egy_sip_sake:0 "Королевство Египет"
+ egy_sip_sake_desc:0 "Королевство Египет"
+
+ egy_tour_tokyo:0 "Королевство Египет"
+ egy_tour_tokyo_desc:0 "Королевство Египет"
+
+ egy_take_a_swing_through_india:0 "Королевство Египет"
+ egy_take_a_swing_through_india_desc:0 "Королевство Египет"
+
+ egy_the_attraction_of_opium:0 "Королевство Египет"
+ egy_the_attraction_of_opium_desc:0 "Королевство Египет"
+
+ egy_tour_germania:0 "Королевство Египет"
+ egy_tour_germania_desc:0 "Королевство Египет"
+
+ egy_the_beauty_of_paris:0 "Королевство Египет"
+
+ egy_head_down_into_africa:0 "Королевство Египет"
+ egy_head_down_into_africa_desc:0 "Королевство Египет"
+
+ egy_meet_with_mueller:0 "Королевство Египет"
+ egy_meet_with_mueller_desc:0 "Королевство Египет"
+
+ egy_the_return_to_egypt:0 "Королевство Египет"
+ egy_the_return_to_egypt_desc:0 "Королевство Египет"
+
+ egy_start_planning_a_small_party:0 "Королевство Египет"
+ egy_start_planning_a_small_party_desc:0 "Королевство Египет"
+
+ egy_rock_the_pyramids:0 "Королевство Египет"
+ egy_rock_the_pyramids_desc:0 "Королевство Египет"
+
+ ##### Farouks Grand Tour Events #######
+ 
+ egy.46.t:0 "Новая работа Фарука"
+ egy.46.d:0 ""
+ egy.46.a:0 ""
+ 
+ egy.47.t:0 "Весёлая сторона монархии"
+ egy.47.d:0 ""
+ egy.47.a:0 ""
+ 
+ egy.48.t:0 "Вывод средств из казначейства"
+ egy.48.d:0 ""
+ egy.48.a:0 ""
+ 
+ egy.49.t:0 "Пусть итальянцы этим займутся."
+ egy.49.d:0 ""
+ egy.49.a:0 ""
+ 
+ egy.50.t:0 "Большой успех Фарука"
+ egy.50.d:0 ""
+ egy.50.a:0 ""
+ 
+ egy.11.t:0 "Полет в Иберию"
+ egy.11.d:0 "Фарука называли по-разному, но скромным его точно не назовешь. Его прибытие в Испанию на борту коммерческого авиалайнера, изъятого для его личного пользования, является достаточным доказательством его характера. К огорчению иберийской встречающей стороны, транспорт, подготовленный для Фарука, оказался недостаточным для перевозки его многочисленных сопровождающих и багажа в дополнение к нему самому.\n\nНо такие логистические проблемы не могли заинтересовать короля ни на йоту. Он был здесь, в Иберии, стране, которая сулила ему множество удовольствий!"
+ egy.11.a:0 "Полуостров ждет! ¡Vamos!"
+ 
+ egy.51.t:0 "Португальское вино"
+ egy.51.d:0 ""
+ egy.51.a:0 ""
+ 
+ egy.52.t:0 "Барселона Шпрее"
+ egy.52.d:0 ""
+ egy.52.a:0 ""
+ 
+ egy.1.t:0 "Король Фарук прибыл в Неаполь"
+ egy.1.d:0 ""
+ egy.1.a:0 "Надеюсь, у него будет приятный визит"
+ 
+ egy.53.t:0 "Блиц по Базарам"
+ egy.53.d:0 ""
+ egy.53.a:0 ""
+ 
+ egy.54.t:0 "Итальянская мода"
+ egy.54.d:0 ""
+ egy.54.a:0 ""
+ 
+ egy.55.t:0 "Быстрый и Фарук"
+ egy.55.d:0 ""
+ egy.55.a:0 ""
+ 
+ egy.56.t:0 "Вечеринка по-египетски"
+ egy.56.d:0 ""
+ egy.56.a:0 ""
+
+ egy.57.t:0 "Посещение турков"
+ egy.57.d:0 ""
+ egy.57.a:0 ""
+ 
+ egy.10.t:0 "Сделка всей жизни"
+ egy.10.d:0 "За фасадом оживленных центральных улиц Стамбула скрывается процветающая базарная экономика. В этих дырах в подворотнях можно купить все, что пожелает человек, и огромные суммы денег ежедневно переходят из рук в руки. Особенно большую часть этих рынков составляют исторические артефакты - от предметов старины со всего мира до памятных вещей времен Второй мировой войны. Интерес Фарука ко всему дорогому привел его к одному лавочнику, и вскоре он оказался на опасном аукционе.\n\nКогда лавочник определил, что Фарук действительно человек с большим состоянием, он пригласил короля на тайный аукцион, который проходил в тенистом складе. Пообещав, что на продажу выставлены товары, которые он не захочет пропустить, Фарук и его охранники приняли приглашение. Прибыв на место, Фарук присоединился к пестрой команде из дюжины других людей, среди которых выделялись два человека. Двое крупных и внушительных мужчин с несколькими шрамами на лицах молчали почти весь аукцион, пока редкие и дорогие картины, книги и керамика продавались остальным. Сам Фарук купил несколько люстр, но его внимание привлек последний предмет аукциона - пузырек с водой из Фонтана Молодости."
+ egy.10.a:0 "Интригующе..."
+
+ egy.12.t:0 "Аукцион всей жизни"
+ egy.12.d:0 "Аукционер объяснил, что флакон, якобы содержащий воду из фонтана легенд, на протяжении веков передавался великим мужчинам и женщинам на протяжении всей истории человечества. Начиная с Александра Македонского, она побывала в руках таких людей, как Карл Великий, Елизавета I и Отто фон Бисмарк, а после Великой Войны была утеряна и только сегодня оказалась на этом складе. Несмотря на все подозрения, Фарук не мог позволить себе упустить этот шанс всей жизни. Именно сейчас два странных человека начали действовать.\n\nАукцион был напряженным, и постоянные возгласы зрителей были музыкой для ушей Фарука, так как цена продолжала расти. Вскоре Фарук оказался против двух мужчин. В последней попытке обеспечить победу, Фарук сделал предложение, с которым двое мужчин просто не могли сравниться, и день был выигран.\n\nНесмотря на то, что цена была отвратительно высокой, Фарук получил пузырек. К удивлению всех присутствующих, он выпил содержимое, как только флакон оказался в его руках. Два его конкурента громко причитали на немецком языке, а перед уходом заметили, что Лига не забудет такого оскорбления. Фарук, естественно, не придал значения этой угрозе, в конце концов, он теперь бессмертен! Если только ему не солгали с самого начала, чего его гордость не допускала."
+ egy.12.a:0 "Вкус победы!"
+ 
+ egy.58.t:0 "Богатства Стамбула"
+ egy.58.d:0 ""
+ egy.58.a:0 ""
+ 
+ egy.59.t:0 "Афины Шпрее"
+ egy.59.d:0 ""
+ egy.59.a:0 ""
+ 
+ egy.60.t:0 "Египтяне недовольны Фаруком"
+ egy.60.d:0 ""
+ egy.60.a:0 ""
+ 
+ egy.61.t:0 "Расширяя наши горизонты"
+ egy.61.d:0 ""
+ egy.61.a:0 ""
+ 
+ egy.62.t:0 "Египтяне в гневе на Фарука"
+ egy.62.d:0 ""
+ egy.62.a:0 ""
+ 
+ egy.63.t:0 "Назад в США"
+ egy.63.d:0 ""
+ egy.63.a:0 ""
+ 
+ egy.64.t:0 "Секс, наркотики и Рок-н-Ролл"
+ egy.64.d:0 ""
+ egy.64.a:0 ""
+ 
+ egy.65.t:0 "Плейбой Фарук"
+ egy.65.d:0 ""
+ egy.65.a:0 ""
+ 
+ egy.66.t:0 "Прогулка по Бродвею"
+ egy.66.d:0 ""
+ egy.66.a:0 ""
+ 
+ egy.67.t:0 "Колумбийская биржа"
+ egy.67.d:0 ""
+ egy.67.a:0 ""
+
+ egy.68.t:0 "Блиц по Пакту"
+ egy.68.d:0 ""
+ egy.68.a:0 ""
+ 
+ egy.69.t:0 "Вперед! Вперед! Ниппон!"
+ egy.69.d:0 ""
+ egy.69.a:0 ""
+ 
+ egy.70.t:0 "Глоток сакэ"
+ egy.70.d:0 ""
+ egy.70.a:0 ""
+ 
+ egy.71.t:0 "Тур по Токио"
+ egy.71.d:0 ""
+ egy.71.a:0 ""
+ 
+ egy.72.t:0 "Прокатиться по Индии"
+ egy.72.d:0 ""
+ egy.72.a:0 ""
+ 
+ egy.73.t:0 "Притягательность опиума"
+ egy.73.d:0 ""
+ egy.73.a:0 ""
+ 
+ egy.74.t:0 "Тур по Германии"
+ egy.74.d:0 ""
+ egy.74.a:0 ""
+ 
+ egy.75.t:0 "Красоты Парижа"
+ egy.75.d:0 ""
+ egy.75.a:0 ""
+ 
+ egy.76.t:0 "Спуститься в Африку"
+ egy.76.d:0 ""
+ egy.76.a:0 ""
+ 
+ egy.77.t:0 "Встреча с Мюллером"
+ egy.77.d:0 ""
+ egy.77.a:0 ""
+ 
+ egy.78.t:0 "Возвращение в Египет"
+ egy.78.d:0 ""
+ egy.78.a:0 ""
+ 
+ egy.79.t:0 "Начать планировать небольшую вечеринку"
+ egy.79.d:0 ""
+ egy.79.a:0 ""
+ 
+ egy.80.t:0 "Раскачать пирамиды"
+ egy.80.d:0 ""
+ egy.80.a:0 ""
+ 
+ egy.15.t:0 "Пик Фарука"
+ egy.15.d:0 "Фарук веселился от души. Хотя кто бы не веселился? Вечеринка в твое имя, самое экстравагантное и роскошное мероприятие, на котором присутствуют самые богатые и знаменитые люди мира. Он мог быть очень пьян и, по крайней мере, немного под кайфом, но он все еще мог мыслить достаточно ясно, чтобы испытывать гордость. Он путешествовал по миру, видел достопримечательности, встречался с хорошими и великими людьми и чертовски хорошо проводил время. Последние два года, по крайней мере, в глазах Фарукса, были лучшими в мире.\n\nНо когда он отошел от буфета, наевшись до отвала, он почувствовал себя странно. Было ощущение, что что-то застряло, и ему было трудно понять, в чем дело. Когда он попытался заговорить, он быстро понял, в чем дело. Что-то застряло у него в горле. Он начал пытаться говорить, кашлять, делать все, что угодно, чтобы привлечь внимание людей, пытаясь вымолвить слова о помощи. Неужели никто не заметит, никто не придет ему на помощь? Однако люди были слишком заняты разговорами между собой, музыка заглушала его попытки подавить призыв о помощи. Он рухнул на землю, в пьяном состоянии не в силах контролировать свои движения. Его зрение становилось все более темным, окружающие звуки исчезали на заднем плане. Он предпринял последнюю попытку позвать на помощь, пытаясь издать последний звук, чтобы хоть кто-то пришел ему на помощь.\n\nНо никто не пришел.\n\nПоследние его мысли были о сыне, и о том, как ему жаль его."
+ egy.15.a:0 "Похоже, что вечеринка окончена."
+ 
+ ###### RIP FAROUK LMAO #######
+
+ egy_the_death_of_farouk:0 "Королевство Египет"
+ egy_the_death_of_farouk_desc:0 "Королевство Египет"
+
+ egy_regency_council:0 "Регентский совет"
+ egy_regency_council_desc:0 "Королевство Египет"
+
+ egy_farouk_debate:0 "Королевство Египет"
+ egy_farouk_debate_desc:0 "Королевство Египет"
+
+ egy_what_did_royalty_do:0 "Королевство Египет"
+ egy_what_did_royalty_do_desc:0 "Королевство Египет"
+
+ egy_why_do_we_need_prime_minister:0 "Королевство Египет"
+ egy_why_do_we_need_prime_minister_desc:0 "Королевство Египет"
+
+ egy_parliaments_shmarliaments:0 "Королевство Египет"
+ egy_parliaments_shmarliaments_desc:0 "Королевство Египет"
+
+ egy_curtail_royal_power:0 "Королевство Египет"
+ egy_curtail_royal_power_desc:0 "Королевство Египет"
+
+ egy_elect_prime_minister:0 "Королевство Египет"
+ egy_elect_prime_minister_desc:0 "Королевство Египет"
+
+ egy_create_parliament:0 "Королевство Египет"
+ egy_create_parliament_desc:0 "Королевство Египет"
+
+ egy_regency_debate:0 "Королевство Египет"
+ egy_regency_debate_desc:0 "Королевство Египет"
+
+ egy_regency_fuad:0 "Королевство Египет"
+ egy_regency_fuad_desc:0 "Королевство Египет"
+
+ egy_boy_king:0 "Королевство Египет"
+ egy_boy_king_desc:0 "Королевство Египет"
+
+ egy_promise_balbo:0 "Королевство Египет"
+ egy_promise_balbo_desc:0 "Королевство Египет"
+
+ egy_republican_option:0 "Королевство Египет"
+ egy_republican_option_desc:0 "Королевство Египет"
+
+ egy_talk_with_moderates:0 "Королевство Египет"
+ egy_talk_with_moderates_desc:0 "Королевство Египет"
+
+ egy_no_kings:0 "Королевство Египет"
+ egy_no_kings_desc:0 "Королевство Египет"
+
+ egy_regency_adalberto:0 "Королевство Египет"
+ egy_regency_adalberto_desc:0 "Королевство Египет"
+
+ egy_italian_king:0 "Королевство Египет"
+ egy_italian_king_desc:0 "Королевство Египет"
+
+ egy_deny_controversies:0 "Королевство Египет"
+ egy_deny_controversies_desc:0 "Королевство Египет"
+
+ egy_preparing_a_ceremony:0 "Королевство Египет"
+ egy_preparing_a_ceremony_desc:0 "Королевство Египет"
+
+ egy_a_new_egypt:0 "Королевство Египет"
+ egy_a_new_egypt_desc:0 "Королевство Египет"
+
+ #### Regency Ideas ####
+ egy_a_post_farouk_egypt:0 "Королевство Египет"
+ egy_a_post_farouk_egypt_desc:0 "Королевство Египет"
+
+ egy_inefficient_regency_council:0 "Королевство Египет"
+ egy_inefficient_regency_council_desc:0 "Королевство Египет"
+
+ #### Regency Events ####
+ egy.300.t:0 ""
+ egy.300.d:0 ""
+ egy.300.a:0 ""
+
+ egy.301.t:0 ""
+ egy.301.d:0 ""
+ egy.301.a:0 ""
+
+ egy.302.t:0 ""
+ egy.302.d:0 ""
+ egy.302.a:0 ""
+
+ egy.303.t:0 ""
+ egy.303.d:0 ""
+ egy.303.a:0 ""
+
+ egy.304.t:0 ""
+ egy.304.d:0 ""
+ egy.304.a:0 ""
+
+ egy.305.t:0 ""
+ egy.305.d:0 ""
+ egy.305.a:0 ""
+
+ egy.306.t:0 ""
+ egy.306.d:0 ""
+ egy.306.a:0 ""
+
+ egy.307.t:0 ""
+ egy.307.d:0 ""
+ egy.307.a:0 ""
+
+ egy.308.t:0 ""
+ egy.308.d:0 ""
+ egy.308.a:0 ""
+
+ egy.309.t:0 ""
+ egy.309.d:0 ""
+ egy.309.a:0 ""
+
+ egy.310.t:0 ""
+ egy.310.d:0 ""
+ egy.310.a:0 ""
+
+ egy.311.t:0 ""
+ egy.311.d:0 ""
+ egy.311.a:0 ""
+
+ egy.312.t:0 ""
+ egy.312.d:0 ""
+ egy.312.a:0 ""
+
+ egy.313.t:0 ""
+ egy.313.d:0 ""
+ egy.313.a:0 ""
+
+ egy.314.t:0 ""
+ egy.314.d:0 ""
+ egy.314.a:0 ""
+
+ egy.315.t:0 ""
+ egy.315.d:0 ""
+ egy.315.a:0 ""
+
+ egy.316.t:0 ""
+ egy.316.d:0 ""
+ egy.316.a:0 ""
+
+ egy.317.t:0 ""
+ egy.317.d:0 ""
+ egy.317.a:0 ""
+
+ egy.318.t:0 ""
+ egy.318.d:0 ""
+ egy.318.a:0 ""
+ 
+ #### Adalberto Regency ####
+ egy_regency_of_adalberto:0 "Королевство Египет"
+ egy_regency_of_adalberto_desc:0 "Королевство Египет"
+ egy_regency_adalberto_tt:0 "Королевство Египет"
+ 
+ egy_get_country_under_control:0 "Королевство Египет"
+ egy_get_country_under_control_desc:0 "Королевство Египет"
+
+ egy_deal_with_moderates:0 "Королевство Египет"
+ egy_deal_with_moderates_desc:0 "Королевство Египет"
+ 
+ egy_round_them_up:0 "Королевство Египет"
+ egy_round_them_up_desc:0 "Королевство Египет"
+ 
+ egy_jail_them_all:0 "Королевство Египет"
+ egy_jail_them_all_desc:0 "Королевство Египет"
+ 
+ egy_enforce_propaganda:0 "Королевство Египет"
+ egy_enforce_propaganda_desc:0 "Королевство Египет"
+ 
+ egy_italys_loyal_sons:0 "Королевство Египет"
+ egy_italys_loyal_sons_desc:0 "Королевство Египет"
+ 
+ egy_deal_with_nasser:0 "Королевство Египет"
+ egy_deal_with_nasser_desc:0 "Королевство Египет"
+ 
+ egy_side_with_muslim_brotherhood:0 "Королевство Египет"
+ egy_side_with_muslim_brotherhood_desc:0 "Королевство Египет"
+ 
+ egy_set_an_example_for_islam:0 "Королевство Египет"
+ egy_set_an_example_for_islam_desc:0 "Королевство Египет"
+ 
+ egy_ban_nasserism:0 "Королевство Египет"
+ egy_ban_nasserism_desc:0 "Королевство Египет"
+ 
+ egy_egypt_not_for_socialists:0 "Королевство Египет"
+ egy_egypt_not_for_socialists_desc:0 "Королевство Египет"
+ 
+ egy_lets_go_a_bit_further:0 "Королевство Египет"
+ egy_lets_go_a_bit_further_desc:0 "Королевство Египет"
+
+ egy_bribe_qutb:0 "Королевство Египет"
+ egy_bribe_qutb_desc:0 "Королевство Египет"
+ 
+ egy_promote_islam:0 "Королевство Египет"
+ egy_promote_islam_desc:0 "Королевство Египет"
+ 
+ egy_islam_is_italian_too:0 "Королевство Египет"
+ egy_islam_is_italian_too_desc:0 "Королевство Египет"
+ 
+ egy_de_faroukization:0 "Королевство Египет"
+ egy_de_faroukization_desc:0 "Королевство Египет"
+ 
+ egy_fill_the_coffers:0 "Королевство Египет"
+ egy_fill_the_coffers_desc:0 "Королевство Египет"
+ 
+ egy_denounce_hedonism:0 "Королевство Египет"
+ egy_denounce_hedonism_desc:0 "Королевство Египет"
+ 
+ egy_greater_italian_presence:0 "Королевство Египет"
+ egy_greater_italian_presence_desc:0 "Королевство Египет"
+ 
+ egy_bring_in_more_settlers:0 "Королевство Египет"
+ egy_bring_in_more_settlers_desc:0 "Королевство Египет"
+ 
+ egy_redraw_land_grants:0 "Королевство Египет"
+ egy_redraw_land_grants_desc:0 "Королевство Египет"
+ 
+ egy_more_propaganda:0 "Королевство Египет"
+ egy_more_propaganda_desc:0 "Королевство Египет"
+ 
+ egy_mussolinis_brave_sons:0 "Королевство Египет"
+ egy_mussolinis_brave_son_desc:0 "Королевство Египет"
+ 
+ egy_italys_best_colony:0 "Королевство Египет"
+ egy_italys_best_colony_desc:0 "Королевство Египет"
+ 
+ egy_an_italian_egypt:0 "Королевство Египет"
+ egy_an_italian_egypt_desc:0 "Королевство Египет"
+
+ #### Faud Regency ####
+ egy_egypts_new_epic_day:0 "Королевство Египет"
+ egy_egypts_new_epic_day_desc:0 "Королевство Египет"
+ egy_egypts_new_epic_day_tt:0 "Королевство Египет"
+ 
+ egy_egyptian_social:0 "Королевство Египет"
+ egy_egyptian_social_desc:0 "Королевство Египет"
+ 
+ egy_the_role_of_religion:0 "Королевство Египет"
+ egy_the_role_of_religion_desc:0 "Королевство Египет"
+ 
+ egy_qutb_reasoning:0 "Королевство Египет"
+ egy_qutb_reasoning_desc:0 "Королевство Египет"
+ 
+ egy_emergence:0 "Королевство Египет"
+ egy_emergence_desc:0 "Королевство Египет"
+ 
+ egy_the_publics_voice:0 "Королевство Египет"
+ egy_the_publics_voice_desc:0 "Королевство Египет"
+ 
+ egy_the_rights_of_man:0 "Королевство Египет"
+ egy_the_rights_of_man_desc:0 "Королевство Египет"
+ 
+ egy_the_same_here_as_there:0 "Королевство Египет"
+ egy_the_same_here_as_there_desc:0 "Королевство Египет"
+ 
+ egy_break_falsehoods:0 "Королевство Египет"
+ egy_break_falsehoods_desc:0 "Королевство Египет"
+ 
+ egy_the_more_important_one:0 "Королевство Египет"
+ egy_the_more_important_one_desc:0 "Королевство Египет"
+ 
+ egy_the_crowds:0 "Королевство Египет"
+ egy_the_crowds_desc:0 "Королевство Египет"
+ 
+ egy_the_chains_that_bounds_us:0 "Королевство Египет"
+ egy_the_chains_that_bounds_us_desc:0 "Королевство Египет"
+ 
+ egy_the_monarch:0 "Королевство Египет"
+ egy_the_monarch_desc:0 "Королевство Египет"
+ 
+ egy_the_regent:0 "Королевство Египет"
+ egy_the_regent_desc:0 "Королевство Египет"
+ 
+ egy_the_laws:0 "Королевство Египет"
+ egy_the_laws_desc:0 "Королевство Египет"
+ 
+ egy_the_speaker:0 "Королевство Египет"
+ egy_the_speaker_desc:0 "Королевство Египет"
+ 
+ egy_just_a_bit_off:0 "Королевство Египет"
+ egy_just_a_bit_off_desc:0 "Королевство Египет"
+ 
+ egy_egypt_internal:0 "Королевство Египет"
+ egy_egypt_internal_desc:0 "Королевство Египет"
+ 
+ egy_farouks_flaws:0 "Королевство Египет"
+ egy_farouks_flaws_desc:0 "Королевство Египет"
+ 
+ egy_dealing_with_his_gift:0 "Королевство Египет"
+ egy_dealing_with_his_gift_desc:0 "Королевство Египет"
+ 
+ egy_the_italian_in_the_room:0 "Королевство Египет"
+ egy_the_italian_in_the_room_desc:0 "Королевство Египет"
+ 
+ egy_the_price_to_pay:0 "Королевство Египет"
+ egy_the_price_to_pay_desc:0 "Королевство Египет"
+ egy_foreigntointernaldebt:0 "Королевство Египет"
+ 
+ egy_a_profit_to_turn:0 "Королевство Египет"
+ egy_a_profit_to_turn_desc:0 "Королевство Египет"
+ 
+ egy_free_the_corporations:0 "Королевство Египет"
+ egy_free_the_corporations_desc:0 "Королевство Египет"
+ 
+ egy_slots_to_fill:0 "Королевство Египет"
+ egy_slots_to_fill_desc:0 "Королевство Египет"
+ 
+ egy_send_debt_to_rome:0 "Королевство Египет"
+ egy_send_debt_to_rome_desc:0 "Королевство Египет"
+ 
+ egy_a_shift_in_egypt:0 "Королевство Египет"
+ egy_a_shift_in_egypt_desc:0 "Королевство Египет"
+ 
+ egy_a_more_free_egypt:0 "Королевство Египет"
+ egy_a_more_free_egypt_desc:0 "Королевство Египет"
+
+ ##Decision Loc##
+ EGY_protests_general:0 "Управление протестами"
+ EGY_protests_general_desc:0 "Боже, помоги нам всем"
+
+ EGY_cairo_protests:0 "Протесты в Каире"
+ EGY_protesting_cairo:0 "В Каире проходят протесты"
+ EGY_cairo_control:0 "Держать Каир под контролем"
+
+ EGY_alexandria_protests:0 "Протесты в Александрии"
+ EGY_protesting_alexandria:0 "В Александрии проходят протесты"
+ EGY_alexandria_control:0 "Держать Александрию под контролем"
+
+ EGY_ashwan_protests:0 "Протесты в Асуане"
+ EGY_protesting_ashwan:0 "В Асуане проходят протесты"
+ EGY_ashwan_control:0 "Держать Ашван под контролем"
+
+ EGY_eastdesert_protests:0 "Протесты в Восточной пустыне"
+ EGY_protesting_eastdesert:0 "В Восточной пустыне проходят протесты"
+ EGY_eastdesert_control:0 "Держать Восточную Пустыню под контролем"
+
+ EGY_PortSudan_protests:0 "Протесты в Порт-Судане"
+ EGY_protesting_PortSudan:0 "В Порт-Судане проходят протесты"
+ EGY_PortSudan_control:0 "Держать Порт-Судан под контролем"
+
+ EGY_Khartoum_protests:0 "Протесты в Хартуме"
+ EGY_protesting_Khartoum:0 "В Хартуме проходят протесты"
+ EGY_Khartoum_control:0 "Держать Хартум под контролем"
+
+ EGY_Juba_protests:0 "Протесты в Джубе"
+ EGY_protesting_Juba:0 "В Джубе проходят протесты"
+ EGY_Juba_control:0 "Держать Джубу под контролем"
+
+ ###SADAT SADAT SADAT###
+ egy_the_past_in_perspective:0 "Королевство Египет"
+ egy_the_past_in_perspective_desc:0 "Королевство Египет"
+ egy_the_past_in_perspective_tt:0 "Королевство Египет"
+ 
+ egy_deradicalization:0 "Королевство Египет"
+ egy_deradicalization_desc:0 "Королевство Египет"
+ 
+ egy_traced_to_the_origin:0 "Королевство Египет"
+ egy_traced_to_the_origin_desc:0 "Королевство Египет"
+ 
+ egy_not_yet_free:0 "Королевство Египет"
+ egy_not_yet_free_desc:0 "Королевство Египет"
+ 
+ egy_ignore_radical_parties:0 "Королевство Египет"
+ egy_ignore_radical_parties_desc:0 "Королевство Египет"
+ 
+ egy_guns_of_the_underground:0 "Королевство Египет"
+ egy_guns_of_the_underground_desc:0 "Королевство Египет"
+ 
+ egy_something_to_lose:0 "Королевство Египет"
+ egy_something_to_lose_desc:0 "Королевство Египет"
+ 
+ egy_ban_radical_parties:0 "Королевство Египет"
+ egy_ban_radical_parties_desc:0 "Королевство Египет"
+ 
+ egy_freedom_isnt_free:0 "Королевство Египет"
+ egy_freedom_isnt_free_desc:0 "Королевство Египет"
+ 
+ egy_make_people_happy:0 "Королевство Египет"
+ egy_make_people_happy_desc:0 "Королевство Египет"
+ 
+ egy_answer_the_needs:0 "Королевство Египет"
+ egy_answer_the_needs_desc:0 "Королевство Египет"
+ 
+ egy_livability:0 "Королевство Египет"
+ egy_livability_desc:0 "Королевство Египет"
+ 
+ egy_hand_to_give:0 "Королевство Египет"
+ egy_hand_to_give_desc:0 "Королевство Египет"
+ 
+ egy_lift_them_up:0 "Королевство Египет"
+ egy_lift_them_up_desc:0 "Королевство Египет"
+ 
+ egy_the_egyptians_of_egypt:0 "Королевство Египет"
+ egy_the_egyptians_of_egypt_desc:0 "Королевство Египет"
+ 
+ egy_the_settlers_of_egypt:0 "Королевство Египет"
+ egy_the_settlers_of_egypt_desc:0 "Королевство Египет"
+ 
+ egy_those_in_egypt:0 "Королевство Египет"
+ egy_those_in_egypt_desc:0 "Королевство Египет"
+ 
+ egy_new_justice:0 "Королевство Египет"
+ egy_new_justice_desc:0 "Королевство Египет"
+ 
+ egy_reformed_for_the_future:0 "Королевство Египет"
+ egy_reformed_for_the_future_desc:0 "Королевство Египет"
+ 
+ egy_distance_from_rome:0 "Королевство Египет"
+ egy_distance_from_rome_desc:0 "Королевство Египет"
+ 
+ egy_pay_our_dues:0 "Королевство Египет"
+ egy_pay_our_dues_desc:0 "Королевство Египет"
+ 
+ egy_the_egyptian_standards:0 "Королевство Египет"
+ egy_the_egyptian_standards_desc:0 "Королевство Египет"
+ 
+ egy_egyptian_factories:0 "Королевство Египет"
+ egy_egyptian_factories_desc:0 "Королевство Египет"
+ 
+ egy_greater_choice:0 "Королевство Египет"
+ egy_greater_choice_desc:0 "Королевство Египет"
+ 
+ egy_crimes_of_the_monarchy:0 "Королевство Египет"
+ egy_crimes_of_the_monarchy_desc:0 "Королевство Египет"
+ 
+ egy_the_hell_of_farouk:0 "Королевство Египет"
+ egy_the_hell_of_farouk_desc:0 "Королевство Египет"
+ 
+ egy_shed_sympathy:0 "Королевство Египет"
+ egy_shed_sympathy_desc:0 "Королевство Египет"
+ 
+ egy_lessons_to_learn:0 "Королевство Египет"
+ egy_lessons_to_learn_desc:0 "Королевство Египет"
+ 
+ egy_hefty_budget_limits:0 "Королевство Египет"
+ egy_hefty_budget_limits_desc:0 "Королевство Египет"
+ 
+ egy_no_remorse:0 "Королевство Египет"
+ egy_no_remorse_desc:0 "Королевство Египет"
+ 
+ egy_break_the_past:0 "Королевство Египет"
+ egy_break_the_past_desc:0 "Королевство Египет"
+ 
+ egy_all_to_forget:0 "Королевство Египет"
+ egy_all_to_forget_desc:0 "Королевство Египет"
+ 
+ egy_the_peoples_egypt:0 "Королевство Египет"
+ egy_the_peoples_egypt_desc:0 "Королевство Египет"

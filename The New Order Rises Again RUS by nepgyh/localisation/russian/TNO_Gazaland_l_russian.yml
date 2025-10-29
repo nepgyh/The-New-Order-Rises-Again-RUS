@@ -1,0 +1,29 @@
+﻿l_russian:
+ ## Country Names ##
+ GAZ_socialist:0 "Народная Республика Мозамбик"
+ GAZ_socialist_DEF:0 "Народная Республика Мозамбик"
+ GAZ_socialist_ADJ:0 "Мозамбикск"
+ 
+ ####Party Names#####
+
+ GAZ_socialist_party:0 "ФРЕЛИМО"
+ GAZ_socialist_party_long:0 "Фронт освобождения Мозамбика"
+
+ ## Ministers ##
+ 
+ GAZ_Joaquim_Chissano_hog:0 "Хоаким Чиссано"
+ GAZ_Alberto_Massavanhane_for:0 "Альберто Массаванхане"
+ GAZ_Marcelino_dos_Santos_eco:0 "Марселино Дос Сантос"
+ GAZ_Samora_Machel_sec:0 "Самора Машел"
+
+ ## Ideas ##
+ 
+ ## Decisions ##
+ 
+ ## Tooltips ##
+ 
+ ## Focus Tree ##
+ 
+ ## Events ##
+
+ 

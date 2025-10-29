@@ -1,0 +1,255 @@
+﻿l_russian:
+ 
+ ## Focus prerequisites stuff (Regime Stab) ##
+
+ SGR_RegimeStab_50:0 "§YСтабильность режима§! должна быть как минимум §Y50%§! £GFX_regime_stability_texticon."
+ SGR_RegimeStab_75:0 "§YСтабильность режима§! должна быть как минимум §Y75%§! £GFX_regime_stability_texticon."
+
+ ## Decisions ##
+
+ SGR_tree_reload_tt:0 "§T§YПерезагрузка древа фокусов§! может не сработать или сработать не сразу. Это ошибка Парадоксов, с которой мы ничего не можем поделать. §YПопробуйте подождать несколько дней в игре или перезагрузить свой сейв, если это все же с вами произошло.§!§!"
+
+ SGR_state_of_the_reich_category:0 "§WРейх как государство§!"
+ SGR_state_of_the_reich_category_desc:0 "\n\n§YСтабильность режима§!: £GFX_regime_stability_texticon [?SGRRegimeStability|W%]\n\n£GFX_regime_stability_texticon §YСтабильность режима§! имеет первостепенное значение для долговечности правления §OФюрера§!. На нее влияют §gразнообразные решения§!, в том числе §Rконсервативные§! или §Gреформистские§! решения, влияющие на §Tнаше общественное мнение§!. £GFX_stability_texticon §WСтабильность нашего государства§! также важна. Если £GFX_regime_stability_texticon §YСтабильность режима§! упадет ниже §Y30%§!, наше §Oправительство§! может рухнуть!\n\n§TОбщественное мнение§!: £social_outlook_texticon [getLeaningPivot] ([?SGRSocietyLevel|+2]/[getSGRLimits])\n\n§TОбщественное мнение§! [getSGROutlook] на [?SGRSocietyTick|+]/§Y14 дней§!.\n\n£social_outlook_texticon §TОбщественное мнение§! это взгляды §gграждан Рейха§! на мир. В зависимости от различных факторов, включая §Qэкономические реформы§!, §Oсогласие с правительством§! и многое другое, мировоззрение людей может измениться. Если §Oдействия правительства§! будут идти в разрез с общественным мнением, то £GFX_regime_stability_texticon §Yстабильность режима§! начнет падать!\n\nВ настоящее время §Yрежим§! склоняется в сторону... \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+
+ SGR_authdemvsfash_ticker_desc:0 "Наш §Yрежим§! сейчас движется в сторону [getSGRAlignmentTrend] ([?alignmentTicker|+]/§Yежемесячно§!) из-за того, что наше общество сейчас [getLeaningPivot].\n\n£social_outlook_texticon §BОбщественное мнение§! определяет куда будет §Yсклоняться режим§!, что помечается на шпеерометре."
+
+ SGR_reformist_influence_tt:0 "§W§GРеформисты§! в §gРейхе§! станут сильнее[getRefMalus1].§!\n"
+ SGR_reformist_influence_mid_tt:0 "§W§GРеформисты§! в §gРейхе§! станут §Mзначительно§! сильнее[getRefMalus2].§!\n"
+ SGR_reformist_influence_big_tt:0 "§W§GРеформисты§! в §gРейхе§! станут §Bневероятно§! сильнее[getRefMalus3].§!\n"
+
+ SGR_malus_1_small:0 ", это будет стоить нам §R2.5%§! £GFX_regime_stability_texticon §Yстабильности режима§!"
+ SGR_malus_1_med:0 ", это будет стоить нам §R5%§! £GFX_regime_stability_texticon §Yстабильности режима§!"
+ SGR_malus_1_big:0 ", это будет стоить нам §R10%§! £GFX_regime_stability_texticon §Yстабильности режима§!"
+
+ SGR_conservative_influence_tt:0 "§W§RКонсерваторы§! в §gРейхе§! станут сильнее[getConMalus1].§!\n"
+ SGR_conservative_influence_mid_tt:0 "§W§RКонсерваторы§! в §gРейхе§! станут §Oзначительно§! сильнее[getConMalus2].§!\n"
+ SGR_conservative_influence_big_tt:0 "§W§RКонсерваторы§! в §gРейхе§! станут §xневероятно§! сильнее[getConMalus3].§!\n"
+
+ SGR_statereich_speeches:0 "Выступить с речью"
+ SGR_statereich_speeches_desc:0 "Хотя многие считают студентов главной опорой Альберта Шпеера, именно НСДАП является дамокловым мечом, от которого зависит мнение нашего общества. Однако благодаря свой харизме и политической проницательности Шпеер может устроить ослепительную демонстрацию, чтобы успокоить некоторых из наиболее несговорчивых членов партии."
+
+ SGR_statereich_promises_light:0 "Пообещать символические реформы"
+ SGR_statereich_promises_light_desc:0 "Мы не можем забывать о тех, кто с самого начала поддерживал наш режим: студенты, интеллигенция, все, кто боролся и умирал за свои надежды на светлое будущее. Для того, чтобы успокоить их, мы пообещаем им символические реформы."
+
+ SGR_statereich_promises_huge:0 "Пообещать серьезные реформы"
+ SGR_statereich_promises_huge_desc:0 "Нам нужно укрепить стабильность режима и заставить людей успокоиться. Все, что мы можем сказать, все, что мы можем пообещать - подойдет любой вариант, что привлечет внимание людей и отвлечет их от наших врагов. Реакционеры и инакомыслящие, которые ставят под сомнение нашу способность управлять государством... что ж, мы можем обойтись и без них."
+
+ SGR_statereich_charge_treason:0 "Обвинить §jреакционеров§! в §Rизмене§!"
+ SGR_statereich_charge_treason_desc:0 "Мы можем быть самым любим фюрером в мире, но это не значит, что у нас нет оппозиции. Реакционеры были постоянной занозой для нашего движения с самого его основания, пытаясь помешать нам любыми способами. Нам нужно "
+
+ SGR_StateReich_open_pakt:0 "§YПоказать решения, связанные с Пактом§!"
+ SGR_StateReich_open_pakt_desc:0 "Кликните, чтобы показать решения, связанные с расширением Пакта Единства."
+
+ SGR_StateReich_close_pakt:0 "§YСпрятать решения, связанные с Пактом§!"
+ SGR_StateReich_close_pakt_desc:0 "Кликните, чтобы спрятать решения, связанные с расширением Пакта Единства."
+
+ SGR_French_Question:0 "В стране вина и раздоров"
+ SGR_French_Question_desc:0 "Французы за последние годы перенесли множество страданий, некоторые от рук Рейха. Убедить их снова присоединиться к Пакту будет трудно. Они явно потребуют от нас уступок. Но мы должны попытаться, иначе страна круассанов и вина так и останется вечным котлом нестабильности."
+
+ SGR_Brittany_War_Dec:0 "§RВыполнить план Ролло§!"
+ SGR_Brittany_War_Dec_desc:0 "Время пришло. Давайте выполним нашу часть сделки с Францией, чтобы, наконец, восстановить нашу гегемонию в Западной Европе."
+
+ SGR_FRA_Invasion_of_Brittany:0 "Франция готовится к вторжению"
+ SGR_FRA_Invasion_of_Brittany_desc:0 "Французы наносят последние штрихи перед выполнением плана Ролло. Вторжение начнется в самое ближайшее время"
+
+ SGR_Invasion_of_Brittany:0 "План Ролло"
+ SGR_Invasion_of_Brittany_desc:0 "План Ролло - это франко-германская операция по восстановлению контроля над Бретанью в обмен на возвращение Франции в Пакт Единства. Подобно одноименному викингу более тысячи лет назад, Германия восстановит свои владения - и все это с согласия Франции..."
+
+ SGR_France_German_reinforcement:0 "Отправить добровольцев во Францию"
+ SGR_France_German_reinforcement_desc:0 "Учитывая нашу роль в плане, мы не можем прямо учавствовать во вторжении. Поэтому мы пошлем добровольческие части Вермахта в виде франко-германских военных частей."
+
+ SGR_France_German_equipment:0 "Отправить оборудование во Францию"
+ SGR_France_German_equipment_desc:0 "Французская армия безнадежно недоукомплектована - мы пошлем им оружие и другие припасы, чтобы помочь их с выполнением плана Ролло."
+
+ SGR_France_German_manpower:0 "Отправить подкрепления во Францию"
+ SGR_France_German_manpower_desc:0 "С нападением бургундцев на Францию, французское правительство потеряло несколько своих крупнейших населенных пунктов. Мы пошлем добровольцев на помощь их резервам."
+
+ SGR_Regime_Collapse_Impeding:0 "§xКРАХ РЕЖИМА НЕИЗБЕЖЕН!§!"
+ SGR_Regime_Collapse_Impeding_desc:0 "Режим фюрера на гране падения в бездну - мы должны действовать как можно скорее и вернуть ему хоть какое-то подобие стабильности! Реакционеры уже нацелились на правительство - медлить нельзя!"
+
+ SGR_Repatriation_Debug:0 "Начать репатриацию - DEBUG"
+ SGR_Repatriation_Debug_desc:0 "Заполнить"
+
+ SGR_South_African_War:0 "Война в Южной Африке"
+ SGR_South_African_War_desc:0 "В темных недрах Африки разразилась война, пришло время поддержать наши Рейхскомиссариаты. Чтобы помочь Шенку, Мюллеру и Хюттигу в борьбе против южноафриканцев и их сторонников, мы пошлем необходимые войска для укрепления их рядов. Наши советники настроены довольно оптимистично, и после нашей победы, мы создадим лояльное Бурское марионеточное правительство под руководством Альберта Герцога."
+
+ SGR_South_African_War_Withdraw:0 "Выход из Южноафриканской войны"
+ SGR_South_African_War_Withdraw_desc:0 "Ситуация в Южной Африке не благоприятствует положению Рейха. Шпеер и его советники сочли благоразумным вывести наши войска из этого кровавого конфликта и позволить войне идти своим чередом."
+
+ SGR_Ukraine_Question:0 "Работа с Украиной"
+ SGR_Ukraine_Question_desc:0 "Украина должна вернуться в лоно Рейха как можно скорее. Крайне важно, чтобы политический статус "
+
+ SGR_Netherlands_Question:0 "Голландская проблема"
+ SGR_Netherlands_Question_desc:0 "Наши германские братья в Нидерландах отказались от безопасности Рейха, шокирующе заявляя о своей полной независимости, несмотря на протестующие крики Европы. Мы попытаемся реинтегрировать голландцев обратно в Пакт Единства."
+
+ SGR_Denmark_Question:0 "Статус Дании"
+ SGR_Denmark_Question_desc:0 "Германизация нашего северного протектората идет уже два десятилетия. Наряду с вопросом о будущем этой нации, мы должны также рассмотреть ее изменяющуюся внутреполитическую ситуацию и попытаться интегрировать ее обратно в Пакт."
+
+ SGR_Bohemia_Question:0 "Территория Рейха, Богемия-Моравия"
+ SGR_Bohemia_Question_desc:0 "В течение более чем двух десятилетий экономическая и политическая ситуация в Великогерманском Рейхе заставляла Богемию и Моравию твердо стоять на нашей стороне в качестве лояльного протектората. Хаотическое влияние Бюргеркрига распространилось на большую часть Европы, и теперь пришло время пересмотреть нынешний статус нашего верного протектората."
+
+ SGR_Issue_of_Slovakia:0 "Вопрос о Словакии"
+ SGR_Issue_of_Slovakia_desc:0 "Аннексировав территорию Богемии-Моравии, Рейх обратил свой монолитный взор на территорию Словакии. Окруженные врагами, не имея дружественных государств, которые могли бы поддержать их, они будут просто вынуждены вернуться обратно в лоно Пакта. Мы предъявим им краткий ультиматум. Они либо присоединятся, либо мы разобьем их жалкую армию и двинемся прямо на Братиславу."
+ 
+ SGR_Moskowien_Question:0 "В самом сердце России"
+ SGR_Moskowien_Question_desc:0 "Равнины крови и снега ждут нашего внимания на востоке. Исчезновение Зигфрида Каше изменило политический ландшафт Московии, ситуацию, над которой мы должны сохранять абсолютный контроль, если хотим, чтобы территории Рейха выжили и процветали."
+
+ SGR_Kaukasien_Question:0 "Кавказский Вопрос"
+ SGR_Kaukasien_Question_desc:0 "В клубящемся темном тумане Кавказа лежит наш самый разрозненный и таинственный Рейхскомиссариат. Как ключевой производитель нефти, эта территория должна быть полностью стабилизирована, если мы хотим, чтобы она продолжала служить интересам Рейха."
+
+ SGR_Polish_Question:0 "Польская заноза"
+ SGR_Polish_Question_desc:0 "История ясно дала нам понять, что Польша должна оставаться острым шипом в боку Германии независимо от того, какое сейчас десятилетие. С победой в Бюргеркриге мы должны обратить наше внимание на восток и принять твердое решение о том, как справиться с этой помехой раз и навсегда."
+
+ SGR_Norwegian_Question:0 "Крепость на севере"
+ SGR_Norwegian_Question_desc:0 "Во время буйства Бюргеркрига, Йозеф Тербовен потряс весь Рейх, ликвидировав наш северный Рейхскомиссариат и отправив его гарнизон обратно в Германию. С этого момента самопровозглашенный лидер Норвегии получил долю нашего внимания. Мы должны понять, как нам лучше всего действовать с этим независимым государством и ее новоиспеченным лидером."
+
+ SGR_Ostland_Question:0 "Образцовая колония"
+ SGR_Ostland_Question_desc:0 "Так называемая "
+
+## GUI stuff ##
+
+ #State of the Reich
+
+ SGR_stab_bonus_small:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Gувеличится§! на §G2.5%§!\n§!"
+ SGR_stab_bonus_med:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Gувеличится§! на §G5%§!\n§!"
+ SGR_stab_bonus_big:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Gувеличится§! на §G10%§!\n§!"
+ SGR_stab_bonus_20:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Gувеличится§! на §G20%§!\n§!"
+
+ SGR_stab_malus_small:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! на §R2.5%§!\n§!"
+ SGR_stab_malus_med:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! на §R5%§!\n§!"
+ SGR_stab_malus_big:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! на §R10%§!\n§!"
+ SGR_stab_malus_15:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! на §R15%§!\n§!"
+ SGR_stab_malus_30:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! на §R30%§!\n§!"
+ SGR_stab_malus_huge:0 "§WНаша £GFX_regime_stability_texticon §Yстабильность режима§! §Rуменьшится§! на §x50%§!!\n§!"
+
+ SGR_regime_stab:0 "§W£GFX_regime_stability_texticon §YСтабильность режима§! нужно срочно вернуть на отметку §Y30%§!!§!"
+ SGR_collapse_averted:0 "§WКрах режима был предотвращен.§!"
+ SGR_collapse_looming:0 "§xНаш режим вот-вот рухнет§!"
+
+ GER_SGR_propaganda_campaign_dynamic_modifier:0 "Пропагандистская кампания"
+
+ SGR_state_propaganda:0 "§WГОСУДАРСТВЕННАЯ ПРОПАГАНДА§!"
+ SGR_reformist_button:0 "§GФОКУС НА РЕФ.§!"
+ SGR_reformist_underbutton:0 "§gФОКУС НА РЕФ.§!"
+ SGR_conservative_button:0 "§RФОКУС НА КОНС.§!"
+ SGR_conservative_underbutton:0 "§gФОКУС НА КОНС.§!"
+ SGR_launch_campaign_button:0 "§YНАЧАТЬ КАМП.§!"
+ SGR_launch_campaign_underbutton:0 "§gНАЧАТЬ КАМП.§!"
+
+ SGR_campaign_status:0 "\n\n\n\n\n[getSGRPropagandaCampaignStatus]"
+ SGR_propaganda_in_progress:0 "§RКАМПАНИЯ ИДЕТ§!"
+ SGR_propaganda_not_ready:0 "§YКАМПАНИЯ ПЛАНИРУЕТСЯ§!"
+ SGR_propaganda_nothing:0 "§OКАМПАНИЯ ДОСТУПНА§!"
+
+ SGR_launch_button_tt:0 "Текущая §Wпропагандистская кампания§! дает следующие эффекты:\n\n-Прирост политической власти: [?SGRPropagandaPPDisplay|+%]\n-Еженедельное изменение стабильности: [?SGRPropagandaStabDisplay|+%]\n[getSGRPropagandaOutlook]\n[getSGRPropagandaRegime]"
+ SGR_reformist_regime_prop_display:0 "Сейчас режим склоняется к §Gреформистам§! на [?SGRPropagandaReformistTickDisplay|+0]"
+ SGR_conservative_regime_prop_display:0 "Сейчас режим склоняется к §Rконсерваторам§! на [?SGRPropagandaConservativeTickDisplay|-0]"
+ SGR_reformist_outlook_prop_display:0 "£social_outlook_texticon §BОбщественное мнение§! §Gрастет§!: [?SGRReformistVarDisplay|+0]"
+ SGR_conservative_outlook_prop_display:0 "£social_outlook_texticon §BОбщественное мнение§! §Rпадает§!: [?SGRConservativeVarDisplay|-0]"
+
+
+ SGR_launch_underbutton_tt:0 "Запуск §Wпропагандистской кампании§! требует:\n\n-либо §Rконсервативного§! либо §Gреформисткого§! фокуса\n-Какого-то количества £GFX_political_power_texticon §Mполитической власти§! \n-И какого-то количества £GFX_dollar_sign §Gбюджета§!\n\nПропагандистская кампания идет §Y4 месяца§!."
+ SGR_reformist_button_tt:0 "Кампания будет сосредоточена на §Gреформистской§! пропаганде.\n\nЭто склонит наш §Yрежим§! к реформистам, §Gувеличит§! §Bобщественное  мнение§! и увеличит §Yстабильность режима§!."
+ SGR_conservative_button_tt:0 "Кампания будет сосредоточена на §Rконсервативной§! пропаганде.\n\nЭто склонит наш §Yрежим§! к консерваторам, §Rуменьшит§! §Bобщественное мнение§! и увеличит §Yстабильность режима§!."
+ SGR_increase_pp_button_tt:0 "Увеличение затрат £GFX_political_power_texticon §Mполитической власти§! на §Y20§!, даст нам следующие эффекты:\n\n§G+0.5%§! прирост политической власти\n§G+1§! к §Bобщественному мнению§!"
+ SGR_decrease_pp_button_tt:0 "Уменьшение затрат £GFX_political_power_texticon §Mполитической власти§! на §Y20§!, даст нам следующие эффекты:\n\n§R-0.5%§! прирост политической власти\n§R-1§! к §Bобщественному мнению§!"
+ SGR_increase_budget_button_tt:0 "Увеличение затрат £GFX_dollar_sign §Gбюджета§! на §Y2M$§!, даст нам следующие эффекты:\n\n§G+0.05§! еженедельное изменение стабильности\n§G+1§! к §Yизменению режима§!"
+ SGR_decrease_budget_button_tt:0 "Уменьшение затрат £GFX_dollar_sign §Gбюджета§! на §Y2M$§!, даст нам следующие эффекты:\n\n§R-0.05§! еженедельное изменение стабильности\n§R-1§! к §Yизменению режима§!"
+
+ SGR_ppinvest_text:0 "£GFX_political_power_texticon §MПОЛИТ. ВЛАСТЬ§!: [?SGRPPInvestment|Y0]"
+ SGR_moneyinvest_text:0 "£GFX_dollar_sign §GБЮДЖЕТ§!: [?SGRUSDInvestment|Y0]§YM$§!"
+
+
+SGR_somewhat_reformist:0 "§Gреформистов§!"
+SGR_average_reformist:0 "§Gреформистов§!"
+SGR_strongly_reformist:0 "§Gреформистов§!"
+SGR_somewhat_conservative:0 "§Rконсерваторов§!"
+SGR_average_conservative:0 "§Rконсерваторов§!"
+SGR_strongly_conservative:0 "§Rконсерваторов§!"
+SGR_unmoving_ticker:0 "§Yстагнации§!"
+
+SGR_russia_unifier_blank:0 "Россия: §Yоценка еще не завершена...§!"
+SGR_russia_unifier_fill:0 "[RUS_total_unifier.GetFlag][RUS_total_unifier.GetName]: [getSGRRussianInfluence]"
+
+SGR_russia_inf_strcon:0 "§xТРЕВОЖНОЕ§! усиление милитаристов"
+SGR_russia_inf_con:0 "§OЗАМЕТНОЕ§! усиление милитаристов"
+SGR_russia_inf_ref:0 "§MУМЕРЕННЫЙ§! академический интерес"
+SGR_russia_inf_strref:0 "§GЗНАЧИТЕЛЬНЫЙ§! академический интерес"
+
+SGR_foreigninf_nonexistant:0 "§WНЕ СУЩЕСТВУЮЩЕЕ§!"
+SGR_foreigninf_weak:0 "§YСЛАБОЕ§!"
+SGR_foreigninf_middling:0 "§OСРЕДНЕЕ§!"
+SGR_foreigninf_significant:0 "§RСУЩЕСТВЕННОЕ§!"
+
+SGR_Cons_Inf_weak:0 "§YСЛАБОЕ§!"
+SGR_Cons_Inf_med:0 "§OСУЩЕСТВЕННОЕ§!"
+SGR_Cons_Inf_strong:0 "§RСИЛЬНОЕ§!"
+
+SGR_Ref_Inf_weak:0 "§WСЛАБОЕ§!"
+SGR_Ref_Inf_med:0 "§MСУЩЕСТВЕННОЕ§!"
+SGR_Ref_Inf_strong:0 "§GСИЛЬНОЕ§!"
+
+SGR_Leaning_str_con:0 "§RПОЛНОСТЬЮ КОНСЕРВАТИВНОЕ§!"
+SGR_Leaning_con:0 "§OКОНСЕРВАТИВНОЕ§!"
+SGR_Leaning_neutral:0 "§YНЕЙТРАЛЬНОЕ§!"
+SGR_Leaning_ref:0 "§MРЕФОРМИСТСКОЕ§!"
+SGR_Leaning_str_ref:0 "§GПОЛНОСТЬЮ РЕФОРМИСТСКОЕ§!"
+
+SGR_outlook_progressing:0 "§Gувеличивается§!"
+SGR_outlook_regressing:0 "§Rуменьшается§!"
+SGR_outlook_stagnant:0 "§Yв стагнации§!"
+SGR_outlook_upperlimit:0 "§Y500§!"
+SGR_outlook_lowerlimit:0 "§Y-500§!"
+
+SGR_party_support_none:0 "§xвраждебна§!"
+SGR_party_support_weak:0 "§Rнесговорчива§!"
+SGR_party_support_mid:0 "§Yнерешительна§!"
+SGR_party_support_strong:0 "§Bдружелюбна§!"
+SGR_party_support_complete:0 "§yна нашей стороне§!"
+
+
+SGR_neutral_tt:0 "§Yнейтрально§!"
+
+SGR_authdemtrend_small:0 "§Gреформаторы§!"
+SGR_authdemtrend_medium:0 "§Gсильно реформированы§!"
+SGR_authdemtrend_large:0 "§Gчрезвычайно реформированы§!"
+
+SGR_fashtrend_small:0 "§Rконсервативны§!"
+SGR_fashtrend_medium:0 "§Rсильно консервативны§!"
+SGR_fashtrend_large:0 "§Rчрезвычайно консервативны§!"
+
+#Propaganda events
+
+
+ speerpropaganda.1.t:0 "Письмо с фронта"
+ speerpropaganda.1.desc:0 "Когда Вильгельм вошел в музей, от волнения у него закружилась голова. Музей! Его первая поездка за город без родителей! Его класс выиграл визит в недавно открытый "Bürgerkriegsmuseum" in Hamburg and now twenty-five boys between nine and ten years old, along with two teachers, had left Elmshorn for the great metropolis.\n\nEveryone was in awe at what they saw. Each room had its theme: "urban warfare" with reconstructed trenches; "politics" with an analysis of what caused the civil war; "espionage" with the tactics used by the contenders to gain the upper hand. Finally, the last room's theme was "letters from the front" with hundreds of missives sent by soldiers or militiamen to their dear ones during the war.\n\nWilhelm looked at one of the cases, and started reading: "Dear Kriemhild, I miss you so much. You have no idea how much I would like to return to you home, to return to you, but I can't.\nHeydrich has sent his wolves. Do you remember the small restaurant where we dined during last year's holiday? They hanged half of the village outside there, the rest are digging trenches for the SS. I won't let this happen to you, I swear it upon my life.\nThey'll probably attack tomorrow, and I'll be ready. I keep your photo next to my heart, if I die, I'll die with your name on my lips. I love you."\nA small plaque said "Eberhart Jenk, killed in action"\nWilhelm trembled at the words he had just read, and asked his teacher: "Teacher, who was Heydrich?"\nThe teacher's expression immediately turned sour, but he looked calmly at the boy and answered: "Heydrich was a man who wanted to see the world burn, and he was committed to see his desires realized. Tell me Wilhelm, do you want it too? Do you want to see the world burn?"\n"No!" said the child, "I want a happy world, I want to go with mama and papa to have fun!"\nThe teacher's face turned jovial again, and he chuckled, patting the boy's head: "Come now, it's late" then he raised his voice: "Class! Time to go, I hope the visit was instructive!"
+ speerpropaganda.1.a:0 ""
+
+ speerpropaganda.2.t:0 "Действительно показательный процесс"
+ speerpropaganda.2.desc:0 "Зал суда был заполнен до краев. Журналисты, операторы, полицейские и простые люди заполняли ряды, оставленные для публики, и этого вполне следовало ожидать: Герберт Отто Гилле, глава Службы безопасности предательской фракции СС и непосредственно ответственный за сотни, если не тысячи массовых казней, был схвачен менее недели назад при попытке пересечь границу между Эльзасом и Орденсштаатом.\n\nДвери открылись, и толпа взревела, когда Гилле подвели к столу. Некоторые из кричащих, скорее всего родственники некоторых его жертв, пытались прорваться через охрану, лишь бы добраться до эсэсовца, но полиция смогла их удержать. Когда в большой комнате снова воцарился порядок, начался суд. На вопрос, есть ли у него какие-либо пожелания, подсудимый встал: "I do not recognise this court! Each and everyone of you holds no authority over me!" screams erupted, but he yelled even louder, "Don't you see this? This disorder, this decadence? Heydrich wanted to bring peace to Germany! A new order, a perfect order! He would have excised corruption like one removes a cancer! Look at you now, you are nothing but a gangrene on the perfect body of Germany!"\n\nA laugh interrupted his tirade. Amidst his fits, the prosecutor started a recording.\n"Thank you for your donation to our cause" came Gille's perfectly audible voice, "my wife will surely appreciate this fine necklace, and I can indeed make use of a new car, but how about we talk more important business?"\n"Herr Gille" the prosecutor chimed happily, ending the recording, "if we are a cancer on Germany, it seems you are far from being healthy..."\n\nA few seconds passed, then someone from the crowd started laughing, then another joined, then another, until the entire room was falling apart, the laughs audible from the road outside the courtroom. That day, newspapers and television news all featured the livid SS as he desperately tried to scream at the crowd to shut up, only to be drowned by the laughing"
+ speerpropaganda.2.a:0 "СС исчезает в позоре, побежденная смехом."
+
+ speerpropaganda.3.t:0 "Новое будущее немецкой кулинарии"
+ speerpropaganda.3.desc:0 "Поначалу, в экране телевизора не было видно ничего кроме какого-то густого тумана. Но вот, серая пелена исчезла, и зрителю представили традиционную немецкую женщину в такой же традиционной монохромной кухне. "My, I need to prepare food for the family!" She exclaimed. "I must prepare the tools first, however. First things first," she began, reaching in for a knife. After doing so, the camera panned to showcase some fruit. "I need to cut the fruit..." She muttered, setting the knife down and beginning to dig into the food. After a few seconds, she let out an annoyed sigh and pulled the knife out, it showing barely any progress. "Darn it. Well, I have to check on the plates and see if they're clean."\n\nReaching down, she grabbed two plates in both hands and turned around to show them to the camera. Surprise and disgust mixed in her face as she looked at them. "Cracks!" She said, groaning as she stared at the damaged plates. "And these were perfectly fine just yesterday!\n\nWhat sounded like a door opening was heard from the side, and a deeper, male voice interjected. "Honey!" He happily exclaimed, and she jolted a little, setting the plates down and walking over as the camera panned to her husband, who was carrying a large box. "I noticed the quality of our silverware and decided to take a look into the nearby store to see what they were selling and, oh, you cannot believe it!"\n\n"Can I?" The wife asked, motioning for the box to be settled down on the kitchen desk. "What makes this one stand out so much?" The husband chuckled and pointed towards a small label on the back. The camera zoomed in - it said 'MADE WITH ALL-GERMAN HANDS'. She raised her eyebrows. "Wow! You mean to tell me that this was all made by German workers?" He nodded. "In a German factory?" He nodded again. "Paid a fair, living wage, by German employers?" One last time, he nodded, and she smiled, turning towards the camera and crossing her arms."
+ speerpropaganda.3.a:0 ""
+
+ speerpropaganda.4.t:0 "Смыть все зло"
+ speerpropaganda.4.desc:0 "Вспышка статики заполнила экран, прежде чем камера сфокусировалась на человеке, который был одет в черную броню и держал винтовку в одной руке, а флаг в другой. Сделав шаг вперед, он поднял флаг и показал старый символ Германии, водрузив его у своих ног. Сделав это, он отступил на шаг и с любопытством посмотрел на флаг. Затем любопытство перешло во враждебность, которая переросла в смех. Покачав головой, мужчина просто сжал винтовку обеими руками и, направив ее на флаг, нажал на спусковой крючок.\n\nРаздались выстрелы, и как только они закончились, камера вернулась к столбу, где упал немецкий флаг. В холодной, мертвой тишине прошло несколько секунд, прежде чем на его месте подняли другой флаг. Чистый и пугающий, с черным солнцем посередине. Флаг Орденсштаата Бургундии.\n\nКамера повернулась назад, а жестокий смех повторился снова и снова. Разрушенные здания и городские кварталы - вот и все, что можно было увидеть с самых разнообразных ракурсов. Это продолжалось почти дюжину секунд, прежде чем камера снова переключилась.\n\nНа этот раз это были чистые улицы Германии. Молодой, здоровый на вид мужчина, одетый в цвета Вермахта, играл с двумя детьми, радостно ероша их волосы и играя с ними в веселые игры. Вдалеке их родители наблюдали за происходящим с одобрением на лицах и яркими улыбками. Пока все это происходило, раздался голос:\n\n"We must avoid the mistakes of the past that have led to cruelty. Yesterday, blood filled the streets in Germany. Today, peace reigns from our homes to the forests and the mountains. Tomorrow, we shall have an ethical Wehrmacht - one that will be incapable of committing the horrors that Germany was forced to follow in the past." Finally, the soldier bids the parents and their children farewell, and they amicably part ways."
+ speerpropaganda.4.a:0 "Помогите нам. Сделайте Вооруженные силы Германии более гуманным местом."
+
+ speerpropaganda.5.t:0 "Наш Фатерлянд"
+ speerpropaganda.5.desc:0 ""It's beginning dear! Bring the boys!" Hilde Schwartz yelled from the living room, and immediately the rest of the family was there: Gunther on the sofa by his wife's side, Hans and little Frank playing on the floor in front of the TV. A few seconds later, a tune started playing: publicized by newspapers and posters, "Das Vaterland" was a large historical series focused on teaching German history to the larger populace, mixing education and entertainment.\n\n"Good evening, and welcome to Das Vaterland!" The host beamed to the camera. "To my right we have Karl Manitius, director of the Monumenta Germaniae Historica, the greatest study group on German Middle Age, and to my left Friedrich Zipfel, war veteran and expert in studies of the Second World War" the two men nodded politely. "This evening, we'll examine our relationship with the country widely considered as the greatest enemy of Germany throughout its history: France"\n\nThe show lasted until midnight, but to the family it felt like just minutes had passed. The reconstruction of the Battle of Bouvines, when France had unjustly refused the Holy Roman Empire as its legitimate lord, had fascinated the children; Gunther had appreciated Manitius's disquisition over how the French even allied with the infidels to oppose the Germans during the Thirty Years War; finally, Hilde was moved to tears by the recount of how how Louise, Queen of Prussia, was so brave as to personally face Napoleon when all hope had been lost.\n\nGunther collected Frank, who had fallen asleep, and made to the bedroom, but Hans tugged his trousers: "Daddy" came the child's sleepy voice, "will this happen again? The wars I mean, will France try to take our place again?". Gunther thought about it a second, then chuckled and patted his son's head: "No little one, it won't. Our Führer will protect us, as he did during the civil war" and then the family went to sleep together."
+ speerpropaganda.5.a:0 ""
+
+ speerpropaganda.6.t:0 "Враг скрывается внутри"
+ speerpropaganda.6.desc:0 "На улицах Мюнхена было еще темно, но Эберхард Готлиб уже собирался разжечь печь. Пекарь должен иметь свежий хлеб с самого утра для всех не позавтракавших и возвращающихся с ночной смены, не так ли? Пробираясь по хорошо знакомым дорогам, он быстро поздоровался с патрулем Орпо, пересекающих перекресток каждый день ровно в 5.45, но в этот раз что-то привлекло его внимание. Как только патруль скрылся из виду, за дорогой на стене появились плакаты, одинаковые на вид. Он подошел к ближайшему и остановился, чтобы получше рассмотреть яркий рисунок.\n\nИзображение было корявым, но эффектным. В центре плаката возвышалась высокая колонна, на вершине которой восседал Большой Золотой орел, величественный и гордый. В самом низу колонны дюжины маленьких человечков были заняты кирками, пытаясь обрушить громадное сооружение: некоторые из них были одеты в богатые одежды, другие - нет, но у всех карманы были набиты зелеными долларами, и они смотрели на орла со смесью ненависти и страха. На нижнем конце плаката большими готическими буквами было написано: "Schützen Sie Deutschland!"\n\nEberhard looked at the poster for a few minutes, reflecting. Were really the Americans responsible for all that had happened? For the economic collapse, the Russian War, the Civil War? It was impossible, but still, they were Germany's enemies until a few years ago, so they would surely have everything to gain from a weak Reich... As he made his way to the bakery, Eberhard couldn't help one last thought."
+ speerpropaganda.6.a:0 "Ох уж эти американские ублюдки..."
+
+ speerpropaganda.7.t:0 "Все начинается с тебя!"
+ speerpropaganda.7.desc:0 "Спустя некоторое время, на экране появилась группа молодых людей, одетых в традиционную одежду Гитлерюгенда, которые взбирались на высокий холм в процессе физической подготовки. Из экрана раздался хриплый голос - глубокий, медленный и мягкий. "Do you believe your child is aimless in their goals and ambitions? Perhaps they are lazy, and want to do nothing but waste their time with the various frivolities of life. If you are a concerned parent of this type of son, we suggest to you an easy solution!"\n\nIt changes once again. A boy no younger than seventeen stands tall, though awkward, and gives a small, unnecessary pause before speaking to the camera. "When I joined the Hitler Youth, I hated it at first. Everything was so orderly and disciplined. It was like being trapped in a cage. But after a few months, things got much better. I became fit," he said, then it cut to him running a marathon. "I became passionate," he continued, cutting to him standing on a podium and holding a speech in front of his fellow Youth members. "And I made many friends."\n\nAs it finally shifts to him speaking with other members, the narrator chimes in. "So that is that. As you can see, it can turn the life of any youth on his head! We recommend that all Aryan men join the Hitler Youth, so your body and mind will sharpen and strengthen in equal rank.""
+ speerpropaganda.7.a:0 ""
+
+ speerpropaganda.8.t:0 "Оружие в инструменты"
+ speerpropaganda.8.desc:0 "Вокруг него постоянно раздавались выстрелы. Он был солдатом Рейха - полным решимости и мужества. В одной окровавленной руке он держал пистолет, а в другой - острый и чистый нож. Вокруг него лежали тела его собратьев, но еще больше валялось тел большевиков. Он сердито уставился на флаг на краю здания, высоко висящий и как будто насмехающийся над ним. Он был ярко-красным, с грязным символом серпа и молота, криво нарисованным в левом верхнем углу.\n\nМужчина с отвращением сплюнул. Шагнув вперед, он высоко поднял нож, и камера переместилась в сторону. Когда он приблизился к флагу, его рука опустилась вниз, намереваясь сорвать его и покромсать на мелкие кусочки. Но как только он замахнулся, его рука остановилась на середине замаха, и изображение медленно превратилось во что-то другое.\n\nЭто была мотыга, которая врезалась в землю. Камера вернулась назад и показала пожилого мужчину, работающего под палящим солнцем. Пока мужчина продолжал копать землю, из экрана послышался чей-то голос. "Your service does not have to end after being discharged from the Wehrmacht." He stated. "Indeed, they are especially valuable to the Reich. Men of brawn and brain, veterans who know their loyalty is true - they are what embodies the Reich! So, to those who have served loyally, there remains hope."\n\nIt cuts to another older man, who walked up to someone's house and knocked politely on the door, giving them mail before leaving. "New industries open, and so do new opportunities. If you are a veteran of the Heer, Luftwaffe, or Kriegsmarine, you are privileged employment in civilian sectors. We cannot forget the sacrifices you have made, and so in turn, you will be rewarded.""
+ speerpropaganda.8.a:0 ""

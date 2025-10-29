@@ -1,0 +1,58 @@
+﻿l_russian:
+#Country names 
+ SPA_fascism:0 "Испанское Государство"
+ SPA_fascism_DEF:0 "Испанское Государство"
+ SPA_social_liberal:0 "Испанское Государство"
+ SPA_social_liberal_DEF:0 "Испанское Государство"
+ SPA_market_liberal:0 "Испанское Государство"
+ SPA_market_liberal_DEF:0 "Испанское Государство"
+ SPA_social_conservative:0 "Испанское Государство"
+ SPA_social_conservative_DEF:0 "Испанское Государство"
+ SPA_authoritarian_democrat:0 "Испанское Государство"
+ SPA_authoritarian_democrat_DEF:0 "Испанское Государство"
+ SPA_despotism:0 "Испанское Государство"
+ SPA_despotism_DEF:0 "Испанское Государство"
+ SPA_communist:0 "Испанское Государство"
+ SPA_communist_DEF:0 "Испанское Государство"
+ SPA_socialist:0 "Испанское Государство"
+ SPA_socialist_DEF:0 "Испанское Государство"
+ SPA_national_socialism:0 "Испанское Государство"
+ SPA_national_socialism_DEF:0 "Испанское Государство"
+ SPA_ultranational_socialism:0 "Испанское Государство"
+ SPA_ultranational_socialism_DEF:0 "Испанское Государство"
+ SPA_MILITARYCOUP_fascism:0 "Иберийское Управление"
+ SPA_MILITARYCOUP_fascism:0 "Иберийское Управление"
+#Party names 
+ SPA_communist_party:0 "КПИ"
+ SPA_communist_party_long:0 "Коммунистическая партия Испании"
+ SPA_socialist_party:0 "ИСРП(И)"
+ SPA_socialist_party_long:0 "Испанская Социалистическая Рабочая партия (Историческая)"
+ SPA_social_democrat_party:0 "ИСРП(О)"
+ SPA_social_democrat_party_long:0 "Испанская Социалистическая Рабочая партия (Обновленная)"
+ SPA_social_liberal_party:0 "Различные либералы"
+ SPA_social_liberal_party_long:0 "Различные либералы"
+ SPA_market_liberal_party:0 "Opus Dei"
+ SPA_market_liberal_party_long:0 "Opus Dei"
+ SPA_social_conservative_party:0 "Различные консерваторы"
+ SPA_social_conservative_party_long:0 "Различные консерваторы"
+ SPA_authoritarian_democrat_party:0 "FET-JONS(A)"
+ SPA_authoritarian_democrat_party_long:0 "FET y de las JONS(Aperturistas)"
+ SPA_despotism_party:0 "ИТФ-СНСН(O)"
+ SPA_despotism_party_long:0 "Испанская Традиционалистская Фаланга союзов национал-синдикалистского наступления (Ортодоксы)"
+ SPA_fascism_party:0 "Старая гвардия"
+ SPA_fascism_party_long:0 "Старая гвардия"
+
+ SPA_MILITARYCOUP_fascism_party:0 "ГТМ"
+ SPA_MILITARYCOUP_fascism_party_long:0 "Государственный технический совет"
+#Ministers 
+ SPA_Francisco_Franco_dep:0 "Франсиско Франко"
+
+ SPA_Alejandro_Valcarcel_dep:0 "Алехандро Родригес де Валькарсель" 
+    
+ SPA_Agustin_Munoz_mil:0 "Агустин Муньос Грандес" 
+ 
+ SPA_Pedro_Cortina_for:0 "Педро Кортина Маури"
+ 
+ SPA_Alejandro_Valcarcel_for:0 "Алехандро Родригес де Валькарсель" 
+
+ SPA_Mariano_Rubio_eco:0 "Мариано Наварро Рубио" 

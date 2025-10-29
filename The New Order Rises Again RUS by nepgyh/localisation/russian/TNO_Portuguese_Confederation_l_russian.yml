@@ -1,0 +1,172 @@
+﻿l_russian:
+
+ #############
+ ## Parties ##
+ #############
+ RPP_communist_party:0 "РБГ"
+ RPP_communist_party_long:0 "Революционная боевая гвардия"
+ RPP_socialist_party:0 "РБГ"
+ RPP_socialist_party_long:0 "Революционная боевая гвардия"
+ RPP_social_democrat_party:0 "РБГ"
+ RPP_social_democrat_party_long:0 "Революционная боевая гвардия"
+ RPP_market_liberal_party:0 "МИД" # <<TRANSLATED>>
+ RPP_market_liberal_party_long:0 "&lt; &lt; Демокрасия Португеса &gt; &gt;" # <<TRANSLATED>>
+ RPP_social_conservative_party:0 "РБГ"
+ RPP_social_conservative_party_long:0 "Революционная боевая гвардия"
+ RPP_authoritarian_democrat_party:0 "ФНОП"
+ RPP_authoritarian_democrat_party_long:0 "Фронт национального освобождения Португалии"
+ RPP_despotism_party:0 "ПКЦ"
+ RPP_despotism_party_long:0 "Португальский католический центр"
+ RPP_burgundian_system_party:0 "ФВ" # <<TRANSLATED>>
+ RPP_burgundian_system_party_long:0 "Фильос де Вириато" # <<TRANSLATED>>
+
+ #Country names 
+ RPP:0 "Португальская конфедерация" # <<TRANSLATED>>
+ RPP_DEF:0 "Португальской конфедерации" # <<TRANSLATED>>
+ RPP_ADJ:0 "Португальский" # <<TRANSLATED>>
+ 
+ ###############
+ ## Ministers ##
+ ###############
+ RPP_Humberto_Delgado:0 "Умберто Дельгадо" # <<TRANSLATED>>
+ POLITICS_HUMBERTO_DELGADO_DESC:0 "После того как в начале 50-х годов Дельгадо был направлен в США в качестве представителя военного командования ОФН, он стал выступать против государства, которое он однажды поддерживал и принял демократию как лучшее будущее Португалии. Хотя он и будет продолжать выступать против коммунизма, его все более активная поддержка его новых убеждений заставит его начать бояться за свою жизнь, особенно после Купа 1957 года, что приведет к его самовыселию в Бразилию. Дезертир и изгнание да Силва Дельгадо не сдался бы, объединив других изгоев и создав новый народный патриотический фронт свободы" # <<TRANSLATED>>
+
+ RPP_Revolutionary_Council:0 "Революционный совет" # <<TRANSLATED>>
+
+ RPP_Manuel_Lapa:0 "Мануэль Родригес Лапа" # <<TRANSLATED>>
+
+
+ RPP_Jorge_Sena:0 "Хорхе Кандидо де Сена" # <<TRANSLATED>>
+
+ 
+ RPP_Nuno_Simoes:0 "Нуно Симос" # <<TRANSLATED>>
+
+
+ RPP_Fernando_Queiroga:0 "Фернандо Кейрога" # <<TRANSLATED>>
+
+
+ RPP_Mario_Miguel:0 "Мариу Фермину Мигель"
+
+
+ RPP_Clodomiro_Alvarenga:0 "Клодомир Са Виана де Альваренга" # <<TRANSLATED>>
+
+
+ RPP_Herminio_Inacio:0 "Эрминио да Пальма Инасио" # <<TRANSLATED>>
+
+
+ RPP_Jose_Fragoso:0 "Хосе Жоаким Фрагосо" # <<TRANSLATED>>
+
+
+ RPP_Jose_Azevedo:0 "Хосе Пиньейру де Азеведо" # <<TRANSLATED>>
+
+
+ RPP_Francisco_Gomes:0 "Франциско да Коста Гомеш" # <<TRANSLATED>>
+ RPP_Joao_Gomes:0 "Жоау Варела Гомес" # <<TRANSLATED>>
+ RPP_Altino_Magalhaes:0 "Альтино Пинто де Магальхаес" # <<TRANSLATED>>
+ RPP_Antonio_Veloso:0 "Антониу Пирес Велосо" # <<TRANSLATED>>
+ RPP_Ernesto_Antunes:0 "Эрнесто Мело Антунс" # <<TRANSLATED>>
+ RPP_Vasco_Santos:0 "Васко да Коста Сантос" # <<TRANSLATED>>
+
+ RPP_Internetismean:0 "Интернетизм" # <<TRANSLATED>>
+
+ #National Spirits 
+ RPP_dis_united_coalition:0 "Объединение" # <<TRANSLATED>>
+ RPP_dis_united_coalition_desc:0 "Хотя в Бразилии Дельгадо в основном смог сохранить единство своей коалиции сторонников в рамках общих целей демократии в Португальской Республике, с объединением этих и континентальных республиканцев после неудачной попытки переворота, единство стало не более чем мифом. ~ Не говоря уже о том, чтобы на словах оплатить службу Дельгадо и ничего больше, фракции начали бы формироваться в рамках ФНОФН, причем некоторые даже покинули бы его и сформировали соперничающие партии, что заставило бы многих задуматься, встретят ли даже Дельгадо и его Республика" # <<TRANSLATED>>
+
+ RPP_true_lusophone_dream:0 "Истинная лусоязычная мечта" # <<TRANSLATED>>
+ RPP_true_lusophone_dream_desc:0 "Салазар и его приятели использовали Лусотродикализм в качестве оправдания своего колониализма, вытаскивая его имя из грязи и отталкивая общины и народы, которые он должен объединить, но Дельгадо не хотел бы этого, он будет настаивать на новом изобличении термина и теории. ~ nnPouling for falth единения с другими лусоязычными странами, все под видом демократии и самоопределения, Дельгадо и его Республика будут выступать за новую эру свободы и равенства, что, как мы надеемся, принесет не что иное" # <<TRANSLATED>>
+
+ RPP_trouble_savages:0 "Проблемы с сапогами" # <<TRANSLATED>>
+ RPP_second_son:0 "Второй сын" # <<TRANSLATED>>
+
+ RPP_fully_ofn_dependent:0 "Полностью внештатный" # <<TRANSLATED>>
+ RPP_deep_wound_heart:0 "Глубокие раны в сердце" # <<TRANSLATED>>
+
+ RPP_peoples_militias:0 "Силы, базирующиеся на ополчении" # <<TRANSLATED>>
+ RPP_peoples_militias_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ RPP_best_of_the_best:0 "Лучший из лучших" # <<TRANSLATED>>
+ RPP_best_of_the_best_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ RPP_tyrant_death:0 "Смерть тиранам" # <<TRANSLATED>>
+ RPP_tyrant_death_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ RPP_republic_once_more:0 "Республика" # <<TRANSLATED>>
+ RPP_republic_once_more_desc:0 "Помните 1910!" # <<TRANSLATED>>
+
+ #Focus Tree
+ ##Iberian Wars
+ RPP_a_guerra_iberica:0 "Гуэрра Иберика" # <<TRANSLATED>>
+ RPP_a_guerra_iberica_desc:0 "Иберия упала." # <<TRANSLATED>>
+ RPP_o_exercito:0 "О Эксерито" # <<TRANSLATED>>
+ RPP_o_exercito_desc:0 "Армия, чтобы спасти Португалию." # <<TRANSLATED>>
+ RPP_the_republican_army:0 "Республиканская армия" # <<TRANSLATED>>
+ RPP_the_republican_army_desc:0 "Нам нужны настоящие военные, сейчас же." # <<TRANSLATED>>
+ RPP_a_forca_popular:0 "Народная организация" # <<TRANSLATED>>
+ RPP_a_forca_popular_desc:0 "Нужны нерегулярные." # <<TRANSLATED>>
+ RPP_train_the_peoples_militias:0 "Подготовка народных милиции" # <<TRANSLATED>>
+ RPP_train_the_peoples_militias_desc:0 "Даже ополченцы нуждаются в надлежащей подготовке." # <<TRANSLATED>>
+ RPP_o_exercito_da_republica:0 "О Эксенцито да Республикаa" # <<TRANSLATED>>
+ RPP_o_exercito_da_republica_desc:0 "Республиканская армия выиграет этот день." # <<TRANSLATED>>
+ RPP_support_an_elite_army:0 "Поддержка элитной армии" # <<TRANSLATED>>
+ RPP_support_an_elite_army_desc:0 "Маленькая элитная корпорация приведет нас к победе." # <<TRANSLATED>>
+ RPP_death_to_autocrats:0 "Смерть автократам!" # <<TRANSLATED>>
+ RPP_death_to_autocrats_desc:0 "Они упадут!" # <<TRANSLATED>>
+ RPP_a_economia:0 "Экономия" # <<TRANSLATED>>
+ RPP_a_economia_desc:0 "Что заставляет мир вращаться вокруг." # <<TRANSLATED>>
+ RPP_the_rural_regions:0 "Сельские районы" # <<TRANSLATED>>
+ RPP_the_rural_regions_desc:0 "В стране есть больше, чем в городах." # <<TRANSLATED>>
+ RPP_an_american_model:0 "Американская модель" # <<TRANSLATED>>
+ RPP_an_american_model_desc:0 "Америка - одна из самых богатых стран мира." # <<TRANSLATED>>
+ RPP_a_wide_financial_reform:0 "Широкая финансовая реформа" # <<TRANSLATED>>
+ RPP_a_wide_financial_reform_desc:0 "Надлежащая невеста будет способствовать экономическому росту." # <<TRANSLATED>>
+ RPP_embrace_a_more_mixed_economy:0 "Приобретите более смешанную экономику" # <<TRANSLATED>>
+ RPP_embrace_a_more_mixed_economy_desc:0 "Лучший из обоих миров." # <<TRANSLATED>>
+ RPP_embrace_the_unions:0 "Присоединиться к профсоюзам" # <<TRANSLATED>>
+ RPP_embrace_the_unions_desc:0 "Работайте за свободу." # <<TRANSLATED>>
+ RPP_fully_embrace_free_trade:0 "Полностью реализовать свободу торговли" # <<TRANSLATED>>
+ RPP_fully_embrace_free_trade_desc:0 "Пусть деньги потекут." # <<TRANSLATED>>
+ RPP_o_exilado:0 "О &quot; Эксиладо &quot;" # <<TRANSLATED>>
+ RPP_o_exilado_desc:0 "Наша цель справедлива." # <<TRANSLATED>>
+ RPP_speak_on_the_radio:0 "Говорите по радио" # <<TRANSLATED>>
+ RPP_speak_on_the_radio_desc:0 "Слушайте призыв демократии." # <<TRANSLATED>>
+ RPP_learn_from_brazil:0 "Учись у Америки" # <<TRANSLATED>>
+ RPP_learn_from_brazil_desc:0 "Американский конституционный порядок был прочным там, где наши не сработали." # <<TRANSLATED>>
+ RPP_found_the_movimento_nacional_independente:0 "Нашел Национальное движение независимости" # <<TRANSLATED>>
+ RPP_found_the_movimento_nacional_independente_desc:0 "Сформируется Народный фронт, в котором будут участвовать все партии!" # <<TRANSLATED>>
+ RPP_maintain_party_unity:0 "Сохранять единство партии" # <<TRANSLATED>>
+ RPP_maintain_party_unity_desc:0 "Стороны будут оставаться в стороне для общего блага." # <<TRANSLATED>>
+ RPP_a_place_for_all_democrats:0 "Место для всех демократов" # <<TRANSLATED>>
+ RPP_a_place_for_all_democrats_desc:0 "Даже некоторые испанцы присоединились к нашему делу." # <<TRANSLATED>>
+ RPP_a_peoples_general:0 "Народный генерал" # <<TRANSLATED>>
+ RPP_a_peoples_general_desc:0 "Гомес спасет нас." # <<TRANSLATED>>
+ RPP_an_army_that_protects_freedom:0 "Армия, защищающая свободу" # <<TRANSLATED>>
+ RPP_an_army_that_protects_freedom_desc:0 "Как и должно быть." # <<TRANSLATED>>
+ RPP_a_state_that_fights_for_the_free:0 "Государство, которое борется за свободу" # <<TRANSLATED>>
+ RPP_a_state_that_fights_for_the_free_desc:0 "Как и должно." # <<TRANSLATED>>
+ RPP_e_a_hora:0 "Португалия, Хохе, Невоэйро..." # <<TRANSLATED>>
+
+ #EVENTS 
+ RPP_wars.1.t:0 "Еще раз" # <<TRANSLATED>>
+ RPP_wars.1.desc:0 "В солнечной плазе, в которой на глазах устремляются страстные зрители, генерал Франсиско да Коста Гомеш стоит на высокой высоте на выветренной трибуне, его хрустящая военная форма резко контрастирует с живыми баннерами, вращающимися в ветре. Толпа торчит, когда он держит микрофон, его голос красноречив и непоколебим, бьет по теплому воздуху. : Португалия должна подняться как суверенная, демократическая нация, . Он провозглашает" # <<TRANSLATED>>
+ RPP_wars.1.a:0 "От имени Португалии" # <<TRANSLATED>>
+
+ RPP_wars.2.t:0 "Песня свободы" # <<TRANSLATED>>
+ RPP_wars.2.desc:0 "Под сумерким небом солдаты опускаются в самодельный лагерь, сгущенный среди гор Алентехо, их силуэты, плывущие против сияния костёра. Иберийские войны оставили свою форму разбитой, их лица хвастаются, но их души остаются неразбитыми. Когда прохлада вечера оседает, молодой солдат, едва двадцать, переворачивается в побитую гитару, его струны окуняются непокорностью. Его голос, сырый, но устойчивый" # <<TRANSLATED>>
+ RPP_wars.2.a:0 "Рады, что мы все братья" # <<TRANSLATED>>
+
+ RPP_wars.3.t:0 "Название" # <<TRANSLATED>>
+ RPP_wars.3.desc:0 "Мероприятие, связанное с тем, что офицер армии разговаривает с ополченцем" # <<TRANSLATED>>
+ RPP_wars.3.a:0 "локатор" # <<TRANSLATED>>
+
+ RPP_wars.4.t:0 "Будущая свобода" # <<TRANSLATED>>
+ RPP_wars.4.desc:0 "В хитрой палатке на окраине раздираемой войной португальской деревни генерал Франсиско да Коста Гомеш сидит за шрамным деревянным столом, слегка сияющий керосиновой лампой, протягивающей длинную тени на его выветренное лицо. Иберийские войны бешатся за оградами, их дальний бум является мрачным подтверждением задачи, которая стоит перед ним. Перед ним проект конституции, его страницы, на которых собачие пятна, пятна," # <<TRANSLATED>>
+ RPP_wars.4.a:0 "Демократия ожидает" # <<TRANSLATED>>
+
+ RPP_wars.5.t:0 "Слушайте призыв" # <<TRANSLATED>>
+ RPP_wars.5.desc:0 "На узком чердаке над магазином кобблеров в Коимбре, воздушный жужжание с хлыстом подпольного радиопередатчика, его наборы слегка светятся в предрассветном мраке. Три продемократических радиооператора - Ана, бывший школьный учитель с чернилами; Жуан, очевидный техник с нервным тиком; и Мигель, бывший солдат с гризизом, который зовет таким голосом, как гравий, с голышными словами, с" # <<TRANSLATED>>
+ RPP_wars.5.a:0 "Сила радио" # <<TRANSLATED>>
+
+ RPP_wars.6.t:0 "Название" # <<TRANSLATED>>
+ RPP_wars.6.desc:0 "Дельгадо проверяет отдел и пьет с солдатами" # <<TRANSLATED>>
+ RPP_wars.6.a:0 "локатор" # <<TRANSLATED>>
+
+ #Tooltips
+ RPP_armas_patria_tooltip:0 "- А, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну, ну," # <<TRANSLATED>>

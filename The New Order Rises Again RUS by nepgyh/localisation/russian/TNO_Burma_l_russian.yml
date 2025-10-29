@@ -1,0 +1,58 @@
+﻿l_russian:
+ ###########
+ ##Parties##
+ ###########
+ BUR_communist_party:0 "БКП - Красный Флаг"
+ BUR_communist_party_long:0 "Бирманская коммунистическая партия - Красный Флаг"
+ BUR_socialist_party:0 "ДА - Прогрессивисты"
+ BUR_socialist_party_long:0 "Добама Азиайоне  - Totetthaw"
+ BUR_social_democrat_party:0 "ПНС - Подполье"
+ BUR_social_democrat_party_long:0 "Партия народной свободы - Подполье"
+ BUR_social_liberal_party:0 "ЕФНО"
+ BUR_social_liberal_party_long:0 "Единый фронт национального освобождения"
+ BUR_social_conservative_party:0 "БДП"
+ BUR_social_conservative_party_long:0 "Бирманская Демократическая Партия"
+ BUR_authoritarian_democrat_party:0 "ДА - Пинма"
+ BUR_authoritarian_democrat_party_long:0 "Добама Азиайоне  - Пинма"
+ BUR_despotism_party:0 "БНА"
+ BUR_despotism_party_long:0 "Бирманская национальная армия"
+ BUR_fascism_party:0 "ПП"
+ BUR_fascism_party_long:0 "Патриотическая партия"
+ BUR_national_socialism_party:0 "Тхакины правого крыла"
+ BUR_national_socialism_party_long:0 "Товарищество тхакинов - правое крыло"
+ BUR_authoritarian_democrat_party_remnants:0 "Остатки тхакинов"
+ BUR_despotism_party_remnants:0 "Остатки тхакинов"
+ BUR_national_socialism_party_remnants:0 "Остатки тхакинов"
+ BUR_fascism_party_remnants:0 "Нет"
+ BUR_fascism_party_remnants_long:0 "Нет"
+ BUR_authoritarian_democrat_party_cliques:0 "Клика Ну"
+ BUR_despotism_party_cliques:0 "Клика Аунг Сана"
+ BUR_national_socialism_party_cliques:0 "Клика Нэ Уина"
+ BUR_despotism_party_caretaker:0 "ААА"
+ BUR_despotism_party_caretaker_long:0 "Амёлха Амаунг Асоя"
+ #National Caretaker Government
+ BUR_national_socialism_party_ne_win:0 "ПТКА"
+ BUR_national_socialism_party_ne_win_long:0 "Пийдаунгзу Тауланьэ Каунгси Апуэ"
+ BUR_social_democrat_party_nu:0 "PTKA"
+ BUR_social_democrat_party_nu_long:0 "Тхамада Найнгнган Тауланьэ Пати"
+
+ ################
+ ##Leader Descs##
+ ################
+ POLITICS_BA_MAW_DESC:0 "Доктор Ба Мау, или Най Ба Мау, титул данный ему его сподвижниками, или Бирманский Тодзё, прозвище данное ему его соперниками, является первым и единственным Найнгандау Адипади, или главой, Государства Бирма. Он был поставлен на свой пост японцами во время их экспансии в Азию, его сначала поддерживало Товарищество тхакинов, но с началом в 1950-х столкновений на этнической почве, терроризма и всё нарастающего экономического и военного присутствия японцев в Бирме тхакины стали недовольны политикой Ба Мау. n\nПока годы идут, влияние Ба Мау угасает. Поставленный как гражданский руководитель совместного японо-тхакинского военного правительства, он всё-таки желает стать реальным правителем Бирмы. Он уничтожит террористов и умереннных тхакинов при помощи Блока Свободы, и наконец создаст по-настоящему свободную бирманскую нацию!"Burma's Tojo" as his detractors, is the first, and, to date, only Naingandaw Adipadi of the State of Burma. Installed upon his throne of iron by the Japanese in their rampage through Asia, he was at first supported by the Thakin Comrades, but, as the 1950s began with ethnic clashes, terrorism, and an increasingly powerful Japanese economic and military presence in Burma, they grew impatient with the General.\n\nAs the years pass by, Ba Maw has become an unpopular figurehead. Serving as the civilian administrator to a joint Japanese-Thakin military government with frequent infighting, he longs to return to his post as Burma's true ruler. Supported by the rest of his Freedom Bloc, he shall crush those terrorists and the Moderate Thakins, and create a truly free Burmese nation!"
+ 
+ #############
+ ##MINISTERS##
+ #############
+ BUR_Thakin_Mya_hog:0 "Мя"
+ BUR_Thakin_Nu_for:0 "Ну"
+ BUR_Abdul_Razak_for:0 "Абдул Разак"
+ BUR_Ba_Win_eco:0 "Ба Уин"
+ BUR_Thakin_Aung_San_sec:0 "Аунг Сан"
+
+ #########
+ ##IDEAS##
+ #########
+ BUR_Minority_Unrest_dummy:0 "Неустроенные меньшинства" # <<TRANSLATED>>
+ BUR_Politicized_Society:0 "Политизированное общество" # <<TRANSLATED>>
+ BUR_Two_Faced_Burma:0 "Двойная Бирма" # <<TRANSLATED>>

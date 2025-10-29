@@ -1,0 +1,37 @@
+﻿l_russian:
+
+#Tooltips
+
+#Germany
+
+ESPIONAGE_GER_encryption_region_tt:0 "Шпионаж"
+ESPIONAGE_GER_encryption_global_tt:0 "Шпионаж"
+
+#USA
+
+ESPIONAGE_USA_encryption_region_tt:0 "Шпионаж"
+ESPIONAGE_USA_encryption_global_tt:0 "Шпионаж"
+
+#Scripted Loc
+
+ESPIONAGE_Abwehr_name:0 "Шпионаж"
+ESPIONAGE_RND_name:0 "Шпионаж"
+ESPIONAGE_HVA_name:0 "Шпионаж"
+
+ESPIONAGE_Abwehr_name_caps:0 "Шпионаж"
+ESPIONAGE_RND_name_caps:0 "Шпионаж"
+ESPIONAGE_HVA_name_caps:0 "Шпионаж"
+
+ESPIONAGE_RND_name_short:0 "Шпионаж"
+ESPIONAGE_HVA_name_short:0 "Шпионаж"
+
+ESPIONAGE_Africa_name:0 "Шпионаж"
+ESPIONAGE_Europe_name:0 "Шпионаж"
+ESPIONAGE_Oceania_name:0 "Шпионаж"
+ESPIONAGE_EastAsia_name:0 "Шпионаж"
+ESPIONAGE_MiddleEast_name:0 "Шпионаж"
+ESPIONAGE_CentralAmerica_name:0 "Шпионаж"
+ESPIONAGE_SouthAmerica_name:0 "Шпионаж"
+ESPIONAGE_NorthAmerica_name:0 "Шпионаж"
+ESPIONAGE_SouthEastAsia_name:0 "Шпионаж"
+ESPIONAGE_Russia_name:0 "Шпионаж"

@@ -1,0 +1,101 @@
+﻿l_russian:
+
+### Events ###
+maltaconference.1.t:0 "Мальтийская конференция"
+maltaconference.1.d:0 "Триумвират балансирует на краю пропасти, и каждая из сторон понимает это. Пограничные споры, которые существовали десятилетиями, переросли в стычки, поскольку последствия Второй мировой войны только усилили напряженность. Торговля рухнула, экономика катится вниз, и никто не желает идти на уступки. В последнем порыве спасти Триумвират, Чиано решил созвать встречу. Если он не совершит невозможное, возродив альянс из пепла, то он, по крайней мере, покончит с ним мирно.\n\nМесто проведения конференции подобного масштаба имеет прервостепенное значение. Дуче Чиано провел личную встречу со своим оппонентом, партийнымм секретарём Скорцей. Мы должны прйти к взаимному согласию. Он не позволит своей собственной партии испортить мероприятие, устроив неразбериху у себя же дома или где бы то ни было. Однако вопрос всё ещё не потерял в актуальности: где будет проходить конферецния? Рим не подходит - Италия уже успела стать жертвой нападок Турции и Иберии, обвинявших её в италоцентризме альянса. Не подходит и Мадрид с Анкарой. Чиано не позволил бы Франко, Салазару или Инёню взять на себя роль выборщика места проведения конференции, и тем более он не мог позволить себе признать их политическими центрами Триумвирата. Сидя на диване с бокалом вина, он рассеянно водил глазами по этикетке, пребывая в глубоких раздумьях. Мальтийского вино, его любимое. Стойте, Мальта!\n\nЭто идеально. На своей территории, и при этом не так вызывающе. Место зажиточное, недёжное, и самое главное, без пограничных споров. В окне показалась голубая гладь Средиземноморья, несущая в своём блеске воспоминания о вкусной еде, этническом и культурном разообразии населения его населяющее, их неповторимом колорите. Идеально. Скорца этого не оценил, но это вопрос пустой дискуссии. Скорца хотел продемонстрировать фашистскую спесь, Рим.\n\n"I'm a pragmatist," he thought to himself, proudly.\n\nThe illustrious Aurberge de Castille in Malta has been chosen and prepared as the site for the upcoming conference. It was Ciano's favorite place to rest whenever he departed to Malta. Surely his counterparts in Iberia and Turkey would be swept up in the extravagance of the hotel?"
+maltaconference.1.a:0 "Пригласите их!"
+
+maltaconference.2.t:0 "Приглашение Иберии"
+maltaconference.2.d:0 ""...As a formal member of the Triumvirate, the Caudillos of the Union of Iberia, Francisco Franco Bahamonde and António de Oliveira Salazar, are invited to the Conference that will be held in the Aurberge de Castille, Malta."\n\nFranco's name being put before Salazar's has already started a protocol crisis in the Portuguese government, though Caudillo Salazar is not personally concerned with this minor infraction. Iberia will be present at the Conference."
+maltaconference.2.a:0 "Время высказаться!"
+
+maltaconference.3.t:0 "Приглашение Турции"
+maltaconference.3.d:0 ""...As a formal member of the Triumvirate, the Başbuğ of Turkey, Alparslan Türkeş, is invited to the Conference that will be held in the Aurberge de Castille, Malta."\n\n"About time!" the Başbuğ said to himself.\n\n"Finally, that blind Italian realized that he can't ignore our demands forever."\n\nTurkey will be present in the Conference."
+maltaconference.3.a:0 "У нас появился шанс выдвинуть наши претензии!"
+
+maltaconference.4.t:0 "Приглашение на Мальтийскую конференцию"
+maltaconference.4.d:0 ""...As a formal member of the Triumvirate, the Leader of [Root.GetName], [Root.GetLeader], is invited to the Conference that will be held in the Aurberge de Castille, Malta."\n\nIt seems Italy is holding a summit to determine the future of the Triumvirate. We will be present at the Conference."
+maltaconference.4.a:0 "Будем надеяться на лучшее..."
+
+maltaconference.5.t:0 "Чиано произносит вступительную речь"
+maltaconference.5.d:0 "За последние несколько суток прибыли делегаты со всех концов Триумвирата. В воздухе витает напряжённость, и многие участники Конференции не совсем уверены в истинном предназначении оной. Они получат ответ на свой вопрос, когда на сцене появится Дуче Галеаццо Чиано.\n\n"Honored delegates," he begins. "We have gathered here today to put aside our differences and reaffirm the greatness of our alliance - I know many of you have disputes and issues to raise, and this is the place to do it."\n\nMany in the audience are shocked by the bluntness of his words, but there are a few smiles.\n\n"At least he recognizes this is going to be a complete shitshow," murmurs one Turkish diplomat to another.\n\n"The Triumvirate was forged in fire," Ciano continues. "And as the world falls back into chaos we must be open and frank with one another if our alliance is to surivive. We are like brothers - squabbling sometimes, but always united in purpose and bound by familial love and common history." Ciano finished.\n\n"I now invite my brother from Turkey to take the stage.""
+maltaconference.5.a:0 "Мы приветствуем всех!"
+maltaconference.5.b:0 "Скорее покончим с этим..."
+
+maltaconference.6.t:0 "Речь Инёню"
+maltaconference.6.d:0 "Чиано спускается со сцены, когда как турецкий Президент Исмет Инёню выходит вперёд, и в то время как турецкая делегация встречает своего лидера бурными аплодисментами, остальные делегаты довольно сдержанны.\n\n"I will not bore you with bland pleasantries like the Duce."\n\nTürkeş' halting Italian is overcome by the directness of his words.\n\n"Ciano is right in one regard when he brings up our shared history - we have a history of disputed borders!" he roars.\n\nThe Turkish delegation responds with shouts and cheers, while the rest of the conference looks on sullenly. Many had expected such a response, but few were prepared for the directness of the Başbuğ's words.\n\n"I am not opposed to the Triumvirate in and of itself," Türkeş continues. "The collective security it offers is a blessing in this tumultuous world. But if Turkey is to continue to remain a member, we must have our ancestral lands back! We are fed up with European domination of our sphere of influence! I look forward to meeting with the leaders of our alliance to discuss our disputed claims, and their return to their rightful motherland, Türkiye!"\n\nThe Turkish delegation practically leap from their seats, slamming their feet on the ground and cheering."
+maltaconference.6.a:0 "Великая речь нашего славного лидера!"
+maltaconference.6.b:0 "Тревожно..."
+
+maltaconference.7.t:0 "Речь Франко и Салазара"
+maltaconference.7.d:0 "После подстрекательской речи турецкой стороны, пришло время двум иберийским Каудильно выйти на сцену. Они шли плечом к плечу, пытаясь следовать формальному протоколоу. Салазар заговорил первым.\n\n"Honored leaders," he began. "We wish to see the Triumvirate remain united just like our friend and ally Başbuğ Türkeş. And just like him we have disputes of our own to solve to solve."\n\nFranco picked up here. "However, unlike him we will not resort to threats and nationalist agitation. We seek a truly equal agreement for all parties of the Triumvirate!"\n\nThis was met by jeers and heckling from some in the audience.\n\n"We are all equal partners in this great alliance! Remember, for whatever reason you are here, there is one issue more important than all the rest; the preservation of our Mediterranean brotherhood, one and united."\n\nThe two awkwardly took turns speaking for around half an hour, and while they were met with polite applause from the audience, a fair few had dozed off by the time they had finished."
+maltaconference.7.a:0 "За Средиземноморское Братство!"
+maltaconference.7.b:0 "Когда же это кончится?"
+
+maltaconference.8.t:0 "Открытие конференции по поводу Суэцкого канала"
+maltaconference.8.d:0 "Основным предметом разногласий среди делегатов является Суэцкий канал.\n\nПереданный во владение Италии после военного триумфа в Египте, Империя с тех пор обладала исключительной властью над транзитом через канал, заставляя других членов Триумвирата платить за проход судов, будто бы они и не из одного альянса. Иберия особенно давно хотела получить доступ к каналу, поскольку им не хватает наземного присутствия Турции в регионе.\n\nИтальянские и иберийские делегаты собрались вместе со сторонними наблюдателями от других стран-членов в роскошном бальном зале с целью обсуждения вопроса о доступе к каналу."
+maltaconference.8.a:0 "Приступим!"
+
+maltaconference.9.t:0 "Требования Иберии"
+maltaconference.9.d:0 "На первом заседании иберийский дипломат Фернандо Мария Кастиелья потребовал, чтобы Иберия имела равноправный с Италией доступ к каналу. Обсуждение продолжалось несколько часов, пока, наконец, испанец не стукнул кулаком по столу.\n\n"You've held the canal for too damn long!" He yelled. "Why the hell should we, your ally, be forced to pay to use it?! We'll even give you a one-time lump sum of aid money, if you give us unlimited access. That's my final offer: you can take it or leave it!""
+maltaconference.9.a:0 "Забавно. Отказ!"
+maltaconference.9.b:0 "Возможно мы и придём к соглашению..."
+maltaconference.9.c:0 "Обстановка накаляется..."
+
+maltaconference.10.t:0 "Чиано отказывается"
+maltaconference.10.d:0 "Чиано отбивается: "Ridiculous! We've trusted you for twenty years and this is how you repay us? Offering a paltry sum for something we fought and bled for? Of course not. These negotiations are over!"\n\nThe Iberian delegates, shocked, reply.\n\n"This is outrageous! We expected to be treated as equals, not children!"\n\nThey continued by claiming they would not participate on later discussions over territorial disputes, and concluded with a scathing attack on Ciano.\n\n"We joined you decades ago because you promised equality and freedom from tyranny. But now? You're no better than the Germans! Lording over us like some petty Reichskommissariat! We're done with this conference!""
+maltaconference.10.a:0 "Ожидаемо."
+
+maltaconference.11.t:0 "Чиано пытается договориться"
+maltaconference.11.d:0 "Чиано отвечает: "Gentlemen! Let's be civil here! I'm not sure if I'm willing to take that trade, but perhaps we can come to another agreement."\n\nThe Iberian delegation nods warily. Ciano and other Italian delegates quickly leave the room, quietly whispering, while the Iberians deliberate among themselves."
+maltaconference.11.a:0 "Давайте посмотрим, как всё пройдёт..."
+
+maltaconference.12.t:0 "Иберия выдвигает встречное предложение"
+maltaconference.12.d:0 "Спустя несколько часов зал вновь наполняется.\n\n"What about Algeria?" Castiella y Maiz broaches. "We'll take it - and that little insurrection - off your hands if we just forget this whole dispute. Your colonial forces are overextended and you know it.""
+maltaconference.12.a:0 "Ну это перебор..."
+
+maltaconference.13.t:0 "Чиано вновь отказывается"
+maltaconference.13.d:0 "Чиано отбивается: "Ridiculous! We've trusted you for twenty years and this is how you repay us? Trying to steal our territory that we fought and bled for? Of course not. These negotiations are over!"\n\nThe Iberian delegates, shocked, reply.\n\n"This is outrageous! We expected to be treated as equals, not children!"\n\nThey continued by claiming they would not participate on later discussions over territorial disputes, and concluded with a scathing attack on Ciano.\n\n"We joined you decades ago because you promised equality and freedom from tyranny. But now? You're no better than the Germans! Lording over us like some petty Reichskommissariat! We're done with this conference!""
+maltaconference.13.a:0 "Ожидаемо."
+
+maltaconference.14.t:0 "Иберия не будет учавствовать в переделе границ"
+maltaconference.14.d:0 "Не изменяя своему слову, иберийских делегатов и впрямь никто не видел этим утром, когда разного рода высокопоставленные чины занимали места на конференции.\n\nТурецкие дипломаты вздохнули с облегчением, в то время как итальянские представители обменялись обеспокоенными взглядами. Чиано боялся, что конференция вот-вот рухнет."
+maltaconference.14.a:0 "Нам нужно больше!"
+maltaconference.14.b:0 "Поиграем в с ними в шарады."
+
+maltaconference.15.t:0 "Начало передела"
+maltaconference.15.d:0 "На сегодняшний день самым большим конфликтом на внутренней кухне Триумвирата являются многочисленные пограничные споры, возникшие в Триумвирате между тремя членами союза. Для решения этой проблемы было отведено два полных дня, посвящённых переговорам о характере спорных территорий. Мероприятия началось с отсутсвия иберийских дипломатов, нехватку которых невозможно было не заметить. Они сообщили Мадриду об отказе присутствовать на конференции, строя из себя святош. Президент Турции, Исмет Инёню, занял подиум, а за его спиной красовалась огромная карта Восточного Средиземноморья. Он начал своё повестсвование с давнейшего значения Кипра и Родоса для Турции, о демографии островов, особенно отмечая "the overwhelming majority of ethnic, pure Turks."\n\nThe Italian controlled islands of Rhodes and Cyprus have long been a thorn in Turkey's side, due in part to the large minority of Turks, but also more importantly because of their vital strategic importance, serving as inlets into the Aegean and the Eastern Mediterranean. Furthermore, since the completion of Atlantropa, several of these Italian islands have gained prominent land borders with the Turkish mainland. As the Triumvirate deteriorates, and with the Italo-Turkish relationship becoming one of thinly veiled threats and backhand slaps instead of friends and allies, Türkeş has become much more vocal regarding the issue of these "Rightfully Turkish" lands being denied union with the Turkish state.\n\n"Our demands are clear. We only ask for what has been ours for a millenia." were the words of Türkeş on the proposed concessions. "We will not back down, we will not fold, we will not stop, until we have it." - a reminder on what action Turkey will surely take should their demands be refused."
+maltaconference.15.a:0 "И ты, Брут? Наш ответ - нет."
+maltaconference.15.b:0 "Возможно мы сможем прийти к соглашению?"
+maltaconference.15.c:0 "Похоже, иберийцы не одни..."
+maltaconference.15.e:0 "Кипр и Родос по праву наши!"
+
+maltaconference.16.t:0 "Чиано ведёт переговоры"
+maltaconference.16.d:0 "Чиано остановился.\n\n"I think we can make a deal here. Those islands were originally naval bases. They aren't terribly useful as parts of the mainland, so I think we can come to some sort of agreement."\n\nTürkeş nods as well. "Excellent. Let's meet and discuss this.""
+maltaconference.16.a:0 "Попытка не пытка."
+
+maltaconference.17.t:0 "Переговоры срываются"
+maltaconference.17.d:0 "Переговоры шли успешно, и делегаты даже успели определить статус некоторых островов.\n\nПо крайней мере, до тех пор, пока Инёню не сорвался.\n\n"Why do you insist on treating us as inferiors?" He yelled at Ciano. "Why are you acting like some benevolent god restoring these islands to us?! You should be apologizing and paying reparations for your illegal colonial occupation! These islands aren't yours to give away! They are Turkish by blood!""
+maltaconference.17.a:0 "Ожидаемый конец."
+
+maltaconference.18.t:0 "Чиано отказывается вести переговоры"
+maltaconference.18.d:0 "Чиано покачал головой.\n\n"We will not be bullied into giving up land." He says solemnly. "We need those islands as bases. We're more than willing to give joint control over the bas-"\n\nTürkeş cuts him off. "Bastard! I knew it was a mistake coming here! You just want to continue your domination of the Mediterranean, using us as pawns! I'm through with your empty promises!""
+maltaconference.18.a:0 "Предсказуемо."
+
+maltaconference.19.t:0 "Встреча в Сент-Джулиансе"
+maltaconference.19.d:0 "Президент сел в кресло и откинулся на спинку, сделав большой глоток вина.\n\n"You know it as well as me, Franco. Ciano's not folding to either of our terms. Nothing penetrating that thick skull of his. All we have to do is show him we can cooperate. I'm telling you, this is how we can get to him!"\n\nFranco looked disinterested, and turned his gaze to the Mediterranean. "Really? And what do you suggest we cooperate on? We aren't prone to working together, if you haven't noticed."\n\nSalazar attempted to butt in, but Türkeş spoke before he could. "Just open up a border conflict. You don't have to commit much. It won't be large, I assure you. Help me out on this one, or I guarantee I will not have your back when your regime collapses."\n\nThat had gained Franco's attention. "Alright. I'll talk to some of my generals on it. I can't guarantee any-"\n\n"No, you can't guarantee anything. Not without my permission."\n\nFranco was beginning to get frustrated with his Portuguese friend, but he would not crack under pressure.\n\n"You're right. Do you agree to this proposal, Salazar?"\n\n"Yes. Let"s call the generals."\n\nThe 'secret' meeting became public knowledge, though each leader refused to comment on the specifics. If there was one thing that the Triumvirate could cooperate on, it was killing each other." 
+maltaconference.19.a:0 "Предатели! Ударили в спину!"
+maltaconference.19.b:0 "Возможно мы найдём общий язык..."
+
+maltaconference.20.t:0 "Взрыв на Мальтийской Конференции!"
+maltaconference.20.d:0 "Первые дошедшие до Рима сообщения имели спорадический и разрозненный характер: В городе Биргу вспыхнул пожар. Турки устроили ловушку, высадившись на Мальту. Кригсмарине обстреляли форт Сент-Анджело. Кто-то из толпы попытался застрелить Дуче.\n\nПопытки разузнать о подробностях случившегося не увенчались успехом из-за разорванных телефонных линий. Некоторые пытались собрать этот пазл в единое целое, но картина была настолько противоречива, что любые попытки остались бесплодными. Всё что мы могли - это ждать, пребывая в молитве о хороших новостях.\n\nК счастью, ждать пришлось не долго, и в столицу пришло известие о том, что Дуче жив и скоро вернется в Рим. Стали просачиваться и более чёткие детали: в форте Сент-Анджело взорвалась бомба, задев взрывной волной конференц-зал. Президент Турции и оба Каудильо остались невредимыми благодарю удачному стечению обстоятельств. Личность террориста неизвестна, и если это было совершено кем-то из других членов Триумвирата, маловероятно, что они возьмут на себя ответственность. Некоторые в Риме уже начали тыкать пальцем на Иберию или Турцию, и, несомненно, найдутся те, кто обвинит и нас.\n\nНапряжённость накануне встречи была огромна, но теперь она накалилась до предела. Если целью террориста было насаждение хаоса и раздора в Средиземноморье, то он наверняка превзошёл все свои ожидания."
+maltaconference.20.a:0 "Казалось бы, куда уж хуже..."
+
+maltaconference.21.t:0 "Иберия и Турция обвиняют Италию, отзывая дипломатов"
+maltaconference.21.d:0 "Неудивительно, что никто из членов Триумвирата не желает брать на себя ответственность за взрыв. Хотя Италия и утверждает, что не имеет никакого отношения к террористической атаке, ссылаясь на то, что у неё не было для этого причин, это не помешало Иберии и Турции обвинить итальянцев в своём фиаско. Как Иберия, так и Турция отозвали своих делегатов с Конференции, ссылаясь на недостаточно высокий уровень безопасности."
+maltaconference.21.a:0 "Нет, подождите...!"
+maltaconference.21.b:0 "Игры кончились."
+
+maltaconference.22.t:0 "Гибель Триумвирата"
+maltaconference.22.d:0 "Вещая на национальное телевидение из своего убежища, Дуче Чиано с тяжёлым сердцем объявил, что взаимные связи государств-членов Триумвирата должны быть немедленно расторгнуты. Хоть он и подчёркнул, насколько идея о Триумфе имела успех в сдерживании Германской агрессии, до боли ясно, что альянс не продлился бы долго даже без нависшей угрозы. Это был неизбежный исход для союза, наций, возглявляемыми горделивыми лидерами, с противоположными друг другу целями и конкурирующими сферами влияния.\n\nБез сомнения, эта новость была встречена язвительным согласием в Анкаре и Мадрите, смесью эйфории от предоставленной свободы, и раздражения от упущенной возможности уйти первыми. Но Германская угроза всё ещё маячит в умах многих, и может наступить час нужды, когда Триумвирата будет очень не хватать. Но до этого часа ещё далеко, и мало кто будет оплакивать кончину Триумвирата этим вечером."
+maltaconference.22.a:0 "Такие вот дела."

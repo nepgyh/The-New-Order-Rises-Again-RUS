@@ -1,0 +1,38 @@
+﻿l_russian:
+
+ ###########
+ ##Parties##
+ ###########
+
+ CAM_communist_party:0 "КПК"
+ CAM_socialist_party_long:0 "Коммунистическая партия Кампучии"
+ CAM_socialist_party:0 "КПК"
+# CAM_socialist_party_long:0 "Democratic Party" #duplicate loc key
+ CAM_social_democrat_party:0 "Konabaksa Vodthonpheap"
+ CAM_social_democrat_party_long:0 "Progressive Party"
+ CAM_social_liberal_party:0 "Konabaksa Khntal"
+ CAM_social_liberal_party_long:0 "Central Party"
+ CAM_social_conservative_party:0 "НСО - Левые"
+ CAM_social_conservative_party_long:0 "Народное социалистическое общество - Левое крыло"
+ CAM_authoritarian_democrat_party:0 "НСО - Сианук"
+ CAM_authoritarian_democrat_democrat_party_long:0 "Sangkum Reastr Niyum - Left Wing"
+ CAM_despotist_party:0 "НСО - Правые"
+ CAM_despotist_democrat_party_long:0 "Sangkum Reastr Niyum - Right Wing"
+ 
+ #########
+ ##Ideas##
+ #########
+ 
+ #Ministers
+ CAM_Norodom_Kantol_hog:0 "Нородом Кантол"
+ CAM_Son_Sann_eco:0 "Сон Санн"
+ CAM_Nhiek_Tioulong_for:0 "Нхиек Тьоулонг"
+ CAM_In_Tam_sec:0 "In Tam"
+ 
+ ########
+ ##Foci##
+ ########
+ 
+ ##########
+ ##Events##
+ ##########

@@ -1,0 +1,202 @@
+﻿l_russian:
+ ##Party Names
+#  POR_communist_party:0 "PPRI"
+#  POR_communist_party_long:0 "Partido do Proletariado Revolucionário Ibérico"
+#  POR_socialist_party:0 "FAP"
+#  POR_socialist_party_long:0 "Frente de Ação Popular"
+#  POR_progressivism_party:0 "MTD"
+#  POR_progressivism_party_long:0 "Movimento Trabalhista Democrático"
+#  POR_liberalism_party:0 "PSDP"
+#  POR_liberalism_party_long:0 "Partido Social Democrata Português"
+#  POR_conservatism_party:0 "PSDC"
+#  POR_conservatism_party_long:0 "Partido da Social Democracia Cristã"
+#  POR_paternalism_party:0 "UN-R"
+#  POR_paternalism_party_long:0 "União Nacional - Reformistas"
+#  POR_despotism_party:0 "UN-S"
+#  POR_despotism_party_long:0 "União Nacional - Salazaristas"
+#  POR_fascism_party:0 "UN-N"
+#  POR_fascism_party_long:0 "União Nacional - Nacionalistas"
+#  POR_national_socialism_party:0 "UN-NS"
+#  POR_national_socialism_party_long:0 "União Nacional - Nacional-Socialistas"
+#  POR_esoteric_nazism_party:0 "FV"
+#  POR_esoteric_nazism_party_long:0 "Filhos de Viriato"
+
+ POR_kingdom_authoritarian_democrat_party:0 "ПК" # <<TRANSLATED>>
+ POR_kingdom_authoritarian_democrat_party_long:0 "Партия консерваторов" # <<TRANSLATED>>
+ POR_kingdom_despotism_party:0 "ПЛЕН" # <<TRANSLATED>>
+ POR_kingdom_despotism_party_long:0 "Национальный совет по вопросам развития" # <<TRANSLATED>>
+ POR_kingdom_fascism_party:0 "ИЦП" # <<TRANSLATED>>
+ POR_kingdom_fascism_party_long:0 "Народная интегралистическая партия" # <<TRANSLATED>>
+
+
+ #Ministers and leader traits
+ POLITICS_ANTONIO_DE_OLIVEIRA_SALAZAR_WARS_DESC:0 "Было бы совершенно несправедливо умалять заслуги Антонио де Оливейру Салазара, лидера Португалии с 1932 года, нарекая его простым бюрократом-мыслителем. Придя к власти в Португалии за несколько лет до прихода к власти Франко в Испании, он вёл самостоятельную игру. Только под давлением Вермахта, захвативших Мозамбик и Анголу, он решил пойти на сделку со своим дьяволом. Когда Франко обратился к Салазару с предложением создать единую нацию под эгидой совместной безопасности, Салазар нехотя, но согласился, объединив в одно государство множество народов. Теперь Иберийский Союз, две страны, существуют в гармонии ради единого дела... так было на бумаге.\n\nВ самом же деле такой порядок довольно далёк от истины. Салазара прежде всего беспокоило благополучие Португалии. Желая защитить свою нацию от любого вреда, с другой стороны придерживаясь патологической одержимости на наложение вето по отношению к любой инициативе по укреплению уз меж двумя государствами, Салазар слыл как ярый противник чрезмерного сближения. Его паранойя по поводу "Spanish oppression of Portugal" led to many a confrontation with Franco himself, who saw him as one of many reasons why Iberia was likely to fall apart. With Franco's attempted passing of the "Law of Succession", meaning Portugal's absorption into Spain through the reinstallation of the monarchy after the deaths of the Caudillos, the divide between the two was firmly set. This was despite Salazar removing old shirt falangist elements who had attempted to stage a coup against the Union.\n\nYet it had not been Salazar's obstructionism which had led to the collapse of the Union. That blame could be entirely dropped at Franco's feet, for the Spanish dictator had failed to effectively deal with the Basque revolt. Salazar had fled Madrid for Lisbon soon after, declaring independence for the state of Portugal in an Iberia now torn apart by civil strife."
+ POLITICS_ANTONIO_DE_OLIVEIRA_SALAZAR_DIVORCE_DESC:0 "Было бы совершенно несправедливо умалять заслуги Антонио де Оливейру Салазара, лидера Португалии с 1932 года, нарекая его простым бюрократом-мыслителем. Придя к власти в Португалии за несколько лет до прихода к власти Франко в Испании, он вёл самостоятельную игру. Только под давлением Вермахта, захвативших Мозамбик и Анголу, он решил пойти на сделку со своим дьяволом. Когда Франко обратился к Салазару с предложением создать единую нацию под эгидой совместной безопасности, Салазар нехотя, но согласился, объединив Португалию с такой же правой Испанией. Однако мечте не суждено было сбыться.\nСсора со своим товарищем Каудильо, внутренние неурядицы, усталость и возрастной стресс - можно было бы привести тысячу причин для прекращения этого Союза, но ни одна из них в конечном итоге не имеет значения. Теперь, в своем личном доме, Салазар наблюдает за восстановлением Португалии, которая в очередной раз остается в одиночестве перед лицом быстро меняющегося мира.\n\nОн уверен, что не доживет до конца этого десятилетия."
+ 
+ POR_Jaime_Melo:0 "Хайме Альварес Перейра де Мело" # <<TRANSLATED>>
+ POLITICS_JAIME_I_DESC:0 "Несмотря на то, что десятый герцог Кадавал и его мать, Ольга де Мело, когда-либо видели себя в качестве краеугольного камня элиты страны, устраивая как роскошные партии, так и интеллектуальные собрания, несмотря на то, что герцог не проявлял большого политического интереса, больше интересовался музыкой и эпициалом, как его мать. Это было бы главной причиной того, почему после смерти Салазара он стал бы обращаться к Фернандо Сантосу Коста за положением короля Португалии. Хотя первоначально он не мог"stability". While the King himself lacks interest in this, still wishing to step out of politics after the war is done, if he is to be swayed, by himself or others, then true Democracy might still be a ways away from Portugal." # <<TRANSLATED>>
+ 
+ POR_Antonio_Salazar:0 "Антониу ди Оливейра Салазар"
+ POR_Pedro_Pereira:0 "Педро Теотониу Перейра"
+ POR_Pedro_Pereira_dep_desc:0 "§YСовместный государственный министр\nДеспотизм§!"
+
+ POR_Manuel_Gomes_de_Araujo:0 "Мануэль Гомес де Араужо"
+ POR_Manuel_Gomes_de_Araujo_mil_desc:0 "§YМинистр национальной обороны\nДеспотизм§!"
+
+ POR_Marcello_Mathias:0 "Марселу Матиас"
+ POR_Marcello_Mathias_for_desc:0 "§YМинистр иностранных дел\nДеспотизм§!"
+
+ POR_Ulisses_Cortes:0 "Улисесс Круз де Агиар Кортес"
+ POR_Ulisses_Cortes_eco_desc:0 "§YМинистр по экономическим вопросам\nДеспотизм§!"
+
+ POR_Fernando_Santos_Costa:0 "Фернандо душ Сантос Коста" # <<TRANSLATED>>
+ POR_Fernando_Santos_Costa_hog_desc:0 "Председатель Совета министров § nauthoriatarian Democracy§!" # <<TRANSLATED>>
+
+ POR_Francisco_Sousa_Tavares:0 "Франциско Суза Тавариш" # <<TRANSLATED>>
+ POR_Francisco_Sousa_Tavares_hog_desc:0 "Председатель Совета министров - прогрессивный консерватизм §!" # <<TRANSLATED>>
+
+ POR_Joao_Costa_Leite:0 "Жуан Пинто да Кошта Лейте" # <<TRANSLATED>>
+ POR_Joao_Costa_Leite_for_desc:0 "Министр иностранных дел § nauthoritarian Democracy§!" # <<TRANSLATED>>
+
+ POR_Antonio_Spinola:0 "Антонийский язык" # <<TRANSLATED>>
+ POR_Antonio_Spinola_sec_desc:0 "Министр национальной обороны § nauthoritarian Democracy§!" # <<TRANSLATED>>
+
+ POR_Jose_Ulrich:0 "Хосе Фредерико Ульрих" # <<TRANSLATED>>
+ POR_Jose_Ulrich_eco_desc:0 "Министр экономики § nauthoriatarian Democracy§!" # <<TRANSLATED>>
+
+ POR_Avelino_Cardoso:0 "Авелино Барбьери Кардозу" # <<TRANSLATED>>
+ POR_Fernando_Pais:0 "Фернандо да Силва Паис" # <<TRANSLATED>>
+ POR_Aires_Martins:0 "Айрес Фернандес Мартинс" # <<TRANSLATED>>
+ POR_Luis_Maria_Pina:0 "Луис Мария да Камара Пина" # <<TRANSLATED>>
+ POR_Jose_Vitoriano:0 "Хосе де Оливейра Виторьяно" # <<TRANSLATED>>
+ POR_Henrique_Tenreiro:0 "Энрики Тенрейро" # <<TRANSLATED>>
+
+ POR_PunkRadio:0 "Панк-Радио" # <<TRANSLATED>>
+
+## Debug Events
+PORDEBUG.1:0 "Загрузка дерева Эстадо Ново IW" # <<TRANSLATED>>
+PORDEBUG.1.desc:0 "Каральо" # <<TRANSLATED>>
+PORDEBUG.1.a:0 "Галло Поррас, перуанцы, смейтесь." # <<TRANSLATED>>
+
+## IBERIAN WARS
+POR_a_guerra_iberica:0 "Гуэрра Иберика" # <<TRANSLATED>>
+POR_a_guerra_iberica_desc:0 "Иберия упала" # <<TRANSLATED>>
+POR_o_exercito:0 "О Эксерито" # <<TRANSLATED>>
+POR_o_exercito_desc:0 "Для Португалии." # <<TRANSLATED>>
+POR_the_policia_international:0 "Международная политика в области дефеса-ду-Эстадо" # <<TRANSLATED>>
+POR_the_policia_international_desc:0 "ПИДЕ много лет служила в качестве секретной полиции Салазара, она непопулярна в армии и, таким образом, утратила свою полезность." # <<TRANSLATED>>
+POR_the_portuguese_ss:0 "Португальский СС" # <<TRANSLATED>>
+POR_the_portuguese_ss_desc:0 "Не путайся с печально известной нацистской организацией, Секретная служба является филиалом ПИД, функционирующим как полувоенное подразделение, и была создана после союза с Испанией, и она может служить нам, в зависимости от того, что мы с ней делаем." # <<TRANSLATED>>
+POR_make_them_elite_divisions:0 "Сделать их элитными делениями" # <<TRANSLATED>>
+POR_make_them_elite_divisions_desc:0 "СС создадут элитную корпорацию нашей армии." # <<TRANSLATED>>
+POR_fully_integrate_them:0 "Полностью их включить" # <<TRANSLATED>>
+POR_fully_integrate_them_desc:0 "СС сверну меня в обычную армию." # <<TRANSLATED>>
+POR_a_new_secret_police:0 "Новая секретная полиция" # <<TRANSLATED>>
+POR_a_new_secret_police_desc:0 "Мы создадим новую службу безопасности, чтобы защитить Королевство." # <<TRANSLATED>>
+POR_incorporate_the_legiao_portuguesa:0 "Включить Легион Португезу" # <<TRANSLATED>>
+POR_incorporate_the_legiao_portuguesa_desc:0 "Португальский Легион был полувоенной организацией, созданной для защиты Португалии от коммунизма и анархии, которая будет сложена в обычную армию." # <<TRANSLATED>>
+POR_a_economia:0 "Экономия" # <<TRANSLATED>>
+POR_a_economia_desc:0 "Экономика должна быть реформирована!" # <<TRANSLATED>>
+POR_the_industrial_heartland:0 "Промышленное сердце" # <<TRANSLATED>>
+POR_the_industrial_heartland_desc:0 "Лисбон должен быть построен как наш промышленный центр." # <<TRANSLATED>>
+POR_continue_the_corporatist_model:0 "Продолжение конкордатистской модели" # <<TRANSLATED>>
+POR_continue_the_corporatist_model_desc:0 "Корпоратизм до сих пор тоже служил делу." # <<TRANSLATED>>
+POR_build_up_the_national_industry:0 "Создание национальной промышленности" # <<TRANSLATED>>
+POR_build_up_the_national_industry_desc:0 "Для государства и ничего больше." # <<TRANSLATED>>
+POR_adopt_a_dirigisme_model:0 "Применить модель дирижабля" # <<TRANSLATED>>
+POR_adopt_a_dirigisme_model_desc:0 "Модель дирижеризма позволит расширить экономическую инициативу, одновременно с этим сохранив контроль над ключевыми секторами экономики." # <<TRANSLATED>>
+POR_contact_espirito_santo:0 "Учиться у Франции" # <<TRANSLATED>>
+POR_contact_espirito_santo_desc:0 "Хотя французское государство имеет слабую экономику, их экономическая политика в теории была разумной, и их фалиура была вызвана главным образом вмешательством Германии больше всего на свете." # <<TRANSLATED>>
+POR_relax_the_tariffs:0 "Расслабься, тарифы" # <<TRANSLATED>>
+POR_relax_the_tariffs_desc:0 "Тарифы будут снижены, но некоторые из них будут сохранены для защиты ключевых отраслей." # <<TRANSLATED>>
+POR_o_rei:0 "О Рей" # <<TRANSLATED>>
+POR_o_rei_desc:0 "Для короля!" # <<TRANSLATED>>
+POR_a_figurehead_for_democracy:0 "\"Дитриф\" - это \"Дитрина\"." # <<TRANSLATED>>
+POR_a_figurehead_for_democracy_desc:0 "Люди выберут..." # <<TRANSLATED>>
+POR_and_a_gatekeeper_for_stability:0 "...и вратарь стабильности" # <<TRANSLATED>>
+POR_and_a_gatekeeper_for_stability_desc:0 "...из тех, что мы им даем." # <<TRANSLATED>>
+POR_the_question_of_regime:0 "Вопрос о режиме" # <<TRANSLATED>>
+POR_the_question_of_regime_desc:0 "Каким будет новое правительство?" # <<TRANSLATED>>
+POR_a_king_of_the_masses:0 "Король мессов" # <<TRANSLATED>>
+POR_a_king_of_the_masses_desc:0 "Король должен определить приоритеты народных мер." # <<TRANSLATED>>
+POR_a_king_of_the_few:0 "Король немногих" # <<TRANSLATED>>
+POR_a_king_of_the_few_desc:0 "Король должен защищать власть государства." # <<TRANSLATED>>
+POR_a_bright_future_ahead:0 "Желательное будущее" # <<TRANSLATED>>
+POR_a_bright_future_ahead_desc:0 "Беспорядок закончится, и Царство процветет!" # <<TRANSLATED>>
+POR_the_santos_costa_reforms:0 "Коста-реформы Сантоса" # <<TRANSLATED>>
+POR_the_santos_costa_reforms_desc:0 "Коста планирует ряд реформ, которые обеспечат стабильность и рост." # <<TRANSLATED>>
+POR_entice_ofn_investment:0 "Привлекательные иностранные инвестиции" # <<TRANSLATED>>
+POR_entice_ofn_investment_desc:0 "Американцы, итальянцы и японцы будут рады разбрасываться деньгами." # <<TRANSLATED>>
+POR_a_unidade_e_a_maior_forca:0 "Организация &lt; &lt; Единство в отношении мейора Форсы &gt; &gt; , &lt; &lt; Агора и пара Семпре &gt; &gt;" # <<TRANSLATED>>
+
+ ###########Country names 
+ POR:0 "Португальская Республика"
+ POR_DEF:0 "Португальская Республика"
+ POR_ADJ:0 "Португальск"
+
+ POR_kingdom:0 "Королевство Португалия" # <<TRANSLATED>>
+ POR_kingdom_DEF:0 "Королевство Португалия" # <<TRANSLATED>>
+ POR_kingdom_ADJ:0 "Португальский" # <<TRANSLATED>>
+##National Spirits 
+ POR_new_kingdom1:0 "Новое Царство" # <<TRANSLATED>>
+ POR_new_kingdom1_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ POR_new_kingdom2:0 "Новое Царство" # <<TRANSLATED>>
+ POR_new_kingdom2_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ POR_new_kingdom3:0 "Новое Царство" # <<TRANSLATED>>
+ POR_new_kingdom3_desc:0 "- Я не знаю." # <<TRANSLATED>>
+POR_role_of_throne:0 "Роль престола" # <<TRANSLATED>>
+POR_role_of_throne_desc:0 "Хотя во время создания Царства мало кто поддерживал короля в том, что он обладает большей властью, чем минимально возможно, поскольку его популярность и он доказал свою эффективность, некоторые стали искренне предлагать эту идею и встречать ее не против, а с поддержкой." # <<TRANSLATED>>
+
+POR_bridge_past_future:0 "Мост между прошлым и будущим" # <<TRANSLATED>>
+POR_bridge_past_future_desc:0 "Наследование мантии"Monarquia do Norte", the new Portuguese Kingdom would find itself in a much similar yet different situation to it. Having popularity and legitimacy on a level that the 1919 uprising could only dream of, the crown finds itself in a much better position than its spiritual ancestor.\n\nServing as a bridge between the past and future, the Kingdom represents both the proud past of the country while at the same time preaching a solid path for its future, uniting people that otherwise would not work together under a common banner. However, if the state is able to live up to these large goals only time will tell." # <<TRANSLATED>>
+
+#EVENTS 
+POR_wars.1.t:0 "Смерть Салазара" # <<TRANSLATED>>
+POR_wars.1.desc:0 "Салазар был много чего, но он никогда не был выбывающим человеком. Франко положительно рад дипломатическим визитам и конкурсам официальных встреч, но Салазар всегда был отвержен от таких вещей. ~ n n vidence, почти как монах, и, кроме нескольких нежных дел, он жил в изоляции. ~ ~ n not that this this that this that this this youth. unday un held in y" # <<TRANSLATED>>
+POR_wars.1.a:0 "Что можно сделать?" # <<TRANSLATED>>
+
+POR_wars.2.t:0 "Государство начинает разлом" # <<TRANSLATED>>
+POR_wars.2.desc:0 "- Я не знаю."Antonio de Oliveira Salazar is dead." Caetano let the sentence hang in the air. Many faces among the National Assembly contorted themselves into shock and disbelief, acting as if the assassination was a new thing, that he had just announced. "Yet Portugal should not, and will not die with him. Salazar was a great man, but what would do him a stronger disservice than to let his nation rot with him?"\n\n"What greater insult to his legacy, than to leave Portugal corrupt, and decadent? To leave it headless, and powerless to the whims of Madrid? To venture into the old, feudal Dark Ages, and to shy away from progress?" The reaction was mixed. Members of his clique nodded and murmured in agreement. Others, like the Monarchists, jeered at the sentence and deafening boos hit Caetano. That didn't matter to him. No, what mattered was the largest bloc in the assembly - the neutrals and the Salazarians - with their reaction. Rather, their lack of a reaction. Caetano had got their attention, and that is precisely what he wanted. If they gave way to him, so would the entire country.\n\n"That is wh-" \n\nThe doors slammed open. Unending columns of men marched into the hall, every single one heavily armed with automatic weapons and body armour. The equipment betrayed Caetano's initial assumption of a paramilitary. \n\n"Attention, all members of the National Assembly!" The voice was unmistakable. Chief of the General Staff, Francisco da Costa Gomes. "In the wake of abhorrent factionalism, infighting and anti-Portuguese behaviour, I am temporarily dissolving the National Assembly. I want to emphasise that I, nor anyone in the military, will take charge of the nation, and a coup d'etat is not imminent."\n\nMaybe he was imagining it, but Caetano could feel Gomes' eyes watching his every move. Again, the reaction was mixed. This time, it was the Reformists who made their disapproval known. Clammy hands escorted the arch-reformist out of the chamber, like a prisoner being dragged to the electric chair. What was worse? The fact he was seconds away from power? Or the fact he spotted Gomes making idle conversation with the Monarchists, like old work colleagues at a bar?" # <<TRANSLATED>>
+POR_wars.2.a:0 "А Салазар хотел бы этого?" # <<TRANSLATED>>
+
+POR_wars.3.t:0 "Королеве Португалии" # <<TRANSLATED>>
+POR_wars.3.desc:0 "Коста ждала в гостиной. С смертью Салазара Португалия находилась в непосредственной опасности краха. Если бы режим выжил в ближайшие годы, им нужна была бы объединяющая фигура. Никто из подчиненных Салазарцев, включая его самого, не был бы готов к этому. Это была не проблема компетенции, а вопрос образа. ninn ne that compory to stand Salazar, un that that that that no this not. n that that" # <<TRANSLATED>>
+POR_wars.3.a:0 "Восстановление уже близко" # <<TRANSLATED>>
+
+POR_wars.4.t:0 "Возвращение Царства" # <<TRANSLATED>>
+POR_wars.4.desc:0 "- Я не знаю."I would not come here before you if there was not an alternative!" As Fernando Santos Costa stood on the platform, he let a small smile crawl on the corners of his face. It had been a while since he made grand speeches to soldiers about duty, honour et cetera. But it was good to be back on the stage after so long. "I would not waste your time if my task was not of the utmost urgency. But, it seems that Portugal has lost its way after so long. The nation, and its people, are at a crossroads, you see. A crossroad between law and order - or anarchy and terror."\n\nThe soldiers stood in front of him, did not show any hints of emotion. Why would they? The men had been drilled, day in and day out, to show nothing except cold determination, like automatons. But a soldier could always tell what another soldier is feeling. And Gomes knew that he had their attention. All he needed was their approval. "The so-called Reformists will say that Portugal is a dying nation. They say that there is no hope for the country in its current state. That something must be done. True patriots know differently. I know that we are the greatest nation in the world. I know that our people are some of the most hardworking individuals on the planet. And I know that some believe what I believe."\n\nTime to bring it home. This would be his do or die moment. If the army was on board with him, then nothing would stop him. "I understand those who reject a monarchy. I truly do. But there is no other alternative, soldiers. They are the only people who understand what makes Portugal great - and how to keep it so. Will you join me, my soldiers? Join me in keeping Portugal standing on its own two feet?"\n\nA silence fell. A soldier in the front - not older than 20 - gave a salute. Then another. And another. Soon, the entire crowd joined in silent prayer, as every man followed in the gesture, like dominoes. Costa smiled. As long as the army was on his side, the Monarchy would be inevitable." # <<TRANSLATED>>
+POR_wars.4.a:0 "Боевые линии проходят через Португалию." # <<TRANSLATED>>
+
+POR_wars.5.t:0 "Договор о спасении Республики" EVENTS 5 and 6 need to be reprompted and rewritten for new lore # <<TRANSLATED>>
+POR_wars.5.desc:0 "Отчаянные времена требуют отчаянных решений, и в несколько раз отчаялись больше, чем сейчас. Каэтано сделал глоток своего вина, отдав свое печали и закрыл глаза. Это тот, кем он был сейчас? Диссиденты и студенты университета, у которых было больше времени, чем у мозгов? Да, они были. Если только он не хотел, чтобы его отправили под ковром посредственности, то есть."What is it?" A gruff looking man - with piercing, brown eyes that looked like they had seen the depraved depths of humanity - sat down in front of Caetano. Almost reflexively, the man took a fat cigar and held his lighter over the end of it. Yet as far as dissidents went, Varela Gomes stood out amongst the crowd. As legendary for his courage in battle as his wit in the Assembly, the military man was a vital ally to have. There was one minuscule issue\n\n"Lisbon has gone haywire. The entire National Assembly has died and rolled over to the Monarchists. There wasn't...I couldn't do anything to stop them." Caetano locked eyes with the democrat. He still couldn't believe he was working with the democrats. "They have to be stopped. Any means necessary. And I know that you know what I mean by any means necessary. Unle-"\n\n"Fine. I'll help you with your coup d'etat. But I want you to get rid of the Reactionaries in the military if we succeed. I will not accept anything less." Gomes replied, not even pausing to breathe. This was the issue, Caetano thought. He was sure that the democrat would never fancy himself as Mephistopheles - but it seemed that was the role he was to play. \n\nGod, he'd be crucified for this. They would call him insane for purging a potentially loyal chunk of the Army. They would call him a traitor for dealing with "crypto-Bolsheviks" and selling out his nation. They would have been right. But as the sun began to shine a brilliant orange through the treeline, Faust looked at the sky, then shook the Devil's hand." # <<TRANSLATED>>
+POR_wars.5.a:0 "Оно того стоило?" # <<TRANSLATED>>
+
+POR_wars.6.t:0 "Название" # <<TRANSLATED>>
+POR_wars.6.desc:0 "Держатель" # <<TRANSLATED>>
+POR_wars.6.a:0 "Держатель" # <<TRANSLATED>>
+
+POR_wars.7.t:0 "Призрак Нуно Тристао" # <<TRANSLATED>>
+POR_wars.7.desc:0 "Каульца де Арриага сидел в одиночестве в своем кабинете, перед ним стояла большая карта всего мира, ограбленный в темноте, изумрудно-зеленый цвет стоял на Португальской империи. Там стояла старая Луситания, высокая, гордая и одна, с территориями от Макао до Анголы, она носила флаг выше и выше как бастион цивилизации и добродетель. Где он так пошёл? Макао... Макау... Макау никогда не имел шансов. Те, кто знал, что петля"And are you sure about this?" he spoke onto the phone. He did not remember picking it up, but he knew who he was talking to. "Spínola, are you sure that the situation you've described is right? It sounds like we've lost Guinea, in all but name."\n\n"Name is stretching it. Everything past the sand berm of the coast is completely unknown to us. Some of our men even refuse to follow orders because they hear stories of the 'vicious' PAIGC."  António de Spínola hissed down the phone. In the background, Kaúlza made out the faint chatter of radio communications and footsteps.\n\n"We discipline them, and then another regiment breaks ranks. So you tell me, General? Does it sound like we've lost Guinea?"\n\nThere was a moment of silence between the two. Kaúlza pinched his eyes shut, letting Spínola rant about his troubles in the background. His head throbbed with a dull pain as if someone had been using a chisel to sculpt his head. Macau was lost. East Timor? Gone. Angola and Mozambique took from them like toys from a pram. What would Portugal become if they lost Guinea? What would they have? What would he have?\n\nHe opened his eyes. Instead of an office, Kaúlza de Arriaga awoke in a wooden cabin, aflame. The heat was unbearable, and already the flames had claimed much of the house. He could not move, and he could not speak. Beside him was the telephone, with Spínola's voice resounding. The inferno streaked across the wood, sprinting towards him. This was what Portugal was. An old man, dying in a house they built. Kaúlza snapped to reality and broke the silence. What he was going to do was not brave or strong. But it was the only option left." # <<TRANSLATED>>
+POR_wars.7.a:0 "- Я не знаю."What do we need to take Guinea back?"" # <<TRANSLATED>>
+
+POR_wars.8.t:0 "Название" # <<TRANSLATED>>
+POR_wars.8.desc:0 "Держатель" # <<TRANSLATED>>
+
+POR_wars.9.t:0 "Ос Флеха" # <<TRANSLATED>>
+POR_wars.9.desc:0 "Что-то о том, что республиканцы умирают от элитных дивизий" # <<TRANSLATED>>
+
+POR_wars.10.t:0 "Королевская речь" # <<TRANSLATED>>
+POR_wars.10.desc:0 "Мы живем в те времена, когда политические деятели не очень-то населённы, и, поверьте мне, у вас есть моя симпатия." # <<TRANSLATED>>
+
+POR_wars.11.t:0 "Название" # <<TRANSLATED>>
+POR_wars.11.desc:0 "Франсиско Суза: Демократия сейчас!" # <<TRANSLATED>>
+
+POR_wars.12.t:0 "Название" # <<TRANSLATED>>
+POR_wars.12.desc:0 "Что-то о том, что король звонит в банк" # <<TRANSLATED>>
+
+POR_wars.13.t:0 "Название" # <<TRANSLATED>>
+POR_wars.13.desc:0 "Сантос Коста говорит с Паисом о ПИДЕ" # <<TRANSLATED>>
+
+#Custom Effect Tooltips
+POR_god_wants_tooltip:0 "§KSe Deus quiser, Короа вольтара брильхар, nas armas portuguesas§!" # <<TRANSLATED>>
+POR_coroa_pesada_tooltip:0 "\"Песада\" - это казачко, что мы с тобой в короа\"." # <<TRANSLATED>>

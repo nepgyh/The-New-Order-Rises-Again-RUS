@@ -1,0 +1,72 @@
+﻿l_russian:
+
+ ### Leaders ###
+ 
+  POLITICS_FIDEL_CASTRO_DESC:0 "Фидель Алехандро Кастро Рус родился 13 августа 1926 года в богатой семье, незаконнорожденный сын любовницы своего отца. Несмотря на консервативное иезуитское образование, Фидель стал убежденным антифашистом. Его политическая жизнь началась в Гаванском университете, когда он отказался от изучения права, чтобы присоединиться к популистской Ортодоксальной партии и ее призывам к революцию путем голосования.\n\nВ 1952 году генерал Батиста совершил государственный переворот, сокрушив хрупкую кубинскую демократию. Фидель прибегнул к вооруженной борьбе, возглавив дерзкое, но обреченное нападение на казармы Монкада 26. Освобожденный из тюрьмы, он бежал в Мексику, чтобы основать "politics makes for strange bedfellows." The Americans justify their behavior by claiming necessity; they could not allow a Nazi puppet state in their backyard at any cost, and who is more staunchly anti-fascist than a communist?\n\nCastro is a brave fighter but also a devoted ideologue, confident that his policies will transform Cuba into a modern, self-sufficient, and progressive workers' paradise that will serve as a beacon of hope for the world's proletariat. But despite his professed love of Marx, he is also quite cooperative towards the CIA and their interests. This seemingly hypocritical compromise has worked out fairly well for Castro: as long as he stays within Washington's orbit, they are content to let him govern the island as he pleases. That being said, he is required to provide certain economic concessions for American corporations, and other socialist figures denounce him as a traitor to the cause and an agent of Yanquí reactionaries. Castro believes that his agreement is the best way to ensure some form of proletarian government in Cuba and is the only way available to achieving a classless society, but he is left in a careful balancing act between American interests and the support of his anti-imperialist comrades."
+ 
+ 
+ 
+ 
+ #FOCUSES
+ #INTRO
+ CUB_llego_Fidel:0 "И Ен Эсо Ллего Фидель" # <<TRANSLATED>>
+ CUB_llego_Fidel_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_Revolutionary_Cabinet:0 "Революционный кабинет" # <<TRANSLATED>>
+ CUB_Revolutionary_Cabinet_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_A_Peculiar_Visit:0 "Печальное посещение" # <<TRANSLATED>>
+ CUB_A_Peculiar_Visit_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_Defending_the_Revolution:0 "Защита революции" # <<TRANSLATED>>
+ CUB_Defending_the_Revolution_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_CDR:0 "Составить ДТР" # <<TRANSLATED>>
+ CUB_CDR_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_Form_the_DGI:0 "Красная Ависта" # <<TRANSLATED>>
+ CUB_Form_the_DGI_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_Comb_through_documents:0 "Расшифровка документов" # <<TRANSLATED>>
+ CUB_Comb_through_documents_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_Contact_the_Sellers:0 "Свяжитесь с контрабандистами" # <<TRANSLATED>>
+ CUB_Contact_the_Sellers_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_Revolutionary_Militia:0 "Революционная ополчение" # <<TRANSLATED>>
+ CUB_Revolutionary_Militia_desc:0 "- Я не знаю." # <<TRANSLATED>>
+  
+ CUB_A_New_Army:0 "Новый вид армии" # <<TRANSLATED>>
+ CUB_A_New_Army_desc:0 "- Я не знаю." # <<TRANSLATED>>
+   
+ CUB_People_Justice:0 "Народная справедливость" # <<TRANSLATED>>
+ CUB_People_Justice_desc:0 "- Я не знаю." # <<TRANSLATED>>
+
+ CUB_Fulfilling_our_Promises:0 "Выполнять наши обещания" # <<TRANSLATED>>
+ CUB_Fulfilling_our_Promises_desc:0 "- Я не знаю." # <<TRANSLATED>>
+
+ CUB_Stadiums_are_open:0 "Стадионы открыты." # <<TRANSLATED>>
+ CUB_Stadiums_are_open_descs:0 "- Я не знаю." # <<TRANSLATED>>
+
+ CUB_So_are_the_clubs:0 "Как и клубы" # <<TRANSLATED>>
+ CUB_So_are_the_clubs_desc:0 "- Я не знаю." # <<TRANSLATED>>
+
+ CUB_Revolutionary_Tourism:0 "Революционный туризм" # <<TRANSLATED>>
+ CUB_Revolutionary_Tourism_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_Thank_Guajiros:0 "Спасибо Гуахиросам." # <<TRANSLATED>>
+ CUB_Thank_Guajiros_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_Neighbourhood_Doctors:0 "Врачи по соседству" # <<TRANSLATED>>
+ CUB_Neighbourhood_Doctors_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_Secure_our_Shipping:0 "Охраняйте наш корабль" # <<TRANSLATED>>
+ CUB_Secure_our_Shipping_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_The_Urban_Question:0 "Решение вопроса о городах" # <<TRANSLATED>>
+ CUB_The_Urban_Question_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ CUB_Marti_Sons:0 "Сыны Хосе Марти" # <<TRANSLATED>>
+ CUB_Marti_Sons_desc:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ 

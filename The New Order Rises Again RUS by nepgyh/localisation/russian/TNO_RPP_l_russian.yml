@@ -1,0 +1,62 @@
+﻿l_russian:
+
+ #############
+ ## Parties ##
+ #############
+ RPP_communist_party:0 "РБГ"
+ RPP_communist_party_long:0 "Революционная боевая гвардия"
+ RPP_socialist_party:0 "РБГ"
+ RPP_socialist_party_long:0 "Революционная боевая гвардия"
+ RPP_social_democrat_party:0 "РБГ"
+ RPP_social_democrat_party_long:0 "Революционная боевая гвардия"
+ RPP_social_liberal_party:0 "РБГ"
+ RPP_social_liberal_party_long:0 "Революционная боевая гвардия"
+ RPP_social_conservative_party:0 "РБГ"
+ RPP_social_conservative_party_long:0 "Революционная боевая гвардия"
+ RPP_authoritarian_democrat_party:0 "ФНОП"
+ RPP_authoritarian_democrat_party_long:0 "Фронт национального освобождения Португалии"
+ RPP_despotism_party:0 "ПКЦ"
+ RPP_despotism_party_long:0 "Португальский католический центр"
+ RPP_fascism_party:0 "НПД"
+ RPP_fascism_party_long:0 "Национальное профсоюзное движение"
+ RPP_national_socialism_party:0 "ПЦС"
+ RPP_national_socialism_party_long:0 "Правительство Национального Спасения"
+ RPP_ultranational_socialism_party:0 "Отпрыски Вириата"
+ RPP_ultranational_socialism_party_long:0 "Отпрыски Вириата"
+
+ #Country names 
+ RPP_fascism:0 "Временное правительство Португалии"
+ RPP_fascism_DEF:0 "Временное правительство Португалии"
+ RPP_social_liberal:0 "Временное правительство Португалии"
+ RPP_social_liberal_DEF:0 "Временное правительство Португалии"
+ RPP_market_liberal:0 "Portuguese Provisional Republic"
+ RPP_market_liberal_DEF:0 "The Portuguese Provisional Republic"
+ RPP_social_democrat:0 "Временное правительство Португалии"
+ RPP_social_democrat_DEF:0 "Временное правительство Португалии"
+ RPP_social_conservative:0 "Временное правительство Португалии"
+ RPP_social_conservative_DEF:0 "Временное правительство Португалии"
+ RPP_authoritarian_democrat:0 "Временное правительство Португалии"
+ RPP_authoritarian_democrat_DEF:0 "Временное правительство Португалии"
+ RPP_despotism:0 "Временное правительство Португалии"
+ RPP_despotism_DEF:0 "Временное правительство Португалии"
+ RPP_communist:0 "Временное правительство Португалии"
+ RPP_communist_DEF:0 "Временное правительство Португалии"
+ RPP_socialist:0 "Временное правительство Португалии"
+ RPP_socialist_DEF:0 "Временное правительство Португалии"
+ RPP_national_socialism:0 "Временное правительство Португалии"
+ RPP_national_socialism_DEF:0 "Временное правительство Португалии"
+ RPP_ultranational_socialism:0 "Временное правительство Португалии"
+ RPP_ultranational_socialism_DEF:0 "Временное правительство Португалии"
+ 
+ #################
+ ## Leader Desc ##
+ #################
+ POLITICS_Costa_Gomes_DESC:0 ""
+ 
+ ###############
+ ## Ministers ##
+ ###############
+  RPP_Vasco_Gonsalves_dep:0 "Vasco Gonçalves"
+ RPP_Adelino_Palma_for:0 "Adelino da Palma Carlos"
+ RPP_Jose_Lopes_eco:0 "José da Silva Lopes"
+ RPP_Mario_Miguel_mil:0 "Mario Firmino Miguel"

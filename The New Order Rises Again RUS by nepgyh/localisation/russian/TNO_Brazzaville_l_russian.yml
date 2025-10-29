@@ -1,0 +1,29 @@
+﻿l_russian:
+ ## Country Names ##
+ BZZ_communist:0 "Народная Республика Лоанго"
+ BZZ_communist_DEF:0 "Народная Республика Лоанго"
+ BZZ_communist_ADJ:0 "Лоангск."
+ BZZ_authoritarian_democrat:0 "Республика Лоанго"
+ BZZ_authoritarian_democrat_DEF:0 "Республика Лоанго"
+ BZZ_authoritarian_democrat_ADJ:0 "Лоангск."
+ 
+ ####Party Names#####
+
+ BZZ_communist_party:0 "ПССД"
+ BZZ_communist_party_long:0 "Панафриканский союз за социальную демократию"
+ BZZ_authoritarian_democrat_party:0 "БДП"
+ BZZ_authoritarian_democrat_party_long:0 "Браззавильская демократическая партия"
+
+ ## Ministers ##
+ 
+ ## Ideas ##
+ 
+ ## Decisions ##
+ 
+ ## Tooltips ##
+ 
+ ## Focus Tree ##
+ 
+ ## Events ##
+
+ 

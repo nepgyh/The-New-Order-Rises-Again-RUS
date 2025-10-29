@@ -1,0 +1,37 @@
+﻿l_russian:
+ ## Country Names ##
+ CAF_authoritarian_democrat:0 "Биафриканская Республика"
+ CAF_authoritarian_democrat_DEF:0 "Биафриканская Республика"
+ CAF_authoritarian_democrat_ADJ:0 "Биафриканск."
+
+ CAF_despotism:0 "Государство Биафрика"
+ CAF_despotism_DEF:0 "Государство Биафрика"
+ CAF_despotism_ADJ:0 "Биафриканск."
+
+ CAF_social_democrat:0 "Биафриканская Республика"
+ CAF_social_democrat_DEF:0 "Биафриканская Республика"
+ CAF_social_democrat_ADJ:0 "Биафриканск."
+ 
+ ####Party Names#####
+
+ CAF_authoritarian_democrat_party:0 "ДСЭЧА"
+ CAF_authoritarian_democrat_party_long:0 "Движение за социальную эволюцию Чёрной Африки"
+
+ ## Ministers ##
+ 
+ CAF_David_Dacko_hog:0 "David Dacko"
+ CAF_Barthelemy_Boganda_for:0 "Barthélemy Boganda"
+ CAF_Ange_Felix_Patasse_eco:0 "Ange-Felix Patasse"
+ CAF_Andre_Kolingba_sec:0 "Jean-Bédel Bokassa"
+
+ ## Ideas ##
+ 
+ ## Decisions ##
+ 
+ ## Tooltips ##
+ 
+ ## Focus Tree ##
+ 
+ ## Events ##
+
+ 
