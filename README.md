@@ -15,3 +15,5 @@
 
 ## ⚖️ Примечание
 Некоторые тексты могут содержать неточности или стилистические ошибки.
+
+Русификатор в Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3596411864
