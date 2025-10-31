@@ -8,3 +8,4 @@ dependencies={
 }
 supported_version="1.16.*"
 path="mod/The New Order Rises Again RUS by nepgyh/"
+remote_file_id="3596411864"
