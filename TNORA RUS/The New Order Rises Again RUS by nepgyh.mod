@@ -7,4 +7,4 @@ dependencies={
 	"The New Order: Rises Again"
 }
 supported_version="1.16.*"
-path="D:/Paradox Interactive/Hearts of Iron IV/mod/The New Order Rises Again RUS by nepgyh"
+path="mod/The New Order Rises Again RUS by nepgyh/"
