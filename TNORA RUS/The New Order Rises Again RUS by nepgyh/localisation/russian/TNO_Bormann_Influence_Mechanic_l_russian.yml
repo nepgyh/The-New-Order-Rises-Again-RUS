@@ -11,14 +11,14 @@
 #|=====[ DECISION VIEW ]=====|#
  ##Decision Loc itself
  GER_Bormann_category:0 "Das Kartenhaus"
- GER_Bormann_category_desc:0 "Политика Третьего Рейха представляет собой запутанный лабиринт - наследие гитлеровской постоянной игры различных фракций и отдельных личностей друг против друга. Любой, у кого есть хоть капля власти, убежден, что они, и только они, знают, что лучше для Германии. В результате различные демографические группы и группы интересов внутри Рейха никогда не могут рассчитывать на поддержку друг друга, только на поддержку фюрера. Для того чтобы снова связать разрозненные группы, ему придется ухаживать за каждой из этих диссидентских фракций, возвращая их в строй под командованием фюрера принца. Если он потерпит неудачу, Рейх обязательно войдет в состояние застоя, упадка и в конечном итоге рухнет. Только железная воля, беспощадная интрига и бархатная перчатка могут спасти национал-социализм."
+ GER_Bormann_category_desc:0 "Политика Третьего Рейха представляет собой запутанный лабиринт - наследие гитлеровской постоянной игры различных фракций и отдельных личностей друг против друга. Любой, у кого есть хоть капля власти, убежден, что они, и только они, знают, что лучше для Германии. В результате различные демографические группы и группы интересов внутри Рейха никогда не могут рассчитывать на поддержку друг друга, только на поддержку фюрера. Для того чтобы снова связать разрозненные группы, ему придется ухаживать за каждой из этих диссидентских фракций, возвращая их в строй под командованием фюрера принца. Если он потерпит неудачу, Рейх обязательно войдет в состояние застоя, упадка и в конечном итоге рухнет. Только железная воля, беспощадная интрига и бархатная перчатка могут спасти национал-социализм.""
  #\n\n[BOR_GetInfluenceOverview]\n\n[BOR_GetRow1]\n\n[BOR_GetRow2]\n\n[BOR_GetRow3]\n\n[BOR_GetRow4]\n\n"
 
  TNO_Bormann_InfMech_InfoScrawl_Scrawl:0 "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 
 #|========[ OVERVIEW ]=======|#
  #BOR_InfluenceOverview:0 "                    §g|§!      Control:      §g|§!                    \n                    §g|§!   §Y453§!/§Y1000§! (§Y45%§!)   §g|§!                    \n\n     §GReformists§!     §g|§!       §LState§!        §g|§!    §RMilitarists§!     \n     Power: §Y188§!     §g|§!     Power: §Y265§!     §g|§!     Power: §Y547§!     \n    Support: §G74%§!    §g|§!    Support: §Y---§!    §g|§!    Support: §R12%§!    "
- BOR_InfluenceOverview:0 "[BOR_GetControlDivider_20]§g|§![BOR_GetControlHeader]§g|§![BOR_GetControlDivider_20]\n[BOR_GetControlDivider_20]§g|§![BOR_GetControlNumDisplay]§g|§![BOR_GetControlDivider_20]\n\n[BOR_GetReformistHeader]§g|§![BOR_GetStateHeader]§g|§![BOR_GetMilitaristHeader]\n[BOR_GetReformistPower]§g|§![BOR_GetStatePower]§g|§![BOR_GetMilitaristPower]\n[BOR_GetReformistПоддержка]§g|§![BOR_GetStateПоддержка]§g|§![BOR_GetMilitaristПоддержка]"
+ BOR_InfluenceOverview:0 "                    §g|§!      Control:      §g|§!                    \n                    §g|§!   §Y453§!/§Y1000§! (§Y45%§!)   §g|§!                    \n\n     §GРеформисты§!     §g|§!       §LState§!        §g|§!    §RМилитаристы§!     \n     Power: §Y188§!     §g|§!     Power: §Y265§!     §g|§!     Power: §Y547§!     \n    Поддержка: §G74%§!    §g|§!    Поддержка: §Y---§!    §g|§!    Поддержка: §R12%§!    "
  GER_BOR_dismantle_tooltip:0 "Placeholder"
  GER_BOR_Control_tooltip:0 "Placeholder"
  GER_BOR_ControlBar_tooltip:0 "§WAllied Control Percentage:§! §Y[?BOR_AlliedControlPerc|0]%§!"
@@ -122,7 +122,7 @@
  BOR_SIGName_0:0 "Бюрократия"
  BOR_SIGName_Formatted_0:0 "Бюрократия"
  BOR_SIGName_Long:0 " Бюрократия"
- BOR_SIGName_Formatted_0_tt:0 "§Y[BOR_SIG_GetName_Formatted_New]§!\n§g--------------------§!\n §YБюрократия§! это слой толкачей карандашей, офисных трутней и карьерных политиков, посвятивших себя поддержанию Византийской системы Рейха только для того, чтобы все это продолжалось. Состоит из главных директивных органов Германии, бюрократии! исторически он находился под влиянием бывшего начальника канцелярии НСДАП, а ныне фюрера Мартина Бормана и его "
+ BOR_SIGName_Formatted_0_tt:0 "§Y[BOR_SIG_GetName_Formatted_New]§!\n§g--------------------§!\n §YБюрократия§! это слой толкачей карандашей, офисных трутней и карьерных политиков, посвятивших себя поддержанию Византийской системы Рейха только для того, чтобы все это продолжалось. Состоит из главных директивных органов Германии, бюрократии! исторически он находился под влиянием бывшего начальника канцелярии НСДАП, а ныне фюрера Мартина Бормана и его "консервативные"! союзники. Однако со временем эта хватка все больше ослабевала, особенно пострадав от вспышки Бюргеркрига и последующих усилий по реинтеграции в надежде на стабильность. Все более хлопотно,  §LКонсерваторы§! должны действовать быстро, чтобы обеспечить себе контроль над бюрократическим Атласом Рейха.."
  
  ##SIG #1:THE PEOPLE
  BOR_SIGName_1:0 "Народ"
@@ -147,7 +147,7 @@
  ##SIG #5:KRIEGSMARINE
  BOR_SIGName_5:0 "Кригсмарине"
  BOR_SIGName_Formatted_5:0 "Кригсмарине"
- BOR_SIGName_Formatted_5_tt:0 "§Y[BOR_SIG_GetName_Formatted_New]§!\n§g--------------------§!\nЗабытые Германией в целом, только фюреры и их партия когда-либо по-настоящему ценили военно-морской флот рейха. Без неустанной работы подводных лодок "
+ BOR_SIGName_Formatted_5_tt:0 "§Y[BOR_SIG_GetName_Formatted_New]§!\n§g--------------------§!\nЗабытые Германией в целом, только фюреры и их партия когда-либо по-настоящему ценили военно-морской флот рейха. Без неустанной работы подводных лодок "волчьи ранцы" и мощных орудий крейсеров и линкоров вторжение в Британию никогда не было бы осуществлено. Сегодня кригсмарине - это средство, с помощью которого Рейх проецирует свою мощь по всей Атлантике, обеспечивая жизненно важную безопасность для своих западных владений и африканских рейхскомиссариатов. Многие американские разведывательные флотилии были оттеснены от немецких вод присутствием ударных сил Кригсмарине, появляющихся на горизонте. Без них рейх не может надеяться сохранить свое место в качестве одной из великих мировых держав."
  
  ##SIG #6:ORDUNGSPOLIZEI
  BOR_SIGName_6:0 "Полиция"
@@ -177,7 +177,7 @@
  ##SIG #11:BANKS
  BOR_SIGName_11:0 "Банки"
  BOR_SIGName_Formatted_11:0 "Банки"
- BOR_SIGName_Formatted_11_tt:0 "§Y[BOR_SIG_GetName_Formatted_New]§!\n§g--------------------§!\nБудучи излюбленной мишенью нацистов с самых первых дней, банки вечно непопулярны, но необходимы для выживания Третьего Рейха. Хотя "
+ BOR_SIGName_Formatted_11_tt:0 "§Y[BOR_SIG_GetName_Formatted_New]§!\n§g--------------------§!\nБудучи излюбленной мишенью нацистов с самых первых дней, банки вечно непопулярны, но необходимы для выживания Третьего Рейха. Хотя "еврейские" и "плутократические" влияния были давно очищены, те же самые жалобы сохраняются: банки жадны, лишают простого человека его заработков и несут ответственность за все экономические трудности, пережитые Германией. По иронии судьбы, банки всегда поддерживали тесные связи с НСДАП, управляя финансовым волшебством, которое позволило Гитлеру совершить "экономическое чудо" в начале 1930-х годов. Банки также управляли массовым притоком награбленного из оккупированных стран, превращая его в ликвидные активы, чтобы подпитывать двигатель немецкой военной машины и держать граждан накормленными и одетыми. Хотя теоретически банки находятся в полном распоряжении фюрера, они контролируют слишком большую часть экономики рейха на его вкус; пересечение их может оказаться особенно катастрофичным, независимо от того, сколько пушек он сможет направить в их сторону."
 
 #|===[ GUI - Main ]==|#
  BOR_SIGPowerDisp: "[?BOR_SIGPower^InfMech_SIGGridBox_i|Y0]"
@@ -247,7 +247,7 @@
  TNO_Bormann_InfMech_Card_PowerDisplay_text: "[?BOR_SIGPower^BOR_InfMech_SIG_Target|Y0]"
  TNO_Bormann_InfMech_Card_PowerDisplay_tt: "[BOR_SIG_GetName_Formatted_New]'s §YPower§!"
  #TNO_Bormann_InfMech_Card_PowerDisplay_ttd: "§YPower§! is a measure of a §YSpecial Interest Group's§! influence in the State. In order to dominate the affairs of the German state, one must keep their allies §Ypowerful§! and their enemies §Rweak§!."
- TNO_Bormann_InfMech_Card_PowerDisplay_ttd: "hha funn"
+ TNO_Bormann_InfMech_Card_PowerDisplay_ttd: "§YPower§! is a measure of a §YSpecial Interest Group's§! influence in the State. In order to dominate the affairs of the German state, one must keep their allies §Ypowerful§! and their enemies §Rweak§!."
 
  # Selection Button
  TNO_Bormann_InfMech_Card_SelectionBtn_Ref_tt: "Выбрать §GРеформисты§!"
@@ -271,14 +271,14 @@
  TNO_Bormann_InfMech_Card_SelectionBtn_Mil_text_inactive: "§gMIL§!"
 
  # Interaction Button
- TNO_Bormann_InfMech_Card_InteractionBtn_Power_Add_tt: "Добавить §Y5 влияния§! к §Y[BOR_SIG_GetName_Formatted_New]§!"
- TNO_Bormann_InfMech_Card_InteractionBtn_Power_Sub_tt: "Убрать §Y5 влияния§! у §Y[BOR_SIG_GetName_Formatted_New]§!"
+ TNO_Bormann_InfMech_Card_InteractionBtn_Power_Add_tt: "добавить §Y5 влияние §!  §Y[BOR_SIG_GetName_Formatted_New]§!"
+ TNO_Bormann_InfMech_Card_InteractionBtn_Power_Sub_tt: "забрать §Y5 влияние§! from §Y[BOR_SIG_GetName_Formatted_New]§!"
  TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_Add_tt: "[BOR_InfMech_SelectionBtn_AddLoyalty_GetAvailability]"
  TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_Sub_tt: "[BOR_InfMech_SelectionBtn_SubLoyalty_GetAvailability]"
  TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_Unavailable_tt: "§YСНАЧАЛА НУЖНО ВЫБРАТЬ ЦЕЛЬ§!"
  TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_AvailableAdd_tt: "Добавить §Y2§! [BOR_InfMech_SelectionBtn_Loyalty_GetTarget] §Yлояльности§! к §Y[BOR_SIG_GetName_Formatted_New]§!"
  TNO_Bormann_InfMech_Card_InteractionBtn_Loyalty_AvailableSub_tt: "Убрать §Y2§! [BOR_InfMech_SelectionBtn_Loyalty_GetTarget] §Yлояльности§! у §Y[BOR_SIG_GetName_Formatted_New]§!"
- TNO_Bormann_InfMech_Card_Interaction_Btn_Cost_tt: "§WЭто действие стоит§! £political_power_texticon §Y40§! §Wполитической власти§!"
+ TNO_Bormann_InfMech_Card_Interaction_Btn_Cost_tt: "§WIt costs§! £political_power_texticon §Y40§! §Wto do this action§!"
 
  # SIGType Display
  TNO_Bormann_InfMech_Card_SIGTypeDisplay_text: "[BOR_Card_SIG_GetTypeTitle]"
@@ -486,8 +486,8 @@
  BOR_SIG_SP_11_10_tt: "(§Y[BOR_GetSIGName_11]§!) Влияние: §R-10§!\n"
  BOR_SIG_SP_11_20_tt: "(§Y[BOR_GetSIGName_11]§!) Влияние: §R-20§!\n"
 
- # "If the £BRA_MSD_texticon §mMSD§! overtakes the £BRA_CGT_texticon §YCGT§! in size, the Strikes will end.\n\n§eStrength§! describes the political strength the strikes current have.\n§eStrength§! #also has effects on the politics, and the higher the strength of both unions, the lower your political power gain.\n\n§hRadicalism§! is proportionally related between the two factions, if one #gets too radical, the other will follow suit.\n§hRadicalism§! also affects your GDP growth; the higher it gets, the greater the reduction in growth; should it go negative, there will be strong #reprocussions.\n\n§xViolence§!, as the name suggests, is the amount of §xviolent§! outbursts in the streets, if it gets too high, we might run into the risk of a §nArmy§! coup!\n§VViolence§! also #affects consumer goods production, and the higher it goes, the greater the malaise.\n\n§nThe Army§! will be able to intervene if they are both agitated and the violence is rampant."
- # "If the £BRA_MSD_texticon §mMSD§! overtakes the £BRA_CGT_texticon §YCGT§! in size, the Strikes will end.\n\n§eStrength§! describes the political strength the strikes current have.\n§eStrength§! #also has effects on the politics, and the higher the strength of both unions, the lower your political power gain.\n\n§hRadicalism§! is proportionally related between the two factions, if one #gets too radical, the other will follow suit.\n§hRadicalism§! also affects your GDP growth; the higher it gets, the greater the reduction in growth; should it go negative, there will be strong #reprocussions.\n\n§xViolence§!, as the name suggests, is the amount of §xviolent§! outbursts in the streets, if it gets too high, we might run into the risk of a §nArmy§! coup!\n§VViolence§! also #affects consumer goods production, and the higher it goes, the greater the malaise.\n\n§nThe Army§! will be able to intervene if they are both agitated and the violence is rampant."
+ # ".* (\d+).*SIG#(\d+).."
+ # ".* (\d+).*SIG#(\d+).."
 
  ###################
  ##  ADD LOYALTY  ##

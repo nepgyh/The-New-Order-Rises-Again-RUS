@@ -1,17 +1,17 @@
 ﻿l_russian:
  #Parties
- FZL_communist_party:0 "GRAPO"
- FZL_communist_party_long:0 "Grupos de Resistencia Antifascista Primero de Octubre"
- FZL_socialist_party:0 "FRAP"
- FZL_socialist_party_long:0 "Frente Revolucionario Antifascista y Patriota"
+ FZL_communist_party:0 "ГАДПО"
+ FZL_communist_party_long:0 "Группа антифашистского движения Первого октября"
+ FZL_socialist_party:0 "РАПФ"
+ FZL_socialist_party_long:0 "Революционный антифашистский патриотический фронт"
  FZL_authoritarian_democrat_party:0 "UdPE"
  FZL_authoritarian_democrat_party_long:0 "Unión del Pueblo Español"
- FZL_despotism_party:0 "CT"
- FZL_despotism_party_long:0 "Comunión Tradicionalista"
- FZL_fascism_party:0 "FE"
- FZL_fascism_party_long:0 "Falange Española"
- FZL_national_socialism_party:0 "FE"
- FZL_national_socialism_party_long:0 "Falange Española"
+ FZL_despotism_party:0 "ТО"
+ FZL_despotism_party_long:0 "Традиционалистская община"
+ FZL_fascism_party:0 "ИФ"
+ FZL_fascism_party_long:0 "Испанская Фаланга"
+ FZL_national_socialism_party:0 "ИФ"
+ FZL_national_socialism_party_long:0 "Испанская Фаланга"
 
  #Ministers
  

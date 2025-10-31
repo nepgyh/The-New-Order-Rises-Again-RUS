@@ -3,8 +3,8 @@
  ###########
  ## FLAGS ##
  ###########
- german_bengali_friendship:0 "Немецкий"
- no_german_bengali_friendship:0 "Нет"
+ german_bengali_friendship:0 "The Germans Have Decided To Assist Us"
+ no_german_bengali_friendship:0 "The Germans Have Decided Against Assisting Us"
 
  ###########
  ## IDEAS ##

@@ -1,17 +1,17 @@
 ﻿l_russian:
  #Parties
- SPS_communist_party:0 "GRAPO"
- SPS_communist_party_long:0 "Grupos de Resistencia Antifascista Primero de Octubre"
- SPS_socialist_party:0 "FRAP"
- SPS_socialist_party_long:0 "Frente Revolucionario Antifascista y Patriota"
+ SPS_communist_party:0 "ГАСПО"
+ SPS_communist_party_long:0 "Группы антифашистского Сопротивления Первого Октября"
+ SPS_socialist_party:0 "АПРФ"
+ SPS_socialist_party_long:0 "Антифашистский и патриотический революционный фронт"
  SPS_authoritarian_democrat_party:0 "UdPE"
  SPS_authoritarian_democrat_party_long:0 "Unión del Pueblo Español"
- SPS_despotism_party:0 "CT"
- SPS_despotism_party_long:0 "Comunión Tradicionalista"
- SPS_fascism_party:0 "FET y de las JONS"
- SPS_fascism_party_long:0 "FET y de las JONS"
- SPS_national_socialism_party:0 "FET y de las JONS"
- SPS_national_socialism_party:0 "FET y de las JONS"
+ SPS_despotism_party:0 "ТП"
+ SPS_despotism_party_long:0 "Традиционалистское причастие"
+ SPS_fascism_party:0 "ИФТ и ХОНС"
+ SPS_fascism_party_long:0 "ИФТ и ХОНС"
+ SPS_national_socialism_party:0 "ИФТ и ХОНС"
+ SPS_national_socialism_party:0 "ИФТ и ХОНС"
 
  #Country names 
  SPS_fascism:0 "Фалангистская Испания"
@@ -45,9 +45,9 @@
  SPS_ultranational_socialism_DEF:0 "Испанское Государство"
  SPS_ultranational_socialism_ADJ:0 "Испанск."
 
- SPS_GNS_district_national_socialism:0 "Distrito Militar Castelhano"
- SPS_GNS_district_national_socialism_DEF:0 "El Distrito Militar Castelhano"
- SPS_GNS_district_national_socialism_ADJ:0 "Castilian"
+ SPS_GNS_district_national_socialism:0 "Военный Округ Кастельхано"
+ SPS_GNS_district_national_socialism_DEF:0 "Военный Округ Кастельхано"
+ SPS_GNS_district_national_socialism_ADJ:0 "Кастильск."
  
  #Ministers
  POLITICS_JAIME_MILANS_BOSCH_DESC:0 "Родившийся в семье военного дворянина, Хайме Миланс дель Боск рано встал на путь своей жизни. Поступив в пехотную академию Толедо в 1934 году и сражаясь в качестве курсанта в Гражданской войне в Испании, он находился под влиянием милитаристской и фашистской идеологии. Он получил офицерское звание в Испанском иностранном легионе и фанатично служил в Голубой дивизии, сражаясь против Советского Союза под немецким командованием. После войны он не понимал, как Испания дистанцировалась от Германии, вступив в Союз с Португалией и образовав Триумвират с другими средиземноморскими державами. Он быстро начал презирать политическую ситуацию в Иберии и ругал всех, кому мог доверять, за то, что нынешний режим должен пойти в пользу более ориентированной на Германию фашистской Испании. Тем не менее, его скромное офицерское положение в значительной степени оставляло его опасения незамеченными. По мере ухудшения ситуации в Иберии и игнорирования его сомнений он начал еще больше радикализироваться.\n\nВосстание басков, однако, предоставило возможность. Захватив инициативу, он вместе с другими младшими офицерами возглавил успешный переворот в Вальядолиде, который быстро распространился по северной Испании с помощью ложной информации и пропаганды. Его новое движение стремится восстановить все испанские земли под жестким фалангистским правительством."

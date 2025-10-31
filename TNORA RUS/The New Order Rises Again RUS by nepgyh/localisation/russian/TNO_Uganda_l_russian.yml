@@ -1,20 +1,20 @@
 ﻿l_russian:
  ## Country Names ##
- UGD_despotism:0 "Государство Уганда"
- UGD_despotism_DEF:0 "Государство Уганда"
- UGD_despotism_ADJ:0 "Государство Уганда"
+ UGD_despotism:0 "Королевство Уганда"
+ UGD_despotism_DEF:0 "Королевство Уганда"
+ UGD_despotism_ADJ:0 "Угандийск."
  UGD_fascism:0 "Государство Уганда"
  UGD_fascism_DEF:0 "Государство Уганда"
- UGD_fascism_ADJ:0 "Государство Уганда"
+ UGD_fascism_ADJ:0 "Угандийск."
  UGD_ultranational_socialism:0 "Государство Уганда"
  UGD_ultranational_socialism_DEF:0 "Государство Уганда"
  UGD_ultranational_socialism_ADJ:0 "Государство Уганда"
  
  ####Party Names#####
 
- UGD_despotism_party:0 "Дом Абаласангая"
- UGD_despotism_party_long:0 "Дом Абаласангая"
- UGD_fascism_party:0 "ФНСУ"
+ UGD_despotism_party:0 "Династия Абаласангейе"
+ UGD_despotism_party_long:0 "Династия Абаласангейе"
+ UGD_fascism_party:0 "ФНОУ"
  UGD_fascism_party_long:0 "Фронт национального освобождения Уганды"
  UGD_ultranational_socialism_party:0 "НСОУ"
  UGD_ultranational_socialism_party_long:0 "Народные силы обороны Уганды"

@@ -1,9 +1,9 @@
 ﻿l_russian:
  ##Party Names
- POR_communist_party:0 "PCP"
- POR_communist_party_long:0 "Partido Comunista Português"
- POR_socialist_party:0 "CDE"
- POR_socialist_party_long:0 "Comissão Democrática Eleitoral"
+ POR_communist_party:0 "КПП"
+ POR_communist_party_long:0 "Коммунистическая Партия Португалии"
+ POR_socialist_party:0 "ДИК"
+ POR_socialist_party_long:0 "Демократическая избирательная комиссия"
  POR_social_democrat_party:0 "CEUD"
  POR_social_democrat_party_long:0 "Comissão Eleitoral de Unidade Democrática"
  POR_social_liberal_party:0 "ARS"
@@ -12,12 +12,12 @@
  POR_social_conservative_party_long:0 "Movimento Nacional Democrático"
  POR_authoritarian_democrat_party:0 "UN-R"
  POR_authoritarian_democrat_party_long:0 "União Nacional - Reformistas"
- POR_despotism_party:0 "UN-S"
- POR_despotism_party_long:0 "União Nacional - Salazaristas"
- POR_fascism_party:0 "UN-N"
- POR_fascism_party_long:0 "União Nacional - Nacionalistas"
- POR_national_socialism_party:0 "UN-NS"
- POR_national_socialism_party_long:0 "União Nacional - Nacional-Socialistas"
+ POR_despotism_party:0 "НС-С"
+ POR_despotism_party_long:0 "Национальный Союз - Салазариты"
+ POR_fascism_party:0 "НС-Н"
+ POR_fascism_party_long:0 "Национальный Союз - Националисты"
+ POR_national_socialism_party:0 "НС-НС"
+ POR_national_socialism_party_long:0 "Национальный Союз - Национал-Социалисты"
  POR_ultranational_socialism_party:0 "Filhos de Viriato"
  POR_ultranational_socialism_party_long:0 "Filhos de Viriato"
 
@@ -30,4 +30,4 @@
 
  POR_Ulisses_Cortes_eco:0 "Ulisses Cortes"
 
- POLITICS_ANTONIO_DE_OLIVEIRA_SALAZAR_WARS_DESC:0 "Было бы совершенно несправедливо умалять заслуги Антонио де Оливейру Салазара, лидера Португалии с 1932 года, нарекая его простым бюрократом-мыслителем. Придя к власти в Португалии за несколько лет до прихода к власти Франко в Испании, он вёл самостоятельную игру. Только под давлением Вермахта, захвативших Мозамбик и Анголу, он решил пойти на сделку со своим дьяволом. Когда Франко обратился к Салазару с предложением создать единую нацию под эгидой совместной безопасности, Салазар нехотя, но согласился, объединив в одно государство множество народов. Теперь Иберийский Союз, две страны, существуют в гармонии ради единого дела... так было на бумаге.\n\nВ самом же деле такой порядок довольно далёк от истины. Салазара прежде всего беспокоило благополучие Португалии. Желая защитить свою нацию от любого вреда, с другой стороны придерживаясь патологической одержимости на наложение вето по отношению к любой инициативе по укреплению уз меж двумя государствами, Салазар слыл как ярый противник чрезмерного сближения. Его паранойя по поводу "Spanish oppression of Portugal" led to many a confrontation with Franco himself, who saw him as one of many reasons why Iberia was likely to fall apart. With Franco's attempted passing of the "Law of Succession", meaning Portugal's absorption into Spain through the reinstallation of the monarchy after the deaths of the Caudillos, the divide between the two was firmly set. This was despite Salazar removing old shirt falangist elements who had attempted to stage a coup against the Union.\n\nYet it had not been Salazar's obstructionism which had led to the collapse of the Union. That blame could be entirely dropped at Franco's feet, for the Spanish dictator had failed to effectively deal with the Basque revolt. Salazar had fled Madrid for Lisbon soon after, declaring independence for the state of Portugal in an Iberia now torn apart by civil strife."
+ POLITICS_ANTONIO_DE_OLIVEIRA_SALAZAR_WARS_DESC:0 "Было бы совершенно несправедливо умалять заслуги Антонио де Оливейру Салазара, лидера Португалии с 1932 года, нарекая его простым бюрократом-мыслителем. Придя к власти в Португалии за несколько лет до прихода к власти Франко в Испании, он вёл самостоятельную игру. Только под давлением Вермахта, захвативших Мозамбик и Анголу, он решил пойти на сделку со своим дьяволом. Когда Франко обратился к Салазару с предложением создать единую нацию под эгидой совместной безопасности, Салазар нехотя, но согласился, объединив в одно государство множество народов. Теперь Иберийский Союз, две страны, существуют в гармонии ради единого дела... так было на бумаге.\n\nВ самом же деле такой порядок довольно далёк от истины. Салазара прежде всего беспокоило благополучие Португалии. Желая защитить свою нацию от любого вреда, с другой стороны придерживаясь патологической одержимости на наложение вето по отношению к любой инициативе по укреплению уз меж двумя государствами, Салазар слыл как ярый противник чрезмерного сближения. Его паранойя по поводу "Испанского превосходства над Португалией" привела ко многим конфликтам с Франко, что видел в этом человеке источник скорейшего развала Союза. С попыткой Франко принять "Закон о престолонаследии", означавший поглощение Португалии Испанией путём восстановления монархии после смерти Каудильо, между ними назрел разлад. Это случилось несмотря на все те меры, что принял Салазар против фалангистов, пытающихся разрушить Союз.\n\nИ всё же не философия Салазара привела к развалу. Эту вину нужно свалить на Франко, поскольку испанский Каудильо не смог рассправиться с Басским восстанием со всей эффективностью. Вскоре после этого Салазар сбежал из Мадрида в Лиссабон, провозгласив независимость Португалии от Иберии, раздираемой гражданской войной."

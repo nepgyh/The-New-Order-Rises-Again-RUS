@@ -32,10 +32,10 @@
  KOM_ultranational_socialism_ADJ:0 "югорск."
  
  ### Party Names ###
- KOM_communist_party:0 "ВКП(б)"
- KOM_communist_party_long:0 "Всесоюзная Коммунистическая Партия (большевиков)"
- KOM_socialist_party:0 "ВКП(б)"
- KOM_socialist_party_long:0 "Всесоюзная Коммунистическая Партия (большевиков)"
+ KOM_communist_party:0 "КПК(О)"
+ KOM_communist_party_long:0 "Коммунистическая партия Коми (Ортодоксалы)"
+ KOM_socialist_party:0 "КПК(Р)"
+ KOM_socialist_party_long:0 "Коммунистическая партия Коми (Реформисты)"
  KOM_social_democrat_party:0 "РНП"
  KOM_social_democrat_party_long:0 "Российская Народная Партия"
  KOM_social_liberal_party:0 "ПСД"
@@ -44,17 +44,17 @@
  KOM_social_conservative_party_long:0 "Партия Ненецкого Возрождения"
  KOM_authoritarian_democrat_party:0 "Воры в законе"
  KOM_authoritarian_democrat_party_long:0 "Воры в законе"
- KOM_despotism_party:0 "ОПЛ"
- KOM_despotism_party_long:0 "Общество Православных Людей"
- KOM_fascism_party:0 "РФП"
- KOM_fascism_party_long:0 "Российская Фашистская Партия"
- KOM_national_socialism_party:0 "РФП"
- KOM_national_socialism_party_long:0 "Российская Фашистская Партия"
+ KOM_despotism_party:0 "Пассионарии(Е)"
+ KOM_despotism_party_long:0 "Пассионарии-Евразийцы"
+ KOM_fascism_party:0 "Пассионарии"
+ KOM_fascism_party_long:0 "Пассионарии-Шовинисты"
+ KOM_national_socialism_party:0 "ОВРИ"
+ KOM_national_socialism_party_long:0 "Общество возрождения Российской империи"
  KOM_ultranational_socialism_party:0 "Черная Лига"
  KOM_ultranational_socialism_party_long:0 "Черная Лига"
  
  ### Leader Bios ###
- POLITICS_JABA_IOSELIANI_DESC:0 "При Бухарине северные АССР были усеяна лагерями для заключенных системы ГУЛАГа, где политические диссиденты, преступники и другие "undesirables" were pressed into harsh labor programs for the state's benefit. Even after the Union fell, the West Russian Revolutionary Front continued the practice, sending trainloads of convicts and prisoners of war to the camps and keeping a close eye on them through the Red Navy base in Vorkuta. It was into this system that Jaba Konstantinovich Ioseliani was sent. A Georgian university dropout who found bank robbery to be a far more lucrative career than academia, Ioseliani was arrested for trying to hold up a train that was evacuating the assets of a Moscow bank. A swift military tribunal found him guilty and threw him in the hold of the first ship headed to Vorkuta. He fell in the with Vory v zakone, the "thieves who make the law" that ran many gulags' criminal networks, and settled into a routine of backbreaking labor that would likely last for decades.\n\nBut as luck would have it, the Soviet Union collapsed several weeks later, and Vorkuta lost its lifeline. The prisoners divided into two groups: those who wanted to work with the guards to survive, and those who refused to break the thieves' code and be "suki." After some brief but bloody skirmishes, the collaborators fled into the Urals and Ioseliani helped organize a grand criminal exodus further inland, far away from the restless jailers of Vorkuta, which greatly improved his standing and got him a seat in the circle of Vory leaders representing their camps. As the West Russian Revolutionary front rose and fell far to the west, Ioseliani grew in influence until he was elected chairman of the circle. He also made several rather lucrative agreements with Dragunov and the arms dealers of Zlatoust, serving as a buffer against the remnants of the West Russians in exchange for arms and weapons. But there are those within the prison hierarchy view Ioseliani's agreement as betrayal of the Vory code, and his lack of ambition for conquest has some whispering about complacence and laziness..."
+ POLITICS_JABA_IOSELIANI_DESC:0 "При Бухарине северные АССР были усеяна лагерями для заключенных системы ГУЛАГа, где политические диссиденты, преступники и другие "неугодные" советской власти были вынуждены участвовать в суровых трудовых программах на благо государства. Даже после распада Союза Западнорусский Революционный Фронт продолжал эту практику, отправляя эшелоны с осужденными и военнопленными в лагеря и пристально следя за ними через базу Красного флота в Воркуте. Именно в эту систему был отправлен Джаба Константинович Иоселиани. Бросив театральное училище в Грузии и посчитав грабительство гораздо более прибыльным делом, чем работа артистом, Иоселиани был арестован за попытку задержать поезд, в котором были эвакуированы активы московского банка. Скорейший военный трибунал признал его виновным и бросил в трюм первого корабля, направлявшегося в Воркуту. Он попал туда за сговор с "Ворами в законе", испытывая каждодневный изнурительный труд, который, вероятно, продлился бы десятилетия.\n\nНо как назло спустя несколько недель его заключения Советский Союз распался, и Воркута лишилась поставок питания. Заключённые разделились на две группы: те, кто хотел работать с охранниками, чтобы выжить, и те, кто отказался нарушить воровской кодекс и стать "сукой". После коротких, но кровопролитных стычек группа заключенных бежала на Южный Урал, и Иоселиани был тем, кто помог организовать этот грандиозный исход вглубь страны. Это улучшило его положение и позволило ему занять место в кругу лидеров Воров, представляющих свои лагеря. По мере того, как Фронт поднимал голову и наступал на запад, влияние Иоселиани росло, пока его не избрали главным паханом. Став во главе криминального мира, он заключил несколько прибыльных соглашений с Драгуновым и его торговцами оружием. Но в Югре есть и те, кто рассматривает соглашение Иоселиани с оружейниками как предательство воровского кодекса, а его отсутствие амбиций к завоеванию вызывает некоторые шепотки о его отсутствии характера и лени..."
 
  POLITICS_IVAN_ISTOMIN_DESC:0 "Иван Григорьевич Истомин, уроженец Сибири, по чистой случайности стал руководителем военного государства в Уральском регионе. Будучи ненцем с корнями коми, он был ярким примером хорошего руководителя из коренных народов, и боролся за сохранение своего родного языка. Он преподавал это в школах, а позже даже стал писателем и распространял свои слова и идеи среди разоренного войной населения, никогда не участвуя в реальной политике.\n\nПозже, с приходом Уральской республики в качестве региональной державы, на некоторых территориях Западной Сибири образовался вакуум власти, которым златоустовские торговцы оружием воспользовались, установив в регионе свои государства-сателлиты. \n\nНа Крайнем Севере, месте, населенном туземцами, Истомин был воспринят руководством Златоуста как относительно популярный интеллектуал, который согласится занять позицию лидера Ненецкой Республики. Таким образом, он сможет воплотить мечту о родном и, прежде всего, демократическом государстве."
  

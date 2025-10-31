@@ -2,14 +2,14 @@
  ## Country Names ##
  NAM_socialist:0 "Республика Намибия"
  NAM_socialist_DEF:0 "Республика Намибия"
- NAM_socialist_ADJ:0 "Намбия"
+ NAM_socialist_ADJ:0 "Намибск"
  
  ####Party Names#####
 
- NAM_socialist_party:0 "SWAPO"
- NAM_socialist_party_long:0 "SudWestAfrikaner People's Organisation"
- NAM_national_socialist_party:0 "Generalbüro für Namibien Angelegenheiten"
- NAM_national_socialist_party_long:0 "Generalbüro für Namibien Angelegenheiten"
+ NAM_socialist_party:0 "СВАПО"
+ NAM_socialist_party_long:0 "Организация народов Юго-Западной Африки"
+ NAM_national_socialist_party:0 "Главуправление Намибии"
+ NAM_national_socialist_party_long:0 "Главуправление по делам Намибии"
 
  ## Ministers ##
  

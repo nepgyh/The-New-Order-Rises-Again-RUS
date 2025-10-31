@@ -2,11 +2,11 @@
 
 ### Хэллоуин — событие с зомби
 
-ZOMBIE_EASTEREGG_STATUS:0 "Хэллоуинское событие"
+ZOMBIE_EASTEREGG_STATUS:0 "£TNO_game_rule_flag_ZOM_zombie   Хэллоуинский ивент"
 RULE_OPTION_DEFAULT_ZOMBIES:0 "Отключено"
-RULE_OPTION_DEFAULT_ZOMBIES_DESC:0 "§GОтключить событие с мертвецами.§!"
-RULE_OPTION_ZOMBIES_ACTIVE:0 "§RРазорвать печать§!"
-RULE_OPTION_ZOMBIES_ACTIVE_DESC:0 "§RВключить событие с мертвецами.§!"
+RULE_OPTION_DEFAULT_ZOMBIES_DESC:0 "§GОтключить зомби события.§!"
+RULE_OPTION_ZOMBIES_ACTIVE:0 "§RСломать печати§!"
+RULE_OPTION_ZOMBIES_ACTIVE_DESC:0 "§RВключить зомби события (не переведено)§!"
 
 ### Дипломатические кризисы — Холодная война
 

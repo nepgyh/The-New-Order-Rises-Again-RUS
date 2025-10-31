@@ -1,10 +1,10 @@
 ﻿l_russian:
 
  ###PARTIES###
- ADL_communist_party:0 "PCA"
- ADL_communist_party_long:0 "Partido Comunista de Andalucía"
- ADL_socialist_party:0 "PA"
- ADL_socialist_party_long:0 "Partido Andalucista"
+ ADL_communist_party:0 "КПА"
+ ADL_communist_party_long:0 "Коммунистическая Партия Андалусии"
+ ADL_socialist_party:0 "ПА"
+ ADL_socialist_party_long:0 "Андалузская Партия"
  ADL_social_democrat_party:0 "PSOA"
  ADL_social_democrat_party_long:0 "Partido Socialista Obrero Andaluz"
  ADL_social_liberal_party:0 "PSLA"

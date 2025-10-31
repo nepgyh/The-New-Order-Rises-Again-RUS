@@ -3,8 +3,8 @@
  ###########
  ##Parties##
  ###########
- PAK_communist_party:0 "CPP"
- PAK_communist_party_long:0 "Communist Party of Pakistan"
+ PAK_communist_party:0 "КПП"
+ PAK_communist_party_long:0 "Коммунистическая партия Пакистана"
  PAK_social_democrat_party:0 "PPP"
  PAK_social_democrat_party_long:0 "Pakistan People's Party"
  PAK_social_liberal_party:0 "UOP"
@@ -13,39 +13,39 @@
  PAK_social_conservative_party_long:0 "Muslim League"
  PAK_authoritarian_democrat_party:0 "CML"
  PAK_authoritarian_democrat_party_long:0 "Combined Muslim League"
- PAK_despotism_party:0 "Razakars"
+ PAK_despotism_party:0 "Лойя-джирга"
  PAK_ultranational_socialism_party:0 "Mujahideen"
  
  ###########
  ##Faction##
  ###########
- AFG_PAK_Alliance:0 "Brotherhood of Islam"
+ AFG_PAK_Alliance:0 "Братство ислама"
  
  #####################
  ##Opinion Modifiers##
  #####################
- PAK_sent_aid:0 "Sent Aid"
- PAK_didnt_send_aid:0 "Refused to Send Aid"
- PAK_AFG_Brothers:0 "Afghan-Pakistani Unity"
- PAK_didnt_faction:0 "Ignored Islamic Unity"
- PAK_didnt_fund_razakars:0 "Refused to Fund Razakars"
- PAK_didnt_guarantee:0 "Refused to Guarantee Our Independence"
- PAK_AFG_Alliance_of_Gain:0 "An Alliance of Gain"
- PAK_AFG_Alliance_of_Respect:0 "An Alliance of Respect"
- PAK_AFG_The_Acronym_of_Pakistan:0 "The Acronym of Pakistan"
- PAK_AFG_didnt_give_land:0 "Refused to Return Our Rightful Territories"
+ PAK_sent_aid:0 "Послал помощь"
+ PAK_didnt_send_aid:0 "Отказался посылать помощь"
+ PAK_AFG_Brothers:0 "Афгано-пакистанское единство"
+ PAK_didnt_faction:0 "Игнорируемое исламское единство"
+ PAK_didnt_fund_razakars:0 "Отказался финансировать разакаров"
+ PAK_didnt_guarantee:0 "Отказался гарантировать нашу независимость"
+ PAK_AFG_Alliance_of_Gain:0 "Союз ради выгоды"
+ PAK_AFG_Alliance_of_Respect:0 "Союз уважения"
+ PAK_AFG_The_Acronym_of_Pakistan:0 "Аббревиатура Пакистана"
+ PAK_AFG_didnt_give_land:0 "Отказались вернуть наши законные территории"
  
  #################
  ##Country Flags##
  #################
- PAK_ICW_dem:0 "Democracy has been maintained"
- PAK_ICW_Ayub_Khan:0 "Mohammad Ayub Khan has taken over the government"
- PAK_AFG_didnt_give_land_flag:0 "Afghanistan failed to return our rightful territories"
+ PAK_ICW_dem:0 "Демократия была сохранена"
+ PAK_ICW_Ayub_Khan:0 "Мохаммад Аюб Хан возглавил правительство"
+ PAK_AFG_didnt_give_land_flag:0 "Афганистан не смог вернуть наши законные территории"
  
  ################
  ##Leader Descs##
  ################
- POLITICS_MAHMUD_AHMED_DESC:0 "Махмуд Ахмед не родился террористом. Он родился мусульманином в Лудхиане, в первые дни Республики Индия. Его детство было едва ли примечательным и ничем не отличалось от детства типичного мусульманского ребенка в Индии. Однако никто не рождается злодеем - или, если вы спросите тревожно большое число сторонников Ахмеда, героем.\n\nУ всех есть единое мнение о том, где Ахмед узнал о методах терроризма и других идеях во имя национального освобождения. По некоторым данным, он черпал вдохновение в тактике ИНА в индийской войне за независимость. По его словам, в детстве он был одарен аятом самого Аллаха, который сказал ему о необходимости джихада против индуистов. Он избежал призыва в армию, чтобы не служить индуистам, и бежал в горы через свободную границу. Именно здесь он исчез в горах и получил дальнейшие аяты от Величайшего.\n\nПрошло уже много лет с тех пор, как он исчез, и Ахмед вернулся, чтобы освободить свой народ. Сражаясь вместе со своими многочисленными последователями, он известен как аль-Азад, или "the Free" in Urdu. His plan is to oust the Hindu from the Land of the Pure at any cost, and to build a new Islamic state on the ashes of what will be burnt down. After years, centuries of oppression, the time has come for all Muslims of India to break the chains that bind them, in the name of Faith, Unity, and Discipline. And just as those great warriors of Islam fought against Christianity, Ahmed and the Mujahideen fight against the Hindu kafirs, and for the glory of Allah."
+ POLITICS_MAHMUD_AHMED_DESC:0 "Махмуд Ахмед не родился террористом. Он родился мусульманином в Лудхиане, в первые дни Республики Индия. Его детство было едва ли примечательным и ничем не отличалось от детства типичного мусульманского ребенка в Индии. Однако никто не рождается злодеем - или, если вы спросите тревожно большое число сторонников Ахмеда, героем.\n\nУ всех есть единое мнение о том, где Ахмед узнал о методах терроризма и других идеях во имя национального освобождения. По некоторым данным, он черпал вдохновение в тактике ИНА в индийской войне за независимость. По его словам, в детстве он был одарен аятом самого Аллаха, который сказал ему о необходимости джихада против индуистов. Он избежал призыва в армию, чтобы не служить индуистам, и бежал в горы через свободную границу. Именно здесь он исчез в горах и получил дальнейшие аяты от Величайшего.\n\nПрошло уже много лет с тех пор, как он исчез, и Ахмед вернулся, чтобы освободить свой народ. Сражаясь вместе со своими многочисленными последователями, он известен как аль-Азад, или "Свободный" на урду. Его план состоит в том, чтобы любой ценой изгнать индуистов с Земли Чистых и построить новое исламское государство на пепелище того, что будет сожжено. После многих лет, столетий угнетения пришло время всем мусульманам Индии разорвать цепи, которые их связывают, во имя Веры, Единства и Дисциплины. И точно так же, как великие воины ислама сражались против крестоносцев, так и Ахмед и его моджахеды сражаются против индуистских кафиров во славу Аллаха."
  
  #############
  ##Ministers##
@@ -81,7 +81,7 @@
  PAK_insurgency_cooldown_tt:0 "It has been more than 60 days since our last uprising"
  PAK_Rise_up_in_Indian_Lands_tt:0 "We will begin a popular uprising in our lands under occupation by [RAJ.GetNameDEF]."
  PAK_Rise_up_in_Afghan_Lands:0 "Rise up in Afghan Lands"
- PAK_Rise_up_in_Afghan_Lands_tt:0 "We will begin a popular uprising in our lands under occupation by [AFG.GetNameDEF].\n"
+ PAK_Rise_up_in_Afghan_Lands_tt:0 "We will begin a popular uprising in our lands under occupation by [AFG.GetNameDEF].\\n"
  PAK_PakistanInsurgency_MKF_loc:0 "Great Liberation War"
  PAK_PakistanInsurgency_Mujahideen_loc:0 "Pakistani Jihad"
  PAK_PakistanInsurgency_India_loc:0 "Pakistani Insurgency"

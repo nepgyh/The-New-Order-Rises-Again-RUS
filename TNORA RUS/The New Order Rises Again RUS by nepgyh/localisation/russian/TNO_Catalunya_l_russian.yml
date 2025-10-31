@@ -21,8 +21,8 @@
  CTL_despotism:0 "Государство Каталония"
  CTL_despotism_DEF:0 "Государство Каталония"
  CTL_despotism_ADJ:0 "Каталонск."
- CTL_communist:0 "Демократическая Народная Республика Каталония"
- CTL_communist_DEF:0 "Демократическая Народная Республика Каталония"
+ CTL_communist:0 "Народно-Демократическая Республика Каталония"
+ CTL_communist_DEF:0 "Народно-Демократическая Республика Каталония"
  CTL_communist_ADJ:0 "Каталонск."
  CTL_socialist:0 "Социалистическая Республика Каталония"
  CTL_socialist_DEF:0 "Социалистическая Республика Каталония"
@@ -34,9 +34,9 @@
  CTL_ultranational_socialism_DEF:0 "Каталонская Социальная Республика"
  CTL_ultranational_socialism_ADJ:0 "Каталонск."
 
- CTL_GNS_district_national_socialism:0 "Distrito Militar Mediterraneo"
- CTL_GNS_district_national_socialism_DEF:0 "El Distrito Militar Mediterraneo"
- CTL_GNS_district_national_socialism_ADJ:0 "Mediterranean"
+ CTL_GNS_district_national_socialism:0 "Средиземный военный округ"
+ CTL_GNS_district_national_socialism_DEF:0 "Средиземный военный округ"
+ CTL_GNS_district_national_socialism_ADJ:0 "Средиземноморск."
 
  #Ministers
  CTL_Jordi_Pujol_hog:0 "Jordi Pujol"
@@ -53,12 +53,12 @@
  CTL_social_democrat_party_long:0 "Esquerra Республикаana de Catalunya"
  CTL_authoritarian_democrat_party:0 "CC"
  CTL_authoritarian_democrat_party_long:0 "Conservadors de Catalunya"
- CTL_communist_party:0 "PSUC"
- CTL_communist_party_long:0 "Partit Socialista Unificat de Catalunya"
- CTL_socialist_party:0 "MSC"
- CTL_socialist_party_long:0 "Movimient Socialista de Catalunya"
- CTL_national_socialism_party:0 "AO"
- CTL_national_socialism_party_long:0 "Autoridades de Ocupaçao"
+ CTL_communist_party:0 "ОСПК"
+ CTL_communist_party_long:0 "Объединённая социалистическая партия Каталонии"
+ CTL_socialist_party:0 "СДК"
+ CTL_socialist_party_long:0 "Социалистическое движение Каталонии"
+ CTL_national_socialism_party:0 "ОА"
+ CTL_national_socialism_party_long:0 "Оккупационная администрация"
 
  #National Spirits 
  CTL_discontinued_government:0 "Правительство, лишенное права" # <<TRANSLATED>>

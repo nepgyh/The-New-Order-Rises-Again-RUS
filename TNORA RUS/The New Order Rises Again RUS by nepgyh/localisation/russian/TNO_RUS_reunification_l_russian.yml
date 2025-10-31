@@ -246,7 +246,7 @@
  RUS_increase_relations_with_nowa_polska:0 "Улучшить отношения с §RНова Польска§!"
  RUS_remove_nowa_polska_from_sphere:0 "Убрать §RНова Польска§! из сферы влияния оппонента"
  RUS_add_nowa_polska_to_sphere:0 "Включить §RНова Польску§! в нашу сферу влияния"
- RUS_integrate_nowa_polska:0 "Интегрировать §RНова Польску§!"Integrate §RNowa Polska§!"
+ RUS_integrate_nowa_polska:0 "Интегрировать §RНова Польску§!"
  RUS_intervene_in_nowa_polska:0 "Военное вторжение в §RНова Польску§!"
  RUS_discredit_opponent_in_nowa_polska:0 "Дискредитировать оппонента в §RНова Польска§!"
  RUS_decrease_opponent_influence_in_nowa_polska:0 "Ухудшить отношения оппонента с §RНова Польска§!"
@@ -312,7 +312,7 @@
  RUS_influence_hostile:0 "§Rвраждебный§!"
 
 
- RUS_REGIONAL_POLITICAL_TREE_DONE:0 "§YПолитическое древо§! завершено."
+ RUS_REGIONAL_POLITICAL_TREE_DONE:0 "Наши неотложные политические вопросы решены."
  RUS_unlock_race_to_urals_tt:0 "Разблокирует §Yрешения§! на расширение влияния на §YЮжном Урале§!.\n"
 
  far_east_war_with_csb:0 "Готовиться к войне"
@@ -537,7 +537,7 @@
  RUS_ERS_central_siberia_desc:0 "Мы контролируем все важные города Центральной Сибири. Теперь мы объявим всем, что Центральносибирская республика является маяком демократии и, что еще важнее, надеждой для всех русских."
  RUS_ERS_HUM_central_siberia:0 "Сформировать §YСибирское Содружество§!"
  RUS_ERS_HUM_central_siberia_desc:0 "Мы контролируем все важные города Центральной Сибири. Теперь мы объявим всем, что Сибирское Содружество является маяком демократии и, что еще важнее, надеждой для всех россиян."
- RUS_KEM_central_siberia:0 "СФормировать §YВеликое Княжество Среднесибирское§!"
+ RUS_KEM_central_siberia:0 "Сформировать §YВеликое Княжество Среднесибирское§!"
  RUS_KEM_central_siberia_desc:0 "Мы контролируем все важные города Центральной Сибири. Монархия Рюриковичей, теперь обладающая властью над всей Россией, была восстановлена, и мы объявим об этом всему миру!"
  RUS_KHA_central_siberia:0 "Сформировать §YСибирскую Вольную Территорию§!"
  RUS_SAH_central_siberia:0 "Сформировать §YСибирскую Республику§!"
@@ -724,7 +724,7 @@
  
  russia_unification.32.t:0 "Общественная поддержка объединения возрастает!"
  russia_unification.32.d:0 "Все больше и больше наших граждан стали высказывать мнение, что государствам [ROOT.GetName] и [From.GetNameDef] лучше стать единым целым. Мы будем смотреть на это растущее чувство с осторожностью, поскольку оно может как помочь нам, так и навредить."
- russia_unification.32.a:0 ""
+ russia_unification.32.a:0 ""Посмотрим, получится ли из этого что-нибудь."
 
  russia_unification.33.t:0 "Поддержка Объединения сильно увеличилась!"
  russia_unification.33.d:0 "Многие начинают одобрять идею о том, что государствам [ROOT.GetName] и [From.GetNameDef] стоит стремиться к объединению. Большая часть нашего населения сейчас открыто поддерживает эту идею - и мы должны будем внимательно следить за тем, куда ведет эта ситуация, если мы хотим воспользоваться этим фактом."
@@ -802,11 +802,11 @@
  russia_unification.49.a:0 "Нет ничего лучше, чем использовать деньги, чтобы делать деньги."
 
  russia_unification.50.t:0 "Государство [GetOtherRegionalName] отказалось от промышленной поддержки!"
- russia_unification.50.d:0 "Похоже, мы переоценили проблемы государства [GetOtherRegionalName] - или их упрямство. Всего час назад мы получили пренебрежительный ответ: [FROM.GetLeader] заявил, что страна не нуждается в наших, цитирую дословно, "petty workshops to do our bidding". Arrogant or not, the fact remains that our factories have lost a potentially lucrative customer; that, in itself, is lamentable."
+ russia_unification.50.d:0 "Похоже, мы переоценили проблемы государства [GetOtherRegionalName] - или их упрямство. Всего час назад мы получили пренебрежительный ответ: [FROM.GetLeader] заявил, что страна не нуждается в наших, цитирую дословно, "мелких мастерских, чтобы выполнять наши приказы". Высокомерно или нет, но факт остается фактом: наши заводы потеряли потенциально выгодного клиента, что само по себе прискорбно."
  russia_unification.50.a:0 "Авантюра наших министров провалилась."
 
  russia_unification.51.t:0 "Выбор моркови"
- russia_unification.51.d:0 "В попытке расположить нашего собрата к возможности мирного присоединения, наши советники предложили им концессию от нашей количественно и качественно превосходящей ресурсной базы.\n\nДля этого они сделали четыре предложения: во-первых, предоставить их лидеру "monetary assistance" in large enough qualities to overwhelm rational thought; second, supplying the warlord's factories with resources that can sustain their activities for years; third, supporting the warlord's researchers with schematics and equipment; and lastly, offering the warlord themselves, and their clique, an important place in [ROOT.GetName]'s government.\n\nWhich shall [ROOT.GetLeader] choose?"
+ russia_unification.51.d:0 "В попытке расположить нашего собрата к возможности мирного присоединения, наши советники предложили им концессию от нашей количественно и качественно превосходящей ресурсной базы.\n\nДля этого они сделали четыре предложения: во-первых, предоставить их лидеру "денежную помощь" в достаточно больших количествах, чтобы подавить рациональное мышление; во-вторых, снабдить его фабрики ресурсами, которые могут поддерживать их деятельность в течение многих лет; в-третьих, поддержать исследователей схемами и оборудованием; и, наконец, предложить его клике важное место в в нашем правительстве.\n\nЧто же нам выбрать?"
  russia_unification.51.a:0 "Взятка это старый испытанный трюк."
  russia_unification.51.b:0 "Мы купим их промышленников"
  russia_unification.51.c:0 "Наука будет развиваться беспрепятственно даже в разделенной России!"
@@ -822,7 +822,7 @@
  russia_unification.53.a:0 "Их казначеи сделали мудрый выбор."
 
  russia_unification.54.t:0 "Государство [GetOtherRegionalName] отвергает финансовую помощь!"
- russia_unification.54.d:0 "Лидеры государства [GetOtherRegionalName] сделали идиотский выбор, отказавшись от нашей денежной помощи, осудив ее как "bribery and distinctively un-Russian."" This is an affront to us, and relations between our two nations has decreased, with them hurling insults and stating that they "will not sell out Russia's freedom for honeyed words and petty cash.""
+ russia_unification.54.d:0 "Лидеры государства [GetOtherRegionalName] сделали идиотский выбор, отказавшись от нашей денежной помощи, осудив ее как "взятку". Это оскорбление для нас и отношения между нашими двумя народами ухудшились, а они бросают оскорбления и заявляют, что не продадут свободу России за сладкие слова и мелкие деньги."
  russia_unification.54.a:0 "Стыдно."
 
  russia_unification.55.t:0 "Государство [GetOtherRegionalName] предлагает ресурсы!"
@@ -835,7 +835,7 @@
  russia_unification.56.a:0 "Их капитаны промышленности сделали мудрый выбор."
 
  russia_unification.57.t:0 "Государство [GetOtherRegionalName] отвергает ресурсы!"
- russia_unification.57.d:0 "Наше предложение ресурсов вернулось, поскольку государство [GetOtherRegionalName]отказывается от него! В пространном заявлении нашим эмиссарам и нашему правительству они заявили, что им "need nothing of the sort from us" and that their factories need nothing as they are "richer in resources than we are in character." They have further stated they will "not be accepting our bribes", and our relationship has taken a large hit. We will remember their affront."
+ russia_unification.57.d:0 "Наше предложение ресурсов вернулось, поскольку государство [GetOtherRegionalName]отказывается от него! В пространном заявлении нашим эмиссарам и нашему правительству они заявили, что им "ничего подобного от нас не нужно" и что их заводы ни в чем не нуждаются, поскольку они "богаче ресурсами, чем мы добродетелями". Они также заявили, что "не будут принимать наши взятки", и наши отношения сильно пострадали. Мы будем помнить об их оскорблении."
  russia_unification.57.a:0 "Глупая ошибка, за которую заплатит их промышленность."
 
  russia_unification.58.t:0 "Государство [GetOtherRegionalName] предлагает исследовательское соглашение!"
@@ -861,7 +861,7 @@
  russia_unification.62.a:0 "Наши новые лучшие друзья сделали мудрый выбор."
 
  russia_unification.63.t:0 "Государство [GetOtherRegionalName] отвергает предложение!"
- russia_unification.63.d:0 "В конечном счете наши коллеги в государстве [GetOtherRegionalName] отказались принять должности в новом едином государстве. У них не было "no desire to sacrifice their sovereignty at the altar of improving ties". We have made no progress in this area of diplomacy and remain as apart as ever."
+ russia_unification.63.d:0 "В конечном счете наши коллеги в государстве [GetOtherRegionalName] отказались принять должности в новом едином государстве. У них не было "никакого желания жертвовать своим суверенитетом на алтарь улучшения связей". Мы не добились никакого прогресса в этой области дипломатии и по-прежнему остаемся в стороне."
  russia_unification.63.a:0 "Мы не будем просить их во второй раз."
 
  russia_unification.64.t:0 "Конференция по вопросу объединения"
@@ -1040,11 +1040,11 @@
  russia_unification.149.a:0 "Нет ничего лучше, чем использовать деньги, чтобы делать деньги."
 
  russia_unification.150.t:0 "Государство [GetOtherRegionalName] отвергает промышленную поддержку!"
- russia_unification.150.d:0 "Похоже, мы переоценили проблемы государства [GetOtherRegionalName] - или их упрямство. Всего час назад мы получили пренебрежительный ответ: [FROM.GetLeader] заявил, что страна не нуждается в наших, цитирую дословно, "petty workshops to do our bidding". Arrogant or not, the fact remains that our factories have lost a potentially lucrative customer; that, in itself, is lamentable."
+ russia_unification.150.d:0 "Похоже, мы переоценили проблемы государства [GetOtherRegionalName] - или их упрямство. Всего час назад мы получили пренебрежительный ответ: [FROM.GetLeader] заявил, что страна не нуждается в наших, цитирую дословно, "мелких мастерских, чтобы выполнять наши приказы". Высокомерно или нет, но факт остается фактом: наши заводы потеряли потенциально выгодного клиента, что само по себе прискорбно."
  russia_unification.150.a:0 "Авантюра наших министров провалилась."
 
  russia_unification.151.t:0 "Выбор моркови"
- russia_unification.151.d:0 "В попытке расположить нашего собрата к возможности мирного присоединения, наши советники предложили им концессию от нашей количественно и качественно превосходящей ресурсной базы.\n\nДля этого они сделали четыре предложения: во-первых, предоставить их лидеру "monetary assistance" in large enough qualities to overwhelm rational thought; second, supplying the warlord's factories with resources that can sustain their activities for years; third, supporting the warlord's researchers with schematics and equipment; and lastly, offering the warlord themselves, and their clique, an important place in [ROOT.GetName]'s government.\n\nWhich shall [ROOT.GetLeader] choose?"
+ russia_unification.151.d:0 "В попытке расположить нашего собрата к возможности мирного присоединения, наши советники предложили им концессию от нашей количественно и качественно превосходящей ресурсной базы.\n\nДля этого они сделали четыре предложения: во-первых, предоставить их лидеру "денежную помощь" в достаточно больших количествах, чтобы подавить рациональное мышление; во-вторых, снабдить его фабрики ресурсами, которые могут поддерживать их деятельность в течение многих лет; в-третьих, поддержать исследователей схемами и оборудованием; и, наконец, предложить его клике важное место в в нашем правительстве.\n\nЧто же нам выбрать?"
  russia_unification.151.a:0 "Взятка это старый испытанный трюк."
  russia_unification.151.b:0 "Мы купим их промышленников"
  russia_unification.151.c:0 "Наука будет развиваться беспрепятственно даже в разделенной России!"
@@ -1060,7 +1060,7 @@
  russia_unification.153.a:0 "Их казначеи сделали мудрый выбор."
 
  russia_unification.154.t:0 "Государство [GetOtherRegionalName] отвергает финансовую помощь!"
- russia_unification.154.d:0 "Лидеры государства [GetOtherRegionalName] сделали идиотский выбор, отказавшись от нашей денежной помощи, осудив ее как "bribery and distinctively un-Russian."" This is an affront to us, and relations between our two nations has decreased, with them hurling insults and stating that they "will not sell out Russia's freedom for honeyed words and petty cash.""
+ russia_unification.154.d:0 "Лидеры государства [GetOtherRegionalName] сделали идиотский выбор, отказавшись от нашей денежной помощи, осудив ее как "взятку". Это стало для нас пощечиной и отношения между нашими двумя народами ухудшились. Теперь они бросаются оскорблениями и заявляют, что "не продадут свободу России за сладкие слова и мелкие деньги"."
  russia_unification.154.a:0 "Стыдно."
 
  russia_unification.155.t:0 "Государство [GetOtherRegionalName] предлагает ресурсы!"
@@ -1073,7 +1073,7 @@
  russia_unification.156.a:0 "Их капитаны промышленности сделали мудрый выбор."
 
  russia_unification.157.t:0 "Государство [GetOtherRegionalName] отвергает ресурсы!"
- russia_unification.157.d:0 "Наше предложение ресурсов вернулось, поскольку государство [GetOtherRegionalName]отказывается от него! В пространном заявлении нашим эмиссарам и нашему правительству они заявили, что им "need nothing of the sort from us" and that their factories need nothing as they are "richer in resources than we are in character." They have further stated they will "not be accepting our bribes," and our relationship has taken a large hit. We will remember their affront."
+ russia_unification.157.d:0 "Наше предложение ресурсов вернулось, поскольку государство [GetOtherRegionalName]отказывается от него! В пространном заявлении нашим эмиссарам и нашему правительству они заявили, что им "ничего подобного от нас не нужно" и что их заводы ни в чем не нуждаются, поскольку они "богаче ресурсами, чем мы добродетелями". Они также заявили, что "не будут принимать наши взятки", и наши отношения сильно пострадали. Мы будем помнить об их оскорблении."
  russia_unification.157.a:0 "Глупая ошибка, за которую заплатит их промышленность."
 
  russia_unification.158.t:0 "Государство [GetOtherRegionalName] предлагает исследовательское соглашение!"
@@ -1099,7 +1099,7 @@
  russia_unification.162.a:0 "Наши новые лучшие друзья сделали мудрый выбор."
 
  russia_unification.163.t:0 "Государство [GetOtherRegionalName] отвергает предложение!"
- russia_unification.163.d:0 "В конечном счете наши коллеги в государстве [GetOtherRegionalName] отказались принять должности в новом едином государстве. У них не было "no desire to sacrifice their sovereignty at the altar of improving ties". We have made no progress in this area of diplomacy and remain as apart as ever."
+ russia_unification.163.d:0 "В конечном счете наши коллеги в государстве [GetOtherRegionalName] отказались принять должности в новом едином государстве. У них не было "никакого желания жертвовать своим суверенитетом на алтарь улучшения связей". Мы не добились никакого прогресса в этой области дипломатии и по-прежнему остаемся в стороне."
  russia_unification.163.a:0 "Мы не будем просить их во второй раз."
 
  russia_unification.164.t:0 "Конференция по вопросу объединения"

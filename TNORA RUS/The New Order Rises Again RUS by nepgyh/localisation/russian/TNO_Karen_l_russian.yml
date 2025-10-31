@@ -7,8 +7,8 @@
 # KAR_social_democrat_party:0 "Karen National Union" #duplicate loc key
  KAR_social_liberal_party:0 "NMSP"
  KAR_social_liberal_party_long:0 "New Mon State Party"
- KAR_fascism_party:0 "DSA"
- KAR_fascism_party_long:0 "Dobama-Sinyetha Asiayone"
+ KAR_fascism_party:0 "Блок "Свобода""
+ KAR_fascism_party_long:0 "Блок "Свобода""
  
  ################
  ##Leader Descs##

@@ -28,10 +28,10 @@
  CAO_economic_reform_finished_desc:0 "While the road has been long and hard we have finally been able to finish our economic reforms. The next matter at hand is the military which is in urgent need of reformation."
 
  ### Parties ###
- CAO_communist_party:0 "PLA-R"
- CAO_communist_party_long:0 "Parti de la Libération Africaine - Radicals"
- CAO_socialist_party:0 "PLA-N"
- CAO_socialist_party_long:0 "Parti de la Libération Africaine - Nyobe's Faction"
+ CAO_communist_party:0 "ПОА-Р"
+ CAO_communist_party_long:0 "Партия Освобождения Африки - Радикалы"
+ CAO_socialist_party:0 "ПОА"
+ CAO_socialist_party_long:0 "Партия Освобождения Африки"
  CAO_social_democrat_party:0 "UPC"
  CAO_social_democrat_party_long:0 "Union des Populations du Cameroun"
  CAO_social_liberal_party:0 "PLC"
@@ -40,10 +40,10 @@
  CAO_social_conservative_party_long:0 "Parti des Démocrates Camerounais"
  CAO_authoritarian_democrat_party:0 "RDPC"
  CAO_authoritarian_democrat_party_long:0 "Rassemblement Démocratique du Peuple Camerounais"
- CAO_despotism_party:0 "PLA-M"
- CAO_despotism_party_long:0 "Parti de la Libération Africaine - Moumié's Faction"
- CAO_fascism_party:0 "PLA-NM"
- CAO_fascism_party_long:0 "Parti de la Libération Africaine - Nouveau Movement"
+ CAO_despotism_party:0 "ПОА"
+ CAO_despotism_party_long:0 "Партия Освобождения Африки"
+ CAO_fascism_party:0 "ПОА-НН"
+ CAO_fascism_party_long:0 "Партия Освобождения Африки - Новое Направление"
  CAO_national_socialism_party:0 "-"
  CAO_national_socialism_party_long:0 "-"
  CAO_ultranational_socialism_party:0 "PLA-NM-R"
@@ -51,14 +51,14 @@
 
 
 ### Ideas ###
- CAO_ACA:0 "African Continental Army"
- CAO_idea_pan_african_vanguard:0 "Pan-African Vanguard"
- CAO_idea_tense_borders:0 "Tense Borders"
- CAO_idea_political_rivalries:0 "Political Rivalries"
+ CAO_ACA:0 "Африканская континентальная армия"
+ CAO_idea_pan_african_vanguard:0 "Авангард Пан-африканизма"
+ CAO_idea_tense_borders:0 "Напряжение на границах"
+ CAO_idea_political_rivalries:0 "Политическое соперничество"
 
- CAO_ACA_desc:0 "The African Continental Army began as an army-in-exile in the United States. Equipped and trained by the Japanese secret service, the Army first returned to the continent under direction of Kwame Ture and Osedne Afana in Summer 1951. Since then, it has become the key organ of the Cameroon African State. It is primarily made up of veterans and returned exiles from the past conflicts plauging the region, but has recently begun recruiting locally. As such, leadership and doctrinal disputes plague the otherwise well-trained and well-equipped African Continental Army."
- CAO_ECON:0 "Reformed Economy"
- CAO_ECON_DESC:0 "After completing the reforms our economy so desperately needed we have been able to achieve new heights in the area of industrial production."
+ CAO_ACA_desc:0 "AКA хорошо показала себя во время кризиса в Центральной Африке в 1950-х годах, когда она зарекомендовала себя как мощная боевая сила. Те славные дни прошли, и теперь она представляет собой нагромождение различных формирований, у которых во главе беспорядочное командование, а используют они устаревшую технику. При этом всё это связано лишь неэффективной командной структурой. Армия явно перегружена и быстро стареет, теряя свою актуальность среди колониальных сил в регионе."
+ CAO_ECON:0 "Реформированная экономика"
+ CAO_ECON_DESC:0 "После завершения реформ, в которых так отчаянно нуждалась наша экономика, мы смогли достичь новых высот в области промышленного производства."
 
  ### Events ###
  CAO.1.t:0 "Африканское государство Камерун: Часть 1"
@@ -66,7 +66,7 @@
  CAO.1.a:0 "Хорошо"
 
  CAO.2.t:0 "Африканское государство Камерун: Часть 2"
- CAO.2.desc:0 "Хоть Ньобе и был полностью предан Камеруну и его народу, его вера в неэффективную философию коммунизма погубила его. Правительство Западноафриканского Союза оказалось бессильным, против командиров народного ополчения, которые фактически стали полевыми командирами, грабящими крестьян. Сам Ньобе был убит одним из военачальников, после отказа давать разрешение на продажу детей в рабство. После утери своего харизматичного лидера, в Союзе начался коллапс. Страна была разорена и разрушена, люди бежали из Камеруна спасаясь от бесконечного насилия, но спасение пришло оттуда, откуда его не ждали.\n\nВрач Феликс Ролан Мумие понял, что нужно что-то делать после увиденной им анархии, которая поглотила его родину. Через какое-то время он присоединился к националистическому движению, известному под названием "
+ CAO.2.desc:0 "Хоть Ньобе и был полностью предан Камеруну и его народу, его вера в неэффективную философию коммунизма погубила его. Правительство Западноафриканского Союза оказалось бессильным, против командиров народного ополчения, которые фактически стали полевыми командирами, грабящими крестьян. Сам Ньобе был убит одним из военачальников, после отказа давать разрешение на продажу детей в рабство. После утери своего харизматичного лидера, в Союзе начался коллапс. Страна была разорена и разрушена, люди бежали из Камеруна спасаясь от бесконечного насилия, но спасение пришло оттуда, откуда его не ждали.\n\nВрач Феликс Ролан Мумие понял, что нужно что-то делать после увиденной им анархии, которая поглотила его родину. Через какое-то время он присоединился к националистическому движению, известному под названием "Национально-Африканское Освобождение". Японские агенты, пытаясь пошатнуть влияние Германии в Африке, связались с ним и предложили проспонсировать его возвращение в Камерун, что бы он создал буферное государство на пути Германии. Осенде Афане организовал Африканскую Континентальную Армию, дабы освободить свою родину. После короткой спонсируемой японцами программы обучения, Афане отправился в Камерун вместе со своей армией, и отбил власть у захвативших ее полевых командиров.\n\nПосле установления полного контроля над Камеруном, АКА направилась в сторону немецких колоний, вторгнувшись в Немецкую Центральную Африку. К сожалению, Люфтваффе без потерь наносило авиаудары по АКА, даже после разгрома немецких сухопутных формирований. В начавшихся мирных переговорах между Германией и АКА посредниками выступили Японцы, в следствии чего бассейн реки Конго был передан Иберийскому Союзу. После короткой войны, неэффективная военная хунта рухнула, и Африканское государство Камерун вновь появилось на карте. Теперь Камерун смотрит на Африку в стремлении продолжить ее освобождение."
  CAO.2.a:0 "Скоро вся Африка будет объединена"
 
  CAO.3.t:0 "Экспедиция"

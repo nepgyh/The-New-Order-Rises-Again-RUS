@@ -36,7 +36,7 @@ medium_economy:0 "WIP" #Medium Economy WIP!!!
 bad_economy:0 "WIP" #Bad Economy WIP!!!
 bust_economy:0 "WIP" #Bust Economy WIP!!!
 crash_economy:0 "WIP" #Crash Economy WIP!!!
-economic_health:0 "Экономика" #Economic Health WIP!!!
+economic_health:0 "Work in progress, don't worry about this" #Economic Health WIP!!!
 
 ### Stability Events ###
 kr.political.1.t:0 "Downfall in Stability!"

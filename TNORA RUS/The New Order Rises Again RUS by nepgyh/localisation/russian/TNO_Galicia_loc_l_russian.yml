@@ -1,9 +1,9 @@
 ﻿l_russian:
 
- GAL_communist_party:0 "PCG"
- GAL_communist_party_long:0 "Partido Comunista de Galicia"
- GAL_socialist_party:0 "ANPG"
- GAL_socialist_party_long:0 "Asemblea Nacional-Popular Galega"
+ GAL_communist_party:0 "КПГ"
+ GAL_communist_party_long:0 "Коммунистическая партия Галисии"
+ GAL_socialist_party:0 "ГННС"
+ GAL_socialist_party_long:0 "Галисийское национально-народное Собрание"
  GAL_social_democrat_party:0 "PSdeG"
  GAL_social_democrat_party_long:0 "Partido dos Socialistas de Galicia"
  GAL_social_liberal_party:0 "PG"

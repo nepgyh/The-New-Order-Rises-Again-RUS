@@ -1,7 +1,7 @@
 ﻿l_russian:
  #Country names 
- RIF_fascism:0 "Rif Republic"
- RIF_fascism_DEF:0 "The Rif Republic"
+ RIF_fascism:0 "Рифская Республика"
+ RIF_fascism_DEF:0 "Рифская Республика"
  RIF_social_liberal:0 "Rif Republic"
  RIF_social_liberal_DEF:0 "The Rif Republic"
  RIF_market_liberal:0 "Rif Republic"
@@ -10,14 +10,14 @@
  RIF_social_conservative_DEF:0 "The Rif Republic"
  RIF_authoritarian_democrat:0 "Rif Republic"
  RIF_authoritarian_democrat_DEF:0 "The Rif Republic"
- RIF_despotism:0 "Rif Republic"
- RIF_despotism_DEF:0 "The Rif Republic"
- RIF_communist:0 "Rif Republic"
- RIF_communist_DEF:0 "The Rif Republic"
- RIF_socialist:0 "Rif Republic"
- RIF_socialist_DEF:0 "The Rif Republic"
- RIF_national_socialism:0 "Rif Republic"
- RIF_national_socialism_DEF:0 "The Rif Republic"
+ RIF_despotism:0 "Рифская Республика"
+ RIF_despotism_DEF:0 "Рифская Республика"
+ RIF_communist:0 "Рифская Республика"
+ RIF_communist_DEF:0 "Рифская Республика"
+ RIF_socialist:0 "Рифская Республика"
+ RIF_socialist_DEF:0 "Рифская Республика"
+ RIF_national_socialism:0 "Рифская Республика"
+ RIF_national_socialism_DEF:0 "Рифская Республика"
  RIF_ultranational_socialism:0 "Rif Republic"
  RIF_ultranational_socialism_DEF:0 "The Rif Republic"
 #Parties 
@@ -27,10 +27,10 @@
  RIF_social_conservative_party_long:0 "Hizb Alaistiqlal"
  RIF_social_democrat_party:0 "AALA" #National Union of Popular Forces
  RIF_social_democrat_party_long:0 "Alaitihad Alwataniu Lilquaa Alshaebia"
- RIF_communist_party:0 "HAW" #Moroccan Communist Party (had several names)
- RIF_communist_party_long:0 "Hizb Altahrir Walaishitirakia"
- RIF_socialist_party:0 "AALA" #National Union of Popular Forces
- RIF_socialist_party_long:0 "Alaitihad Alwataniu Lilquaa Alshaebia"
+ RIF_communist_party:0 "ХАВ" #Moroccan Communist Party (had several names)
+ RIF_communist_party_long:0 "Хизб Аль-тахрир Валаишитиракия"
+ RIF_socialist_party:0 "ААЛА" #National Union of Popular Forces
+ RIF_socialist_party_long:0 "Аль-итихад Аль-ватани Лилкуа Аль-шебиа"
  RIF_authoritarian_democrat_party:0 "AAA" #National High Command
  RIF_authoritarian_democrat_party_long:0 "Alqiadat Aleulya Alwatania"
 
@@ -39,7 +39,7 @@
  RIF_Abdelhadi_Boutaleb_for:0 "Abdelhadi Boutaleb"
  RIF_Abderrahim_Bouabid_eco:0 "Abderrahim Bouabid"
  RIF_Ahmed_Marzouki_mil:0 "Ahmed Marzouki"
- POLITICS_MOHAMED_CHOUKRI_DESC:0 "Мохаммед Шукри никогда не ставил себя на место политика, предпочитая заниматься писательством и преподаванием. Однако из-за волны хаоса, волнами исходившим от Иберии, он оказался на месте главы Рифской Республики. Родившийся в голодную пору, деструктивной семье с тираном-отцом, Шукри познал что такое борьба, претерпевая лишения и наблюдая ужасные вещи, будь то наркомания, проституция и нищета. Он подробно описал это в своей книге. Его магнум опус, "For Bread Alone", was an autobiographical account of his childhood detailing his struggle and its visceral detail showcased the determination and strength of Choukri's character to the people he now intends to lead. Having only become literate in his 20s, Choukri has travelled far in a very short amount of time and it remains to be seen how much further he will be able to go.\n\nChoukri's upbringing resonates not only with many of the people in the Rif, but all of Morocco itself where they see the lavish life of the Alaouites juxtaposed with their own poverty stricken existence. Despite this, his experience with drug abuse and prostitution has led to uproar from the more zealous of the imams and the general populace. Now, standing as the figurehead of the Rif Republic, Choukri aims to establish democracy in all of Morocco and to prevent any child from going through the dread he experienced in his youth, but whether this is possible relies on his ability to balance the variety of political parties that vie for power within the young republic and whether he can garner the  public support necessary to raise the armies needed to fight that despot, Hassan II."
+ POLITICS_MOHAMED_CHOUKRI_DESC:0 "Мохаммед Шукри никогда не ставил себя на место политика, предпочитая заниматься писательством и преподаванием. Однако из-за волны хаоса, волнами исходившим от Иберии, он оказался на месте главы Рифской Республики. Родившийся в голодную пору, деструктивной семье с тираном-отцом, Шукри познал что такое борьба, претерпевая лишения и наблюдая ужасные вещи, будь то наркомания, проституция и нищета. Он подробно описал это в своей книге. Его магнум опус, "Голый хлеб" - это автобиографический рассказ о его детстве с подробным описанием той самой борьбы, и она продемонстрировала силу и характер Шукри всем тем людям, которыми он намерен руководить. Обретя грамоту только к двадцати годам, Шукри очень быстро показал прогресс в писательской стезе, и он до сих пор не достиг потолка.\n\nПуть Шукри находит отклик не только у жителей Республики, но и во всём Марокко в контрасте с шикарным образом жизни, что ведут Алауиты на фоне нищенствующего населения. Однако опыт борьбы Шукри с проституцией и наркоманией вызвал возмущение среди наиболее ревностных имамов и широких слоёв населения. Отныне, выступая в качестве номинального главы Рифской республики, Шукри стремится установить демократию во всём Марокко и не допустить, чтобы следующие поколения детей испытали тот же ужас и лишения, что он испытал в юности. Успех зависит от того, насколько грациозно Мохаммед сможет лавировать между разными политическими силами, борющимися за власть в молодой республике, и сможет ли он заручиться мнением общественности для создания сильной армии, которая низвергнет Хассана II."
 
 
  #National Spirits 

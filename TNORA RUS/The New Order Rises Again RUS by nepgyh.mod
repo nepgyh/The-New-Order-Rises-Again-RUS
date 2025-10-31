@@ -1,10 +1,10 @@
-version="0.1337"
+version="0.1488"
 tags={
 	"Translation"
 }
 name="The New Order: Rises Again — Русификатор by nepgyh"
-supported_version="1.16.*"
 dependencies={
 	"The New Order: Rises Again"
 }
-path="mod/The New Order Rises Again RUS by nepgyh/"
+supported_version="1.16.*"
+path="D:/Paradox Interactive/Hearts of Iron IV/mod/The New Order Rises Again RUS by nepgyh"

@@ -2,11 +2,11 @@
  ## Country Names ##
  RWA_despotism:0 "Королевство Руанда"
  RWA_despotism_DEF:0 "Королевство Руанда"
- RWA_despotism_ADJ:0 "Руандийский"
+ RWA_despotism_ADJ:0 "Руандск."
 
  RWA_fascism:0 "Республика Руанда"
  RWA_fascism_DEF:0 "Республика Руанда"
- RWA_fascism_ADJ:0 "Руандийский"
+ RWA_fascism_ADJ:0 "Руандск."
 
  RWA_ultranational_socialism:0 "Республика Руанда"
  RWA_ultranational_socialism_DEF:0 "Республика Руанда"
@@ -18,15 +18,15 @@
  
  ####Party Names#####
 
- RWA_despotism_party:0 "Дом Абаныгиньи"
- RWA_despotism_party_long:0 "Дом Абаныгиньи"
+ RWA_despotism_party:0 "Династия Абаньигиньи"
+ RWA_despotism_party_long:0 "Династия Абаньигиньи"
 
  ## Ministers ##
  
- RWA_Dominique_Mbonyumutwa_hog:0 "Dominique Mbonyumutwa"
- RWA_Sylvestre_Nsanzimana_for:0 "Sylvestre Nsanzimana"
- RWA_Gregoire_Kayibanda_eco:0 "Grégoire Kayibanda"
- RWA_Juvenal_Habyarimana_sec:0 "Juvénal Habyarimana"
+ RWA_Dominique_Mbonyumutwa_hog:0 "Глава правительства\nЛиберализм\n--------------\n§L"
+ RWA_Sylvestre_Nsanzimana_for:0 "Министр иностранных дел\nПатернализм\n--------------\n§L"
+ RWA_Gregoire_Kayibanda_eco:0 "Министр экономики\nФашизм\n--------------\n§L"
+ RWA_Juvenal_Habyarimana_sec:0 "Министр безопасности\nФашизм\n--------------\n§L"
 
  ## Ideas ##
  

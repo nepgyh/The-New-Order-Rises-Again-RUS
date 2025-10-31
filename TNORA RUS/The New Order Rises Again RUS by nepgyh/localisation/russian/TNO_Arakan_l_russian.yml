@@ -3,15 +3,15 @@
  ###########
  ##Parties##
  ###########
- ARA_communist_party:0 "CPA"
- ARA_communist_party_long:0 "Communist Party of Arakan"
+ ARA_communist_party:0 "КПА"
+ ARA_communist_party_long:0 "Коммунистическая партия Аракана"
  ARA_social_democrat_party:0 "KNU"
  ARA_social_democrat_party_long:0 "Karen National Union"
  ARA_social_liberal_party:0 "ALA"
  ARA_social_liberal_party_long:0 "Arakan Liberation Army"
- ARA_fascism_party:0 "DSA"
- ARA_fascism_party_long:0 "Dobama-Sinyetha Asiayone"
- ARA_national_socialism_party:0 "Rohingya Mujahideen"
+ ARA_fascism_party:0 "ДСА"
+ ARA_fascism_party_long:0 "Добама-Синьета Асиайоне"
+ ARA_national_socialism_party:0 "Моджахеды Рохинджа"
  ARA_market_liberal_party:0 "IAPG"
  ARA_market_liberal_party_long:0 "Independent Arakanese Parliamentary Group"
 

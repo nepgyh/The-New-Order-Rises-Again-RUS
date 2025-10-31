@@ -30,10 +30,10 @@
 # BKF_ultranational_socialism_ADJ:0 "Mossi" #duplicate loc key
 # BKF_national_socialism_ADJ:0 "Mossi" #duplicate loc key
 
- BKF_communist_party:0 "ROC"
- BKF_communist_party_long:0 "Regroupement des Officiers communistes"
- BKF_socialist_party:0 "PDP"
- BKF_socialist_party_long:0 "Party for Democracy and Progress"
+ BKF_communist_party:0 "ГОК"
+ BKF_communist_party_long:0 "Группировка офицеров-коммунистов"
+ BKF_socialist_party:0 "ПЗДП"
+ BKF_socialist_party_long:0 "Партия За демократию и прогресс"
  BKF_social_democrat_party:0 "ADR"
  BKF_social_democrat_party_long:0 "African Democratic Rally"
  BKF_social_liberal_party:0 "ADR"
@@ -42,16 +42,16 @@
  BKF_social_conservative_party_long:0 "Republican Party for Liberty"
  BKF_authoritarian_democrat_party:0 "ADR"
  BKF_authoritarian_democrat_party_long:0 "African Democratic Rally"
- BKF_despotism_party:0 "MNP"
- BKF_despotism_party_long:0 "Moogo-Naaba's Party"
- BKF_fascism_party:0 "MAF"
- BKF_fascism_party_long:0 "Mossiland Armed Forces"
+ BKF_despotism_party:0 "ПМН"
+ BKF_despotism_party_long:0 "Партия Муго-Наабы"
+ BKF_fascism_party:0 "ВсМ"
+ BKF_fascism_party_long:0 "Вооруженные силы Верхней Вольты"
  BKF_national_socialism_party:0 "-"
  BKF_national_socialism_party_long:0 "-"
  BKF_ultranational_socialism_party:0 "-"
  BKF_ultranational_socialism_party_long:0 "-"
 
- BKF_idea_remnant_francophilia:0 "Remnant Francophilia"
- BKF_idea_relative_democracy:0 "Relative Democracy"
+ BKF_idea_remnant_francophilia:0 "Оставшаяся франкофилия"
+ BKF_idea_relative_democracy:0 "Относительная демократия"
  
- POLITICS_MAURICE_YAMEOGO_DESC:0 "Чтобы понять, почему Морис Ямеого так предан идее Французской Африки до такой степени, что получил прозвище - "Monsieur Maurice", one has to know his past. Shunned and despised even by his own family simply for being interested in Christianity, Yaméogo left his old life to enter a seminary. But his relationships strayed far from the ecclesiastical standard. Yaméogo wanted to be a priest, but he was very keen on women and parties. In 1939, he left the seminary without graduating and was hired as a clerk by the French colonial administration. This extremely prestigious post meant success, security and prestige, and while the war raged in West Africa, Yaméogo was sent to Abidjan, a paradise for "evolved" Africans.\n\nThe rewards from Free France coupled with Yaméogo's ambition made him extremely loyal to the French cause in West Africa. When he returned to his homeland, he restored to popular acclaim the administration of Upper Volta, now called the republic of Mossiland, but refused to collaborate with other Africanist leaders like Senghor. Then Yaméogo eliminated all parliamentary opposition, purged all his enemies and imposed a one party system.\n\nYaméogo claims that Mossiland is a free, united and democratic republic, a shining example of African liberation, but this couldn't be further from the truth. Mossiland is a divided, weak and despotic statelet, completely dependent on French help to defend itself from more powerful warlords bordering the country. While the strategy works for now, if support from Free France comes to cease, Yaméogo will quickly find himself isolated, and while he often meets with De Gaulle to stay on good terms, at some point it will be one time too much."
+ POLITICS_MAURICE_YAMEOGO_DESC:0 "Чтобы понять, почему Морис Ямеого так предан идее Французской Африки до такой степени, что получил прозвище - "месье Морис", нужно изучить его прошлое. Избегаемый и презираемый даже собственной семьей просто за интерес по отношению к христианству, Ямеого оставил свою прежнюю жизнь, чтобы поступить в семинарию. Но его отношения сильно отличались от церковных стандартов. Морис хотел быть священником, но он был очень увлечен женщинами и вечеринками. В 1939 году он покинул семинарию, не окончив её, и был принят на работу клерком французской колониальной администрацией. Этот чрезвычайно престижный пост означал успех, безопасность и престиж, и пока в Западной Африке бушевала война, Ямеого отправили в Абиджан, рай для "развитых" африканцев.\n\nНаграды от Свободной Франции в сочетании с амбициями Ямеого сделали его чрезвычайно преданным делу Франции в Западной Африке. Когда он вернулся на родину, он восстановил всенародное признание администрации Верхней Вольты, но отказался сотрудничать с другими африканскими лидерами, такими как Сенгор. Затем новый президент ликвидировал всю парламентскую оппозицию, очистил всех своих врагов и ввёл однопартийную систему.\n\nЯмеого утверждает, что Верхняя Вольта - свободная, унитарная и демократическая республика, яркий пример освобождения Африки, но на самом деле это наглая ложь. Нынешняя страна - это разделенное, слабое и деспотическое государство, полностью зависящее от французской помощи в защите от более могущественных соседей, граничащих со страной. Хотя на данный момент эта стратегия работает, в случае, если поддержка со стороны Свободной Франции прекратится, Ямеого быстро окажется в изоляции, и хотя он часто встречается с Де Голлем, чтобы сохранить хорошие отношения, в какой-то момент всё закончится."

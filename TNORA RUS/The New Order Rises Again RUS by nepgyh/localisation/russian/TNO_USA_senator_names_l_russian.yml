@@ -5,10 +5,10 @@
 
  RD_R_SENATOR_PARTY:0 "(£GFX_rd_r_texticon §RР§!-§BД§! - §RРеспубликанец§!) "
  RD_D_SENATOR_PARTY:0 "(£GFX_rd_d_texticon §RР§!-§BД§! - §BДемократ§!) "
- NPP_C_SENATOR_PARTY:0 "(§OНПП§! - §PЦентрист§!) "
- NPP_FR_SENATOR_PARTY:0 "(§OНПП§! - §gУльтраправый§!) "
- NPP_L_SENATOR_PARTY:0 "(§OНПП§! - §eЛевый§!) "
- NPP_R_SENATOR_PARTY:0 "(§OНПП§! - §r"Yockey"§!) "
+ NPP_C_SENATOR_PARTY:0 "(£GFX_npp_c_texticon §OНПП§! - §KПрогрессивист§!) "
+ NPP_FR_SENATOR_PARTY:0 "(£GFX_npp_fr_texticon §OНПП§! - §gНационалист§!) "
+ NPP_L_SENATOR_PARTY:0 "(£GFX_npp_l_texticon §OНПП§! - §eКоммунист§!) "
+ NPP_R_SENATOR_PARTY:0 "(£GFX_npp_y_texticon §OНПП§! - §jНациональный Авангард§!) "
 
  RD_R_SENATOR_ALABAMA_1:0 "Ричмонд Флауэрс-ст.."
  RD_R_SENATOR_ALABAMA_2:0 "Джон Холл Бьюкенен-мл.."

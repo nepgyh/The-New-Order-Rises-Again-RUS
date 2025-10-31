@@ -3,10 +3,10 @@
  #############
  ## Parties ##
  #############
- RPP_communist_party:0 "MFA"
- RPP_communist_party_long:0 "Movimento Forças Armadas"
- RPP_socialist_party:0 "MFA"
- RPP_socialist_party_long:0 "Movimento Forças Armadas"
+ RPP_communist_party:0 "РБГ"
+ RPP_communist_party_long:0 "Революционная боевая гвардия"
+ RPP_socialist_party:0 "РБГ"
+ RPP_socialist_party_long:0 "Революционная боевая гвардия"
  RPP_social_democrat_party:0 "MFA"
  RPP_social_democrat_party_long:0 "Movimento Forças Armadas"
  RPP_market_liberal_party:0 "МИД" # <<TRANSLATED>>
@@ -15,8 +15,8 @@
  RPP_social_conservative_party_long:0 "Movimento Forças Armadas"
  RPP_authoritarian_democrat_party:0 "FPLN"
  RPP_authoritarian_democrat_party_long:0 "Frente Portuguesa de Libertação Nacional"
- RPP_despotism_party:0 "CCP"
- RPP_despotism_party_long:0 "Centro Católico Português"
+ RPP_despotism_party:0 "ПКЦ"
+ RPP_despotism_party_long:0 "Португальский католический центр"
  RPP_burgundian_system_party:0 "ФВ" # <<TRANSLATED>>
  RPP_burgundian_system_party_long:0 "Фильос де Вириато" # <<TRANSLATED>>
 

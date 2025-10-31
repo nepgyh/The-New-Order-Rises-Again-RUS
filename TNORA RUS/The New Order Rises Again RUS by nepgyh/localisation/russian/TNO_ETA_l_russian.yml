@@ -20,8 +20,8 @@
  ETA_communist:0 "Социалистическая Республика Басков"
  ETA_communist_DEF:0 "Социалистическая Республика Басков"
  ETA_communist_ADJ:0 "Баскск."
- ETA_socialist:0 "Basque Liberation Army"
- ETA_socialist_DEF:0 "The Basque Liberation Army"
+ ETA_socialist:0 "Освободительная армия Басков"
+ ETA_socialist_DEF:0 "Освободительная армия Басков"
  ETA_socialist_ADJ:0 "Баскск."
  ETA_national_socialism:0 "Государство Басков"
  ETA_national_socialism_DEF:0 "Государство Басков"
@@ -32,16 +32,16 @@
 
  
  #Ministers
- ETA_Jose_Etxebarrieta_hog:0 "José Antonio Etxebarrieta"
- ETA_Jose_Benaran_mil:0 "José Miguel Beñarán"
- ETA_Telesforo_Monzon_for:0 "Telesforo Monzón"
- ETA_Patxi_Iturrioz_eco:0 "Patxi Iturrioz"
+ ETA_Jose_Etxebarrieta_hog:0 "Хосе Антонио Эчебаррьета"
+ ETA_Jose_Benaran_mil:0 "Хосе Мигель Беньяран"
+ ETA_Telesforo_Monzon_for:0 "Телесфоро Монсон"
+ ETA_Patxi_Iturrioz_eco:0 "Патчи Итурриос"
  
 #Parties 
- ETA_communist_party:0 "EPK"
- ETA_communist_party_long:0 "Euskadiko Partidu Komunista"
- ETA_socialist_party:0 "ETA"
- ETA_socialist_party_long:0 "Euskadi Ta Askatasuna"
+ ETA_communist_party:0 "БКП"
+ ETA_communist_party_long:0 "Баскская коммунистическая партия"
+ ETA_socialist_party:0 "ЭТА"
+ ETA_socialist_party_long:0 "Страна басков и свобода"
  ETA_social_democrat_party:0 "EAS"
  ETA_social_democrat_party_long:0 "Esukadiko Alderdi Sozialista"
  ETA_social_liberal_party:0 "EAJ"

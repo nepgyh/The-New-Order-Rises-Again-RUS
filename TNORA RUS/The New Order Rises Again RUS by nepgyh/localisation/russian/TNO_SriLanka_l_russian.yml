@@ -3,10 +3,10 @@
  ###########
  ##Parties##
  ###########
- SRI_communist_party:0 "LTTE"
- SRI_communist_party_long:0 "Liberation Tigers of Tamil Eelam"
- SRI_socialist_party:0 "MEP"
- SRI_socialist_party_long:0 "Mahajana Eksath Peramuna"
+ SRI_communist_party:0 "ТОТИ"
+ SRI_communist_party_long:0 "Тигры освобождения Тамил-Илама"
+ SRI_socialist_party:0 "ОНФ"
+ SRI_socialist_party_long:0 "Объединенный народный фронт"
  SRI_social_democrat_party:0 "SLFP"
  SRI_social_democrat_party_long:0 "Sri Lanka Freedom Party"
  SRI_social_liberal_party:0 "Independents"
@@ -93,14 +93,14 @@
  
  
  #Tooltips
- SRI_OFN_begin_economic_development_tt:0 "We will begin economically developing Ceylon, while tying it economically to America."
- SRI_OFN_trade:0 "Increased trade with the USA will cause an economic boom!"
- SRI_OFN_corporate:0 "Inviting American corporations will prove a boon for our economy."
- SRI_OFN_support_elites:0 "Financial support for Ceylonese elites, while somewhat expensive, will significantly improve the stability of our administration."
- SRI_OFN_investments:0 "Our GDP will increase as a result of American investments."
- SRI_OFN_joint_ventures:0 "Our GDP will increase as a result of cooperation between American and Ceylonese capitalists."
- SRI_OFN_american_arms_makers:0 "Inviting American arms manufacturers to set up in Ceylon will help us send arms to the freedom fighters of Asia."
- SRI_OFN_arm_azad_hind_rebels:0 "Will give America further options to arm rebels in Azad Hind-controlled territory."
- SRI_OFN_arm_burmese_rebels:0 "Will give America further options to arm rebels in Burmese-controlled territory."
- SRI_OFN_arm_asia_rebels:0 "Will give America further options to arm rebels across the Sphere."
+ SRI_OFN_begin_economic_development_tt:0 "Мы начнем экономически развивать Цейлон, одновременно привязывая его к Америке."
+ SRI_OFN_trade:0 "Увеличение торговли с США вызовет экономический бум!"
+ SRI_OFN_corporate:0 "Приглашение американских корпораций станет благом для нашей экономики."
+ SRI_OFN_support_elites:0 "Финансовая поддержка цейлонской элиты, хотя и несколько дорогостоящая, значительно повысит стабильность нашей администрации."
+ SRI_OFN_investments:0 "Наш ВВП увеличится в результате американских инвестиций."
+ SRI_OFN_joint_ventures:0 "Наш ВВП увеличится в результате сотрудничества между американскими и цейлонскими капиталистами."
+ SRI_OFN_american_arms_makers:0 "Приглашение американских производителей оружия обосноваться на Цейлоне поможет нам поставлять оружие борцам за свободу Азии."
+ SRI_OFN_arm_azad_hind_rebels:0 "Даст Америке дополнительные возможности вооружать повстанцев на территории, контролируемой Азад Хинд."
+ SRI_OFN_arm_burmese_rebels:0 "Даст Америке дополнительные возможности вооружать повстанцев на территории, контролируемой Бирмой."
+ SRI_OFN_arm_asia_rebels:0 "Даст Америке дополнительные возможности вооружать повстанцев по всей Сфере."
  

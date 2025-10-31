@@ -3,10 +3,10 @@
  ###########
  ##PARTIES##
  ###########
- AFG_communist_party:0 "НДПА - Кхалк"
- AFG_communist_party_long:0 "Народно-Демократическая Партия Афганистана - Фракция Кхалк"
- AFG_socialist_party:0 "НДПА - Парчам"
- AFG_socialist_party_long:0 "Народно-Демократическая Партия Афганистана - Фракция Парчам"
+ AFG_communist_party:0 "НДТ"
+ AFG_communist_party_long:0 "Новое демократическое течение"
+ AFG_socialist_party:0 "Народная партия"
+ AFG_socialist_party_long:0 "Народная партия"
  AFG_social_democrat_party:0 "HMD"
  AFG_social_democrat_party_long:0 "Hezb-e Mo'talef-e Demowkrāt"
  AFG_social_liberal_party:0 "Независимые Либералы"

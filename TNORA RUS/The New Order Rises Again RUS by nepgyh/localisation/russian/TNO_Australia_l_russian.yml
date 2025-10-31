@@ -6,28 +6,28 @@ AST_fascist:0 "Australia"
 AST_national_socialist:0 "Australia"
 AST_ultranational_socialism:0 "Australia"
 #parties
-AST_communist_party:0 "CPA"
-AST_socialist_party:0 "ALP (L)"
+AST_communist_party:0 "КПА"
+AST_socialist_party:0 "АЛП (Л)"
 AST_social_democrat_party:0 "ALP (R)"
 AST_social_liberal_party:0 "LPA (L)"
 AST_market_liberal_party:0 "LPA (R)"
 AST_social_conservative_party:0 "CP (M)"
 AST_authoritarian_democrat_party:0 "CP (R)"
-AST_despotism_party:0 "AFM-I"
+AST_despotism_party:0 "Национальная партия (Р)"
 AST_fascist_party:0 "AFM-J"
-AST_national_socialist_party:0 "AFM-G"
+AST_national_socialist_party:0 "НСПА"
 AST_ultranational_socialism_party:0 "AFM-SS"
 
-AST_communist_party_long:0 "Communist Party of Australia"
-AST_socialist_party_long:0 "Australian Labor Party - Left"
+AST_communist_party_long:0 "Коммунистическая партия Австралии"
+AST_socialist_party_long:0 "Австралийская лейбористская партия- Левые"
 AST_social_democrat_party_long:0 "Australian Labor Party - Right"
 AST_social_liberal_party_long:0 "Liberal Party of Australia - Left"
 AST_market_liberal_party_long:0 "Liberal Party of Australia - Right"
 AST_social_conservative_party_long:0 "Australian Country Party - Moderates"
 AST_authoritarian_democrat_party_long:0 "Australian Country Party - Radicals"
-AST_despotism_party_long:0 "Australian First Movement - Independent"
+AST_despotism_party_long:0 "Национальная партия Австралии - Радикалы"
 AST_fascist_party_long:0 "Australia First Movement - Pro-Japan"
-AST_national_socialist_party_long:0 "Australia First Movement - Pro-Germany"
+AST_national_socialist_party_long:0 "Национал-социалистическая партия Австралии"
 AST_ultranational_socialism_party_long:0 "Australia First Movement - Pro-Burgundy"
 
 #Ideas
@@ -44,7 +44,7 @@ AST_White_Australia_Policy_Initial_Relief:0 "White Australia Policy"
 AST_Looming_Japanese_Empire:0 "Looming Japanese Threat"
 AST_Looming_Japanese_Empire_desc:0 "I'm telling ya', right outside a stone's throw from Darwin is the Jap just waiting for us to fuck up so they can come swooping in and butcher us to the last man! We've already been caught by our bloody knickers down in New Guinea, and what did that get us? Fifty thousand funerals, is what! All this shite about harmless this, peace that -- well 'Never Another Moresby', I say! NEVER ANOTHER MORESBY!"
 
-AST_Looming_Japanese_Empire_Plan:0 "A Plan For Japan"
+AST_Looming_Japanese_Empire_Plan:0 "План для Японии"
 
 AST_Unpopular_Draft:0 "Unpopular Draft"
 AST_Unpopular_Draft_desc:0 "Draft an Australian to protect the continent and he will give his life without a second thought. Draft an Australian to protect the Free World and he will grumble lightly, before marching off to wherever he is needed. Draft an Australian for no good reason, however, and the first thing on his mind will be "What am I lugging twenty bloomin' pounds of kit for, then?" Indeed, this question has been asked by many such Australians as of late, as opposition to the National Service Act grows by the day..."
@@ -109,10 +109,10 @@ AST_Advance_Australia_Fair_desc:0 "As the political dust settles in Canberra, th
 
 #Liberal Economy I
 AST_A_New_Economy_For_Australia:0 "A New Economy For Australia"
-AST_A_New_Economy_For_Australia_desc:0 "The Coalition had won a tense, narrow victory over Labor in 1961 by riding the waves of popular discontent over an economy in freefall. With a promise to restore confidence in government and stability in the economy, we had gained the mandate of the Australian people and broke Labor's six-year hold over the country.\n\nNow that Canberra is theirs, however, a problem once papered over by political necessity rears its ugly head: The Coalition still could not agree on how to address the recession. Proposals have been drafted of course, but party politics being what it is, none of them have accrued enough support to establish themselves as the definite consensus.\n\nThe Liberal Party believes that a combination of jobs programs funded by deficit spending will kickstart the economy by encouraging Australians to spend, rather than hoard, their money. Meanwhile, their counterparts in Country believe that a threefold approach is the most suited to the job: Dismantling Labor's past reforms, liberalizing Australian industry from socialist inefficiency, and spreading the country's hoarded wealth to its forgotten corners and livelihoods.\n\nYet a third option exists, one that has lately gained increasing traction from both faction: Rather than wasting even more money, or disrupting the economy with mass privatizations, the government should instead focus on balancing its untenable budget and cutting on excesses and needless expenses whenever needed.\n\nWhichever plan our newly-formed government shall decide upon, we must decide posthaste. Every day we spend on bickering is a day wasted on doing nothing -- and the Australian people are not so kind as to forgive a government which breaks its promises."
+AST_A_New_Economy_For_Australia_desc:0 "The Coalition had won a tense, narrow victory over Labor in 1961 by riding the waves of popular discontent over an economy in freefall. With a promise to restore confidence in government and stability in the economy, we had gained the mandate of the Australian people and broke Labor's six-year hold over the country.\\n\\nNow that Canberra is theirs, however, a problem once papered over by political necessity rears its ugly head: The Coalition still could not agree on how to address the recession. Proposals have been drafted of course, but party politics being what it is, none of them have accrued enough support to establish themselves as the definite consensus.\\n\\nThe Liberal Party believes that a combination of jobs programs funded by deficit spending will kickstart the economy by encouraging Australians to spend, rather than hoard, their money. Meanwhile, their counterparts in Country believe that a threefold approach is the most suited to the job: Dismantling Labor's past reforms, liberalizing Australian industry from socialist inefficiency, and spreading the country's hoarded wealth to its forgotten corners and livelihoods.\\n\\nYet a third option exists, one that has lately gained increasing traction from both faction: Rather than wasting even more money, or disrupting the economy with mass privatizations, the government should instead focus on balancing its untenable budget and cutting on excesses and needless expenses whenever needed.\\n\\nWhichever plan our newly-formed government shall decide upon, we must decide posthaste. Every day we spend on bickering is a day wasted on doing nothing -- and the Australian people are not so kind as to forgive a government which breaks its promises."
 
 AST_The_Liberal_Platform:0 "The Liberal Platform"
-AST_The_Liberal_Platform_desc:0 "Formed from the nucleus of the late United Australia Party, the Australian Liberal Party had presented itself as the Coalition's more flexible wing, economically-speaking. Whereas the old codgers in Country remain staunch advocates of an unrestricted market, Liberals believe that the market must remain subordinate to the cause of national development, and that the state's occasional interference is the best means with which to ensure such a state of affairs. The urgency for such is more pronounced now than ever before, as Australia faces its greatest economic crisis since the Great Depression.\n\nBy coopting the Liberals' economic platform, Parliament will dedicate Australia's shrinking budget towards establishing work program after work program and subsidizing business after business, encouraging the flow of money from household to market and back. Once this delicate cycle is restored, so too will the recession end and fade from memory."
+AST_The_Liberal_Platform_desc:0 "Formed from the nucleus of the late United Australia Party, the Australian Liberal Party had presented itself as the Coalition's more flexible wing, economically-speaking. Whereas the old codgers in Country remain staunch advocates of an unrestricted market, Liberals believe that the market must remain subordinate to the cause of national development, and that the state's occasional interference is the best means with which to ensure such a state of affairs. The urgency for such is more pronounced now than ever before, as Australia faces its greatest economic crisis since the Great Depression.\\n\\nBy coopting the Liberals' economic platform, Parliament will dedicate Australia's shrinking budget towards establishing work program after work program and subsidizing business after business, encouraging the flow of money from household to market and back. Once this delicate cycle is restored, so too will the recession end and fade from memory."
 
 
 
@@ -123,13 +123,13 @@ AST_Improving_Australia_desc:0 ""
 
 
 
-AST_NZ_trade_modifier:0 "Trans-Tasman Agreement"
+AST_NZ_trade_modifier:0 "Транстасманское соглашение"
 
 #decisions
 australia_leaves:0 "Australia and the OFN"
-we_leave:0 "Мы"
+we_leave:0 "Leave the OFN"
 australia_general_information_politics:0 "The Political Landscape"
-australia_general_information_politics_desc:0 "\n§wCoalition§! Seats:[?coalitions_seats]\n\n            §zLiberal Party§! Seats:[?liberal_seats]\n\n            §yCountry Party§! Seats:[?country_seats]\n\n §PLabour Party§! Seats:[?labor_seats]§!\n\n[This.majority_who]\n\n The Current Prime Minister Is:[this.pmwho]"
+australia_general_information_politics_desc:0 "\\n§wCoalition§! Seats:[?coalitions_seats]\\n\\n            §zLiberal Party§! Seats:[?liberal_seats]\\n\\n            §yCountry Party§! Seats:[?country_seats]\\n\\n §PLabour Party§! Seats:[?labor_seats]§!\\n\\n[This.majority_who]\\n\\n The Current Prime Minister Is:[this.pmwho]"
 shallow_promises:0 "Shallow Promises"
 shallow_promises_desc:0 "A lie may take care of the present, but it has no future."
 #tooltips
@@ -160,7 +160,7 @@ the_liberal_protege:0 "Протеже либералов"
 the_breaker_of_left_unity:0 "Разделитель левых"
 
 #opinion modifiers
-AST_OFN_ties:0 "Reinforced OFN Ties"
+AST_OFN_ties:0 "Усиленные связи с ОСН"
 
 #country flags
 AST_Coalition_Talks_Succeed_1962_flag:0 "Coalition Talks Succeed!"
@@ -169,5 +169,5 @@ AST_Coalition_Talks_Fail_1962_flag:0 "Coalition Talks Fail!"
 #leader bios
 POLITICS_HAROLD_HOLT_DESC:0 "Для Гарольда Эдварда Холта недавнее выдвижение на пост премьер-министра Австралийской республики стало последним достижением долгой и успешной карьеры в политике. Родившись в семье землевладельца в Сиднее, Холт пришел в политику в юном возрасте как член Молодых националистов, молодежного крыла Партии Единой Австралии, и был избран в парламент в возрасте 27 лет, став самым молодым членом парламента в то время. Быстро став протеже Роберта Мензиса, Холт продолжил свою карьеру в военное время и поднялся по карьерной лестнице в Либеральной партии Австралии, недавно сформированной преемнице ПЕА.\n\nВойна стала огромным потрясением для австралийской нации. В бессмысленной войне, закончившейся горьким поражением, страна потеряла целое поколение своих храбрых молодых людей, а когда над Тихим океаном взошло японское солнце, Австралия получила непоправимые шрамы от его жгучих лучей. На фоне криков о переменах и глубокого политического кризиса Канберра разорвала свои связи с Лондоном как раз в тот момент, когда нацистские войска завершили оккупацию Англии, и таким образом возникла Австралийская Республика. В политике молодой республики доминировала Лейбористская партия, но вскоре Холт выдвинулся в лидеры оппозиции, став в итоге лидером Либеральной партии.\n\nВ конце концов, Либеральная партия набрала достаточно популярности, чтобы одержать победу на выборах 1961 года, и Холт был окончательно провозглашен премьер-министром. Пообещав подтвердить связи страны с ОСН, как экономические, так и военные, окончательно стабилизировать экономику страны, а также раз и навсегда покончить с политикой Белой Австралии, Холт покорил нацию своей реформаторской платформой - однако только время покажет, суждено ли его видению свободной, процветающей и справедливой Австралии стать реальностью."
 
-POLITICS_ARTHUR_CALWELL_DESC:0 "За последние двадцать лет поддержка политики Белой Австралии постепенно уменьшалась. Сеть расистских законов, впервые принятых для защиты Австралии как форпоста британской расы в Океании, была и постепенно разматывается новым поколением осторожных реформаторов.\n\nВсе они проклятые предатели и популисты!\n\nАртур Огастус Калвелл - самый дотошный и яростный защитник политики Белой Австралии в федеральном парламенте. Калвелл утверждает, что, будучи сувереном своей собственной нации, африканец, азиат или мулат равен белому человеку, но, впервые попав в Австралию, он становится загрязнителем. Ни одна нация, какой бы сильной она ни была, не сможет выжить при несегрегированном совместном проживании рас. Именно с такими мыслями Калвелл утверждает, что он не расист, а просто гордится своим цветом кожи, как и положено любому человеку. Его критики высмеивают его за это. Калвелл же считает, что все они крысы.\n\nДействительно, то, во что верит Калвелл, всегда было для него на первом месте. Он утверждает, что СМИ выставляют его в ложном свете: они никогда не уделяют внимания человеку из рабочего класса, выступающему из кузова пикапа в изолированных поселках о необходимости сельских больниц; самообразованному профсоюзному активисту, говорящему на мандаринском языке и выступающему против участия в иностранных войнах; или социалисту-общественнику, выступающему за социальное обеспечение и хорошие зарплаты.\n\nНо всё это заканчивается на цветной линии. В туманном баре Дома Парламента, держа рюмку на уровне глаз, премьер-министр ухмыляется и говорит своим товарищам: "Outdated" they called its words, once uttered wholeheartedly by the humble workers and noble statesmen of his father's time. The idea itself, ill-fitted for a new chapter in Australia's history. But one need only read a history book to know that the need for it -- for a pure, unsullied Australia -- remains alive and well. For had not the moneyed fatcats flooded the land of their birth with a horde of Asian labour, sought to break the Australian worker? Had not the yellow devils dyed New Guinea with Australian blood, sought to break the Australian spirit? Had not Australia triumphed against both with the strength of her true-blooded sons, stood alone to resist against all odds?\n\nThese questions, and many more, were what all Australians had asked themselves after the War. In the days and years that followed, more Australians flocked to the banner of Labour with a resounding "Yes!" in their lips and his name in their prayers. So it was that the party, under his leadership, approached 1961. Jubilant, buoyed by a wave of support from all walks of life, and ready to steer Australia back on track... Which made the Liberals' victory all the more shocking, and their own defeat all the more bitter.\n\nBut let it not be said that Arthur Calwell is a quitting man. As long as he remains the face of Labour, the bloke from Melbourne will fight tooth and nail and rally the people under that beautiful idea in the elections to come. That idea he has long carried is the whisper of all good sons of his country, and their last hope in a world gone mad. White Australia will return triumphant, this he swore, or he will die trying."
+POLITICS_ARTHUR_CALWELL_DESC:0 "За последние двадцать лет поддержка политики Белой Австралии постепенно уменьшалась. Сеть расистских законов, впервые принятых для защиты Австралии как форпоста британской расы в Океании, была и постепенно разматывается новым поколением осторожных реформаторов.\n\nВсе они проклятые предатели и популисты!\n\nАртур Огастус Калвелл - самый дотошный и яростный защитник политики Белой Австралии в федеральном парламенте. Калвелл утверждает, что, будучи сувереном своей собственной нации, африканец, азиат или мулат равен белому человеку, но, впервые попав в Австралию, он становится загрязнителем. Ни одна нация, какой бы сильной она ни была, не сможет выжить при несегрегированном совместном проживании рас. Именно с такими мыслями Калвелл утверждает, что он не расист, а просто гордится своим цветом кожи, как и положено любому человеку. Его критики высмеивают его за это. Калвелл же считает, что все они крысы.\n\nДействительно, то, во что верит Калвелл, всегда было для него на первом месте. Он утверждает, что СМИ выставляют его в ложном свете: они никогда не уделяют внимания человеку из рабочего класса, выступающему из кузова пикапа в изолированных поселках о необходимости сельских больниц; самообразованному профсоюзному активисту, говорящему на мандаринском языке и выступающему против участия в иностранных войнах; или социалисту-общественнику, выступающему за социальное обеспечение и хорошие зарплаты.\n\nНо всё это заканчивается на цветной линии. В туманном баре Дома Парламента, держа рюмку на уровне глаз, премьер-министр ухмыляется и говорит своим товарищам: "Два Вонга никогда не сделают белого ребенка"."
 

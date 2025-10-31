@@ -2,10 +2,10 @@
  #############
  ## Parties ##
  #############
- GNS_communist_party:0 "PCP"
- GNS_communist_party_long:0 "Partido Comunista Português"
- GNS_socialist_party:0 "PT"
- GNS_socialist_party_long:0 "Partido Trabalhista"
+ GNS_communist_party:0 "КПП"
+ GNS_communist_party_long:0 "Коммунистическая Партия Португалии"
+ GNS_socialist_party:0 "ТП"
+ GNS_socialist_party_long:0 "Трудовая Партия"
  GNS_social_democrat_party:0 "ADS"
  GNS_social_democrat_party_long:0 "Acção Democrato Social"
  GNS_social_liberal_party:0 "ARS"
@@ -16,19 +16,19 @@
  GNS_social_conservative_party_long:0 "Movimento Nacional Democrático"
  GNS_authoritarian_democrat_party:0 "FPLN"
  GNS_authoritarian_democrat_party_long:0 "Frente Portuguesa de Libertação Nacional"
- GNS_despotism_party:0 "CNP"
- GNS_despotism_party_long:0 "Conselho Nacional Republicano"
- GNS_fascism_party:0 "MNS"
- GNS_fascism_party_long:0 "Movimento Nacional Sindicalista"
- GNS_national_socialism_party:0 "GSN"
- GNS_national_socialism_party_long:0 "Governo de Salvação Nacional"
+ GNS_despotism_party:0 "РНС"
+ GNS_despotism_party_long:0 "Республиканский национальный совет"
+ GNS_fascism_party:0 "ПНС"
+ GNS_fascism_party_long:0 "Правительство национального спасения"
+ GNS_national_socialism_party:0 "НСД"
+ GNS_national_socialism_party_long:0 "Национальное синдикалистское движение"
  GNS_ultranational_socialism_party:0 "Filhos de Viriato"
  GNS_ultranational_socialism_party_long:0 "Filhos de Viriato"
 
  #Country names 
   
- GNS_fascism:0 "Government of National Salvation"
- GNS_fascism_DEF:0 "The Government of National Salvation"
+ GNS_fascism:0 "Правительство Национального спасения"
+ GNS_fascism_DEF:0 "Правительство Национального спасения"
  GNS_social_liberal:0 "Government of National Salvation"
  GNS_social_liberal_DEF:0 "The Government of National Salvation"
  GNS_market_liberal:0 "Government of National Salvation"
@@ -37,21 +37,21 @@
  GNS_social_conservative_DEF:0 "The Government of National Salvation"
  GNS_authoritarian_democrat:0 "Government of National Salvation"
  GNS_authoritarian_democrat_DEF:0 "The Government of National Salvation"
- GNS_despotism:0 "Portuguese Republic"
- GNS_despotism_DEF:0 "The Portuguese Republic"
- GNS_communist:0 "Government of National Salvation"
- GNS_communist_DEF:0 "The Government of National Salvation"
- GNS_socialist:0 "Government of National Salvation"
- GNS_socialist_DEF:0 "The Government of National Salvation"
- GNS_national_socialism:0 "Government of National Salvation"
- GNS_national_socialism_DEF:0 "The Government of National Salvation"
+ GNS_despotism:0 "Португальская Республика"
+ GNS_despotism_DEF:0 "Португальская Республика"
+ GNS_communist:0 "Правительство Национального спасения"
+ GNS_communist_DEF:0 "Правительство Национального спасения"
+ GNS_socialist:0 "Правительство Национального спасения"
+ GNS_socialist_DEF:0 "Правительство Национального спасения"
+ GNS_national_socialism:0 "Правительство Национального спасения"
+ GNS_national_socialism_DEF:0 "Правительство Национального спасения"
  GNS_ultranational_socialism:0 "Government of National Salvation"
  GNS_ultranational_socialism_DEF:0 "The Government of National Salvation"
 
  #################
  ## Leader Desc ##
  #################
- POLITICS_KAULZA_DE_ARRIAGA_DESC:0 ""A good military leader is not made in academies and offices, listening to instructors, attending courses and answering to evaluations, but on the field: killing and watching men die." That was what General Kaúlza de Arriaga believed when he first saw action in Angola. Seeing the Portuguese Army, well used to titles, medals, degrees and salutes being crushed by the fast and efficient Germans who took the Crown Jewels of the Portuguese Empire and the submission of those proud generals and ministers to Spanish rule in order to protect themselves made him sure of it.\n\nGeneral Kaúlza de Arriaga is a fanatic defendant of a new kind of Army, one free from bureaucracy and unearned promotions, with full dedication to combat, not politics, staffed only by young eager volunteers with harsh technical and psychological training willing to take any mission while equipped with the most modern weaponry available. His ideas were outright refused by the Spanish, but his growing popularity amongst Portuguese officers earned him a small field lab for his theses: The Commando Regiment, drawing their first blood in counter insurgency operations in Algeria.\n\nThen he saw same generals and politicians who ostracized him losing the rest of the Empire, undoing 500 years of work of brave Portuguese men and decided that was enough, he would sit idly while Portugal falls. The Commando Regiment marches on Lisbon, and Hell followed with..."
+ POLITICS_KAULZA_DE_ARRIAGA_DESC:0 ""Хорошим полководец становится не в застенках военных академий, слушая инструкторов, посещая курсы и получая оценки, а на поле боя: убивая и наблюдая за чужими смертями." - Именно так думал генеал де Арриага, когда впервые стал свидетелем боевых действий в Анголе. Увидев Португальскую армию, обвешанную медалями, гремящую своими титулами, в реальных боевых условиях, терпящих поражение за поражением от Вермахта, захватившего колонии Португалии, и спрятавшись под подол испанского каудильо, Арриага убедился в этом.\n\nГенерал де Арриага - фанатичный сторонник армии нового типа, свободной от бюррократической волокиты и номинальных титулов, демонстрирующую самоотверженность в бою, а не в политике, укомплектованной только молодыми и энергичными добровольцами с суровой технической и психологической подготовкой, оснащенную самым передовым оружием. Его идеи были категорически отвергнуты испанцами, но его растущая популярность среди португальского офицерства позволила проводить свои эксперименты в миниатюрном виде: Полк коммандос, прошедший боевой крещение в подавлении алжирских повстанцев.\n\nЗатем он увидел тех же генералов и политиков, обративших империю в руины, поставив крест на пятиста лет работы храброго португальского народа, и решил, что пора прекращать сидеть сложа руки покуда родная Португалия ещё борется. Полк Коммандос пошёл маршем на Лиссабон, и сам ад последовал за ним..."
  
  ###################
  ## Leader Traits ##

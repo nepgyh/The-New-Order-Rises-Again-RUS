@@ -2,16 +2,16 @@
  ## Country Names ##
  RMB_despotism:0 "Государство Ньясаленд"
  RMB_despotism_DEF:0 "Государство Ньясаленд"
- RMB_despotism_ADJ:0 "Ньясаленд"
+ RMB_despotism_ADJ:0 "Ньясалендск."
 
  RMB_fascism:0 "Государство Ньясаленд"
  RMB_fascism_DEF:0 "Государство Ньясаленд"
- RMB_fascism_ADJ:0 "Ньясаленд"
+ RMB_fascism_ADJ:0 "Ньясалендск."
  
  ####Party Names#####
 
  RMB_despotism_party:0 "ПКН"
- RMB_despotism_party_long:0 "Партия Конгресса Ньясаленда"
+ RMB_despotism_party_long:0 "Партия конгресса Ньясаленда"
 
  ## Ministers ##
  

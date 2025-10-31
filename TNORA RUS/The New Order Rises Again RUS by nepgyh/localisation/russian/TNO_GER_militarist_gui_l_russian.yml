@@ -9,8 +9,8 @@
  GER_MILITARIST_INFLUENCE_VERY_HIGH:0 "ОЧЕНЬ ВЫСОКАЯ"
  GER_MILITARIST_INFLUENCE_HIGH:0 "ВЫСОКАЯ"
  GER_MILITARIST_INFLUENCE_MEDIUM:0 "СРЕДНЯЯ"
- GER_MILITARIST_INFLUENCE_VERY_LOW:0 "НИЗКАЯ"
- GER_MILITARIST_INFLUENCE_LOW:0 "ОЧЕНЬ НИЗКАЯ"
+ GER_MILITARIST_INFLUENCE_VERY_LOW:0 "ОЧЕНЬ НИЗКАЯ"
+ GER_MILITARIST_INFLUENCE_LOW:0 "НИЗКАЯ"
  GER_MILITARIST_INFLUENCE_CRITICAL:0 "§RКРИТИЧЕСКАЯ!!§!"
  GER_MILITARIST_INFLUENCE_ABSOLUTE:0 "§GАБСОЛЮТНАЯ§!"
  GER_NOTHING:0 ""
@@ -22,7 +22,7 @@
  GER_MILITARIST_INFLUENCE_LOW_INTEXT:0 "§Yмаленькое§!"
  GER_MILITARIST_INFLUENCE_VERY_LOW_INTEXT:0 "a §Yникакое§!"
  
- GER_MILITARIST_POWER_VERY_HIGH_INTEXT:0 "an §Yисключительное§1"
+ GER_MILITARIST_POWER_VERY_HIGH_INTEXT:0 "an §Yисключительное§!"
  GER_MILITARIST_POWER_HIGH_INTEXT:0 "a §Yглавное§!"
  GER_MILITARIST_POWER_MEDIUM_INTEXT:0 "an §Yсреднее§!"
  GER_MILITARIST_POWER_LOW_INTEXT:0 "§Ylмаленькое§!"
@@ -78,13 +78,13 @@
  
  # INFLUENCERS
  
- GER_militarist_influence_influencer_positive:0 "§T[ROOT.GetGER_supported_the_navy][ROOT.GetGER_acted_against_ss][ROOT.GetGER_schorner_militarist_leader_influence][ROOT.GetGER_speidels_defeat_influence][ROOT.GetGER_oil_crisis_panic_increase][ROOT.GetGER_schorners_purge_influence]§!"
+ GER_militarist_influence_influencer_positive:0 "§B[ROOT.GetGER_supported_the_navy][ROOT.GetGER_acted_against_ss][ROOT.GetGER_schorner_militarist_leader_influence][ROOT.GetGER_speidels_defeat_influence][ROOT.GetGER_oil_crisis_panic_increase][ROOT.GetGER_schorners_purge_influence]§!"
  GER_militarist_influence_influencer_negative:0 "§R[ROOT.GetGER_rampant_factionalism][ROOT.GetGER_reduced_heer_budget][ROOT.GetGER_domestic_unrest][ROOT.GetGER_speidels_victory_influence][ROOT.GetGER_vituskas_cunning][ROOT.GetGER_leaving_militarists]§!"
  
- GER_militarist_power_influencer_positive:0 "§T[ROOT.GetGER_expanded_draft][ROOT.GetGER_supported_the_navy][ROOT.GetGER_drechslers_loyalty][ROOT.GetGER_schorner_militarist_leader_power]§!"
+ GER_militarist_power_influencer_positive:0 "§B[ROOT.GetGER_expanded_draft][ROOT.GetGER_supported_the_navy][ROOT.GetGER_drechslers_loyalty][ROOT.GetGER_schorner_militarist_leader_power]§!"
  GER_militarist_power_influencer_negative:0 "§R[ROOT.GetGER_overextended_airforce][ROOT.GetGER_rampant_factionalism][ROOT.GetGER_reduced_heer_budget][ROOT.GetGER_African_Intervention][ROOT.GetGER_vituskas_cunning][ROOT.GetGER_stahleckers_power][ROOT.GetGER_leaving_militarists][ROOT.GetGER_oil_crisis_panic_decrease][ROOT.GetGER_schorners_purge_power]§!"
  
- GER_militarist_loyalty_influencer_positive:0 "§T[GetGER_faith_in_the_fuhrer][ROOT.GetGER_acted_against_ss][ROOT.GetGER_supported_the_navy][ROOT.GetGER_civil_war_victors][ROOT.GetGER_speidels_triumph_loyalty][ROOT.GetGER_drechslers_loyalty][ROOT.GetGER_militarist_demands_good]§!"
+ GER_militarist_loyalty_influencer_positive:0 "§B[GetGER_faith_in_the_fuhrer][ROOT.GetGER_acted_against_ss][ROOT.GetGER_supported_the_navy][ROOT.GetGER_civil_war_victors][ROOT.GetGER_speidels_triumph_loyalty][ROOT.GetGER_drechslers_loyalty][ROOT.GetGER_militarist_demands_good]§!"
  GER_militarist_loyalty_influencer_negative:0 "§R[ROOT.GetGER_rampant_factionalism][ROOT.GetGER_reduced_heer_budget][ROOT.GetGER_domestic_unrest][ROOT.GetGER_schorner_militarist_leader_loyalty][ROOT.GetGER_African_Intervention][ROOT.GetGER_speidels_disgrace_loyalty][ROOT.GetGER_stahleckers_power][ROOT.GetGER_militarist_demands_bad][ROOT.GetGER_oil_crisis_panic_decrease][ROOT.GetGER_schorners_purge_loyalty][ROOT.GetGER_GGRCSI_failed]§!"
  
  ######Influence

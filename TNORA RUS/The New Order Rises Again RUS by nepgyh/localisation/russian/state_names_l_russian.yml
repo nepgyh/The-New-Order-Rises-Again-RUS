@@ -1396,9 +1396,9 @@
  # Dynamic State Names
  STATE_1364_rodz:0 "Родзаевск"
  STATE_1364_rus:0 "Благовещенск"
- STATE_657_rus:0 "Райчихинск"
+ STATE_657_rus:0 "Биробиджан"
  STATE_409_rus:0 "Хабаровск"
- STATE_408_rus:0 "Приморский край"
+ STATE_408_rus:0 "Приморский"
  STATE_809_rus:0 "Владивосток"
  STATE_809_chi:0 "Хайшэньвай"
 

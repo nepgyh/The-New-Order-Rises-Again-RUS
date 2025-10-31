@@ -4,16 +4,16 @@
 
  ### Parties ###
 
- ROM_fascism_party:0 "CR"
- ROM_fascism_party_long:0 "Румынский крестовый поход"
- ROM_national_socialism_party:0 "PNC"
+ ROM_fascism_party:0 "Железная гвардия"
+ ROM_fascism_party_long:0 "Железная гвардия"
+ ROM_national_socialism_party:0 "ХНП"
  ROM_national_socialism_party_long:0 "Христианская национальная партия"
  ROM_ultranational_socialism_party:0 "GdF"
  ROM_ultranational_socialism_party_long:0 "Железный страж"
  ROM_burgundian_system_party:0 "-"
  ROM_burgundian_system_party_long:0 "sike its Himmler"
- ROM_despotism_party:0 "RAR"
- ROM_despotism_party_long:0 "Королевская румынская армия"
+ ROM_despotism_party:0 "НЛП - Брэтиану"
+ ROM_despotism_party_long:0 "Национальная либеральная партия - Брэтиану"
  ROM_authoritarian_democrat_party:0 "FR"
  ROM_authoritarian_democrat_party_long:0 "Румынский фронт"
  ROM_social_conservative_party:0 "PNT"
@@ -22,9 +22,9 @@
  ROM_social_liberal_party_long:0 "Национал-либеральная партия"
  ROM_social_democrat_party:0 "PNP"
  ROM_social_democrat_party_long:0 "Национальная народная партия"
- ROM_socialist_party:0 "PSU"
- ROM_socialist_party_long:0 "Объединенная социалистическая партия"
- ROM_communist_party:0 "PCR"
+ ROM_socialist_party:0 "ННП"
+ ROM_socialist_party_long:0 "Национальная народная партия"
+ ROM_communist_party:0 "КПР"
  ROM_communist_party_long:0 "Коммунистическая партия Румынии"
 
  #Ideas
@@ -32,9 +32,9 @@
  ROM_Dumitru_Damaceanu_hog:0 "Думитру Дэмэчану"
  ROM_Gheorghe_Mihail_sec:0 "Георгий Михаил"
  
- ROM_reign_of_the_steel_crown:0 "Правление Стальной Короны"
- ROM_reign_of_the_steel_crown_desc:0 ""
+ ROM_reign_of_the_steel_crown:0 "Правление стальной короны"
+ ROM_reign_of_the_steel_crown_desc:0 "Михай I, король Румынии, уже несколько лет правит как де-факто просвещенный деспот. В зависимости от того, кого вы спрашиваете, причины этого разные: по мнению короля и его сторонников, это делается только для того, чтобы подготовить страну к возможной демократизации в будущем; но если вы спросите врагов короля, они скажут вам, что это потому, что он тиран, который использует возможное возвращение к демократии только для того, чтобы сохранить свою власть. Что, однако, ясно, так это то, что только сам Михай знает как долго это продлится."
  ROM_legacy_of_the_kings_coup:0 "Наследие переворота короля"
- ROM_legacy_of_the_kings_coup_desc:0 ""
+ ROM_legacy_of_the_kings_coup_desc:0 "Вызывает беспокойство тот факт, что в нашей стране многие выступают против правления короля. Не в последнюю очередь - остатки Железной гвардии, скрывающиеся в лесах как террористы или партизаны, в зависимости от того, кого вы спросите. Армия тоже недовольна, что в дальнейшем может обернуться большими неприятностями, если ничего не будет сделано. Да, Румыния сейчас находится в трудном положении, но, надеюсь, все наладится..."
  ROM_ethnic_upheaval:0 "Этнические потрясения"
- ROM_ethnic_upheaval_desc:0 ""
+ ROM_ethnic_upheaval_desc:0 "В отличие от того, что могут подумать некоторые люди, Румыния - многонациональная нация, и тем более после того, как мы получили территорию от окончания Второй мировой войны. Украинцы в Приднестровье, венгры в Трансильвании, сербы и немцы в Банате, у всех этих меньшинств есть одна общая черта: они агитируют либо за автономию, либо за независимость, что делает их проблемой, которую нам придется решать."

@@ -3,10 +3,10 @@
  ## Country Names ##
  IRA_communist:0 "Иранская Социалистическая Республика"
  IRA_communist_DEF:0 "Иранская Социалистическая Республика"
- IRA_communist_ADJ:0 "Азербайджанск."
+ IRA_communist_ADJ:0 "Иранск."
  ## Party Names ##
- IRA_communist_party:0 "HTI"
- IRA_communist_party_long:0 "Ḥezb-e Tūde-ye Īrān"
+ IRA_communist_party:0 "ПНМИ"
+ IRA_communist_party_long:0 "Партия народных масс Ирана"
  ## Ministers ##
  
  ## Ideas ##
@@ -14,39 +14,39 @@
  ## Decisions ##
  
  ## Tooltips ##
- IRA_filling_the_line_tooltip:0 "§YTwo Militia Divisions will appear in or around Tabriz§!\n"
- IRA_instigate_defections_tooltip:0 "§YAn Infantry Division will appear in or around Tabriz§!\n"
+ IRA_filling_the_line_tooltip:0 "§YДве дивизии милиции появятся в Тебризе или его окрестностях§!\n"
+ IRA_instigate_defections_tooltip:0 "§YПехотная дивизия появится в Тебризе или его окрестностях§!\n"
  ## Leader Bios ##
  POLITICS_IRAJ_ESKANDARI_DESC:0 "История действительно была жестока к рабочей революции. Ирадж Искандери, основатель коммунистического движения Туде, знает это так же хорошо, как и любой иранец. На протяжении десятилетий иранский народ томился под властью реакционной автократии, которая посадила самого Искандери в тюрьму во время показательного процесса, устроенного старым Шахом. Его преемник был не лучше. При Мохаммеде Пехлеви трудящиеся Персии терпели унижение за унижением. Теперь народ восстал против своих угнетателей, вооруженных и финансируемых нацистами. Со своего наблюдательного пункта на холмах и горах Тебриза одному человеку суждено вести рабочих к свободе или забвению.\n\nЭто будет величайшая битва в их жизни, которая будет вестись с невероятными трудностями. Другие фракции в борьбе, связанные с военным истеблишментом, реакционными священнослужителями или иностранными державами, полны решимости похоронить социалистическую мечту. Но Ирадж Искандери ждал этого момента тридцать лет. Он умрет за это, если потребуется.\n\nИ если он добьется успеха, то пролетариат изменит эту страну и уничтожит ее врагов. Это все, что нужно Ирану." 
  
  ## Focus Tree ##
- IRA_the_iranian_civil_war:0 "The Iranian Civil War"
+ IRA_the_iranian_civil_war:0 "Гражданская война в Иране"
  IRA_the_iranian_civil_war_desc:0 ""
- IRA_arm_the_people:0 "Arm The People"
+ IRA_arm_the_people:0 "Вооружить людей"
  IRA_arm_the_people_desc:0 ""
- IRA_filling_the_line:0 "Filling The Line"
+ IRA_filling_the_line:0 "Восполнить потери"
  IRA_filling_the_line_desc:0 ""
- IRA_instigate_defections:0 "Instigate Defections"
+ IRA_instigate_defections:0 "Уничтожить дезертирство"
  IRA_instigate_defections_desc:0 ""
- IRA_learn_on_the_job:0 "Learn On The Job"
+ IRA_learn_on_the_job:0 "Сделать свою работу"
  IRA_learn_on_the_job_desc:0 ""
- IRA_raid_the_airfields:0 "Raid The Airfields"
+ IRA_raid_the_airfields:0 "Налет на аэродромы"
  IRA_raid_the_airfields_desc:0 ""
- IRA_defending_tabriz:0 "Defending Tabriz"
+ IRA_defending_tabriz:0 "Защищая Тебриз"
  IRA_defending_tabriz_desc:0 ""
- IRA_defending_the_skies:0 "Defending The Skies"
+ IRA_defending_the_skies:0 "Защищая небеса"
  IRA_defending_the_skies_desc:0 ""
- IRA_defending_our_secrets:0 "Defending Our Secrets"
+ IRA_defending_our_secrets:0 "Защищая наши секреты"
  IRA_defending_our_secrets_desc:0 ""
- IRA_a_war_industry:0 "A War Industry"
+ IRA_a_war_industry:0 "Военная промышленность"
  IRA_a_war_industry_desc:0 ""
- IRA_improvised_factories:0 "Improvised Factories"
+ IRA_improvised_factories:0 "Импровизированные фабрики"
  IRA_improvised_factories_desc:0 ""
- IRA_bargain_with_investors:0 "Bargain With Investors"
+ IRA_bargain_with_investors:0 "Заключить сделки с инвесторами"
  IRA_bargain_with_investors_desc:0 ""
- IRA_an_iranian_bullet:0 "An Iranian Bullet"
+ IRA_an_iranian_bullet:0 "Иранские пули"
  IRA_an_iranian_bullet_desc:0 ""
- IRA_in_a_foreign_gun:0 "In A Foreign Gun"
+ IRA_in_a_foreign_gun:0 "В иностранном оружии"
  IRA_in_a_foreign_gun_desc:0 ""
  
  ## Events ##

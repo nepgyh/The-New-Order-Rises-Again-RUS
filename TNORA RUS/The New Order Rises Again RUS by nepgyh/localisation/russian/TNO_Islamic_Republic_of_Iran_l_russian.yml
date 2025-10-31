@@ -6,53 +6,53 @@
  IRI_despotism_ADJ:0 "Иранск."
  
  ## Party Names ##
- IRI_despotism_party:0 "HJE"
- IRI_despotism_party_long:0 "Ḥezb-e Jomhūrī-e Eslāmī"
+ IRI_despotism_party:0 "ИРП"
+ IRI_despotism_party_long:0 "Исламская республиканская партия"
  
  ## Ministers ##
- IRI_Mohammad_Beheshti_hog:0 "Mohammad Beheshti"
- IRI_Abolhassan_Banisadr_for:0 "Abolhassan Banisadr"
- IRI_Akbar_Hashemi_Rafsanjani_eco:0 "Akbar Hashemi Rafsanjani"
- IRI_Hossein_Fardoust_sec:0 "Hossein Fardoust"
+ IRI_Mohammad_Beheshti_hog:0 "Мохаммад Бехешти"
+ IRI_Abolhassan_Banisadr_for:0 "Абольхасан Банисадр"
+ IRI_Akbar_Hashemi_Rafsanjani_eco:0 "Акбар Хашеми Рафсанджани"
+ IRI_Hossein_Fardoust_sec:0 "Хоссейн Фардуст"
  ## Ideas ##
 
  ## Decisions ##
  
  ## Tooltips ##
- IRI_filling_the_line_tooltip:0 "§YTwo Militia Divisions will appear in or around Qom§!\n"
- IRI_instigate_defections_tooltip:0 "§YAn Infantry Division will appear in or around Qom§!\n"
+ IRI_filling_the_line_tooltip:0 "§YДве дивизии ополчения появятся в Куме или его окрестностях§!\n"
+ IRI_instigate_defections_tooltip:0 "§YПехотная дивизия появится в Куме или его окрестностях§!\n"
  
  ## Leader Bios ##
- POLITICS_RUHOLLAH_KHOMEINI_DESC:0 "Рухолла Хомейни живет в изгнании уже более десяти лет. Но его слава за это время только выросла. В отличие от поддерживаемой нацистами имперской хунты и поддерживаемых Америкой "
+ POLITICS_RUHOLLAH_KHOMEINI_DESC:0 "Рухолла Хомейни живет в изгнании уже более десяти лет. Но его слава за это время только выросла. В отличие от поддерживаемой нацистами имперской хунты и поддерживаемых Америкой "демократов", основой поддержки Хомейни является иранский народ, а его сила - в их желании разорвать оковы иностранного гнета и жить по воле Аллаха, Самого Милостивого, Самого Милосердного.\n\nВидение Хомейни для Ирана - это видение "велаят-эль-факих", с группой ученых исламских юристов, обеспечивающих опеку над государством. К удивлению своих врагов, аятолла проявил себя прагматичным человеком, заключая и разрывая союзы со всевозможными центрами власти. Для его сторонников, ободренных кассетами с его посланием, Хомейни - это все и вся. Религиозным гражданам он обещает возвращение к исламским ценностям; националистам - конец "еврейским марионеткам" и "иностранного гнета". Молодым людям аятолла обещает надежду и лучшую жизнь. Что касается его собственной роли в Иранской революции, то возможно об этом знает только сам Бог."
  
  ## Focus Tree ##
- IRI_the_iranian_civil_war:0 "The Iranian Civil War"
+ IRI_the_iranian_civil_war:0 "Гражданская война в Иране"
  IRI_the_iranian_civil_war_desc:0 ""
- IRI_arm_the_people:0 "Arm The People"
+ IRI_arm_the_people:0 "Вооружить людей"
  IRI_arm_the_people_desc:0 ""
- IRI_filling_the_line:0 "Filling The Line"
+ IRI_filling_the_line:0 "Восполнить потери"
  IRI_filling_the_line_desc:0 ""
- IRI_instigate_defections:0 "Instigate Defections"
+ IRI_instigate_defections:0 "Уничтожить дезертирство"
  IRI_instigate_defections_desc:0 ""
- IRI_learn_on_the_job:0 "Learn On The Job"
+ IRI_learn_on_the_job:0 "Сделать свою работу"
  IRI_learn_on_the_job_desc:0 ""
- IRI_raid_the_airfields:0 "Raid The Airfields"
+ IRI_raid_the_airfields:0 "Налет на аэродромы"
  IRI_raid_the_airfields_desc:0 ""
- IRI_defending_qom:0 "Defending Qom"
+ IRI_defending_qom:0 "Защищая Кум"
  IRI_defending_qom_desc:0 ""
- IRI_defending_the_skies:0 "Defending The Skies"
+ IRI_defending_the_skies:0 "Защищая небеса"
  IRI_defending_the_skies_desc:0 ""
- IRI_defending_our_secrets:0 "Defending Our Secrets"
+ IRI_defending_our_secrets:0 "Защищая наши секреты"
  IRI_defending_our_secrets_desc:0 ""
- IRI_a_war_industry:0 "A War Industry"
+ IRI_a_war_industry:0 "Военная промышленность"
  IRI_a_war_industry_desc:0 ""
- IRI_improvised_factories:0 "Improvised Factories"
+ IRI_improvised_factories:0 "Импровизированные фабрики"
  IRI_improvised_factories_desc:0 ""
- IRI_bargain_with_investors:0 "Bargain With Investors"
+ IRI_bargain_with_investors:0 "Заключить сделки с инвесторами"
  IRI_bargain_with_investors_desc:0 ""
- IRI_an_iranian_bullet:0 "An Iranian Bullet"
+ IRI_an_iranian_bullet:0 "Иранские пули"
  IRI_an_iranian_bullet_desc:0 ""
- IRI_in_a_japanese_gun:0 "In A Japanese Gun"
+ IRI_in_a_japanese_gun:0 "В японском оружии"
  IRI_in_a_japanese_gun_desc:0 ""
  
  ## Events ##

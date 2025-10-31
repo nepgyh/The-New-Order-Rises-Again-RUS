@@ -48,7 +48,7 @@
  #WAR_NAME_INCON_PAK:0 "Indian Civil War: INC - ACL"
 
  ### German Civil War ###
- WAR_NAME_BGR_GGR:0 "ГГВ: Конфликт Бормана и Геринга"
+ WAR_NAME_BGR_GGR:0 "ГГВ: Конфликт Бормана - Геринга"
  WAR_NAME_GGR_BGR:0 "ГГВ: Конфликт Бормана - Геринга"
  WAR_NAME_BGR_SGR:0 "ГГВ: Конфликт Бормана - Шпеера"
  WAR_NAME_SGR_BGR:0 "ГГВ: Конфликт Бормана - Шпеера"
@@ -175,8 +175,8 @@
  WAR_NAME_CHI_YUN:0 "Западное Восстание"
  
  ### Second Indian War of Independence ###
- WAR_NAME_RAJ_BEN:0 "Вторая индийская война за независимость"
- WAR_NAME_BEN_RAJ:0 "Вторая великая революция"
+ WAR_NAME_RAJ_BEN:0 "17th Indo-Bengali War"
+ WAR_NAME_BEN_RAJ:0 "Indo-Bengali War"
  
  ### Indo-Afghan War ###
  WAR_NAME_RAJ_AFG:0 "Индо-Афганская война"

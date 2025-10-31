@@ -1,9 +1,9 @@
 ﻿l_russian:
  ### Country Names ###
- KRK_communist:0 "Каракалпакстан"
- KRK_communist_DEF:0 "Каракалпакстан"
- KRK_socialist:0 "Каракалпакстан"
- KRK_socialist_DEF:0 "Каракалпакстан"
+ KRK_communist:0 "Каракалпакская Народная Республика"
+ KRK_communist_DEF:0 "Каракалпакская Народная Республика"
+ KRK_socialist:0 "Каракалпакская Народная Республика"
+ KRK_socialist_DEF:0 "Каракалпакская Народная Республика"
  KRK_social_liberal:0 "Каракалпакстан"
  KRK_social_liberal_DEF:0 "Республика Каракалпакстан"
  KRK_social_conservative:0 "Каракалпакстан"
@@ -14,18 +14,18 @@
  KRK_despotism_DEF:0 "Каракалпакстан"
  KRK_fascism:0 "Каракалпакстан"
  KRK_fascism_DEF:0 "Каракалпакстан"
- KRK_communist_ADJ:0 "каракалпакск."
+ KRK_communist_ADJ:0 "Каракалпакстанск."
  KRK_social_liberal_ADJ:0 "каракалпакск."
  KRK_social_conservative_ADJ:0 "каракалпакск."
  KRK_authoritarian_democrat_ADJ:0 "каракалпакск."
- KRK_despotism_ADJ:0 "каракалпакск."
- KRK_fascism_ADJ:0 "каракалпакск."
+ KRK_despotism_ADJ:0 "Каракалпакстанск."
+ KRK_fascism_ADJ:0 "Каракалпакстанск."
 
  ### Parties ###
- KRK_communist_party:0 "КПК"
- KRK_communist_party_long:0 "Коммунистическая Партия Каракалпакстана"
- KRK_socialist_party:0 ""
- KRK_socialist_party_long:0 ""
+ KRK_communist_party:0 "ККП"
+ KRK_communist_party_long:0 "Каракалпакская Коммунистическая Партия"
+ KRK_socialist_party:0 "КСП"
+ KRK_socialist_party_long:0 "Каракалпакская Социалистическая Партия"
  KRK_social_democrat_party:0 "НПК"
  KRK_social_democrat_party_long:0 "Народная Партия Каракалпакстана"
  KRK_social_liberal_party:0 "ПДП"
@@ -36,15 +36,15 @@
  KRK_authoritarian_democrat_party_long:0 ""
  KRK_despotism_party:0 ""
  KRK_despotism_party_long:0 ""
- KRK_fascism_party:0 "ЛНС"
- KRK_fascism_party_long:0 "Лига нации и силы"
+ KRK_fascism_party:0 "МКЛ"
+ KRK_fascism_party_long:0 "Лига Милет Ка"
  KRK_national_socialism_party:0 ""
  KRK_national_socialism_party_long:0 ""
  KRK_ultranational_socialism_party:0 ""
  KRK_ultranational_socialism_party_long:0 ""
  
  ### Leader Bios ###
- POLITICS_IBRAHIM_YUSUPOV_DESC:0 "Отец Ибрагима Юсупова был священником и богатым землевладельцем, что сделало его главной мишенью для ареста и "disappeared" by Soviet authorities in the 1930s. This left Yusupov to be raised by a single mother, and he was forced to work as a child to keep his siblings fed and clothed. This harsh upbringing, however, did not deter him from his love of poetry, and he was able to complete a literature degree when he was twenty.\n\nYusupov's homeland of Karakalpakstan had been occupied by the Russian Empire, and later the Soviet Union, for the better part of a century, and their autonomy was gradually eroded over the decades. Unsurprisingly, the Karakalpaks were quick to declare independence and fend off any post-Soviet warlords after the Union fell. They were also fortunate enough to gracefully transition from communist rule to a functioning liberal democracy, free of strongmen and tyrants. While other, more authoritarian regimes may have repressed him, the free nature of Karakalpak society allowed Yusupov's career as a poet and journalist to not only be viable, but also flourish. He worked as a newspaper editor and professor of literature, and eventually threw his hat in the ring and ran for President of Karakalpakstan in 1961. His popularity as an author had gone a long way toward building a voter base, and his rhetorical command ensured that he always came out ahead in debates. But now that he has won the presidency, some question whether he can amount to more than simple poems and whether he can actually implement the policies he so lyrically endorsed."
+ POLITICS_IBRAHIM_YUSUPOV_DESC:0 "Отец Ибрагима Юсупова был священником и богатым землевладельцем, что сделало его главной мишенью для ареста и "исчезновения" советскими властями в 1930-х годах. В результате Юсупов воспитывался матерью-одиночкой, и в детстве его заставляли работать, чтобы прокормить и одеть своих братьев и сестер. Однако такое суровое воспитание не отвратило его от любви к поэзии, и в двадцать лет он смог закончить литературный факультет.\n\nРодина Юсупова - Каракалпакстан - была оккупирована Российской Империей, а затем Советским Союзом на протяжении большей части столетия, и их автономия постепенно разрушалась на протяжении десятилетий. Неудивительно, что каракалпаки быстро провозгласили независимость и отбились от любых постсоветских военачальников после распада Союза. Им также посчастливилось изящно перейти от коммунистического правления к функционирующей либеральной демократии, свободной от вождей и тиранов. В то время как другие, более авторитарные режимы могли репрессировать его, свободная природа каракалпакского общества позволила карьере Юсупова как поэта и журналиста не только сохраниться, но и процветать. Он работал редактором газеты и профессором литературы, а в конце концов бросил свою шляпу в кольцо и баллотировался на пост президента Каракалпакстана в 1961 году. Его популярность как писателя позволила ему создать базу избирателей, а владение риторикой обеспечило ему постоянное превосходство в дебатах. Но теперь, когда он стал президентом, некоторые задаются вопросом, может ли он быть чем-то большим, чем просто стихоплетом, и сможет ли он на деле реализовать политику, которую он так лирично одобрял."
 
  ### Ministers ###
  KRK_Sunyat_Rakhmatullin_hog:0 "Сунят Рахматуллин"
@@ -54,5 +54,5 @@
  
  ### Ideas ###
  KRK_uzbek_political_exiles:0 "Узбекские политические изгнанники"
- KRK_wolves_at_the_door:0 "Волки за дверью"
+ KRK_wolves_at_the_door:0 "Волки у ворот"
  KRK_young_army:0 "Неопытная армия"

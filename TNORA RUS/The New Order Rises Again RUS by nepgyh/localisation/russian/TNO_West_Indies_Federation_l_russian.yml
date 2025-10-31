@@ -19,151 +19,151 @@
  POLITICS_GRANTLEY_ADAMS_DESC:0 "Grantley Herbert Adams started off as a trade unionist and socialist protester, but times have changed for this Barbadian. Seeing the United States occupy his home island enraged him to no end, but him and his Federal Labour Party have been forced into the effective position of what is known as the 'United States favorite party'. Many see him as someone who has lost his roots and has become the typical power hungry president sucking up to the United States. In reality, he has seen the failures of those before him and is afraid to make any moves in his position to avoid another collapse. This position of almost complete neutrality has worked so far to keep the federation alive, but for how long?"
 
  #IDEAS
- WIN_jamaican_nationalism:0 "Jamaican Nationalism"
- WIN_jamaican_nationalism_desc:0 "Jamaica is carrying almost the entire federation on its back alongside Trinidad & Tobago, responsible for 43% of the federation's financing. This has almost completely halted the economic development of the island, making the people there resentful towards the federation causing it to be the most nationalist within the federation."
+ WIN_jamaican_nationalism:0 "Ямайский национализм"
+ WIN_jamaican_nationalism_desc:0 "Ямайка вместе с Тринидадом и Тобаго держит на своих плечах почти всю Федерацию, принося в наш бюджет 43% от доходов. Это почти полностью остановило экономическое развитие острова, вызвав у местных жителей неприязнь к Федерации, в результате чего на Ямайке начали набирать силу националистические движения."
  
- WIN_jamaican_nationalism2:0 "Jamaican Nationalism"
- WIN_jamaican_nationalism2_desc:0 "Jamaica is carrying almost the entire federation on it's back alongside Trinidad & Tobago, responsible for 43% of the federation's financing. This has almost completely halted the economic development of the island, making the people there resentful towards the federation causing it to be the most nationalist within the federation."
+ WIN_jamaican_nationalism2:0 "Ямайский национализм"
+ WIN_jamaican_nationalism2_desc:0 "Ямайка вместе с Тринидадом и Тобаго держит на своих плечах почти всю Федерацию, принося в наш бюджет 43% от доходов. Это почти полностью остановило экономическое развитие острова, вызвав у местных жителей неприязнь к Федерации, в результате чего на Ямайке начали набирать силу националистические движения."
  
- WIN_jamaican_nationalism3:0 "Martial Law in Jamaica"
- WIN_jamaican_nationalism3_desc:0 "The protesters are cowed; the politicians are silenced. All is calm in Kingston. Unless there is something we've forgotten..."
+ WIN_jamaican_nationalism3:0 "Военное положение на Ямайке"
+ WIN_jamaican_nationalism3_desc:0 "Протестующие запуганы, а политикам приказано молчать. В Кингстоне все спокойно, если только мы ничего не забыли..."
  
- WIN_jamaican_nationalism4:0 "Jamaica's Burden Eased"
- WIN_jamaican_nationalism4_desc:0 "We've eased the burden that Jamaica carries, but the nationalists still seem to be very active. No matter, the politicians, at least, are on our side."
+ WIN_jamaican_nationalism4:0 "Спокойствие на Ямайке"
+ WIN_jamaican_nationalism4_desc:0 "Мы облегчили бремя, которое несла Ямайка, но националисты, похоже, все еще довольно активны. Однако это не так уж важно - главное, что политики на нашей стороне."
 
- WIN_splitting_apart:0 "Splitting Apart"
- WIN_splitting_apart_desc:0 "The West Indies is on the verge of splitting apart for a third time due to a number of factors. For all we know, this could be the last split as the United States grows tired of constant intervention and even the government avoids conscription in certain places to avoid betrayals in the army."
+ WIN_splitting_apart:0 "Разделяясь на части"
+ WIN_splitting_apart_desc:0 "Вест-Индия находится на грани раскола уже в третий раз. Насколько нам известно, этот раз может быть последним, поскольку Соединенные Штаты уже устали от постоянных вмешательств в наши дела, и даже само правительство избегает призыва в армию в определенных местах, чтобы избежать предательств и дезертирства."
  
- WIN_splitting_apart2:0 "Splitting Apart"
- WIN_splitting_apart2_desc:0 "The West Indies is on the verge of splitting apart for a third time due to a number of factors. For all we know, this could be the last split as the United States grows tired of constant intervention and even the government avoids conscription in certain places to avoid betrayals in the army."
+ WIN_splitting_apart2:0 "Разделяясь на части"
+ WIN_splitting_apart2_desc:0 "Вест-Индия находится на грани раскола уже в третий раз. Насколько нам известно, этот раз может быть последним, поскольку Соединенные Штаты уже устали от постоянных вмешательств в наши дела, и даже само правительство избегает призыва в армию в определенных местах, чтобы избежать предательств и дезертирства."
 
- WIN_history_occupation:0 "History of Occupation"
- WIN_history_occupation_desc:0 "Three times now the West Indies has fallen under United States military occupation, leaving us to deal with it's effects. As everytime our industry completely collapses, it has led a permanent scar on the economy."
+ WIN_history_occupation:0 "Оккупационное прошлое"
+ WIN_history_occupation_desc:0 "Уже трижды Вест-Индия попадала под военную оккупацию Соединенных Штатов, после чего нам приходилось разбираться с ее последствиями, так как каждый раз наша промышленность полностью уничтожалась, и наносился непоправимый ущерб по и без того слабой экономике."
  
- WIN_economic_meltdown:0 "Economic Meltdown"
- WIN_economic_meltdown_desc:0 "Having lost the island responsible for carrying almost half of the West Indies Federation on its shoulders, the economy has entered a death spiral. "
+ WIN_economic_meltdown:0 "Экономический крах"
+ WIN_economic_meltdown_desc:0 "Когда мы лишились острова, который содержал почти половину нашей Федерации, экономика страны рухнула."
  
- WIN_economic_meltdown2:0 "Economic Meltdown"
- WIN_economic_meltdown2_desc:0 "The government has taken extensive measures to prevent the complete disintegration of the West Indies economy; unpopular though they are, they shall prove essential to the continued survival of the nation."
+ WIN_economic_meltdown2:0 "Экономический крах"
+ WIN_economic_meltdown2_desc:0 "Правительство приняло обширные меры для предотвращения коллапса экономики Вест-Индии. Какими бы непопулярными эти меры ни были - это вынужденный шаг для дальнейшего выживания нации."
  
- WIN_election_workers_rights:0 "Expanded Social Welfare"
- WIN_election_workers_rights_desc:0 "The backbone of any nation is a well-fed, well-cared-for populace."
+ WIN_election_workers_rights:0 "Расширенные социальные гарантии"
+ WIN_election_workers_rights_desc:0 "Основа любой нации - это хорошо накормленное и ухоженное население."
  
  
  #FOCUSES
  
- WIN_flp_win:0 "Victory of the Federal Labour Party"
- WIN_flp_win_desc:0 "As expected, the Federal Labour Party has declared victory in the general elections."
+ WIN_flp_win:0 "Победа ФЛП"
+ WIN_flp_win_desc:0 "Как и ожидалось, Федеральная Лейбористская Партия победила на недавно прошедших выборах."
  
- WIN_flp_contain_nationalism:0 "Put a Lid on Jamaican Nationalism"
- WIN_flp_contain_nationalism_desc:0 "Jamaican nationalism is beginning to grow out of hand, and we have seen how Jamaican nationalism might lead to the death of the Federation. We may not be able to completely destroy it, but hopefully we can at least contain it."
+ WIN_flp_contain_nationalism:0 "Покончить с ямайским национализмом"
+ WIN_flp_contain_nationalism_desc:0 "Ямайский национализм начинает выходить из-под контроля, и мы видели, как он чуть не привел Федерацию к гибели. Вероятнее всего, мы не сможем покончить с ним, но, думаю, у нас получится держать националистов в узде."
  
- WIN_flp_calm_the_workers:0 "Calm the Working Class"
- WIN_flp_calm_the_workers_desc:0 "The working class still presents a big problem for the government; with the rise of radical mass movements in the West Indies, we could have a workers' revolution on our hands alongside a nationalist one. It's important to keep the working class satisfied so this doesn't become an eventuality."
+ WIN_flp_calm_the_workers:0 "Успокоить рабочих"
+ WIN_flp_calm_the_workers_desc:0 "Рабочий класс по-прежнему представляет большую проблему для правительства: с ростом популярности радикальных движений в Вест-Индии рабочая революция может угрожать нам так же, как и националистическая, если мы ничего не предпримем. Важно, чтобы пролетариат оставался доволен."
  
- WIN_flp_streamline_gov:0 "Streamline the Bureaucracy"
- WIN_flp_streamline_gov_desc:0 "The West Indies is no byzantine nightmare, like - ha! - Germany, but the nation's bureaucracy could surely use a general restructuring, as much of it was haphazardly constructed in the wake of the fall of Britain."
+ WIN_flp_streamline_gov:0 "Упростить бюрократию"
+ WIN_flp_streamline_gov_desc:0 "В отличие от какой-нибудь Германии, Вест-Индия - это не византийский кошмар, но бюрократии страны, несомненно, не помешала бы общая реструктуризация, поскольку большая ее часть была построена наспех после падения Британии.\n\nP.S. "Византийский кошмар" в данном случае означает невероятно запутанную бюрократию. Пример употребления фразы: "Правила византийской сложности"."
  
- WIN_leader_adams:0 ""The West Indies will endure!""
+ WIN_leader_adams:0 ""Вест-Индия выдержит!""
  WIN_leader_adams_desc:0 ""
  
- WIN_adams_status_quo:0 "Protect the Status Quo"
- WIN_adams_status_quo_desc:0 "The public sees Adams as being merely the lapdog of the United States: a puppet. If only they'd see that it is neccessary in order to keep the West Indies together. If being a puppet and lapdog will keep the West Indies united, then so be it: the alternative is far worse."
+ WIN_adams_status_quo:0 "Защитить статус-кво"
+ WIN_adams_status_quo_desc:0 "Общественность видит в Адамсе всего лишь комнатную собачку Соединенных Штатов: марионетку. Но почему они не могут понять, что это необходимо для того, чтобы сохранить Вест-Индию? Если лишь президент-марионетка может поддерживать единство страны, то так тому и быть: альтернатива намного хуже."
  
- WIN_try_and_fix:0 "Cautious Steps"
- WIN_try_and_fix_desc:0 "Of course, while the stability of the Federation is our primary goal, there are many actions we can take in order to alleviate the many woes of the common West Indian. We have to be cautious, of course, lest we upset the balance we have been so careful to cultivate."
+ WIN_try_and_fix:0 "Осторожные шаги"
+ WIN_try_and_fix_desc:0 "Стабильность Федерации является нашей главной целью, и пришло время предпринять некоторые меры, чтобы облегчить страдания простых жителей Вест-Индии. Однако нельзя забывать, что мы должны быть осторожны, дабы не нарушить равновесие внутри страны, которое так старательно нами выстраивалось."
  
- WIN_leader_barrow:0 ""What kind of mirror image do you have of yourself?""
- WIN_leader_barrow_desc:0 "Too many of our brethren move elsewhere, to the United States, to Australia - elsewhere, so that they might earn a living as a second citizen, never truly one of their neighbours' comrades. But not one of our comrades either. I ask of you: will your ambition be to move out of here, afraid of your own people and yourself? Or will you stay here to build - with us - a strong West Indies? I want to ask you, what mirror image you have of yourselves? "
+ WIN_leader_barrow:0 ""Что вы видите, смотрясь в зеркало?""
+ WIN_leader_barrow_desc:0 "Слишком много наших братьев переезжает в другие места: в Соединенные Штаты, в Австралию, да и куда-либо еще, где они могут зарабатывать на жизнь пользуясь вторым гражданством, никогда по-настоящему не имея товарищей среди своих соседей. Я спрашиваю вас: будете ли вы стремиться уехать отсюда, боясь своего собственного народа и самого себя, или вы останетесь здесь, чтобы мы вместе построили сильную Вест-Индию? Я хочу спросить вас: что вы видите, смотрясь в зеркало?"
  
- WIN_barrow_loosen_ties:0 "Loosen Our Dependence on the United States"
+ WIN_barrow_loosen_ties:0 "Ослабить зависимость от США"
  WIN_barrow_loosen_ties_desc:0 ""
  
- WIN_barrow_a_strong_west_indies:0 "A Strong West Indies"
+ WIN_barrow_a_strong_west_indies:0 "Сильная Вест-Индия"
  WIN_barrow_a_strong_west_indies_desc:0 ""
  
- WIN_safe_for_now:0 "Clearing Another Hurdle"
+ WIN_safe_for_now:0 "Преодолевая препятствия"
  WIN_safe_for_now_desc:0 ""
  
  ##
  
- WIN_dlp_win:0 "Victory of the Democratic Labour Party"
- WIN_dlp_win_desc:0 "The Democratic Labour Party - against all odds - has won the general election in the West Indies!"
+ WIN_dlp_win:0 "Победа ДРП"
+ WIN_dlp_win_desc:0 "Демократическая Рабочая Партия, вопреки всем ожиданиям, выиграла выборы!"
  
- WIN_first_things_first:0 "What to do with the Radicals?"
- WIN_first_things_first_desc:0 "There are elements of the Democratic Labour Party to the left of us, that many might consider dangerous to democracy: the Marxists, anarchists and other socialists. However, they are useful allies, so the question now stands: do we let them in?"
+ WIN_first_things_first:0 "Что нам делать с радикалами?"
+ WIN_first_things_first_desc:0 "В нашей Демократической Рабочей Партии есть элементы, которые многие могут счесть опасными для демократии: марксисты, анархисты и другие социалисты. Однако они являются полезными союзниками, поэтому теперь встает вопрос, стоит ли впускать их в парламент или нет."
  
- WIN_dlp_labour_relations:0 "Labour Relations"
- WIN_dlp_labour_relations_desc:0 "It's important to foster good relations with the unions and the working class in general, as they do comprise of our main base of support."
+ WIN_dlp_labour_relations:0 "Рабочие отношения"
+ WIN_dlp_labour_relations_desc:0 "Важно развивать хорошие отношения с профсоюзами и рабочим классом в целом, поскольку они составляют большую часть электората."
  
- WIN_dlp_expand_welfare:0 "Expand Welfare"
+ WIN_dlp_expand_welfare:0 "Расширить социальные гарантии"
 # WIN_dlp_expand_welfare:0 "We feel as if the welfare reforms that the past regime made when it capitulated to the strikers several years ago are lacking. A well-fed, housed and clothed populace is essential for the economy. " #duplicate loc key
  
- WIN_referendum_prep:0 "Prepare for the Jamaican Referendum"
- WIN_referendum_prep_desc:0 "Now that we've completed out initial agenda, it's time to get onto the most important of our goals: the Jamaican Independence Referendum."
+ WIN_referendum_prep:0 "Приготовиться к референдуму"
+ WIN_referendum_prep_desc:0 "Теперь, когда мы выполнили свои первичные обещания, пришло время приступить к самой важной из наших целей: референдуму о независимости Ямайки."
  
- WIN_voting_booths:0 "Voting Booths"
- WIN_voting_booths_desc:0 "A referendum, for rather obvious reasons, can't function without places for the people to deposit their votes. Thankfully, we can repurpose those used in the recent election, but it will take time to convert them."
+ WIN_voting_booths:0 "Подготовить кабинки"
+ WIN_voting_booths_desc:0 "Референдум, по вполне очевидным причинам, не может функционировать без мест, где люди могли бы отдать свои голоса. К счастью, мы можем перепрофилировать те, которые использовались на недавних выборах, но для на их подготовку потребуется время."
  
- WIN_disseminate_info:0 "Educate the Voters"
- WIN_disseminate_info_desc:0 "The people of Jamaica must be taught about the issues facing them, and how they will be able to choose ni the coming referendum. Yet, we feel as if most have already made up their minds..."
+ WIN_disseminate_info:0 "Объяснить ситуацию"
+ WIN_disseminate_info_desc:0 "Народ Ямайки должен быть проинформирован о стоящих перед ним проблемах и о том, как они смогут сделать выбор на предстоящем референдуме. Тем не менее, мы чувствуем, что большинство из них уже приняли решение..."
  
- WIN_ensure_order:0 "Ensure Order"
- WIN_ensure_order_desc:0 "We must ensure that the referendum is conducted in an orderly fashion, lest it fall into chaos. Though a section of the party greatly supports the independence of Jamaica, even to the point of extra-legal tactics, we must preserve civility."
+ WIN_ensure_order:0 "Обеспечить порядок"
+ WIN_ensure_order_desc:0 "Мы должны сделать так, чтобы референдум прошел организованно и не превратился в хаос."
  
- WIN_referendum_voting:0 "Cast Your Votes!"
- WIN_referendum_voting_desc:0 "The time has come for the populace to vote for the independence of Jamaica."
+ WIN_referendum_voting:0 "Голосуйте!"
+ WIN_referendum_voting_desc:0 "Пришло время решить вопрос о независимости Ямайки."
  
  ##
  
- WIN_hold_it_together:0 "Hold the Federation Together!"
- WIN_hold_it_together_desc:0 "Jamaica is gone, with the best of our economy. Nationalist agitation has spread across the West Indies, but we WILL hold the Federation together."
+ WIN_hold_it_together:0 "Сохраним Федерацию вместе!"
+ WIN_hold_it_together_desc:0 "Ямайка ушла от нас вместе с лучшими достижениями нашей экономики, а националистическая агитация распространилась по всей Вест-Индии. Как бы то ни было, мы сможем сохранить Федерацию!"
  
- WIN_desperate_times_means:0 "Desperate Times..."
- WIN_desperate_times_means_desc:0 "A united front will be neccessary for us to navigate this crisis. We can't be arguing in Parliament while the Federation burns outside."
+ WIN_desperate_times_means:0 "Отчаянные времена..."
+ WIN_desperate_times_means_desc:0 "Для преодоления этого кризиса нам нужно действовать единым фронтом. Мы не можем спорить в парламенте, пока снаружи Федерация полыхает."
  
- WIN_desperate_measures:0 "...Desperate Measures"
- WIN_desperate_measures_desc:0 "Many corporate lobbyists and their politicians are pushing for us to take the chance to privatise the economy further while everyone's distracted - the "Shock Doctrine", they call it. We doubt this will help the people of the West Indies, to be sure, but elements from the other side have urged a similar type of plan. The only difference is the target..."
+ WIN_desperate_measures:0 "...требуют отчаянных мер"
+ WIN_desperate_measures_desc:0 "Многие корпоративные лоббисты и их политики настаивают на том, чтобы мы воспользовались шансом провести приватизацию экономики, пока все отвлечены - они называют это "Шоковая терапия". Конечно, мы сомневаемся, что это поможет жителям Вест-Индии, однако кое-кто на побережье тоже настаивает на подобном плане. Единственная разница - это цель..."
  
- WIN_this_isnt_working:0 "Plan B?"
+ WIN_this_isnt_working:0 "План Б?"
  WIN_this_isnt_working_desc:0 ""
  
- WIN_send_the_marines:0 "United States Intervention?"
- WIN_send_the_marines_desc:0 "We have realised that we may not be able to deal with the crisis in the West Indies without help from the Americans. A sizable portion of the Parliament is urging us to swallow our pride and call in the Yankees. But pride may not be the only thing we lose..."
+ WIN_send_the_marines:0 "Интервенция США?"
+ WIN_send_the_marines_desc:0 "Мы поняли, что не можем справиться с кризисом в Вест-Индии без помощи американцев. Значительная часть парламента призывает нас отвергнуть свою гордость и призвать янки на помощь. Однако гордость может быть не единственным, что мы теряем..."
  
  ##
  
- WIN_rally:0 "The Jamaican Powderkeg"
- WIN_rally_desc:0 "Jamaica has, once again, reached its boiling point. Riots have broken out across the island and more and more are agitating for independence. We need to defuse this bomb, if we are to survive at all."
+ WIN_rally:0 "Ямайская пороховая бочка"
+ WIN_rally_desc:0 "Напряжение на Ямайке вновь достигло критической точки. По всему острову вспыхнули беспорядки, и все больше и больше людей выступают за независимость. Нам нужно обезвредить эту бомбу, если мы хотим выжить."
  
- WIN_words:0 "Let's Talk it Out"
+ WIN_words:0 "Давайте поговорим"
  WIN_words_desc:0 ""
  
- WIN_meeting:0 "Meet With the Protesters"
+ WIN_meeting:0 "Встретиться с протестующими"
  WIN_meeting_desc:0 ""
  
- WIN_economic_concessions:0 "Ease the Burden"
+ WIN_economic_concessions:0 "Облегчить их бремя"
  WIN_economic_concessions_desc:0 ""
  
- WIN_jamaican_autonomy:0 "Grant Political Autonomy"
+ WIN_jamaican_autonomy:0 "Обеспечение политической автономии"
  WIN_jamaican_autonomy_desc:0 ""
  
- WIN_successful_negotiations:0 "Successful Negotiations?"
+ WIN_successful_negotiations:0 "Переговоры удались?"
  WIN_successful_negotiations_desc:0 ""
  
- WIN_war:0 "Our Patience Has Worn Thin"
+ WIN_war:0 "Наше терпение кончилось!"
  WIN_war_desc:0 ""
  
- WIN_crack_down:0 "Crack Down on the Protests "
+ WIN_crack_down:0 "Подавить протесты"
  WIN_crack_down_desc:0 ""
  
- WIN_jail_leader:0 "Jail the Leaders"
+ WIN_jail_leader:0 "Арестовать инициаторов бунта"
  WIN_jail_leader_desc:0 ""
  
- WIN_martial_law:0 "Declare Martial Law"
+ WIN_martial_law:0 "Ввести военное положение"
  WIN_martial_law_desc:0 ""
  
- WIN_order_restored:0 "Order Restored?"
+ WIN_order_restored:0 "Порядок восстановлен?"
 # WIN_order_restored:0 "" #duplicate loc key
 
  ##
@@ -174,7 +174,7 @@
  WIN.20.a:0 "Начнем подготовку!"
  
  WIN.21.t:0 "Эррол Бэрроу объявляет о своих намерениях"
- WIN.21.desc:0 "Популярность Грантли Герберта Адамса давно упала. Его обвиняют в том, что он не более чем оппортунист, выслуживающийся перед США за счет своей Родины. Несмотря на правдивость этих заявлений, скептики в собственной партии Адамса сплотились вокруг "
+ WIN.21.desc:0 "Популярность Грантли Герберта Адамса давно упала. Его обвиняют в том, что он не более чем оппортунист, выслуживающийся перед США за счет своей Родины. Несмотря на правдивость этих заявлений, скептики в собственной партии Адамса сплотились вокруг "народного героя" Эррола Бэрроу, который объявил о своем намерении узурпировать должность Адамса в качестве лидера ФЛП. Он убежденный сторонник суверенитета Карибского бассейна, и  никто не может сказать о последствиях его возможного избрания для отношений с Соединенными Штатами и для нации в целом."
  WIN.21.a:0 "Неожиданно!"
  
  WIN.22.t:0 "Споры в ФЛП!"
@@ -364,7 +364,7 @@
  
 
  WIN.150.t:0 "За гранью"
- WIN.150.desc:0 "В новой книге известного марксистского автора К. Л. Р. Джеймса "
+ WIN.150.desc:0 "В новой книге известного марксистского автора К. Л. Р. Джеймса "За гранью" подробно рассказывается о важности крикета в его жизни, а также в Вест-Индии и Англии. Взяв штурмом англоязычный мир, в частности страны бывшего Содружества, эта книга провозглашается величайшим произведением, когда-либо написанным об игре в крикет. В ней рассказывается не только об этом известном развлечении, но и о расизме, бедности и классовом неравенстве, с которыми крикет тесно связан."
  WIN.150.a:0 "Что знают о крикете те, кто знает только крикет?"
  
  

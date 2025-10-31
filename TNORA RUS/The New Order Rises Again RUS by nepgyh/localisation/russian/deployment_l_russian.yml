@@ -60,7 +60,7 @@
  TIMED_ACTIVITY_ENTRY_DESC:0 "§BЗадайте приоритет для техники, которая поддержит эту дипломатическую деятельность.§!"
  TIMED_ACTIVITY_ENTRY_COMPLETE_DESC:0 "§GПолучено максимально возможное количество техники.§!"
  LAND_DEPLOYMENT:0 "§BНаземное развертывание§!"
- AIR_DEPLOYMENT:0 "§TВоздушное развертывание§!"
+ AIR_DEPLOYMENT:0 "§BВоздушное развертывание§!"
  NAVAL_DEPLOYMENT:0 "§BМорское развертывание§!"
  DIVISION_DESIGNER_RENAME:0 "Переименовать"
  DIVISION_DESIGNER_UPDATE:0 "Обновить"

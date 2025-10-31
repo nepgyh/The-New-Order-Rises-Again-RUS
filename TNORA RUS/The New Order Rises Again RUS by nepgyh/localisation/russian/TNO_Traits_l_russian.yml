@@ -157,7 +157,7 @@ sec_rules_the_waves: "Правит волнами"
 sec_disgraced_exile: "Опальный ссыльный"
 sec_humble_teacher: "Скромный учитель"
 sec_old_prussian: "Старый пруссак"
-sec_bomb_run_john:0 ""Bomb-run John""
+sec_bomb_run_john:0 ""Бомбящий Джон""
 
 ### Intelligence Minister ###
 int_technical_specialist: "Технический специалист"
@@ -181,7 +181,7 @@ carm_elastic_defence_doctrine: "Доктрина эластичной оборо
 carm_static_defence_doctrine: "Доктрина статичной обороны"
 carm_decisive_battle_doctrine: "Доктрина решающего сражения"
 carm_armoured_spearhead_doctrine: "Доктрина одного удара"
-carm_guns_and_butter_doctrine: "Доктрина "
+carm_guns_and_butter_doctrine: "Доктрина "пушек вместо масла""
 carm_commando_doctrine: "Доктрина коммандо"
 carm_doctrine_of_autonomy: "Доктрина автономии на поле боя"
 

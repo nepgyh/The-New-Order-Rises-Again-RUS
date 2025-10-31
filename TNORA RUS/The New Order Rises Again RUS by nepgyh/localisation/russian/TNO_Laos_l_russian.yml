@@ -51,14 +51,14 @@
  ##Parties##
  ###########
 
- LAO_communist_party:0 "PP"
- LAO_communist_party_long:0 "Phak Phasasonlav"
+ LAO_communist_party:0 "ПФЛ"
+ LAO_communist_party_long:0 "Патриотический фронт Лаоса"
  LAO_social_liberal_party:0 "PS"
  LAO_social_liberal_party_long:0 "Phak Seri"
  LAO_authoritarian_democrat_party:0 "PA"
  LAO_authoritarian_democrat_party_long:0 "Phak Anulak"
- LAO_despotism_party:0 "A"
- LAO_despotism_party_long:0 "Aenualauasangsad"
+ LAO_despotism_party:0 "НО"
+ LAO_despotism_party_long:0 "Народное общество"
  
  #########
  ##Ideas##

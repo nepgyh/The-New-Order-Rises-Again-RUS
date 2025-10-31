@@ -1,0 +1,3 @@
+﻿Files processed: 611
+Total replaced: 134482
+Total skipped (no old translation): 67101

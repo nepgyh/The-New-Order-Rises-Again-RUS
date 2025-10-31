@@ -3,12 +3,12 @@
  ###########
  ##PARTIES##
  ###########
- DFK_despotism_party:0 "Freikorps - Militaristen"
- DFK_despotism_party_long:0 "Deutsches Freikorps"
+ DFK_despotism_party:0 "Добровольческий корпус - Милитаристы"
+ DFK_despotism_party_long:0 "Немецкий добровольческий корпус"
  DFK_ultranational_socialism_party:0 "Freikorps - Extremisten"
  DFK_ultranational_socialism_long:0 "Deutsches Freikorps"
- DFK_national_socialism_party:0 "Baku Industrialists"
- DFK_national_socialism_party_long:0 "Baku Industrialists"
+ DFK_national_socialism_party:0 "Бакинские промышленники"
+ DFK_national_socialism_party_long:0 "Бакинские промышленники"
  
  ################
  ##LEADER DESCS##
@@ -23,10 +23,10 @@
  #########
  ##IDEAS##
  #########
- DFK_Funding_from_the_Shadows:0 "Funding from the Shadows"
- DFK_Funding_from_the_Shadows_desc:0 "From shadowy depths emerge pouches filled with coin, and Weidinger is more than happy to snatch them. In order to maintain their rule over Baku in the Caucasus, the Deutsches Freikorps is receiving secret funding from powerful corporations and the Marshal of Moskowien himself, Ferdinand Schörner."
- DFK_Band_of_Brothers:0 "Band of Brothers"
- DFK_Band_of_Brothers_desc:0 "Other than blood and heritage, the only thing that can bond men together is war. The Deutsches Freikorps are a band of mercenary soldiers who have fought alongside each other through thick and thin, bantering in hours of peace and falling before their brothers in times of battle. The Freikorps are united together by the flames of war, and nothing will break them apart."
- DFK_Rule_of_the_Mercenaries:0 "Rule of the Mercenaries"
- DFK_Rule_of_the_Mercenaries_desc:0 "Baku lies under the chaotic leadership of the Deutsches Freikorps, a band of vicious German mercenaries with no experience of state administration. Due to the nature of such a mercenary government Baku has become highly militarized, and its extreme instability – both socially and politically – is of no surprise to anyone."
+ DFK_Funding_from_the_Shadows:0 "Теневое финансирование"
+ DFK_Funding_from_the_Shadows_desc:0 "В темнейших глубинах можно заметить едва различимый блеск монент, и Вейдингер более чем счастлив хватануть всю горсть. Чтобы сохранить свое господство над Баку на Кавказе, Немецкий Добровольческий корпус получает секретное финансирование от могущественных корпораций и самого маршала, Фердинанда Шёрнера"
+ DFK_Band_of_Brothers:0 "Братья по оружию"
+ DFK_Band_of_Brothers_desc:0 "Кроме рода и наследия, единственное, что может объединить людей - это война. Немецкий добровольческий корпус - это группа наёмных солдат, которые сражались бок о бок друг с другом в самые трудные времена, перешучиваясь друг с другом в часы мира, и жертвуя собой ради своих товарищей во время битв. Добровольческий корпус объединен в пламени войны, и ничто не разлучит их."
+ DFK_Rule_of_the_Mercenaries:0 "Власть наёмников"
+ DFK_Rule_of_the_Mercenaries_desc:0 "Баку находится под хаотичным руководством Немецкого Добровольческого корпуса - банды свирепых немецких наемников, не имеющих опыта государственного управления. Из–за характера такого наемнического правительства Баку стал сильно милитаризованным, и его крайняя нестабильность – как социальная, так и политическая - никого не удивляет."
  

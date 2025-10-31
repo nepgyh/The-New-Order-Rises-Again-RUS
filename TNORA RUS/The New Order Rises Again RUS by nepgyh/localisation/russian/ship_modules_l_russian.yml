@@ -218,7 +218,7 @@
  ship_mine_layer_sub:0 "Трубы для постановки мин"
  ship_mine_layer_sub_desc:0 "Модификация корпуса подлодки, позволяющая производить постановку мин."
  
- ship_depth_charge_1:0 "Противолодочный миномет "
+ ship_depth_charge_1:0 "Противолодочный миномет "Еж""
  ship_depth_charge_1_short:0 "Глубинная бомба I"
  ship_depth_charge_1_desc:0 ""
  ship_depth_charge_2:0 "Противолодочная глубинная установка MBU-600"

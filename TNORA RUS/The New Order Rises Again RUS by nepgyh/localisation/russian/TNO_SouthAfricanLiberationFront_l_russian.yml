@@ -8,7 +8,7 @@
  SLF_FEDERATION_authoritarian_democrat_DEF:0 "Южноафриканская Федерация"
  SLF_FEDERATION_authoritarian_democrat_ADJ:0 "Южная Африка"
 
- FACTION_SOUTH_AFRICAN_ALLIANCE:0 "Альянс"
+ FACTION_SOUTH_AFRICAN_ALLIANCE:0 "Южноафриканский альянс"
  
  ####Party Names#####
 
@@ -20,7 +20,7 @@
  ## Ideas ##
  
  SLF_lessons_first_civil_war:0 "Уроки Первой гражданской войны"
- SLF_governmental_rivalries:0 "Соперничество правительств"
+ SLF_governmental_rivalries:0 "Соперничество в правительстве"
 
  ## Decisions ##
  

@@ -6,7 +6,7 @@
  POL_OTHERS_DRIFT:0 "В связи с изменениями в других партиях: $VAL$"
  POLITICS_NOELECTIONS:0 "Выборов нет"
  POLITICS_NEXTELECTION:0 "След. выборы"
- POLITICS_ELECTION_FREQUENCY:0 ""
+ POLITICS_ELECTION_FREQUENCY:0 "Выборы через каждые $MONTHS|H$ г."
  POLITICS_HOLD_ELECTION:0 "Провести выборы в государстве $COUNTRY$"
  POLITICS_NEXT_ELECTION:0 "След. выборы: $DATE$"
  POLITICS_ACTIVE_GOAL:0 "Текущая цель"

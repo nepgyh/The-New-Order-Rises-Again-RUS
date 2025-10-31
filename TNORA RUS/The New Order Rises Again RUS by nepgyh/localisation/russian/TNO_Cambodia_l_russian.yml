@@ -4,9 +4,9 @@
  ##Parties##
  ###########
 
- CAM_communist_party:0 "Khmer Rouge"
- CAM_socialist_party_long:0 "Khmer Rouge"
- CAM_socialist_party:0 "Krom Pracheathipatei"
+ CAM_communist_party:0 "КПК"
+ CAM_socialist_party_long:0 "Коммунистическая партия Кампучии"
+ CAM_socialist_party:0 "КПК"
 # CAM_socialist_party_long:0 "Democratic Party" #duplicate loc key
  CAM_social_democrat_party:0 "Konabaksa Vodthonpheap"
  CAM_social_democrat_party_long:0 "Progressive Party"
@@ -16,7 +16,7 @@
  CAM_social_conservative_party_long:0 "Liberal Party"
  CAM_authoritarian_democrat_party:0 "Sangkum - Left"
  CAM_authoritarian_democrat_democrat_party_long:0 "Sangkum Reastr Niyum - Left Wing"
- CAM_despotist_party:0 "Sangkum - Right"
+ CAM_despotist_party:0 "НСО - Правые"
  CAM_despotist_democrat_party_long:0 "Sangkum Reastr Niyum - Right Wing"
  
  #########
@@ -24,9 +24,9 @@
  #########
  
  #Ministers
- CAM_Norodom_Kantol_hog:0 "Norodom Kantol"
- CAM_Son_Sann_eco:0 "Son Sann"
- CAM_Nhiek_Tioulong_for:0 "Nhiek Tioulong"
+ CAM_Norodom_Kantol_hog:0 "Нородом Кантол"
+ CAM_Son_Sann_eco:0 "Сон Санн"
+ CAM_Nhiek_Tioulong_for:0 "Нхиек Тьоулонг"
  CAM_In_Tam_sec:0 "In Tam"
  
  ########

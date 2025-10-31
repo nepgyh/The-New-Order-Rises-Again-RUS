@@ -2,10 +2,10 @@
  ## Country Names ##
  KTG_communist:0 "Свободная Республика Катанга"
  KTG_communist_DEF:0 "Свободная Республика Катанга"
- KTG_communist_ADJ:0 "Катанганян"
+ KTG_communist_ADJ:0 "Катангск"
  KTG_fascism:0 "Государство Катанга"
  KTG_fascism_DEF:0 "Государство Катанга"
- KTG_fascism_ADJ:0 "Катанганян"
+ KTG_fascism_ADJ:0 "Катангск"
  
  ####Party Names#####
  KTG_communist_party:0 "АОД Катанги"

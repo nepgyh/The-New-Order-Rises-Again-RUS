@@ -6,7 +6,7 @@
  POL_authoritarian_democrat_ADJ:0 "польск"
  POL_communist:0 "Польская Народная Республика"
  POL_communist_DEF:0 "Польская Народная Республика"
- POL_communist_ADJ:0 "польск"
+ POL_communist_ADJ:0 "Польск."
 
 
 #Party Names
@@ -30,14 +30,14 @@
  
  ##Speer Stuff
  POL_collab_fascism:0 "НСДАП-П"
- POL_collab_fascism_long:0 "Национал-Социалистическая Немецкая Рабочая Партия - Польша"
+ POL_collab_fascism_long:0 "Национал-социалистическая немецкая рабочая партия - Польша"
  POL_collab_national_socialism:0 "НСДАП-П"
- POL_collab_national_socialism_long:0 "Национал-социалистическая Немецкая Рабочая Партия - Польша"
+ POL_collab_national_socialism_long:0 "Национал-социалистическая немецкая рабочая партия - Польша"
 
  #Ideas
 
  POL_home_Defense:0 "Защита дома"
- POL_Hardened_Defense:0 "Закалённая защита"
+ POL_Hardened_Defense:0 "Закалённая оборона"
 
 
  #Leader Descriptions#
