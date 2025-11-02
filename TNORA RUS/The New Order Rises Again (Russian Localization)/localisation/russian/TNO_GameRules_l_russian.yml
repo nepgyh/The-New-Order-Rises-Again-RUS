@@ -1,0 +1,17 @@
+﻿l_russian:
+
+### Хэллоуин — событие с зомби
+
+ZOMBIE_EASTEREGG_STATUS:0 "£TNO_game_rule_flag_ZOM_zombie   Хэллоуинский ивент"
+RULE_OPTION_DEFAULT_ZOMBIES:0 "Отключено"
+RULE_OPTION_DEFAULT_ZOMBIES_DESC:0 "§GОтключить зомби события.§!"
+RULE_OPTION_ZOMBIES_ACTIVE:0 "§RСломать печати§!"
+RULE_OPTION_ZOMBIES_ACTIVE_DESC:0 "§RВключить зомби события (не переведено)§!"
+
+### Дипломатические кризисы — Холодная война
+
+CRISIS_DETENTE_STATUS:0 "Дипломатические кризисы"
+RULE_OPTION_DEFAULT_CRISIS:0 "Обычные"
+RULE_OPTION_DEFAULT_CRISIS_DESC:0 "§WДипломатические кризисы §Rмогут§! перерасти в §RТретью мировую войну§!.§!"
+RULE_OPTION_CRISIS_DISABLED:0 "Всегда урегулируются"
+RULE_OPTION_CRISIS_DISABLED_DESC:0 "§WДипломатические кризисы §Gвсегда урегулируются§! прежде, чем приведут к §RТретьей мировой войне§!.§!"

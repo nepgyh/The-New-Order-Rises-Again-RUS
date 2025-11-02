@@ -1,0 +1,59 @@
+﻿l_russian:
+
+ ## Country Names ##
+ PIC_fascism:0 "Штаат Пикард"
+ PIC_fascism_DEF:0 "Штаат Пикард"
+ PIC_social_liberal:0 "Республика Пикардия"
+ PIC_social_liberal_DEF:0 "Республика Пикардия"
+ PIC_market_liberal:0 "Республика Пикардия"
+ PIC_market_liberal_DEF:0 "Республика Пикардия"
+ PIC_social_conservative:0 "Республика Пикардия"
+ PIC_social_conservative_DEF:0 "Республика Пикардия"
+ PIC_authoritarian_democrat:0 "Республика Пикардия"
+ PIC_authoritarian_democrat_DEF:0 "Республика Пикардия"
+ PIC_despotism:0 "Герцогство Пикардия"
+ PIC_despotism_DEF:0 "Герцогство Пикардия"
+ PIC_communist:0 "Революционная Пикардия"
+ PIC_communist_DEF:0 "Революционная Пикардия"
+ PIC_socialist:0 "Революционная Пикардия"
+ PIC_socialist_DEF:0 "Революционная Пикардия"
+ PIC_ultranational_socialism:0 "Новое Французское Государство"
+ PIC_ultranational_socialism_DEF:0 "Новое Французское Государство"
+ PIC_ultranational_socialism_ADJ:0 "Пикардск."
+ PIC_burgundian_system:0 "СС-Орденсштаат Пикардия"
+ PIC_burgundian_system_DEF:0 "СС-Орденсштаат Пикардия"
+ PIC_burgundian_system_ADJ:0 "Пикардск."
+ PIC_fascism_ADJ:0 "Пикардск."
+ PIC_social_liberal_ADJ:0 "Пикардск."
+ PIC_market_liberal_ADJ:0 "Пикардск."
+ PIC_social_conservative_ADJ:0 "Пикардск."
+ PIC_authoritarian_democrat_ADJ:0 "Пикардск."
+ PIC_despotism_ADJ:0 "Пикардск."
+ PIC_communist_ADJ:0 "Пикардск."
+ 
+ ## Party Names ##
+
+ ## Ministers ##
+ 
+ POLITICS_Christian_de_La_Maziere_DESC:0 "В центре того, что когда-то было Францией, дивизия "
+
+ ## Ideas ##
+ 
+ PIC_in_name_only:0 "Только по названию"
+ PIC_in_name_only_desc:0 "Солдаты Мазьера носят имя Карла Великого, но большинство французов воспринимают их как простых немецких подхалимов. Мазьер может считать себя основателем новой Франции, но ему предстоит пройти долгий путь, прежде чем его соотечественники даже подумают о том, чтобы проявить к нему уважение."
+ 
+ PIC_robber_barony:0 "Барон-разбойник"
+ PIC_robber_barony_desc:0 "Руководители дивизии "Шарлемань" - богатые люди, но не благодаря какой-либо деловой проницательности или с трудом заработанным наградам. Их богатства почти всегда основаны на разграблении других. Хотя когда-то они ограничивались экспроприированной еврейской собственностью, офицеры теперь не гнушаются и менее патриотическими начинаниями..."
+ 
+ ## Factions ##
+ 
+ ## Decisions ##
+ 
+ ## Tooltips ##
+ 
+ ## Leader Bios ##
+
+ ## Focus Tree ##
+
+ ## Events ##
+ 

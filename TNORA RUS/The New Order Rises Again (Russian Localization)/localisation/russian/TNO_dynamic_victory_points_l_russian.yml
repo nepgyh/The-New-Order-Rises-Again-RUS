@@ -1,0 +1,132 @@
+﻿l_russian:
+ VICTORY_POINTS_12657_rus:0 "Свободный"
+ VICTORY_POINTS_7763_rodz:0 "Родзаевск"
+ VICTORY_POINTS_7763_rus:0 "Благовещенск"
+ VICTORY_POINTS_12263_ruscom:0 "Комсомольск-на-Амуре"
+ VICTORY_POINTS_12263_rusnor:0 "Пермское-на-Амуре"
+ VICTORY_POINTS_7672_rus:0 "Биробиджан"
+ VICTORY_POINTS_12559_rus:0 "Николаевск-на-Амуре"
+ VICTORY_POINTS_12189_rus:0 "Хабаровск"
+ VICTORY_POINTS_9604_ruscom:0 "Советская Гавань"
+ VICTORY_POINTS_9604_rusnor:0 "Императорская Гавань"
+ VICTORY_POINTS_11750_rus:0 "Арсеньев"
+ VICTORY_POINTS_3977_rus:0 "Уссурийск"
+ VICTORY_POINTS_6961_rus:0 "Находка"
+ VICTORY_POINTS_957_rus:0 "Владивосток"
+ VICTORY_POINTS_957_chi:0 "Хайшэньвай"
+ VICTORY_POINTS_3338_ary:0 "Эрценгель"
+ VICTORY_POINTS_6124_com:0 "Рыков"
+ VICTORY_POINTS_272_com:0 "Рыково-Чепецк"
+ VICTORY_POINTS_11352_com:0 "Краснокамск"
+ VICTORY_POINTS_7375_nor:0 "Пермь"
+ VICTORY_POINTS_11375_ary:0 "Нидернойштадт"
+ VICTORY_POINTS_11375_nor:0 "Нижний Новгород"
+ VICTORY_POINTS_11225_com:0 "Куйбышев"
+ VICTORY_POINTS_9243_com:0 "Новокуйбышевск"
+ VICTORY_POINTS_7403_nor:0 "Чайковский"
+ VICTORY_POINTS_3382_com:0 "Ульяновск"
+ VICTORY_POINTS_9391_com:0 "Чапаевск"
+ VICTORY_POINTS_1821_nor:0 "Екатеринбург"
+ VICTORY_POINTS_10670_kag:0 "Кагановичград"
+ VICTORY_POINTS_7835_com:0 "Улан-Удэ"
+ VICTORY_POINTS_9402_nor:0 "Царевококшайск"
+ VICTORY_POINTS_10627_nor:0 "Белоцарск"
+ VICTORY_POINTS_7822_kag:0 "Сталинск"
+ VICTORY_POINTS_1860_com:0 "Куйбышев"
+ VICTORY_POINTS_6181_rus:0 "Кандалакша"
+ VICTORY_POINTS_3134_rus:0 "Мурманск"
+ VICTORY_POINTS_94_rus:0 "Кемь"
+ VICTORY_POINTS_11159_rus:0 "Петрозаводск"
+ VICTORY_POINTS_3151_rus:0 "Санкт-Петербург" # <<TRANSLATED>>
+ VICTORY_POINTS_3151_com:0 "Ленинград" # <<TRANSLATED>>
+ VICTORY_POINTS_11186_rus:0 "Сосновый Бор" # <<TRANSLATED>>
+ VICTORY_POINTS_9098_rus:0 "Волосово" # <<TRANSLATED>>
+ VICTORY_POINTS_11174_rus:0 "Волхов" # <<TRANSLATED>>
+ VICTORY_POINTS_3140_rus:0 "Тихвин" # <<TRANSLATED>>
+ VICTORY_POINTS_3124_rus:0 "Череповеты" # <<TRANSLATED>>
+ VICTORY_POINTS_11202_rus:0 "Псков" # <<TRANSLATED>>
+ VICTORY_POINTS_9319_rus:0 "Порхов" # <<TRANSLATED>>
+ VICTORY_POINTS_117_rus:0 "Новгород" # <<TRANSLATED>>
+ VICTORY_POINTS_9254_rus:0 "Остров" # <<TRANSLATED>>
+ VICTORY_POINTS_11349_rus:0 "Жев" # <<TRANSLATED>>
+ VICTORY_POINTS_11224_rus:0 "Селижарово" # <<TRANSLATED>>
+ VICTORY_POINTS_6245_rus:0 "Твер" # <<TRANSLATED>>
+ VICTORY_POINTS_121_rus:0 "Ярославл" # <<TRANSLATED>>
+ VICTORY_POINTS_11254_rus:0 "Вазма" # <<TRANSLATED>>
+ VICTORY_POINTS_14457_rus:0 "Кимки" # <<TRANSLATED>>
+ VICTORY_POINTS_6380_rus:0 "Москва"
+ VICTORY_POINTS_378_rus:0 "Владимир" # <<TRANSLATED>>
+ VICTORY_POINTS_9288_rus:0 "Гомель" # <<TRANSLATED>>
+ VICTORY_POINTS_3335_rus:0 "Брайанск" # <<TRANSLATED>>
+ VICTORY_POINTS_11248_rus:0 "Рязан" # <<TRANSLATED>>
+ VICTORY_POINTS_9355_rus:0 "Ориол" # <<TRANSLATED>>
+ VICTORY_POINTS_6398_rus:0 "Липетск" # <<TRANSLATED>>
+ VICTORY_POINTS_367_rus:0 "Тамбов" # <<TRANSLATED>>
+ VICTORY_POINTS_3210_rus:0 "Пригорское" # <<TRANSLATED>>
+ VICTORY_POINTS_9409_rus:0 "Пенза" # <<TRANSLATED>>
+ VICTORY_POINTS_3580_rus:0 "Курск" # <<TRANSLATED>>
+ VICTORY_POINTS_413_rus:0 "Воронеж" # <<TRANSLATED>>
+ VICTORY_POINTS_487_rus:0 "Тихвин" # <<TRANSLATED>>
+ VICTORY_POINTS_3578_rus:0 "Саратов" # <<TRANSLATED>>
+ VICTORY_POINTS_433_rus:0 "Балашов"
+ VICTORY_POINTS_11523_com:0 "Энгельс"
+ VICTORY_POINTS_11523_rus:0 "Покровск" # <<TRANSLATED>>
+ VICTORY_POINTS_3551_rus:0 "Йершов" # <<TRANSLATED>>
+ VICTORY_POINTS_3529_com:0 "Волгоград" # <<TRANSLATED>>
+ VICTORY_POINTS_3529_kag:0 "Стилинград" # <<TRANSLATED>>
+ VICTORY_POINTS_3529_rus:0 "Царицин" # <<TRANSLATED>>
+ VICTORY_POINTS_3519_rus:0 "Миллерово" # <<TRANSLATED>>
+ VICTORY_POINTS_6490_rus:0 "Волгодонск" # <<TRANSLATED>>
+ VICTORY_POINTS_11566_rus:0 "Элиста" # <<TRANSLATED>>
+ VICTORY_POINTS_9753_rus:0 "Астрахань"
+ VICTORY_POINTS_3734_com:0 "Краснодар" # <<TRANSLATED>>
+ VICTORY_POINTS_3734_rus:0 "Екатеринодар"
+ VICTORY_POINTS_3720_rus:0 "Белореченск"
+ VICTORY_POINTS_748_rus:0 "Стравпол" # <<TRANSLATED>>
+ VICTORY_POINTS_11678_rus:0 "Невинномысск"
+ VICTORY_POINTS_6701_com:0 "Махачкала" # <<TRANSLATED>>
+ VICTORY_POINTS_6701_rus:0 "Порт-Петровск" # <<TRANSLATED>>
+ VICTORY_POINTS_712_rus:0 "Цизляр" # <<TRANSLATED>>
+ VICTORY_POINTS_3672_rus:0 "Грозный"
+ VICTORY_POINTS_7624_rus:0 "Дербент" # <<TRANSLATED>>
+ VICTORY_POINTS_1599_rus:0 "Тбилиси" # <<TRANSLATED>>
+ VICTORY_POINTS_9626_rus:0 "Кутаиси" # <<TRANSLATED>>
+ VICTORY_POINTS_9628_rus:0 "Владикавказ"
+ VICTORY_POINTS_9649_rus:0 "Налкик" # <<TRANSLATED>>
+ VICTORY_POINTS_9417_rus:0 "Ростов-на-Дона" # <<TRANSLATED>>
+ VICTORY_POINTS_6445_rus:0 "Таганрог" # <<TRANSLATED>>
+ VICTORY_POINTS_6474_rus:0 "Донецк" # <<TRANSLATED>>
+ VICTORY_POINTS_6519_rus:0 "Сиверсконец" # <<TRANSLATED>>
+ VICTORY_POINTS_11405_rus:0 "Запорожская" # <<TRANSLATED>>
+ VICTORY_POINTS_767_rus:0 "Нижний Сирохози" # <<TRANSLATED>>
+ VICTORY_POINTS_3755_rus:0 "Херсон" # <<TRANSLATED>>
+ VICTORY_POINTS_11546_rus:0 "Миколаив" # <<TRANSLATED>>
+ VICTORY_POINTS_11437_rus:0 "Днепр" # <<TRANSLATED>>
+ VICTORY_POINTS_11561_rus:0 "Крюви Рих" # <<TRANSLATED>>
+ VICTORY_POINTS_418_rus:0 "Харьков"
+ VICTORY_POINTS_11504_rus:0 "Полтава" # <<TRANSLATED>>
+ VICTORY_POINTS_3480_rus:0 "Чернихив" # <<TRANSLATED>>
+ VICTORY_POINTS_525_rus:0 "Киев"
+ VICTORY_POINTS_6497_rus:0 "Била Церква" # <<TRANSLATED>>
+ VICTORY_POINTS_550_rus:0 "Житомир" # <<TRANSLATED>>
+ VICTORY_POINTS_11477_rus:0 "Рокитн" # <<TRANSLATED>>
+ VICTORY_POINTS_6435_rus:0 "Лутск" # <<TRANSLATED>>
+ VICTORY_POINTS_3412_rus:0 "Володимир" # <<TRANSLATED>>
+ VICTORY_POINTS_6546_rus:0 "Брест" # <<TRANSLATED>>
+ VICTORY_POINTS_215_rus:0 "Мазир" # <<TRANSLATED>>
+ VICTORY_POINTS_6373_rus:0 "Могилев" # <<TRANSLATED>>
+ VICTORY_POINTS_11370_rus:0 "Минск" # <<TRANSLATED>>
+ VICTORY_POINTS_3320_rus:0 "Вильнюс" # <<TRANSLATED>>
+ VICTORY_POINTS_6292_rus:0 "Орша" # <<TRANSLATED>>
+ VICTORY_POINTS_11241_rus:0 "Витебск" # <<TRANSLATED>>
+ VICTORY_POINTS_6296_rus:0 "Каунас" # <<TRANSLATED>>
+ VICTORY_POINTS_9483_rus:0 "Сяуляй" # <<TRANSLATED>>
+ VICTORY_POINTS_9262_rus:0 "Липеджа" # <<TRANSLATED>>
+ VICTORY_POINTS_310_rus:0 "Даугавпилс" # <<TRANSLATED>>
+ VICTORY_POINTS_3333_rus:0 "Людза" # <<TRANSLATED>>
+ VICTORY_POINTS_9221_rus:0 "Тарту" # <<TRANSLATED>>
+ VICTORY_POINTS_3152_rus:0 "Таллинн" # <<TRANSLATED>>
+ VICTORY_POINTS_11301_rus:0 "Биоисток" # <<TRANSLATED>>
+ VICTORY_POINTS_318_rus:0 "Гродек" # <<TRANSLATED>>
+ VICTORY_POINTS_11479_rus:0 "Львов" # <<TRANSLATED>>
+ VICTORY_POINTS_3686_rus:0 "Севастополь" # <<TRANSLATED>>

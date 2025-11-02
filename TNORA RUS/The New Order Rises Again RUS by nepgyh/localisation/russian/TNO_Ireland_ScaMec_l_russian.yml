@@ -1,7 +1,0 @@
-﻿l_russian:
- IRE_DECCAT_ScaMec:0 "[GetIRE_DECCAT_ScaMec_title]"
- IRE_DECCAT_ScaMec_title1:0 "Скандальный заголовок 1"
- IRE_DECCAT_ScaMec_title2:0 "Скандальный заголовок 2"
- IRE_DECCAT_ScaMec_desc:0 "[GetIRE_DECCAT_ScaMec_desc]"
- IRE_DECCAT_ScaMec_desc1:0 "TODO #1\n\nСила правых: [?ScaMec_narrative_power_right|Y0]\nСила левых: [?ScaMec_narrative_power_left|Y0]\nСила скандала: [?ScaMec_scandal_power|Y0]\nПрогресс скандала: [?ScaMec_scandal_progress|Y0]"
- IRE_DECCAT_ScaMec_desc2:0 "TODO #2\n\nСила правых: [?ScaMec_narrative_power_right|Y0]\nСила левых: [?ScaMec_narrative_power_left|Y0]\nСила скандала: [?ScaMec_scandal_power|Y0]\nПрогресс скандала: [?ScaMec_scandal_progress|Y0]"

@@ -1,0 +1,112 @@
+﻿l_russian:
+ #Parties
+ FZL_communist_party:0 "ГАДПО"
+ FZL_communist_party_long:0 "Группа антифашистского движения Первого октября"
+ FZL_socialist_party:0 "РАПФ"
+ FZL_socialist_party_long:0 "Революционный антифашистский патриотический фронт"
+ FZL_authoritarian_democrat_party:0 "UdPE"
+ FZL_authoritarian_democrat_party_long:0 "Unión del Pueblo Español"
+ FZL_despotism_party:0 "ТО"
+ FZL_despotism_party_long:0 "Традиционалистская община"
+ FZL_fascism_party:0 "ИФ"
+ FZL_fascism_party_long:0 "Испанская Фаланга"
+ FZL_national_socialism_party:0 "ИФ"
+ FZL_national_socialism_party_long:0 "Испанская Фаланга"
+
+ #Ministers
+ 
+ FZL_Serrano_Suner_hog:0 "Ramón Serrano Suñer"
+ FZL_Agustin_Aznar_mil:0 "Agustín Aznar"
+ FZL_Jose_Antonio_Giron_De_Velasco_eco:0 "José Antonio Girón de Velasco"
+ FZL_Demetrio_Castro_Villacanas_for:0 "Demetrio Castro Villacañas"
+  
+ #National Spirits 
+ FZL_bloodied_administration:0 "Кровавая администрация" # <<TRANSLATED>>
+ FZL_germany_footsteps:0 "В Германии" # <<TRANSLATED>>
+ FZL_until_death:0 "До Кровавой смерти" # <<TRANSLATED>>
+
+ #Tree
+ FZL_one_final_chance_of_salvation:0 "Один последний шанс спасения" # <<TRANSLATED>>
+ FZL_one_final_chance_of_salvation_desc:0 "Если мы не выиграем здесь, Испания будет проклята на дегенерацию!" # <<TRANSLATED>>
+ FZL_one_final_chance_of_salvation_tt:0 "§rFalangista soy, falangista hosta morir o vencer.§!" # <<TRANSLATED>>
+
+ FZL_the_party_above_all:0 "Партия выше всех" # <<TRANSLATED>>
+ FZL_the_party_above_all_desc:0 "Фаланж - единственное препятствие между нами и полным разорением." # <<TRANSLATED>>
+ 
+ FZL_spanish_national_socialism:0 "Испанский национальный социализм" # <<TRANSLATED>>
+ FZL_spanish_national_socialism_desc:0 "Мы будем адаптировать национальный социализм к нашей уникальной ситуации." # <<TRANSLATED>>
+ 
+ FZL_la_comunidad_popular:0 "Народный союз" # <<TRANSLATED>>
+ FZL_la_comunidad_popular_desc:0 "Будучи новым законодательным органом, Сообщество будет выполнять функции консультативного органа." # <<TRANSLATED>>
+ 
+ FZL_national_cleansing:0 "Национальная чистка" # <<TRANSLATED>>
+ FZL_national_cleansing_desc:0 "Смерть нечеловеческим." # <<TRANSLATED>>
+ 
+ FZL_saving_spain_from_itself:0 "Спасение Испании от самого себя" # <<TRANSLATED>>
+ FZL_saving_spain_from_itself_desc:0 "Только у нас есть воля сделать то, что должно быть сделано." # <<TRANSLATED>>
+ 
+ FZL_all_will_be_in_agreement:0 "Все будет в согласии..." # <<TRANSLATED>>
+ FZL_all_will_be_in_agreement_desc:0 "Как и должно быть." # <<TRANSLATED>>
+ 
+ FZL_they_will_have_to_learn:0 "Им придется учиться..." # <<TRANSLATED>>
+ FZL_they_will_have_to_learn_desc:0 "Или умереть." # <<TRANSLATED>>
+ 
+ FZL_and_only_the_spanish_will_remain:0 "И только испанский будет оставаться" # <<TRANSLATED>>
+ FZL_and_only_the_spanish_will_remain_desc:0 "Больше места нет." # <<TRANSLATED>>
+ 
+ FZL_and_they_will_know_their_place:0 "И они узнают свое место" # <<TRANSLATED>>
+ FZL_and_they_will_know_their_place_desc:0 "В лагерях они едут." # <<TRANSLATED>>
+ 
+ FZL_reconvene_falange:0 "Повторить Фаланж" # <<TRANSLATED>>
+ FZL_reconvene_falange_desc:0 "Фаланж должен быть преобразован в чистую организацию." # <<TRANSLATED>>
+ 
+ FZL_a_phone_call_to_germania:0 "Телефонный звонок в Гермению" # <<TRANSLATED>>
+ FZL_a_phone_call_to_germania_desc:0 "Мы их идеологические братья после всех." # <<TRANSLATED>>
+ 
+ FZL_a_national_push:0 "Национальный толчок" # <<TRANSLATED>>
+ FZL_a_national_push_desc:0 "Теперь все вместе." # <<TRANSLATED>>
+ 
+ FZL_the_national_army_takes_shape:0 "Национальная армия принимает форму" # <<TRANSLATED>>
+ FZL_the_national_army_takes_shape_desc:0 "И это будет великолепно." # <<TRANSLATED>>
+ 
+ FZL_total_war_economy:0 "Общая экономика войны" # <<TRANSLATED>>
+ FZL_total_war_economy_desc:0 "Всё для переднего входа, нет места для роскоши." # <<TRANSLATED>>
+ 
+ FZL_saving_spain_from_its_enemies:0 "Спасение Испании от ее врагов" # <<TRANSLATED>>
+ FZL_saving_spain_from_its_enemies_desc:0 "Их так много..." # <<TRANSLATED>>
+ 
+ FZL_taking_lessons_from_german_industry:0 "Изучать уроки немецкой промышленности..." # <<TRANSLATED>>
+ FZL_taking_lessons_from_german_industry_desc:0 "Кто знает промышленность лучше, чем немцы?" # <<TRANSLATED>>
+ 
+ FZL_not_taking_one_step_back:0 "Не бери один шаг назад..." # <<TRANSLATED>>
+ FZL_not_taking_one_step_back_desc:0 "Держи его!" # <<TRANSLATED>>
+ 
+ FZL_and_some_may_be_controversial:0 "И некоторые могут быть спорными" # <<TRANSLATED>>
+ FZL_and_some_may_be_controversial_desc:0 "Работа дает тебе свободу." # <<TRANSLATED>>
+ 
+ FZL_and_the_people_clamor_to_join:0 "И люди, которые хотят присоединиться" # <<TRANSLATED>>
+ FZL_and_the_people_clamor_to_join_desc:0 "Слышите, как они поют..." # <<TRANSLATED>>
+ 
+ FZL_sin_relevo_posible_hasta_la_extincin:0 "Син Релево Позюбл, Хаста-ла-Вызой" # <<TRANSLATED>>
+ FZL_sin_relevo_posible_hasta_la_extincin_desc:0 "Выберешь ли ты жизнь или смерть?" # <<TRANSLATED>>
+
+ #Events 
+ FZL_wars.1.t:0 "Книга" # <<TRANSLATED>>
+ FZL_wars.1.d:0 "Аррес сидел за своим столом, сгорая над собачьим экземпляром Мейн Кампфа. Он был одарен им много лет назад, когда он посетил Германию. Он читал его много раз, а теперь он читал его снова. Для него эта книга была всем, потому что он действительно верил, что спасение Испании лежит на ее страницах. Для него это было лучшее произведение века, и он ранил его, что многие из его соотечественников отказались изучать ее. // their dection, но не важно. Он учил их во времени." # <<TRANSLATED>>
+ FZL_wars.1.a:0 "Моя борьба" # <<TRANSLATED>>
+
+ FZL_wars.2.t:0 "Контроль за шумом" # <<TRANSLATED>>
+ FZL_wars.2.d:0 "Кара аль Сол вспыхнула от ломтиковых колонок, какой-то идиот поднял громкость, и звук оглушился."GOOD SONG, YEAH!?" his brother, Roberto yelled. "IT'S BETTER WHEN IT'S NOT BLOWING OUT MY EARDRUMS!" he yelled back. \n\n"I LIKE IT," Roberto continued, "VERY PATRIOTIC!" \n\n"YOU'LL BE FEELING VERY PATRIOTIC WHEN WE ARE ALL DEAF" \n\n"THAT'D BE SOMETHIN. YOU THINK WE'D GET A MEDAL FOR THAT?" \n\n"SHUT UP YOU IDIOTS," someone behind them said." # <<TRANSLATED>>
+ FZL_wars.2.a:0 "- Я не знаю."I CAN'T HEAR THE SONG!"" # <<TRANSLATED>>
+
+ FZL_wars.3.t:0 "Плохие идеи" # <<TRANSLATED>>
+ FZL_wars.3.d:0 "В грязном цензурном бюро чиновник сидел у тяжёлого дубового стола, воздух с запахом чернил и пыли, перевернул страницы изношенной, незаконной книги, распространяющейся в подземных кругах, его брови, брови, помеченные красным карандашом, его доклад, начертанный точным шрифтом, гласит: «Пропаганда коммунизма и сепаратистских идеалов подрывает общественную мораль, и с последним успехом он вынес приговор: полный запрет на книгу; сжигание всех запрошенных копий и любых других полученных в дальнейшем; арест" # <<TRANSLATED>>
+ FZL_wars.3.a:0 "Сжечь их всех" # <<TRANSLATED>>
+
+ FZL_wars.4.t:0 "Синий рассвет" # <<TRANSLATED>>
+ FZL_wars.4.d:0 "- Я не знаю."Friends, and countrymen, we are confronted with the greatest crisis Spain has faced since the civil war! The Union with the Portuguese has failed! Once more, ungodly and degenerate Semites threaten all we hold dear! The other so called Falangists have forgotten their roots, and have forgotten the sacrifice of Primo de Rivera! \n\nWe must save Spain from these ingrates and lead the Spanish people to a bright future!" \n\n-Excerpt from José Luis Arrese's inaugural speech to the Falange Española." # <<TRANSLATED>>
+ FZL_wars.4.a:0 "За ИСПАНИЯ и ничего подобного!" # <<TRANSLATED>>
+
+ FZL_wars.5.t:0 "- Я не знаю." # <<TRANSLATED>>
+ FZL_wars.5.d:0 "- Я не знаю." # <<TRANSLATED>>
+ FZL_wars.5.a:0 "- Я не знаю." # <<TRANSLATED>>

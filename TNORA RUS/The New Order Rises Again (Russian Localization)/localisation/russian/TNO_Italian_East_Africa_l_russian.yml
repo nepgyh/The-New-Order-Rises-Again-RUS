@@ -1,0 +1,633 @@
+﻿l_russian:
+ IEA_fascism:0 "Итальянская Восточная Африка"
+ IEA_fascism_DEF:0 "Итальянская Восточная Африка"
+ IEA_social_liberal:0 "Восточноафриканская республика"
+ IEA_social_liberal_DEF:0 "Восточноафриканская республика"
+ IEA_market_liberal:0 "Восточноафриканская республика"
+ IEA_market_liberal_DEF:0 "Восточноафриканская республика"
+ IEA_social_conservative:0 "Восточноафриканская республика"
+ IEA_social_conservative_DEF:0 "Восточноафриканская республика"
+ IEA_authoritarian_democrat:0 "Восточноафриканская республика"
+ IEA_authoritarian_democrat_DEF:0 "Восточноафриканская республика"
+ IEA_despotism:0 "Итальянская Восточная Африка"
+ IEA_despotism_DEF:0 "Итальянская Восточная Африка"
+ IEA_communist:0 "Восточноафриканская Народная Республика"
+ IEA_communist_DEF:0 "Восточноафриканская Народная Республика"
+ IEA_socialist:0 "Восточноафриканская Народная Республика"
+ IEA_socialist_DEF:0 "Восточноафриканская Народная Республика"
+ IEA_national_socialism:0 "Итальянская Восточная Африка"
+ IEA_national_socialism_DEF:0 "Итальянская Восточная Африка"
+ IEA_ultranational_socialism:0 "Итальянская Восточная Африка"
+ IEA_ultranational_socialism_DEF:0 "Итальянская Восточная Африка"
+ IEA_fascism_ADJ:0 "Итальяно-африканск."
+ IEA_social_liberal_ADJ:0 "итальяно-африканск"
+ IEA_market_liberal_ADJ:0 "итальяно-африканск"
+ IEA_social_conservative_ADJ:0 "итальяно-африканск"
+ IEA_authoritarian_democrat_ADJ:0 "итальяно-африканск"
+ IEA_communist_ADJ:0 "Итальяно-африканск."
+ IEA_despotism_ADJ:0 "Итальяно-африканск."
+ IEA_socialist_ADJ:0 "Итальяно-африканск."
+ IEA_ultranational_socialism_ADJ:0 "итальяно-африканск"
+ IEA_national_socialism_ADJ:0 "Итальяно-африканск."
+ IEA_EAMA_despotism:0 "Восточноафриканское Военное Ведомство"
+ IEA_EAMA_despotism_ADJ:0 "Итальяно-африканск."
+ IEA_EAMA_despotism_DEF:0 "Восточноафриканское Военное Ведомство"
+ 
+ EAM_fascism:0 "Восточноафриканское Военное Ведомство"
+ EAM_fascism_DEF:0 "Восточноафриканское Военное Ведомство"
+ EAM_social_liberal:0 "Восточноафриканское Военное Ведомство"
+ EAM_social_liberal_DEF:0 "Восточноафриканское Военное Ведомство"
+ EAM_market_liberal:0 "Восточноафриканское Военное Ведомство"
+ EAM_market_liberal_DEF:0 "Восточноафриканское Военное Ведомство"
+ EAM_social_conservative:0 "Восточноафриканское Военное Ведомство"
+ EAM_social_conservative_DEF:0 "Восточноафриканское Военное Ведомство"
+ EAM_authoritarian_democrat:0 "Восточноафриканское Военное Ведомство"
+ EAM_authoritarian_democrat_DEF:0 "Восточноафриканское Военное Ведомство"
+ EAM_despotism:0 "Восточноафриканское Военное Ведомство"
+ EAM_despotism_DEF:0 "Восточноафриканское Военное Ведомство"
+ EAM_communist:0 "Восточноафриканское Военное Ведомство"
+ EAM_communist_DEF:0 "Восточноафриканское Военное Ведомство"
+ EAM_socialist:0 "Восточноафриканское Военное Ведомство"
+ EAM_socialist_DEF:0 "Восточноафриканское Военное Ведомство"
+ EAM_national_socialism:0 "Восточноафриканское Военное Ведомство"
+ EAM_national_socialism_DEF:0 "Восточноафриканское Военное Ведомство"
+ EAM_ultranational_socialism:0 "Восточноафриканское Военное Ведомство"
+ EAM_ultranational_socialism_DEF:0 "Восточноафриканское Военное Ведомство"
+ EAM_fascism_ADJ:0 "Итальяно-африканск."
+ EAM_social_liberal_ADJ:0 "итальяно-африканск"
+ EAM_market_liberal_ADJ:0 "итальяно-африканск"
+ EAM_social_conservative_ADJ:0 "итальяно-африканск"
+ EAM_authoritarian_democrat_ADJ:0 "итальяно-африканск"
+ EAM_communist_ADJ:0 "Итальяно-африканск."
+ EAM_despotism_ADJ:0 "Итальяно-африканск."
+ EAM_socialist_ADJ:0 "Итальяно-африканск."
+ EAM_ultranational_socialism_ADJ:0 "итальяно-африканск"
+ EAM_national_socialism_ADJ:0 "Итальяно-африканск."
+ 
+ #Leader descriptions
+ POLITICS_VICEROY_AMEDEO_DESC:0 "Амедео ди Савойя-Аоста - человек, которого можно любить или ненавидеть, но нельзя игнорировать. Прозванный Железным герцогом и Героем Амба Аладжи, Амедео родился в ветви итальянского королевского дома и в итоге стал генералом Королевских ВВС. В 1937 году Амедео, благодаря своей благородной крови, был назначен вице-королем Итальянской Восточной Африки, но в отличие от своего менее удачливого брата Аймоне, Амедео сразу же принял активное участие в управлении своими территориями. Во время Второй мировой войны он лично возглавил итальянские войска в сражении против британцев, остановив их продвижение в Восточную Африку ошеломляющей победой при Амба Аладжи.\n\nПосле окончания войны Амедео снова посвятил себя управлению колонией. Эффективный губернатор, критически относившийся к фашистской системе (что снискало ему симпатии нового дуче, Галеаццо Чиано), Амедео сделал все возможное, чтобы защитить коренных жителей колонии от посягательств фашистских властей и итальянских компаний, стремившихся эксплуатировать труд африканцев. Во многом благодаря неустанной работе Амедео, уровень жизни коренных жителей Восточной Африки стал выше, чем в тех частях Африки, которые находились под властью Германии.\n\nНесмотря на это, правление Амедео по-прежнему является пережитком колониализма, а это значит, что многие местные всё ещё ненавидят его и итальянцев. Военизированные и повстанческие группировки, скрывающиеся в горах и сельской местности, до сих пор представляют собой серьезную проблему, и даже те африканцы, которые не выступают против итальянского режима открыто, страдают от бедности и дискриминации со стороны итальянких колонистов. Амедео стареет, а преемник ещё не назван, и иногда вице-король не может не думать о доме и не задаваться вопросом, не напрасен ли в конце концов его труд."
+
+ #PARTIES
+ IEA_communist_party:0 "ТА"
+ IEA_communist_party_long:0 "Тинкура Анбесса"
+ IEA_socialist_party:0 "ТА"
+ IEA_socialist_party_long:0 "Тинкура Анбесса"
+ IEA_social_democrat_party:0 "АВМТ"
+ IEA_social_democrat_party_long:0 "Ассоциация Взаимопомощи Макка и Туулама"
+ IEA_social_liberal_party:0 "КАНС"
+ IEA_social_liberal_party_long:0 "Кенийский Африканский Национальный Союз"
+ IEA_social_conservative_party:0 "СМА"
+ IEA_social_conservative_party_long:0 "Сомалийская Молодёжная Ассоциация"
+ IEA_authoritarian_democrat_party:0 "Эритрейские Аскари"
+ IEA_authoritarian_democrat_party_long:0 "Эритрейские Аскари"
+ IEA_despotism_party:0 "НФП-ИВА"
+ IEA_despotism_party_long:0 "Национальная Фашистская Партия - Итальянская Восточная Африка"
+ IEA_fascism_party:0 "НФП-ИВА"
+ IEA_fascism_party_long:0 "Национальная Фашистская Партия - Итальянская Восточная Африка"
+ IEA_national_socialism_party:0 "НФП-ИВА"
+ IEA_national_socialism_party_long:0 "Национальная Фашистская Партия - Итальянская Восточная Африка"
+ IEA_ultranational_socialism_party:0 "Радикальные повстанцы"
+ IEA_ultranational_socialism_party_long:0 "Радикальные повстанцы"
+
+ EAM_communist_party:0 "ТА"
+ EAM_communist_party_long:0 "Тинкура Анбесса"
+ EAM_socialist_party:0 "ТА"
+ EAM_socialist_party_long:0 "Тинкура Анбесса"
+ EAM_social_democrat_party:0 "АВМТ"
+ EAM_social_democrat_party_long:0 "Ассоциация Взаимопомощи Макка и Туулама"
+ EAM_social_liberal_party:0 "КАНС"
+ EAM_social_liberal_party_long:0 "Кенийский Африканский Национальный Союз"
+ EAM_social_conservative_party:0 "СМА"
+ EAM_social_conservative_party_long:0 "Сомалийская Молодёжная Ассоциация"
+ EAM_authoritarian_democrat_party:0 "Эритрейские Аскари"
+ EAM_authoritarian_democrat_party_long:0 "Эритрейские Аскари"
+ EAM_despotism_party:0 "ККК"
+ EAM_despotism_party_long:0 "Королевский Колониальный Корпус"
+ EAM_fascism_party:0 "НФП-ИВА"
+ EAM_fascism_party_long:0 "Национальная Фашистская Партия - Итальянская Восточная Африка"
+ EAM_national_socialism_party:0 "НФП-ИВА"
+ EAM_national_socialism_party_long:0 "Национальная Фашистская Партия - Итальянская Восточная Африка"
+ EAM_ultranational_socialism_party:0 "Радикальные повстанцы"
+ EAM_ultranational_socialism_party_long:0 "Радикальные повстанцы"
+
+ #Ideas
+ IEA_colonia_primigenia:0 "Первобытная колония"
+ IEA_colonia_primigenia_def:0 "Placeholder"
+ IEA_colonia_primigenia_2:0 "Автономная первобытная колония"
+ IEA_colonia_primigenia_2_def: "Placeholder"
+ IEA_the_neverending_war:0 "Бесконечная война"
+ IEA_the_neverending_war_def:0 "Placeholder"
+ IEA_somali_youth_league:0 "Сомалийская Лига молодёжи"
+ IEA_somali_youth_league_def:0 "Placeholder"
+ IEA_somali_youth_league_2:0 "Сомалийская Лига молодёжи"
+ IEA_legacy_mau_mau_rebellion:0 "Наследие восстания Мау-Мау"
+ IEA_legacy_mau_mau_rebellion_def:0 "Placeholder"
+ IEA_ascari_uprising:0 "Восстание Аскари"
+ IEA_ethiopian_anarchy:0 "Анархия в Эфиопии"
+ IEA_revolt_in_somalia:0 "Бунты в Сомали"
+ IEA_second_mau_mau_rebellion:0 "Второе восстание Мау-Мау"
+ IEA_reorganized_army_idea:0 "Реорганизованная армия"
+ IEA_reorganized_army_idea2:0 "Реорганизованная армия"
+ IEA_efficient_administration_idea:0 "Эффективная администрация"
+ 
+ ##Decisions##
+ iea_intro_event:0 "Итальянская Восточная Африка"
+
+ ##intro tree##
+ IEA_the_last_days_of_the_iron_duke:0 "Последние дни Железного Герцога"
+ IEA_the_last_days_of_the_iron_duke_desc:0 ""
+ 
+ IEA_the_law_of_the_land:0 "Закон страны"
+ IEA_the_law_of_the_land_desc:0 ""
+
+ IEA_fortress_ethiopia:0 "Эфиопская крепость"
+ IEA_fortress_ethiopia_desc:0 ""
+ 
+ IEA_the_dual_system:0 "Дуалистическая система"
+ IEA_the_dual_system_desc:0 ""
+ 
+ IEA_rift_valley_agriculture:0 "Сельское хозяйство Рифтовой долины"
+ IEA_rift_valley_agriculture_desc:0 ""
+ 
+ IEA_ascari_pride:0 "Гордость Аскари"
+ IEA_ascari_pride_desc:0 ""
+ 
+ IEA_new_offers_to_the_masafint:0 "Новые предложения для Масафинт"
+ IEA_new_offers_to_the_masafint_desc:0 ""
+ 
+ IEA_controlling_the_quranic_schools:0 "Контроль над мусульманскими школами"
+ IEA_controlling_the_quranic_schools_desc:0 ""
+ 
+ IEA_expand_the_banana_fleets:0 "Расширить поставки бананов"
+ IEA_expand_the_banana_fleets_desc:0 ""
+ 
+ IEA_new_mining_ventures:0 "Новые проекты горнодобычи"
+ IEA_new_mining_ventures_desc:0 ""
+ 
+ IEA_stoke_ethnic_conflicts:0 "Разжечь этнические конфликты"
+ IEA_stoke_ethnic_conflicts_desc:0 ""
+ 
+ IEA_oaths_of_loyalty_ethiopian_church:0 "Плоды верности Эфиопской Церкви"
+ IEA_oaths_of_loyalty_ethiopian_church_desc:0 ""
+ 
+ IEA_review_racial_legislation:0 "Пересмотреть расовое законодательство"
+ IEA_review_racial_legislation_desc:0 ""
+ 
+ IEA_mechanized_cotton_production:0 "Механизированное производство хлопка"
+ IEA_mechanized_cotton_production_desc:0 ""
+ 
+ IEA_expand_the_assab_port:0 "Расширить ассабский порт"
+ IEA_expand_the_assab_port_desc:0 ""
+ 
+ IEA_new_docks_in_mogadiscio:0 "Новые доки в Могадишо"
+ IEA_new_docks_in_mogadiscio_desc:0 ""
+ 
+ IEA_the_east_african_mercantile_fleet:0 "Восточноафриканский торговый флот"
+ IEA_the_east_african_mercantile_fleet_desc:0 ""
+ 
+ IEA_why_no_invest_east_africa:0 "Почему бы не инвестировать в Восточную Африку?"
+ IEA_why_no_invest_east_africa_desc:0 ""
+ 
+ IEA_it_has_cheap_labour:0 "Дешёвая рабочая сила!"
+ IEA_it_has_cheap_labour_desc:0 ""
+ 
+ IEA_it_has_cheap_resources:0 "Дешёвые ресурсы!"
+ IEA_it_has_cheap_resources_desc:0 ""
+ 
+ IEA_expand_military_infrastructure:0 "Расширить военную инфраструктуру"
+ IEA_expand_military_infrastructure_desc:0 ""
+ 
+ IEA_review_the_settlers_militia:0 "Вопрос колониального ополчения"
+ IEA_review_the_settlers_militia_desc:0 ""
+ 
+ IEA_strike_them_from_the_sky:0 "Ударить по ним с неба"
+ IEA_strike_them_from_the_sky_desc:0 ""
+ 
+ IEA_marching_into_the_mountains:0 "Марш в горы"
+ IEA_marching_into_the_mountains_desc:0 ""
+ 
+ IEA_break_out_the_napalm:0 "Залить их напалмом!"
+ IEA_break_out_the_napalm_desc:0 ""
+ 
+ IEA_weaponized_terror:0 "Вооружённый террор"
+ IEA_weaponized_terror_desc:0 ""
+ 
+ IEA_peace_is_in_your_best_interests:0 "Мир — в ваших же интересах"
+ IEA_peace_is_in_your_best_interests_desc:0 ""
+ 
+ IEA_administering_the_kenian_territories:0 "Управление кенийской территорией"
+ IEA_administering_the_kenian_territories_desc:0 ""
+ 
+ IEA_meet_with_cerulli:0 "Встреча с Черулли"
+ IEA_meet_with_cerulli_desc:0 ""
+ 
+ IEA_meet_with_guillet:0 "Встреча с Гилле"
+ IEA_meet_with_guillet_desc:0 ""
+ 
+ IEA_autonomy_for_the_governatorati:0 "Автономия для губернаторств"
+ IEA_autonomy_for_the_governatorati_desc:0 ""
+ 
+ IEA_natives_in_the_administration:0 "Местные в администрации"
+ IEA_natives_in_the_administration_desc:0 ""
+ 
+ IEA_the_question_of_the_madamato:0 "Вопрос Мадамато"
+ IEA_the_question_of_the_madamato_desc:0 ""
+ 
+ IEA_the_status_of_the_mulattos:0 "Статус метисов"
+ IEA_the_status_of_the_mulattos_desc:0 ""
+ 
+ IEA_plight_of_the_kenians:0 "Судьба кенийцев"
+ IEA_plight_of_the_kenians_desc:0 ""
+ 
+ IEA_resistance_of_the_ethiopians:0 "Эфиопское сопротивление"
+ IEA_resistance_of_the_ethiopians_desc:0 ""
+ 
+ IEA_demands_of_the_eritreans:0 "Требования эритрейцев"
+ IEA_demands_of_the_eritreans_desc:0 ""
+ 
+ IEA_requests_of_the_somalis:0 "Просьбы сомалийцев"
+ IEA_requests_of_the_somalis_desc:0 ""
+ 
+ IEA_succession_question:0 "Вопрос о наследстве"
+ IEA_succession_question_desc:0 ""
+
+ ##Events##
+ IEA.1.t:0 "Ситуация в Итальянской Восточной Африке"
+ IEA.1.d:0 "После итало-эфиопской войны в 1936 году Муссолини назначил принца Амадео Савойского, герцога Аосты, управляющим недавно завоеванной колонии, который сумел добиться определенных успехов, достигнув примирения с местным населением. Победа Италии в Североафриканской кампании и захват Суэцкого канала позволили стране должным образом снабжать колонию, чтобы сдерживать любые британские атаки.\nПосле победы Оси и присоединения Кении к колонии, итальянская власть окончательно укрепилась в регионе, Амадео остался крепким руководителем администрации. Вице-король оказался на удивление снисходительным к местным жителям и попытался возобновить проект Гвидо Ферразы, целью которого было превратить Аддис-Абебу в современную столицу колонии, но недостаток средств вынудил заморозить проект на полпути."
+ IEA.1.a:0 "Интересно, расскажите ещё!"
+ 
+ IEA.2.t:0 "Ситуация в Итальянской Восточной Африке"
+ IEA.2.d:0 "Поскольку вице-король продолжает откладывать эти проекты, а его инвестиционный фонд начинает иссякать, кажется, что мечта Муссолини о процветающей итальянской Восточной Африке провалилась, несмотря на все усилия. Амадео также медленно, но верно проигрывает битву за свое здоровье, и, по оценкам врачей, ему осталось совсем недолго. В условиях продолжающейся эфиопской войны, которую ведут сильно ослабленные партизаны, серьезного дефицита бюджета и того, что Амадео еще предстоит уладить свои личные дела перед кончиной, неизвестно, какой будет судьба больного вице-короля..."
+ IEA.2.a:0 "Что бы он ни выбрал, мы последуем за нашим Наместником!"
+
+ IEA.3.t:0 "Энрико Черулли"
+ IEA.3.d:0 ""
+ IEA.3.a:0 ""
+ 
+ IEA.4.t:0 "Амедео Гилле"
+ IEA.4.d:0 ""
+ IEA.4.a:0 ""
+ 
+ IEA.5.t:0 "Новая судебная система?"
+ IEA.5.d:0 ""
+ IEA.5.a:0 "Централизация"
+ IEA.5.b:0 "Местные суды и присяжные"
+ 
+ IEA.6.t:0 "Защита для поселенцев"
+ IEA.6.d:0 ""
+ IEA.6.a:0 "Статичные укреления"
+ IEA.6.b:0 "Мобильная защита"
+ IEA_fortress_ethiopia_tt:0 "Эскадрон эритрейской кавалерии возобновит свою работу."
+ 
+ IEA.7.t:0 "Дуалистическая система"
+ IEA.7.d:0 ""
+ IEA.7.a:0 ""
+ 
+ IEA.8.t:0 "Сельское хозяйство Рифтовой долины"
+ IEA.8.d:0 ""
+ IEA.8.a:0 "Создать новую латифундию"
+ IEA.8.b:0 "Помочь местным фермерам"
+ IEA_economy:0 "Колониальная экономика"
+ IEA_rift_valley_cerulli_tt:0 "§MЭто уменьшит нашу нужду в потребительских товарах.§!"
+ IEA_rift_valley_guillet_tt:0 "§MЭто увеличит нашу стабильность.§!"
+ 
+ IEA.9.t:0 "Аскари требуют признания заслуг"
+ IEA.9.d:0 ""
+ IEA.9.a:0 "Нагрдить некоторых медалями"
+ IEA.9.b:0 "Предоставить больше прав и привилегий"
+ 
+ IEA.10.t:0 "Принцы Эфиопии"
+ IEA.10.d:0 ""
+ IEA.10.a:0 "Разоружить их"
+ IEA.10.b:0 "С ними можно сотрудничать"
+ 
+ IEA.11.t:0 "Позиция по исламскому образованию"
+ IEA.11.d:0 ""
+ IEA.11.a:0 "Мы назначим имамов"
+ IEA.11.b:0 "Не будем вмешиваться в вопросы религии"
+ 
+ IEA.12.t:0 "Экспорт бананов"
+ IEA.12.d:0 ""
+ IEA.12.a:0 "Увеличить экспорт"
+ IEA.12.b:0 "Внутренний рынок важнее"
+ 
+ IEA.13.t:0 "Горные богатства Африки"
+ IEA.13.d:0 ""
+ IEA.13.a:0 "Добывайте столько, сколько возможно"
+ IEA.13.b:0 "Нужно расширяться аккуратно"
+ IEA_new_mining_ventures_cerulli_tt:0 "Это §значительно увеличит§! наш §YВВП и добычу ресурсов§!, но §Rуменьшит стабильность§!"
+ IEA_new_mining_ventures_guillet_tt:0 "Это §Oнезначительно увеличит§! наш §YВВП и добычу ресурсов§!"
+ 
+ IEA.14.t:0 "Этническое напряжение"
+ IEA.14.d:0 ""
+ IEA.14.a:0 "Обострить конфликт"
+ IEA.14.b:0 "Сгладить острые углы"
+ 
+ IEA.15.t:0 "Верность Церкви"
+ IEA.15.d:0 ""
+ IEA.15.a:0 "Пусть духовенство склонится"
+ IEA.15.b:0 "Это ненужные меры"
+ 
+ IEA.16.t:0 "Старые законы"
+ IEA.16.d:0 ""
+ IEA.16.a:0 "Нам придёься разбираться с этим позже"
+ 
+ IEA.17.t:0 "Новые тракторы для плантаций?"
+ IEA.17.d:0 ""
+ IEA.17.a:0 "Трактор - в каждую ферму!"
+ IEA.17.b:0 "Нанять больше рабочих"
+ IEA_mechanized_cotton_production_cerulli_tt:0 "§MЭто увеличит нашу ээфективность производства на 10%§!"
+ IEA_mechanized_cotton_production_guillet_tt:0 "§MTЭто увеличит производство фабрик на 5%§!"
+ 
+ IEA.18.t:0 "Новый порт"
+ IEA.18.d:0 ""
+ IEA.18.a:0 "Нанять рабочих и специалистов из Италии"
+ IEA.18.b:0 "Использовать местных"
+ IEA_expand_assab_port_cerulli_tt:0 "§MЭто будет стоить нам 80 миллионов лир.§!"
+ IEA_expand_assab_port_guillet_tt:0 "§MЭто будет стоить нам 40 миллионов лир.§!"
+ 
+ IEA.19.t:0 "Кораблестроение в Сомали"
+ IEA.19.d:0 ""
+ IEA.19.a:0 "Нанять рабочих и специалистов из Италии"
+ IEA.19.b:0 "Использовать местных"
+ IEA_new_docks_magodiscio_cerulli_tt:0 "§MЭто будет стоить нам 20 миллионов лир.§!"
+ IEA_new_docks_magodiscio_guillet_tt:0 "§MЭто будет стоить нам 10 миллионов лир.§!"
+ 
+ IEA.20.t:0 "Заказаны новые суда"
+ IEA.20.d:0 ""
+ IEA.20.a:0 "Чего и следовало ожидать"
+ 
+ IEA.21.t:0 "Международные инвестиции"
+ IEA.21.d:0 ""
+ IEA.21.a:0 "Вложиться в итальянские поселения"
+ IEA.21.b:0 "Вложиться в поселения местных"
+ 
+ IEA.22.t:0 "Увеличить рабочую силу"
+ IEA.22.d:0 ""
+ IEA.22.a:0 "Ввезти мигрантов"
+ IEA.22.b:0 "Нанять местных"
+ IEA_cheap_labour_cerulli_tt:0 "§Mэто увеличит наш рост населения на 10%§!"
+ IEA_cheap_labour_guillet_tt:0 "§MЭто увеличит нашу стабильность на 10%§!"
+ 
+ IEA.23.t:0 "Расширить горнодобычу"
+ IEA.23.d:0 ""
+ IEA.23.a:0 "Максимизировать продуктивность"
+ IEA.23.b:0 "Улучшить рабочие условия"
+ 
+ IEA.24.t:0 "Военные вложения"
+ IEA.24.d:0 ""
+ IEA.24.a:0 "Увеличить производство оружия"
+ IEA.24.b:0 "Улучшить аэродромы"
+ 
+ IEA.25.t:0 "Ополчение поселенцев"
+ IEA.25.d:0 ""
+ IEA.25.a:0 "Поддержать их"
+ IEA.25.b:0 "Откреститься от них"
+ 
+ IEA.26.t:0 "В горы"
+ IEA.26.d:0 ""
+ IEA.26.a:0 "Послать Аскари на острие атаки"
+ IEA.26.b:0 "Использовать их как поддержку"
+ 
+ IEA.27.t:0 "Напалм?"
+ IEA.27.d:0 ""
+ IEA.27.a:0 "Да!"
+ IEA.27.b:0 "Не стоит."
+ 
+ IEA.28.t:0 "Вселить в них ужас"
+ IEA.28.d:0 ""
+ IEA.28.a:0 "Это послужит им уроком."
+ 
+ IEA.29.t:0 "Протянуть оливковую ветвь?"
+ IEA.29.d:0 ""
+ IEA.29.a:0 ""
+ 
+ IEA.30.t:0 "Новая администрация"
+ IEA.30.d:0 ""
+ IEA.30.a:0 "Централизация"
+ IEA.30.b:0 "Децентрализация"
+ 
+ IEA.31.t:0 "Встреча с Учёным Губернатором"
+ IEA.31.d:0 ""
+ IEA.31.a:0 ""
+ 
+ IEA.32.t:0 "Встреча с Командиром-Дьяволом"
+ IEA.32.d:0 ""
+ IEA.32.a:0 ""
+ 
+ IEA.33.t:0 "Встреча с губернаторами"
+ IEA.33.d:0 ""
+ IEA.33.a:0 "Отказать им"
+ IEA.33.b:0 "Предоставить больше автономии"
+ 
+ IEA.34.t:0 "Новая администрация"
+ IEA.34.d:0 ""
+ IEA.34.a:0 "Ввести итальянских чиновников"
+ IEA.34.b:0 "Ввести местных"
+ 
+ IEA.35.t:0 "Мадамато"
+ IEA.35.d:0 ""
+ IEA.35.a:0 "Не менять законы"
+ IEA.35.b:0 "Обеспечить защиту местных женщин"
+ 
+ IEA.36.t:0 "Метисы"
+ IEA.36.d:0 ""
+ IEA.36.a:0 "Не менять их статус"
+ IEA.36.b:0 "Признать их гражданами Италии"
+ 
+ IEA.37.t:0 "Земельная реформа в Кении"
+ IEA.37.d:0 ""
+ IEA.37.a:0 "Сохранить латифундии"
+ IEA.37.b:0 "Пообещать передел земель"
+ 
+ IEA.38.t:0 "Продолжение сопротивления"
+ IEA.38.d:0 ""
+ IEA.38.a:0 "Продолжать репрессии"
+ IEA.38.b:0 "Попытаться провести переговоры"
+ 
+ IEA.39.t:0 "Гражданство для эритрейцев"
+ IEA.39.d:0 ""
+ IEA.39.a:0 "Игнорировать их"
+ IEA.39.b:0 "Пообещать им гражданство"
+ 
+ IEA.40.t:0 "Автономия Сомали"
+ IEA.40.d:0 ""
+ IEA.40.a:0 "Игнорировать их"
+ IEA.40.b:0 "Пообещать большую автономию"
+ 
+ IEA.41.t:0 "Смерть принца"
+ IEA.41.d:0 ""
+ IEA.41.a:0 "Черулли"
+ IEA.41.b:0 "Гилле"
+ IEA_cerulli_succession:0 "Черулли выбран наследником"
+ IEA_guillet_succession:0 "Гилле выбран наследником"
+ 
+ ##Guillet Tree##
+ 
+ IEA_the_devil_commander:0 "Командир-Дьявол"
+ IEA_the_devil_commander_desc:0 ""
+ 
+ IEA_enforcing_equality_in_the_ranks:0 "Внедрение равенства среди чинов"
+ IEA_enforcing_equality_in_the_ranks_desc:0 ""
+ 
+ IEA_isolate_the_settlers:0 "Изолировать поселенцев"
+ IEA_isolate_the_settlers_desc:0 ""
+ 
+ IEA_return_monasteries_land:0 "Вернуть землю монастырям"
+ IEA_return_monasteries_land_desc:0 ""
+ 
+ IEA_disband_the_militias:0 "Распустить ополчение"
+ IEA_disband_the_militias_desc:0 ""
+ 
+ IEA_new_mosque_for_mogadiscio:0 "Новая мечеть для Могадишо"
+ IEA_new_mosque_for_mogadiscio_desc:0 ""
+ 
+ IEA_ceasefire_talks_in_ethiopia:0 "Перемирие в Эфиопии?"
+ IEA_ceasefire_talks_in_ethiopia_desc:0 ""
+ 
+ IEA_remember_what_we_gave_you:0 "Помните, что мы вам дали"
+ IEA_remember_what_we_gave_you_desc:0 ""
+ 
+ IEA_disband_the_colonial_blackshirts:0 "Роспуск колониальных чернорубашечников"
+ IEA_disband_the_colonial_blackshirts_desc:0 ""
+ 
+ IEA_increased_autonomy_in_eritrea:0 "Рост автономии Эритреи"
+ IEA_increased_autonomy_in_eritrea_desc:0 ""
+ 
+ IEA_land_reform_in_kenia:0 "Земельная реформа в Кении"
+ IEA_land_reform_in_kenia_desc:0 ""
+ 
+ IEA_dissolve_the_african_pnf:0 "Роспуск африканской НФП"
+ IEA_dissolve_the_african_pnf_desc:0 ""
+ 
+ IEA_local_elections_in_somalia:0 "Местные выборы в Сомали"
+ IEA_local_elections_in_somalia_desc:0 ""
+ 
+ IEA_cancel_racial_legislation:0 "Отмена расовых законов"
+ IEA_cancel_racial_legislation_desc:0 ""
+ 
+ IEA_summits_for_independence:0 "Саммиты о независимости"
+ IEA_summits_for_independence_desc:0 ""
+ 
+ IEA_africa_addio:0 "Прощай, Африка!"
+ IEA_africa_addio_desc:0 ""
+ 
+ ##Cerulli Tree##
+ 
+ IEA_the_governor_scholar:0 "Учёный губернатор"
+ IEA_the_governor_scholar_desc:0 ""
+ 
+ IEA_reorganize_the_colonial_army:0 "Реорганизовать колониальные войска"
+ IEA_reorganize_the_colonial_army_desc:0 ""
+ 
+ IEA_help_out_the_settlers:0 "Изолировать поселенцев"
+ IEA_help_out_the_settlers_desc:0 ""
+ 
+ IEA_control_the_monasteries:0 "Контроль над монастырями"
+ IEA_control_the_monasteries_desc:0 ""
+ 
+ IEA_integrate_the_militias:0 "Интегрировать военных"
+ IEA_integrate_the_militias_desc:0 ""
+ 
+ IEA_expand_the_mogadiscio_cathedral:0 "Расширить собор в Могадишо"
+ IEA_expand_the_mogadiscio_cathedral_desc:0 ""
+ 
+ IEA_starve_out_the_arbegnoch:0 "Истощить Арбегнох"
+ IEA_starve_out_the_arbegnoch_desc:0 ""
+ 
+ IEA_monuments_to_war:0 "Памятники войны"
+ IEA_monuments_to_war_desc:0 ""
+ 
+ IEA_homes_for_the_italians:0 "Дома для итальянцев"
+ IEA_homes_for_the_italians_desc:0 ""
+ 
+ 
+ IEA_review_the_eritrean_administration:0 "Инспекция эритрейской администрации"
+ IEA_review_the_eritrean_administration_desc:0 ""
+ 
+ IEA_help_out_poor_kenians:0 "Помощь для бедных кенийцев"
+ IEA_help_out_poor_kenians_desc:0 ""
+ 
+ IEA_review_colonial_bureaucracy:0 "Инспекция колониальной бюрократии"
+ IEA_review_colonial_bureaucracy_desc:0 ""
+ 
+ IEA_wiretap_the_somalis:0 "Прослушка сомалийцев"
+ IEA_wiretap_the_somalis_desc:0 ""
+ 
+ IEA_loosen_racial_legislation:0 "Смягчение расовых законов"
+ IEA_loosen_racial_legislation_desc:0 ""
+ 
+ IEA_more_efficient_administration:0 "Более эффективная администрация"
+ IEA_more_efficient_administration_desc:0 ""
+ 
+ IEA_africa_ditalia:0 "Итальянская Африка"
+ IEA_africa_ditalia_desc:0 ""
+ 
+ ##Decolonization Events##
+ IEA.100.t:0 "Кения получает независимость"
+ IEA.100.d:0 ""
+ IEA.100.a:0 ""
+ 
+ IEA.101.t:0 "Сомали получает независимость"
+ IEA.101.d:0 ""
+ IEA.101.a:0 ""
+ 
+ IEA.102.t:0 "Оромо получает независимость"
+ IEA.102.d:0 ""
+ IEA.102.a:0 ""
+ 
+ IEA.103.t:0 "Амхара получает независимость"
+ IEA.103.d:0 ""
+ IEA.103.a:0 ""
+ 
+ IEA.104.t:0 "Эритрея получает независимость"
+ IEA.104.d:0 ""
+ IEA.104.a:0 ""
+ 
+ IEA.105.t:0 "Кения объявляет о независимости"
+ IEA.105.d:0 ""
+ IEA.105.a:0 ""
+ 
+ IEA.106.t:0 "Сомали объявляет о независимости"
+ IEA.106.d:0 ""
+ IEA.106.a:0 ""
+ 
+ IEA.107.t:0 "Восстание Фронта Освобождения Оромо"
+ IEA.107.d:0 ""
+ IEA.107.a:0 ""
+ 
+ IEA.108.t:0 "Эфиопское восстание"
+ IEA.108.d:0 ""
+ IEA.108.a:0 ""
+ 
+ IEA.109.t:0 "Эритрея объявляет о независимости"
+ IEA.109.d:0 ""
+ IEA.109.a:0 ""
+ 
+ IEA.110.t:0 "Коррентия объявляет о независимости"
+ IEA.110.d:0 ""
+ IEA.110.a:0 ""
+ 
+ IEA.111.t:0 "ЭАМА заявляет о восстановлении порядка"
+ IEA.111.d:0 ""
+ IEA.111.a:0 ""
+ 
+ IEA.112.t:0 "Кения объявляет о независимости"
+ IEA.112.d:0 ""
+ IEA.112.a:0 ""
+ 
+ IEA.113.t:0 "Сомали объявляет о независимости"
+ IEA.113.d:0 ""
+ IEA.113.a:0 ""
+ 
+ IEA.114.t:0 "Восстание Фронта Освобождения Оромо"
+ IEA.114.d:0 ""
+ IEA.114.a:0 ""
+ 
+ IEA.115.t:0 "Эфиопское восстание"
+ IEA.115.d:0 ""
+ IEA.115.a:0 ""
+ 
+ IEA.116.t:0 "Эритрея объявляет о независимости"
+ IEA.116.d:0 ""
+ IEA.116.a:0 ""

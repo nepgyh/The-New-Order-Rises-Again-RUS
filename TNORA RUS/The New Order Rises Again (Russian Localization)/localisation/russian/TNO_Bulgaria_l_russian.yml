@@ -1,0 +1,79 @@
+﻿l_russian:
+ 
+ ##Country Names
+ BUL_fascism:0 "Болгарское Государство"
+ BUL_fascism_DEF:0 "Болгарское Государство"
+ BUL_social_liberal:0 "Болгарская Республика"
+ BUL_social_liberal_DEF:0 "Болгарская Республика"
+ BUL_market_liberal:0 "Болгарская Республика"
+ BUL_market_liberal_DEF:0 "Болгарская Республика"
+ BUL_social_conservative:0 "Республика Болгария"
+ BUL_social_conservative_DEF:0 "Республика Болгария"
+ BUL_authoritarian_democrat:0 "Королевство Болгария"
+ BUL_authoritarian_democrat_DEF:0 "Королевство Болгария"
+ BUL_despotism:0 "Болгарское Царство"
+ BUL_despotism_DEF:0 "Болгарское Царство"
+ BUL_communist:0 "Народная Республика Болгария"
+ BUL_communist_DEF:0 "Народная Республика Болгария"
+ BUL_socialist:0 "Болгарская Народная Республика"
+ BUL_socialist_DEF:0 "Болгарская Народная Республика"
+ BUL_radical_socialist:0 "Народная Республика Болгария"
+ BUL_radical_socialist_DEF:0 "Народная Республика Болгария"
+ BUL_fascism_ADJ:0 "Болгарск."
+ BUL_social_liberal_ADJ:0 "Болгарск."
+ BUL_market_liberal_ADJ:0 "Болгарск."
+ BUL_social_conservative_ADJ:0 "Болгарск."
+ BUL_authoritarian_democrat_ADJ:0 "Болгарск."
+ BUL_despotism_ADJ:0 "Болгарск."
+ BUL_communist_ADJ:0 "Болгарск."
+ BUL_socialist_ADJ:0 "Болгарск."
+ BUL_radical_socialist_ADJ:0 "Болгарск."
+ 
+ ##Parties
+ BUL_communist_party:0 "БКП"
+ BUL_communist_party_long:0 "Болгарская коммунистическая партия"
+ BUL_socialist_party:0 "БЗНС "Л""
+ BUL_socialist_party_long:0 "BБолгарский Земледельческий Народный Союз "Левые""
+ BUL_social_democrat_party:0 "БЗНС"
+ BUL_social_democrat_party_long:0 "Болгарский Земледельческий Народный Союз"
+ BUL_social_liberal_party:0 "БЗНС Врабча 1"
+ BUL_social_liberal_party_long:0 "Болгарский Земледельческий Народный Союз - Врабча 1"
+ BUL_social_conservative_party:0 "БДП"
+ BUL_social_conservative_party_long:0 "Болгарская Демократическая Партия"
+ BUL_authoritarian_democrat_party:0 "Военное правительство"
+ BUL_authoritarian_democrat_party_long:0 "Военное правительство"
+ BUL_despotism_party:0 "Беспартийное правительство"
+ BUL_despotism_party_long:0 "Беспартийное правительство"
+ BUL_fascism_party:0 "СБНЛ"
+ BUL_fascism_party_long:0 "Союз болгарских национальных легионов"
+ BUL_national_socialism_party:0 "Ратники"
+ BUL_national_socialism_party_long:0 "Союз ратников за прогресс Болгарии"
+ #BUL_ultranational_socialism_party:0 "- Я не знаю." # <<TRANSLATED>>
+ #BUL_ultranational_socialism_party_long:0 "- Я не знаю." # <<TRANSLATED>>
+ #BUL_burgundian_system_party:0 "- Я не знаю." # <<TRANSLATED>>
+ #BUL_burgundian_system_party_long:0 "- Я не знаю." # <<TRANSLATED>>
+ 
+ ##Ideas 
+ BUL_Dobri_Bozhilov_hog:0 "Добри Божилов"
+ BUL_Asen_Hristoforov_eco:0 "Асень Христофоров"
+ BUL_Dimitar_Peshev_for:0 "Димитар Пешев"
+ BUL_the_tsars_government:0 "Царское правительство"
+ BUL_the_tsars_government_desc:0 "Болгарское царство на бумаге считается конституционной монархией, но на деле конституционной болгарская монархия уже давно не является. Указы и эдикты законодательного органа стоят ничего перед оными от самого царя, поэтому можно сказать, что он установил абсолютизм в своей стране. Единственная сила, способная померяться с царём Борисом, это германцы, гарнизоны которых находятся в очень близкой видимости, и этим как бы намекают на то, кто здесь настоящий хозяин Европы. Борис не желает отдавать ни доли власти в своём царстве, поэтому текущий баланс сил может скоро измениться."
+ BUL_the_fatherland_front:0 "Отечественный фронт"
+ BUL_the_fatherland_front_desc:0 "На данное время есть только один очаг сопротивления германцам в Болгарии - Отечественный фронт, националистическая организация антигерманского направления, которая терроризирует нас с конца Второй Мировой. Отечественный фронт раньше являлся коммунистической организацией, но после крушения Советского Союза он был реорганизован в националистическое движение сопротивления. Сегодня они выступают в качестве постоянной угрозы миру и стабильности в Болгарии.\\n\\nХоть и проблема болгарского сопротивления совсем ничтожна по сравнению с проблемами других стран Пакта Единения, она угрожает порядку в стране, также как и предоставление германцам повода дальше держать свой кинжал у нашего горла."
+ BUL_german_forged_shackles:0 "Цепи Германии"
+ BUL_german_forged_shackles_desc:0 "На бумаге Болгария является свободным и независимым членом Пакта Единения и работает наравне с Германией для приближения нового расцвета Европы. Но на практике она всё такая же шестерёнка, как другие страны, в германской машине, которая должна работать изо всех сил ради чужих интересов. Германский гарнизон здесь не ради защиты Болгарии, а чтобы держать людей в узде. Присутствие иностранных солдат вызывает не только гнев, но и страх в их сердцах - а что если германцы пойдут на Софию?\\n\\nНе все, но точно большинство болгар, от обычного рабочего до приближённого самого царя, объединяет одна мысль - немцам тут не место. К несчастью, сами немцы с этим не согласны."
+ ##Focus Tree
+
+ ##Events
+ bul.1.t:0 "Hippity Hoppity Your King is Now History"
+ bul.1.d:0 "tldr ya boi got poisoned"
+ bul.1.a:0 "F"
+ bul.2.t:0 "Царя больше нет"
+ bul.2.d:0 "Со смертью этого персонажа нить судьбы Болгарии не прервётся. Продолжайте играть в этот проклятый мир, на который вы случайно натолкнулись."
+ bul.2.a:0 "F"
+
+ BUL.30.t:0 "Враг в Вратах" # <<TRANSLATED>>
+ BUL.30.d:0 "Димитар Пешсев ворвался в кабинет премьер-министра, его лицо бледное."From Germania." He said it as a statement. "What did it say, Dimitar", the aging statesman then asked in a calm, quiet voice that was undercut by concealed fear.\n\nWiping his brow, the foreign secretary turned over the communique he held in his hands. "It was quite brief, all things considered. Hare, let me just get to the main thrust..." He scanned the message for a second, "Ah, here it is. 'In light of the ties that were so amicably bolstered just before the recent civil disturbance we respectfully request Bulgaria honor its obligations and return fully into the Unity-Pakt... failure to do so will be regarded as a declaration of hostile intent."\n\nDimitar's hands shook as he finished reading. Peshsev folded his hands, trying to calm his racing mind lest he betray his worry to an already shaken subordinate.\n\n"We knew this day would come, Dimitar. We also knew how we would respond. Take this down and have it sent to Mister Axmann at the Reichskanzlei."" # <<TRANSLATED>>
+ BUL.30.a:0 "Конечно, мы выполним вашу просьбу..." # <<TRANSLATED>>
+ BUL.30.b:0 "Наше время кроткого подчинения прошло..." # <<TRANSLATED>>

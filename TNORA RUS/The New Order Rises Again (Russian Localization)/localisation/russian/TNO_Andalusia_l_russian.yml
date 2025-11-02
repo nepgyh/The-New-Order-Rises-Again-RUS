@@ -1,0 +1,106 @@
+﻿l_russian:
+
+ ###PARTIES###
+ ADL_communist_party:0 "КПА"
+ ADL_communist_party_long:0 "Коммунистическая Партия Андалусии"
+ ADL_socialist_party:0 "ПА"
+ ADL_socialist_party_long:0 "Андалузская Партия"
+ ADL_social_democrat_party:0 "PSOA"
+ ADL_social_democrat_party_long:0 "Partido Socialista Obrero Andaluz"
+ ADL_social_liberal_party:0 "PSLA"
+ ADL_social_liberal_party_long:0 "Partido Social Liberal Andaluz"
+ ADL_social_conservative_party:0 "URA"
+ ADL_social_conservative_party_long:0 "Unión Regional Andaluza"
+
+ #Ministers
+ ADL_Jose_Rodriguez_hog:0 "José Rodríguez de la Borbolla"
+ ADL_Francisco_Fernandez_for:0 "Francisco Fernández Ordóñez"
+ ADL_Rafael_Escuredo_eco:0 "Rafael Escuredo Rodríguez"
+ ADL_Carlos_Sanjuan_mil:0 "Carlos Sanjuan de la Rocha"
+
+
+#National Spirits 
+ ADL_unscathed_now:0 "Невредимый пока" # <<TRANSLATED>>
+ ADL_pacifism_outburst:0 "Вырывается пацифизм" # <<TRANSLATED>>
+
+#Tree
+ ADL_enough_already:0 "Хватит уже" # <<TRANSLATED>>
+ ADL_enough_already_desc:0 "Ни войны, ни тиранов." # <<TRANSLATED>>
+ ADL_enough_already_tt:0 "- Андалуки, ливантаос!" # <<TRANSLATED>>
+
+ ADL_restart_the_country:0 "Возобновить страну" # <<TRANSLATED>>
+ ADL_restart_the_country_desc:0 "Заставь правительство работать." # <<TRANSLATED>>
+
+ ADL_create_cama:0 "Создать CAMA" # <<TRANSLATED>>
+ ADL_create_cama_desc:0 "КАМА будет служить нашим командованием воздушным и морским транспортом." # <<TRANSLATED>>
+
+ ADL_defend_the_beaches:0 "Защищать Бичи" # <<TRANSLATED>>
+ ADL_defend_the_beaches_desc:0 "Заприте их." # <<TRANSLATED>>
+
+ ADL_swat_those_pesky_planes:0 "Заморачивайся на этих Пески-планах" # <<TRANSLATED>>
+ ADL_swat_those_pesky_planes_desc:0 "Стреляй в них с неба." # <<TRANSLATED>>
+
+ ADL_expand_the_ports:0 "Расширить порты" # <<TRANSLATED>>
+ ADL_expand_the_ports_desc:0 "Порты нужны для выхода на новый флот." # <<TRANSLATED>>
+
+ ADL_pump_up_naval_production:0 "Накачание наземной военно-морской промышленности" # <<TRANSLATED>>
+ ADL_pump_up_naval_production_desc:0 "Андалузские корабли будут править Медом!" # <<TRANSLATED>>
+
+ ADL_andalusians_in_the_sky:0 "Андалусианцы в небе" # <<TRANSLATED>>
+ ADL_andalusians_in_the_sky_desc:0 "Защищайте наше небо." # <<TRANSLATED>>
+
+ ADL_from_renfe_to_raf:0 "От РЕНФЕ до РВС" # <<TRANSLATED>>
+ ADL_from_renfe_to_raf_desc:0 "Надлежащим ВВС." # <<TRANSLATED>>
+
+ ADL_create_the_andalusian_bank:0 "Создать Андалузский банк" # <<TRANSLATED>>
+ ADL_create_the_andalusian_bank_desc:0 "Заставь деньги течь" # <<TRANSLATED>>
+
+ ADL_draft_a_constitution:0 "Проект конституции" # <<TRANSLATED>>
+ ADL_draft_a_constitution_desc:0 "За свободу и процветание." # <<TRANSLATED>>
+
+ ADL_provisional_town_halls:0 "Временные городские залы" # <<TRANSLATED>>
+ ADL_provisional_town_halls_desc:0 "Основу демократии." # <<TRANSLATED>>
+
+ ADL_militant_democracy:0 "Демократия-воинство" # <<TRANSLATED>>
+ ADL_militant_democracy_desc:0 "Борись за это." # <<TRANSLATED>>
+
+ ADL_accomodate_everyone:0 "Аккомодатировать всех" # <<TRANSLATED>>
+ ADL_accomodate_everyone_desc:0 "У всех будет право голоса." # <<TRANSLATED>>
+
+ ADL_this_is_not_our_war:0 "Это не наша война" # <<TRANSLATED>>
+ ADL_this_is_not_our_war_desc:0 "Пусть они сражаются." # <<TRANSLATED>>
+
+ ADL_create_faa:0 "Создать FAA" # <<TRANSLATED>>
+ ADL_create_faa_desc:0 "Наша новая армия." # <<TRANSLATED>>
+
+ ADL_not_a_step_forwards:0 "Не шаг вперед..." # <<TRANSLATED>>
+ ADL_not_a_step_forwards_desc:0 "Они не пройдут." # <<TRANSLATED>>
+
+ ADL_nor_backwards:0 "...Ни назад" # <<TRANSLATED>>
+ ADL_nor_backwards_desc:0 "И мы не будем бежать." # <<TRANSLATED>>
+
+ ADL_recruitment_propaganda:0 "Пропаганда набора персонала" # <<TRANSLATED>>
+ ADL_recruitment_propaganda_desc:0 "Присоединись к свободе." # <<TRANSLATED>>
+
+ ADL_equipment_quality_checks:0 "Проверка качества оборудования" # <<TRANSLATED>>
+ ADL_equipment_quality_checks_desc:0 "Только лучшие." # <<TRANSLATED>>
+
+ ADL_we_are_in_dispersive_ground:0 "Мы в раздвоении" # <<TRANSLATED>>
+ ADL_we_are_in_dispersive_ground_desc:0 "Сними их." # <<TRANSLATED>>
+
+ #Events 
+ ADL_wars.1.t:0 "- Я не знаю." # <<TRANSLATED>>
+ ADL_wars.1.d:0 "(В Севилье проходит огромная демонстрация в поддержку решения Союза провинциальных советов Андалусии о прекращении связей с республиканским правительством. Алехандро Рохас-Маркос, один из главных лидеров Андалуциа, выступает с речью, осуждающей республиканское правительство за игнорирование бедственного положения Андалусии во время войны. Андалуция, по его словам, в начале предоставила республике основу для людских ресурсов и экономики, но она была проигнорирована. Сейчас Андалуция стоит сама по себе и если Республика хочет вести переговоры, она будет равной" # <<TRANSLATED>>
+ ADL_wars.1.a:0 "- Я не знаю." # <<TRANSLATED>>
+
+ ADL_wars.2.t:0 "- Я не знаю." # <<TRANSLATED>>
+ ADL_wars.2.d:0 "В ходе этого мероприятия упоминается эволюция станции и пассажиров от паровых поездов начала XX века до солдат гражданской войны до прибытия туристов в 60-е годы." # <<TRANSLATED>>
+ ADL_wars.2.a:0 "- Я не знаю." # <<TRANSLATED>>
+
+ ADL_wars.3.t:0 "- Я не знаю." # <<TRANSLATED>>
+ ADL_wars.3.d:0 "Взгляните на различные встречи андалуков конца XIX и начала XX века, от Антекерии в 1883 году, которая создала проект федеральной конституции Андалусии до встреч в течение первой трети XX века с участием Блас Инфанте." # <<TRANSLATED>>
+ ADL_wars.3.a:0 "- Я не знаю." # <<TRANSLATED>>
+
+ ADL_wars.4.t:0 "- Я не знаю." # <<TRANSLATED>>
+ ADL_wars.4.d:0 "В Севилье, где прежняя администрация была отменена новым правительством Андалусы, Луис Уруньуэла был назначен мэром города. Новый городской совет, состоящий из местных и региональных политиков, начинает свою первую сессию, сняв флаг Республики с балкона и вместо этого поставив флаг Андалусии." # <<TRANSLATED>>
+ ADL_wars.4.a:0 "- Я не знаю." # <<TRANSLATED>>

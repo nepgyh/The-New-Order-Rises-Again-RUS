@@ -1,0 +1,38 @@
+﻿l_russian:
+ ## Country Names ##
+ ZAM_social_democrat:0 "Государство Замбия"
+ ZAM_social_democrat_DEF:0 "Государство Замбия"
+ ZAM_social_democrat_ADJ:0 "Замбия"
+
+ ZAM_social_conservative:0 "Республика Замбия"
+ ZAM_social_conservative_DEF:0 "Республика Замбия"
+ ZAM_social_conservative_ADJ:0 "Замбия"
+
+ ZAM_despotism:0 "Государство Замбия"
+ ZAM_despotism_DEF:0 "Государство Замбия"
+ ZAM_despotism_ADJ:0 "Замбийск."
+ 
+ ####Party Names#####
+
+ ZAM_social_democrat_party:0 "ОПНЗ"
+ ZAM_social_democrat_party_long:0 "Объединенная партия национальной независимости"
+
+ ## Ministers ##
+ 
+ ZAM_Reuben_Kamanga_hog:0 "Reuben Kamanga"
+ ZAM_Elijah_Mudenda_for:0 "Elijah Mudenda"
+ ZAM_Alexander_Grey_Zulu_eco:0 "Alexander Grey Zulu"
+ ZAM_Casimir_Michael_Grigg_sec:0 "Casimir Michael Grigg"
+ ZAM_Reuben_Kamanga_sec:0 "Reuben Kamanga"
+
+ ## Ideas ##
+ 
+ ## Decisions ##
+ 
+ ## Tooltips ##
+ 
+ ## Focus Tree ##
+ 
+ ## Events ##
+
+ 

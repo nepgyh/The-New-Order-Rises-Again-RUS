@@ -1,0 +1,382 @@
+﻿l_russian:
+
+### Megacorp Info ###
+
+PAV_megacorp_1_name: "ФЕНИКС"
+PAV_megacorp_1_desc: "Корпорация "
+
+PAV_megacorp_2_name: "СИБИРЬ"
+PAV_megacorp_2_desc: "Корпорация "
+
+PAV_megacorp_3_name: "ТИТАН"
+PAV_megacorp_3_desc: "Если "Progress", and this is what Titan does best.\n\nGeared towards the furthering of the Federation's technological fronts, Titan has long been the frontrunner in the Federation's race towards mechanization and the furthering of all technology, Titan once directly competed with the Modernists in Tomsk."
+
+PAV_megacorp_4_name: "Народ"
+PAV_megacorp_4_desc: "Федерация состоит не только из корпораций и ресурсов, которые они производят. Федерация и, как следствие, её экономика подпитываются народом - гражданами, которые находятся под опекой нашего правительства. Эти люди, от селянина-земледельца до высшего должностного лица в нашем правительстве, имеют, по крайней мере, номинальное право голоса в том, как мы управляем государством.\\n\\nДля нас важно быть всегда осведомлёнными о состоянии нашего народа, насколько они лояльны к нашему режиму, насколько популярно наше правительство и насколько мы влиятельны в наших границах."
+
+PAV_megacorp_1_modifiers: "Организация дивизий: [?PAV_MC1_army_org_factor|%+]\\nАтака дивизий: [?PAV_MC1_army_attack_factor|%+]\\nЕжемесячный прирост профессионализма армии: [?PAV_MC1_army_professionalism_monthly_rate|+]"
+PAV_megacorp_2_modifiers: "Фабрики потребительских товаров: [?PAV_MC2_consumer_goods_factor|%Y]\\nСкорость постройки: [?PAV_MC2_production_speed_buildings_factor|%+]\\n£prod_eff_cap Предел эффективности производства: [?PAV_MC2_production_factory_max_efficiency_factor|%+]"
+PAV_megacorp_3_modifiers: "Скорость исследований: [?PAV_MC3_research_speed_factor|%+]\\nЕжемесячный прирост академической базы: [?PAV_MC3_academic_base_monthly_rate|+]\\nЕжемесячный прирост исследовательских объект: [?PAV_MC3_research_facilities_monthly_rate|+]"
+PAV_megacorp_4_modifiers: "Ежедневный прирост политической власти: [?PAV_MC4_political_power_gain|+]\\nЕжемесячный прирост бедности: [?PAV_MC4_poverty_monthly_rate|+]"
+
+### Map Tooltips ###
+## fuck johan
+# i agree
+
+PAV_Silovik_GUI_state_aldan_tt: "§Y[760.Owner.GetName]§!\\n\\nСейчас у нас есть [760.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_amur_tt: "§Y[561.Owner.GetName]§!\\n\\nСейчас у нас есть [561.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_bashkiria_tt: "§Y[651.Owner.GetName]§!\\n\\nСейчас у нас есть [651.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_berezniki_tt: "§Y[398.Owner.GetName]§!\\n\\nСейчас у нас есть [398.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_buryatia_tt: "§Y[564.Owner.GetName]§!\\n\\nСейчас у нас есть [564.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_chita_tt: "§Y[563.Owner.GetName]§!\\n\\nСейчас у нас есть [563.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_chukotka_tt: "§Y[891.Owner.GetName]§!\\n\\nСейчас у нас есть [891.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_dirle_tt: "§Y[846.Owner.GetName]§!\\n\\nСейчас у нас есть [846.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_gayny_tt: "§Y[866.Owner.GetName]§!\\n\\nСейчас у нас есть [866.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_gorky_tt: "§Y[252.Owner.GetName]§!\\n\\nСейчас у нас есть [252.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_irkutsk_tt: "§Y[566.Owner.GetName]§!\\n\\nСейчас у нас есть [566.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_kamchatka_tt: "§Y[637.Owner.GetName]§!\\n\\nСейчас у нас есть [637.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_kolyma_tt: "§Y[759.Owner.GetName]§!\\n\\nСейчас у нас есть [759.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_magadan_tt: "§Y[562.Owner.GetName]§!\\n\\nСейчас у нас есть [562.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_magnitogorsk_tt: "§Y[582.Owner.GetName]§!\\n\\nСейчас у нас есть [582.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_novosibirsk_tt: "§Y[570.Owner.GetName]§!\\n\\nСейчас у нас есть [570.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_omolon_tt: "§Y[644.Owner.GetName]§!\\n\\nСейчас у нас есть [644.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_omsk_tt: "§Y[571.Owner.GetName]§!\\n\\nСейчас у нас есть [571.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_orenburg_tt: "§Y[652.Owner.GetName]§!\\n\\nСейчас у нас есть [652.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_oyrotia_tt: "§Y[654.Owner.GetName]§!\\n\\nСейчас у нас есть [654.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_plesetsk_tt: "§Y[861.Owner.GetName]§!\\n\\nСейчас у нас есть [861.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_prc_tt: "§Y[329.Owner.GetName]§!\\n\\nСейчас у нас есть [329.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_samara_tt: "§Y[850.Owner.GetName]§!\\n\\nСейчас у нас есть [850.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_tomsk_tt: "§Y[578.Owner.GetName]§!\\n\\nСейчас у нас есть [578.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_sba_tt: "§Y[568.Owner.GetName]§!\\n\\nСейчас у нас есть [568.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_kras_tt: "§Y[757.Owner.GetName]§!\\n\\nСейчас у нас есть [757.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_kemerovo_tt: "§Y[569.Owner.GetName]§!\\n\\nСейчас у нас есть [569.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_tyumen_tt: "§Y[403.Owner.GetName]§!\\n\\nСейчас у нас есть [403.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_sverdlovsk_tt: "§Y[653.Owner.GetName]§!\\n\\nСейчас у нас есть [653.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_ural_tt: "§Y[848.Owner.GetName]§!\\n\\nСейчас у нас есть [848.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_vilyuy_tt: "§Y[890.Owner.GetName]§!\\n\\nСейчас у нас есть [890.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_chernyshevsky_tt: "§Y[575.Owner.GetName]§!\\n\\nСейчас у нас есть  [575.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_vologda_tt: "§Y[351.Owner.GetName]§!\\n\\nСейчас у нас есть [351.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_kostroma_tt: "§Y[856.Owner.GetName]§!\\n\\nСейчас у нас есть [856.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_ab_tt: "§Y[753.Owner.GetName]§!\\n\\nСейчас у нас есть [753.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_vyatka_tt: "§Y[400.Owner.GetName]§!\\n\\nСейчас у нас есть [400.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_tatarstan_tt: "§Y[249.Owner.GetName]§!\\n\\nСейчас у нас есть [249.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_wrrf_tt: "§Y[214.Owner.GetName]§!\\n\\nСейчас у нас есть [214.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_ukhta_tt: "§Y[869.Owner.GetName]§!\\n\\nСейчас у нас есть [869.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_onega_tt: "§Y[859.Owner.GetName]§!\\n\\nСейчас у нас есть [859.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_yakutia_tt: "§Y[574.Owner.GetName]§!\\n\\nСейчас у нас есть [574.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_yugra_tt: "§Y[845.Owner.GetName]§!\\n\\nСейчас у нас есть[845.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_fav_tt: "§Y[579.Owner.GetName]§!\\n\\nСейчас у нас есть [579.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_vorkuta_tt: "§Y[863.Owner.GetName]§!\\n\\nСейчас у нас есть[863.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_zlatoust_tt: "§Y[573.Owner.GetName]§!\\n\\nСейчас у нас есть [573.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+PAV_Silovik_GUI_state_komi_tt: "§Y[397.Owner.GetName]§!\\n\\nСейчас у нас есть [397.Owner.GetNovosibirskTakeoverProgress]§Y%§! влияния на эту страну.\\n\\n§YНАЖМИТЕ ДЛЯ ДАЛЬНЕЙШИХ ДЕЙСТВИЙ§!"
+
+PAV_Takeover_ProgressBar_tt: "[PAV_target_country.GetNovosibirskTakeoverProgress]% Прогресс поглощения"
+PAV_Silovik_GUI_policies_tt: "§PPOLICIES:§!\\n§YКорпоративизм:§! [?PAV_policies_corporatism]\\n§RКоллективизм:§! [?PAV_policies_collectivism]\\n\\n§BУнитаризм:§! [?PAV_policies_unitarianism]\\n§GФедерализм:§! [?PAV_policies_federalism]"
+PAV_takeover_progress_loc: "[?temp_takeover|Y0]"
+
+PAV_Silovik_GUI_megacorp_1_option_1_plus_tt: "[GetNovosibirskMegacorpCooldown1]"
+PAV_megacorp_1_has_cooldown: "§RПонадобится 30 дней для возобновления этого действия.§!"
+PAV_megacorp_1_no_cooldown: "Это увеличит §Yверность§! на §Y10§! и будет стоить §Y35§! политической власти."
+#
+PAV_Silovik_GUI_megacorp_1_option_1_minus_tt: "[GetNovosibirskMegacorpCooldownMinus1]"
+PAV_megacorp_1_no_cooldown_minus: "Это уменьшит §Yверность§! на §Y10§! и будет стоить §Y35§! политической власти."
+
+PAV_Silovik_GUI_megacorp_1_option_2_plus_tt: "[GetNovosibirskMegacorpCooldownPower1]"
+PAV_Silovik_GUI_megacorp_1_option_2_minus_tt: "[GetNovosibirskMegacorpCooldownPowerMinus1]"
+
+PAV_megacorp_1_no_cooldown_power: "Это увеличит §Yсилу§! на §Y10§! и будет стоить §Y35§! политической власти."
+PAV_megacorp_1_no_cooldown_minus_power: "Это уменьшит §Yсилу§! на §Y10§! и будет стоить §Y35§! политической власти."
+PAV_megacorp_not_enough_PP: "§RУ нас недостаточно§! §Yполитической власти.§!\\n\\nЭто будет стоить §Y35§! политической власти."
+#
+PAV_Silovik_GUI_PC_circle_tt: "§RСила§! каждой §Yкорпорации§! будет так же влиять на нашу политическую позицию:\\nУсилившийся §Y"
+#
+PAV_Silovik_GUI_megacorp_2_option_1_plus_tt: "[GetNovosibirskMegacorpCooldown2]"
+PAV_Silovik_GUI_megacorp_2_option_1_minus_tt: "[GetNovosibirskMegacorpCooldownMinus2]"
+PAV_Silovik_GUI_megacorp_2_option_2_plus_tt: "[GetNovosibirskMegacorpCooldownPower2]"
+PAV_Silovik_GUI_megacorp_2_option_2_minus_tt: "[GetNovosibirskMegacorpCooldownPowerMinus2]"
+#
+PAV_Silovik_GUI_megacorp_3_option_1_plus_tt: "[GetNovosibirskMegacorpCooldown3]"
+PAV_Silovik_GUI_megacorp_3_option_1_minus_tt: "[GetNovosibirskMegacorpCooldownMinus3]"
+PAV_Silovik_GUI_megacorp_3_option_2_plus_tt: "[GetNovosibirskMegacorpCooldownPower3]"
+PAV_Silovik_GUI_megacorp_3_option_2_minus_tt: "[GetNovosibirskMegacorpCooldownPowerMinus3]"
+#
+PAV_Silovik_GUI_megacorp_4_option_1_plus_tt: "[GetNovosibirskMegacorpCooldown4]"
+PAV_Silovik_GUI_megacorp_4_option_1_minus_tt: "[GetNovosibirskMegacorpCooldownMinus4]"
+PAV_Silovik_GUI_megacorp_4_option_2_plus_tt: "[GetNovosibirskMegacorpCooldownPower4]"
+PAV_Silovik_GUI_megacorp_4_option_2_minus_tt: "[GetNovosibirskMegacorpCooldownPowerMinus4]"
+#
+PAV_Silovik_GUI_megacorp_1_status_text: "§GВерность:§! [?PAV_megacorp1_loyalty]\\n§RСила:§! [?PAV_megacorp1_power]"
+PAV_Silovik_GUI_megacorp_2_status_text: "§GВерность:§! [?PAV_megacorp2_loyalty]\\n§RСила:§! [?PAV_megacorp2_power]"
+PAV_Silovik_GUI_megacorp_3_status_text: "§GВерность:§! [?PAV_megacorp3_loyalty]\\n§RСила:§! [?PAV_megacorp3_power]"
+PAV_Silovik_GUI_megacorp_4_status_text: "§GВерность:§! [?PAV_megacorp4_loyalty]\\n§RСила:§! [?PAV_megacorp4_power]"
+PAV_Interact_TakeOver_tt: "§gКогда наш§! §Wпрогресс поглощения§! §gопределённой страны достигнет§! §Y100%§!§g, мы можем дипломатическим путём аннексировать её.we can diplomatically annex the target.§!\\n\\n§RТОЛЬКО НА СОСЕДНИХ СТРАНАХ И СТРАНАХ ЦЕНТРАЛЬНОЙ СИБИРИ ДО 1969 ГОДАРАСПРОСТРАНЯЕТСЯ НАШЕ ВЛИЯНИЕ.§!\\nОснова: §Y[?PAV.PAV_Takeover_Power]§!\\nНаша §Yидеологическая схожесть§! с определённой страной даёт нам преимущество в §G[?PAV.PAV_Dummy_Id_Sim]§!\\n§RСила§! и §Gверность§! наших корпораций даёт нам преимущество в §Y[?PAV.PAV_dummy_megacorp_boost]§!\\n\\nИдеология определённой страны означает то, что преимущество от корпорации идёт от [GetNovosibirskWhichMegaCorp]"
+
+
+PAV_Interact_1_tt: "§YОЖИДАНИЕ 10 ДНЕЙ§!\\n\\nЭто будет стоить §Y30§!  £political_power_texticon  Political Power"
+PAV_Interact_2_tt: "§YОЖИДАНИЕ 10 ДНЕЙ§!\\n\\nЭто будет стоить §Y25§!  £command_power  §RCommand Power§!"
+PAV_Interact_3_tt: "§YОЖИДАНИЕ 10 ДНЕЙ§!\\n\\nЭто будет стоить §Y100§! £green_dollar_sign  §GMonetary Reserves§!"
+PAV_Silovik_GUI_extra_button_1_tt: "Наша первичная цель - §Gзахватить§! все области §YЦентральной Сибири§!, а потом и §Rи всей России,§! для выполнения этой цели мы должны выполнить миссии по поглощению территорий наших конкурентов, а именно заплатив им определённые суммы. Это делается при помощи нажатия на карту сверху. Это делается при помощи §Yнажатия на карту сверху.§!\\n\\nЧтобы ускорить процесс поглощения как можно скорее, мы стоит попытаться стать §Yидеологически близкими§! с нашими конкурентами. Чем ближе мы будем им близки в идеологическом плане, тем the closer we are to a warlord ideologically the §Gбыстрее§! пройдёт процесс поглощения нами конкурентов на власть над всей Россией. А если мы будем далеки от их идеологии, то процесс поглощения пройдёт §Rмедленнее.§! Мы можем увидеть нашу идеологическую позицию на данный момент при помощи §Rнажатия на красную кнопку внизу.§!\\n\\nЧтобы изменить нашу идеологическую позицию, мы можем §Yпринять определённые фокусы§! или §Yусилить определённые корпорации,§! чем сильнее корпорация, тем больше мы склонимся к их идеологическому предпочтению. Мы можем увидеть наши §Yидеологические метания§! в §Rкнопку внизу этого меню§! и проведя курсором по компасу £GFX_PAV_GUI_Political_Compass_circle.\\n\\nКорпорации не только помогают в изменении нашей идеологической направленности, чем §Yсильнее§! корпорация, тем легче будет поглотить наших оппонентов по объединению всей России, которые имеют сходную с определённой корпорацией идеологию. §RОднако, если §Gверность§! корпорации упадёт ниже §Y50,§! то она перестанет приносить пользу.§!\\nЧтобы узнать о той или иной корпорации и идеологическом предпочтении каждой из них, нажмите на кнопку i под их названиями."
+
+
+#Flavour Loc
+
+PAV_SEV_mission1_name: "Усиление политического давления на §Y30§!  £political_power_texticon"
+PAV_AMR_mission1_name: "Усиление политического давления на §Y30§!  £political_power_texticon"
+PAV_BKR_mission1_name: "Усиление политического давления на §Y30§!  £political_power_texticon"
+PAV_MAR_mission1_name: "Усиление политического давления на §Y30§!  £political_power_texticon"
+PAV_BRY_mission1_name: "Усиление политического давления на §Y30§!  £political_power_texticon"
+PAV_WCH_mission1_name: "Усиление политического давления на §Y30§!  £political_power_texticon"
+PAV_CHK_mission1_name: "Усиление политического давления на §Y30§!  £political_power_texticon"
+PAV_ORS_mission1_name: "Усиление политического давления на §Y30§!  £political_power_texticon"
+PAV_GAY_mission1_name: "Усиление политического давления на §Y30§!  £political_power_texticon"
+PAV_CHU_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_IRK_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_KMC_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_KOL_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_MAG_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_BAS_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_PAV_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_OMO_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_OMS_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_ORE_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_ALT_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_MIR_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_SVO_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_SAM_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_ERS_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_KHA_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_SAH_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_KEM_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_ISH_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_TOB_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_URL_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_VIL_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_CHR_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_VOL_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_KST_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_PRM_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_KIR_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_TAR_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_WRS_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_UKH_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_VTY_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_YAK_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_KOM_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_FAV_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_VOR_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_UDM_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+PAV_NIK_mission1_name: "Усиление политического давления  §Y30§!  £political_power_texticon"
+
+PAV_SEV_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_AMR_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_BKR_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_MAR_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_BRY_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_WCH_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_CHK_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_ORS_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_GAY_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_CHU_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_IRK_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_KMC_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_KOL_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_MAG_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_BAS_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_PAV_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_OMO_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_OMS_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_ORE_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_ALT_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_MIR_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_SVO_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_SAM_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_ERS_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_KHA_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_SAH_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_KEM_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_ISH_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_TOB_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_URL_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_VIL_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_CHR_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_VOL_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_KST_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_PRM_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_KIR_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_TAR_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_WRS_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_UKH_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_VTY_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_YAK_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_KOM_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_FAV_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_VOR_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_UDM_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+PAV_NIK_mission2_name: "Усиление военного давления  §Y25§!  £command_power"
+
+PAV_SEV_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_AMR_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_BKR_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_MAR_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_BRY_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_WCH_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_CHK_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_ORS_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_GAY_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_CHU_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_IRK_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_KMC_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_KOL_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_MAG_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_BAS_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_PAV_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_OMO_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_OMS_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_ORE_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_ALT_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_MIR_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_SVO_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_SAM_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_ERS_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_KHA_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_SAH_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_KEM_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_ISH_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_TOB_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_URL_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_VIL_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_CHR_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_VOL_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_KST_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_PRM_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_KIR_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_TAR_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_WRS_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_UKH_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_VTY_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_YAK_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_KOM_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_FAV_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_VOR_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_UDM_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+PAV_NIK_mission3_name: "Усиление экономического давления  §Y100§! £green_dollar_sign"
+
+
+PAV_uses_megacorp1: "§P"
+PAV_uses_megacorp2: "§G"
+PAV_uses_megacorp3: "§Y"
+PAV_uses_megacorp4: "§xнарод§!"
+##########################
+##=====| Tooltips |=====##
+##########################
+
+### Political Compass ###
+#Corporatism
+PAV_Add_Corporatism_Low_tt: "Это немного §Qувеличит§! нашу склонность к §Yкорпоративизму§!.\\n"
+PAV_Add_Corporatism_Mid_tt: "Это умеренно §Qувеличит§! нашу склонность к §Yкорпоративизму§!.\\n"
+PAV_Add_Corporatism_High_tt: "Это намного §Qувеличит§! нашу склонность к §Yкорпоративизму§!.\\n"
+
+PAV_Lower_Corporatism_Low_tt: "Это немного §wуменьшит§! нашу склонность к §Yкорпоративизму§!.\\n"
+PAV_Lower_Corporatism_Mid_tt: "Это умеренно §wуменьшит§! нашу склонность к §Yкорпоративизму§!.\\n"
+PAV_Lower_Corporatism_High_tt: "Это намного §wуменьшит§! нашу склонность к §Yкорпоративизму§!.\\n"
+
+#Collectivism
+PAV_Add_Collectivism_Low_tt: "Это немного §Qувеличит§! нашу склонность к §Yколлективизму§!.\\n"
+PAV_Add_Collectivism_Mid_tt: "Это умеренно §Qувеличит§! нашу склонность к §Yколлективизму§!.\\n"
+PAV_Add_Collectivism_High_tt: "Это намного §Qувеличит§! нашу склонность к §Yколлективизму§!.\\n"
+
+PAV_Lower_Collectivism_Low_tt: "Это немного §wуменьшит§! нашу склонность к §Yколлективизму§!.\\n"
+PAV_Lower_Collectivism_Mid_tt: "Это умеренно §wуменьшит§! нашу склонность к §Yколлективизму§!.\\n"
+PAV_Lower_Collectivism_High_tt: "Это намного §wуменьшит§! нашу склонность к §Yколлективизму§!.\\n"
+
+#Federalism
+PAV_Add_Federalism_Low_tt: "Это немного§! §Qувеличит§! нашу склонность к §Yфедерализму§!.\\n"
+PAV_Add_Federalism_Mid_tt: "Это умеренно§! §Qувеличит§! нашу склонность к §Yфедерализму§!.\\n"
+PAV_Add_Federalism_High_tt: "Это намного§! §Qувеличит§! нашу склонность к §Yфедерализму§!.\\n"
+
+PAV_Lower_Federalism_Low_tt: "Это немного §wуменьшит§! нашу склонность к §Yфедерализму§!.\\n"
+PAV_Lower_Federalism_Mid_tt: "Это умеренно §wуменьшит§! нашу склонность к §Yфедерализму§!.\\n"
+PAV_Lower_Federalism_High_tt: "Это намного §wуменьшит§! нашу склонность к §Yфедерализму§!.\\n"
+
+#Unitarism
+PAV_Add_Unitarianism_Low_tt: "Это немного §Qувеличит§! нашу склонность к §Yунитаризму§!.\\n"
+PAV_Add_Unitarianism_Mid_tt: "Это умеренно §Qувеличит§! нашу склонность к §Yунитаризму§!.\\n"
+PAV_Add_Unitarianism_High_tt: "Это намного §Qувеличит§! нашу склонность к §Yунитаризму§!.\\n"
+
+PAV_Lower_Unitarianism_Low_tt: "Это немного §wуменьшит§! нашу склонность к §Yунитаризму§!.\\n"
+PAV_Lower_Unitarianism_Mid_tt: "Это умеренно §wуменьшит§! нашу склонность к §Yунитаризму§!.\\n"
+PAV_Lower_Unitarianism_High_tt: "Это намного §wуменьшит§! нашу склонность к §Yунитаризму§!.\\n"
+
+### Power Changes ###
+#Feniks
+PAV_Feniks_ADD_Feniks_Power_Low_tt: "Это немного §Qувеличит§! силу корпорации §P"
+PAV_Feniks_ADD_Feniks_Power_Med_tt: "Это умеренно §Qувеличит§! силу корпорации §P"
+PAV_Feniks_ADD_Feniks_Power_High_tt: "Это намного §Qувеличит§! силу корпорации §P"
+
+PAV_Feniks_SUBTRACT_Feniks_Power_Low_tt: "Это немного §wослабит§! силу корпорации §P"
+PAV_Feniks_SUBTRACT_Feniks_Power_Med_tt: "Это умеренно §wослабит§! силу корпорации §P"
+PAV_Feniks_SUBTRACT_Feniks_Power_High_tt: "Это намного §wослабит§! силу корпорации §P"
+
+#Sibir
+PAV_Feniks_ADD_Sibir_Power_Low_tt: "Это немного §Qувеличит§! силу корпорации §P"
+PAV_Feniks_ADD_Sibir_Power_Med_tt: "Это умеренно §Qувеличит§! силу корпорации §P"
+PAV_Feniks_ADD_Sibir_Power_High_tt: "Это намного §Qувеличит§! силу корпорации §P"
+
+PAV_Feniks_SUBTRACT_Sibir_Power_Low_tt: "Это немного §wослабит§! силу корпорации §P"
+PAV_Feniks_SUBTRACT_Sibir_Power_Med_tt: "Это умеренно §wослабит§! силу корпорации §P"
+PAV_Feniks_SUBTRACT_Sibir_Power_High_tt: "Это намного §wослабит§! силу корпорации §P"
+
+#Titan
+PAV_Feniks_ADD_Titan_Power_Low_tt: "Это немного §Qувеличит§! силу корпорации §P"
+PAV_Feniks_ADD_Titan_Power_Med_tt: "Это умеренно §Qувеличит§! силу корпорации §P"
+PAV_Feniks_ADD_Titan_Power_High_tt: "Это намного §Qувеличит§! силу корпорации §P"
+
+PAV_Feniks_SUBTRACT_Titan_Power_Low_tt: "Это немного §wослабит§! силу корпорации §P"
+PAV_Feniks_SUBTRACT_Titan_Power_Med_tt: "Это умеренно §wослабит§! силу корпорации §P"
+PAV_Feniks_SUBTRACT_Titan_Power_High_tt: "Это намного §wослабит§! силу корпорации §P"
+
+#The People
+PAV_Feniks_ADD_People_Power_Low_tt: "Это немного §Qувеличит§! силу §Pнарода§!.\\n"
+PAV_Feniks_ADD_People_Power_Med_tt: "Это умеренно §Qувеличит§! силу §Pнарода§!.\\n"
+PAV_Feniks_ADD_People_Power_High_tt: "Это намного §Qувеличит§! силу §Pнарода§!.\\n"
+
+PAV_Feniks_SUBTRACT_People_Power_Low_tt: "Это немного §wослабит§! силу §Pнарода§!.\\n"
+PAV_Feniks_SUBTRACT_People_Power_Med_tt: "Это умеренно §wослабит§! силу §Pнарода§!.\\n"
+PAV_Feniks_SUBTRACT_People_Power_High_tt: "Это намного §wослабит§! силу §Pнарода§!.\\n"
+
+### Loyalty Changes ###
+#Feniks
+PAV_Feniks_ADD_Feniks_Loyalty_Low_tt: "Это немного §Qувеличит§! лояльность корпорации §P"
+PAV_Feniks_ADD_Feniks_Loyalty_Med_tt: "Это умеренно §Qувеличит§! лояльность корпорации §P"
+PAV_Feniks_ADD_Feniks_Loyalty_High_tt: "Это намного §Qувеличит§! лояльность корпорации §P"
+
+PAV_Feniks_SUBTRACT_Feniks_Loyalty_Low_tt: "Это немного §wуменьшит§! лояльность корпорации §P"
+PAV_Feniks_SUBTRACT_Feniks_Loyalty_Med_tt: "Это умеренно §wуменьшит§! лояльность корпорации §P"
+PAV_Feniks_SUBTRACT_Feniks_Loyalty_High_tt: "Это намного §wуменьшит§! лояльность корпорации §P"
+
+#Sibir
+PAV_Feniks_ADD_Sibir_Loyalty_Low_tt: "Это немного §Qувеличит§! лояльность корпорации §G"
+PAV_Feniks_ADD_Sibir_Loyalty_Med_tt: "Это умеренно §Qувеличит§! лояльность корпорации §G"
+PAV_Feniks_ADD_Sibir_Loyalty_High_tt: "Это намного §Qувеличит§! лояльность корпорации §G"
+
+PAV_Feniks_SUBTRACT_Sibir_Loyalty_Low_tt: "Это немного §wуменьшит§! лояльность корпорации §G"
+PAV_Feniks_SUBTRACT_Sibir_Loyalty_Med_tt: "Это умеренно §wуменьшит§! лояльность корпорации §G"
+PAV_Feniks_SUBTRACT_Sibir_Loyalty_High_tt: "Это намного §wуменьшит§! лояльность корпорации §G"
+
+#Titan
+PAV_Feniks_ADD_Titan_Loyalty_Low_tt: "Это немного §Qувеличит§! лояльность корпорации §Y"
+PAV_Feniks_ADD_Titan_Loyalty_Med_tt: "Это умеренно §Qувеличит§! лояльность корпорации §Y"
+PAV_Feniks_ADD_Titan_Loyalty_High_tt: "Это намного §Qувеличит§! лояльность корпорации §Y"
+
+PAV_Feniks_SUBTRACT_Titan_Loyalty_Low_tt: "Это немного §wуменьшит§! лояльность корпорации §Y"
+PAV_Feniks_SUBTRACT_Titan_Loyalty_Med_tt: "Это умеренно §wуменьшит§! лояльность корпорации §Y"
+PAV_Feniks_SUBTRACT_Titan_Loyalty_High_tt: "Это намного §wуменьшит§! лояльность корпорации §Y"
+
+#The People
+PAV_Feniks_ADD_People_Loyalty_Low_tt: "Это немного §Qувеличит§! лояльность §xнарода§!.\\n"
+PAV_Feniks_ADD_People_Loyalty_Med_tt: "Это умеренно §Qувеличит§! лояльность §xнарода§!.\\n"
+PAV_Feniks_ADD_People_Loyalty_High_tt: "Это намного §Qувеличит§! лояльность §xнарода§!.\\n"
+
+PAV_Feniks_SUBTRACT_People_Loyalty_Low_tt: "Это немного §wуменьшит§! лояльность §xнарода§!.\\n"
+PAV_Feniks_SUBTRACT_People_Loyalty_Med_tt: "Это умеренно §wуменьшит§! лояльность §xнарода§!.\\n"
+PAV_Feniks_SUBTRACT_People_Loyalty_High_tt: "Это намного §wуменьшит§! лояльность §xнарода§!.\\n"
