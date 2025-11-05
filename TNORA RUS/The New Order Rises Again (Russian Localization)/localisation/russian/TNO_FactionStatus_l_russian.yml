@@ -122,7 +122,7 @@
  
  Sphere_Special_Econ_Zone: "Особая экономическая зона"
  Sphere_Special_Econ_Zone_effect: "[!Sphere_Special_Econ_Zone]"
- Sphere_Special_Econ_Zone_desc: "\\n\\n§MЭтой стране приходится платить§! §Y60%§! §Mсвоего§! §Yовокупного годового дохода§! §eЛидеру§! §eСферы Совместного Процветания§!§M.§!"
+ Sphere_Special_Econ_Zone_desc: "\n\n§MЭтой стране приходится платить§! §Y60%§! §Mсвоего§! §Yовокупного годового дохода§! §eЛидеру§! §eСферы Совместного Процветания§!§M.§!"
  #OFN
  OFN_Leader_of_The_Free_World: "Лидер Свободного мира"
  OFN_Leader_of_The_Free_World_effect: "[!OFN_Leader_of_The_Free_World]"

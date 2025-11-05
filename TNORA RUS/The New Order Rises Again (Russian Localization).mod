@@ -1,4 +1,4 @@
-version="0.15"
+version="0.153"
 picture="thumbnail.png"
 tags={
 	"Translation"
@@ -8,5 +8,5 @@ dependencies={
 	"The New Order: Rises Again"
 }
 supported_version="1.16.*"
-path="C:/Users/user/Documents/Paradox Interactive/Hearts of Iron IV/mod/The New Order Rises Again (Russian Localization)"
+path="mod/The New Order Rises Again (Russian Localization)/"
 remote_file_id="3597890875"

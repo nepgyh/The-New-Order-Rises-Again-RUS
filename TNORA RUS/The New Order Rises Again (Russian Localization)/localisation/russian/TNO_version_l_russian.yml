@@ -1,8 +1,8 @@
 ﻿l_russian:
  # Format - TNO vMajorVersion.ContentUpdate.PatchNumber(Hotfix Letter) - Content Update Name
- tno_current_version:0 "TNO v1.8.0c - The §QCrow§! and the §hBull§!"
+ tno_current_version:0 "TNO Rises Again 1.1.1"
  # Format - Date of most recent update - Hotfix Or Patch Contents
- tno_current_version_date:0 "§Y4-го августа, 2025 - The §QCrow§! and the §hBull§!§!"
+ tno_current_version_date:0 "October 18, 2025 - Rises Again§!"
 
  # Patch History logged below
  # TNO v1.0.0 - Released on July 21st, 2020 - Initial Release
