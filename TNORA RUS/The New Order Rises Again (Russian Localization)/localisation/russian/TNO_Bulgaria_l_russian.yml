@@ -30,10 +30,10 @@
  BUL_radical_socialist_ADJ:0 "Болгарск."
  
  ##Parties
- BUL_communist_party:0 "БКП"
- BUL_communist_party_long:0 "Болгарская коммунистическая партия"
- BUL_socialist_party:0 "БЗНС "Л""
- BUL_socialist_party_long:0 "BБолгарский Земледельческий Народный Союз "Левые""
+ BUL_communist_party:0 "БКП(Э)"
+ BUL_communist_party_long:0 "Болгарская Коммунистическая Партия - Этатисты"
+ BUL_socialist_party:0 "БКП(Р)"
+ BUL_socialist_party_long:0 "Болгарская Коммунистическая Партия - Революционеры"
  BUL_social_democrat_party:0 "БЗНС"
  BUL_social_democrat_party_long:0 "Болгарский Земледельческий Народный Союз"
  BUL_social_liberal_party:0 "БЗНС Врабча 1"
@@ -42,12 +42,12 @@
  BUL_social_conservative_party_long:0 "Болгарская Демократическая Партия"
  BUL_authoritarian_democrat_party:0 "Военное правительство"
  BUL_authoritarian_democrat_party_long:0 "Военное правительство"
- BUL_despotism_party:0 "Беспартийное правительство"
- BUL_despotism_party_long:0 "Беспартийное правительство"
+ BUL_despotism_party:0 "Царисты-лоялисты"
+ BUL_despotism_party_long:0 "Царисты-лоялисты"
  BUL_fascism_party:0 "СБНЛ"
  BUL_fascism_party_long:0 "Союз болгарских национальных легионов"
  BUL_national_socialism_party:0 "Ратники"
- BUL_national_socialism_party_long:0 "Союз ратников за прогресс Болгарии"
+ BUL_national_socialism_party_long:0 "Союз ратников за прогресс болгарского национального духа"
  #BUL_ultranational_socialism_party:0 "- Я не знаю." # <<TRANSLATED>>
  #BUL_ultranational_socialism_party_long:0 "- Я не знаю." # <<TRANSLATED>>
  #BUL_burgundian_system_party:0 "- Я не знаю." # <<TRANSLATED>>
@@ -66,9 +66,9 @@
  ##Focus Tree
 
  ##Events
- bul.1.t:0 "Hippity Hoppity Your King is Now History"
- bul.1.d:0 "tldr ya boi got poisoned"
- bul.1.a:0 "F"
+ bul.1.t:0 ""
+ bul.1.d:0 ""
+ bul.1.a:0 ""
  bul.2.t:0 "Царя больше нет"
  bul.2.d:0 "Со смертью этого персонажа нить судьбы Болгарии не прервётся. Продолжайте играть в этот проклятый мир, на который вы случайно натолкнулись."
  bul.2.a:0 "F"
@@ -77,3 +77,7 @@
  BUL.30.d:0 "Димитар Пешсев ворвался в кабинет премьер-министра, его лицо бледное."From Germania." He said it as a statement. "What did it say, Dimitar", the aging statesman then asked in a calm, quiet voice that was undercut by concealed fear.\n\nWiping his brow, the foreign secretary turned over the communique he held in his hands. "It was quite brief, all things considered. Hare, let me just get to the main thrust..." He scanned the message for a second, "Ah, here it is. 'In light of the ties that were so amicably bolstered just before the recent civil disturbance we respectfully request Bulgaria honor its obligations and return fully into the Unity-Pakt... failure to do so will be regarded as a declaration of hostile intent."\n\nDimitar's hands shook as he finished reading. Peshsev folded his hands, trying to calm his racing mind lest he betray his worry to an already shaken subordinate.\n\n"We knew this day would come, Dimitar. We also knew how we would respond. Take this down and have it sent to Mister Axmann at the Reichskanzlei."" # <<TRANSLATED>>
  BUL.30.a:0 "Конечно, мы выполним вашу просьбу..." # <<TRANSLATED>>
  BUL.30.b:0 "Наше время кроткого подчинения прошло..." # <<TRANSLATED>>
+
+
+
+

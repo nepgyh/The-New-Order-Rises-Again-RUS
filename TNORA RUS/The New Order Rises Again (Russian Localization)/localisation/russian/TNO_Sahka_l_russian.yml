@@ -1,9 +1,9 @@
 ﻿l_russian:
  ### Parties ###
- SAK_communist_party:0 "РПК"
- SAK_communist_party_long:0 "Рабочий промышленный комитет"
- SAK_socialist_party:0 "Саблинцы"
- SAK_socialist_party_long:0 "Саблинцы"
+ SAK_communist_party:0 "RPK"
+ SAK_communist_party_long:0 "Raboche-promyshlennyy Komitet"
+ SAK_socialist_party:0 "Sablintsy"
+ SAK_socialist_party_long:0 "Sablintsy"
  SAK_social_democrat_party:0 "RNP"
  SAK_social_democrat_party_long:0 "Rossiyskaya Narodnaya Partiya"
  SAK_social_liberal_party:0 "DPS"
@@ -12,15 +12,19 @@
  SAK_social_conservative_party_long:0 "Partiya Sotsial'noy Reformy"
  SAK_authoritarian_democrat_party:0 "Klika Andreeva"
  SAK_authoritarian_democrat_party_long:0 "Klika Andreeva"
- SAK_despotism_party:0 "РЦЛ"
- SAK_despotism_party_long:0 "Российская царская лига"
- SAK_fascism_party:0 "РФП"
- SAK_fascism_party_long:0 "Российская фашистская партия"
- SAK_national_socialism_party:0 "РФП"
- SAK_national_socialism_party_long:0 "Российская фашистская партия"
+ SAK_despotism_party:0 "RTL"
+ SAK_despotism_party_long:0 "Rossiyskaya Tsarskaya Liga"
+ SAK_fascism_party:0 "RFP"
+ SAK_fascism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ SAK_national_socialism_party:0 "RFP"
+ SAK_national_socialism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
  SAK_ultranational_socialism_party:0 "CL"
  SAK_ultranational_socialism_party_long:0 "Rossiyskaya Fashistskaya Partiya"
 
  
  ### Leader Bios ###
- POLITICS_MIKHAIL_KILCHICHAKOV_DESC:0 "Михаил Еремеевич Кильчичаков - человек эпохи Возрождения: он увлекается поэзией, написал несколько пьес и служил в Красной Армии во время Великой Отечественной войны. Однако что его мало волнует, так это идеологические дрязги, которые охватили все за пределами его родного города Красноярска. Когда он был ранен в бою и отправлен домой, он отказался позволить городу, который он любил, погрузиться в тот же хаос, который он видел по дороге домой с фронта. Это был тот же самый страх, который заставил его отложить свою литературную карьеру и войти в политическую сферу. Это был тот же самый страх, который заставил его приостановить выборы мэра, чтобы предотвратить дестабилизирующую и хаотичную передачу власти. Это был тот же самый страх, который заставил его приказать гарнизону начать набеги на деревни на вражеской территории, поскольку они, вероятно, были полны разбойников, которые нападут на них, если они не нанесут удар первыми.\n\nКильчичаков готов сделать все возможное, чтобы обеспечить свое выживания и выживание его города, даже если это означает заключение некоторых сомнительных союзов. В прошлом он клялся в верности временному режиму Ягоды, Народной Республике Западной Сибири, Народно-революционному совету Монголии и даже фашистскому форпосту на Амуре. И каждый раз он сводил к минимуму свою приверженность их делу и разрывал связи в тот момент, когда опасался, что их влияние начинает заходить слишком далеко. Если другой военачальник станет достаточно могущественным, то Кильчичаков готов снова исполнить всю программу песен и танцев, чтобы убедиться, что его город останется в безопасности. Даже если это означает поддерживать дело, которое все остальные презирают, или вторгаться в другие города-государства, чтобы еще больше отодвинуть Красноярск за линию фронта. Люди могут поносить его, но однажды они поймут, почему он пошел на эти жертвы. По крайней мере, он надеется, что так и будет."
+ POLITICS_MIKHAIL_KILCHICHAKOV_DESC:0 "Mikhail Eremeevich Kilchichakov is quite the Renaissance man: he dabbles in poetry, has penned several plays, and he served in the Red Army during the Great Patriotic War. What he has little care for, however, are the ideological squabbles that have overtaken everywhere outside of his home city of Krasnoyarsk. When he was wounded in battle and sent back home, he refused to let the city he loved fall to the same chaos he saw on his way home from the front. It was the same fear that drove him to set his literary career aside and enter the political sphere. It was the same fear that led him to suspend mayoral elections when he won, to prevent destabilizing and chaotic transfers of power. It was the same fear that led him to order the garrison to begin raiding villages in enemy territory, since they were probably full of brigands who would attack them if they did not strike first.\n\nKilchichakov is willing to do whatever it takes for him and his city to survive, even if it means making some unsavory alliances. In the past, he has pledged loyalty to Yagoda's provisional regime, the People's Republic of Western Siberia, the the People's Revolutionary Council in Mongolia, and even the fascist outpost in the Amur. And every time, he minimized his commitment to their causes, and broke ties the moment he feared that their influence began to encroach a bit too far. If another warlord grows powerful enough, then Kilchichakov is prepared to do the whole song and dance routine again to make sure that his city will stay safe. Even if it means paying lip service to a cause all others despise, or invading other city-states to put Krasnoyarsk further behind the front lines. People may revile him, but one day they will understand why he made these sacrifices. At least, he hopes they will."
+
+
+
+

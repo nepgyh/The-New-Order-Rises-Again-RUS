@@ -48,7 +48,7 @@
  #WAR_NAME_INCON_PAK:0 "Indian Civil War: INC - ACL"
 
  ### German Civil War ###
- WAR_NAME_BGR_GGR:0 "ГГВ: Конфликт Бормана - Геринга"
+ WAR_NAME_BGR_GGR:0 "ГГВ: Конфликт Бормана и Геринга"
  WAR_NAME_GGR_BGR:0 "ГГВ: Конфликт Бормана - Геринга"
  WAR_NAME_BGR_SGR:0 "ГГВ: Конфликт Бормана - Шпеера"
  WAR_NAME_SGR_BGR:0 "ГГВ: Конфликт Бормана - Шпеера"
@@ -67,9 +67,9 @@
  WAR_NAME_GGR_GER:0 "ГГВ: Конфликт Геринга - Шпайделя"
  WAR_NAME_GER_GGR:0 "ГГВ: Конфликт Геринга - Шпайделя"
  WAR_NAME_GGR_RNW:0 "ГГВ: Конфликт Геринга - Шёрнера"
- WAR_NAME_RNW_GGR:0 "ГГВ: Конфликт Геринга - Шёрнера"
- WAR_NAME_GGR_DSR:0 "ГГВ: Конфликт Геринга - ГСР"
- WAR_NAME_DSR_GGR:0 "ГГВ: Конфликт Геринга - ГСР"
+ WAR_NAME_RNW_GGR:0 "ГГВ: Конфликт Гейдриха - Шёрнера"
+ WAR_NAME_GGR_DSR:0 "ГГВ: Конфликт Гейдриха - ГСР"
+ WAR_NAME_DSR_GGR:0 "ГГВ: Конфликт Гейдриха - ГСР"
  WAR_NAME_SGR_HGR:0 "ГГВ: Конфликт Шпеера - Гейдриха"
  WAR_NAME_HGR_SGR:0 "ГГВ: Конфликт Шпеера - Гейдриха"
  WAR_NAME_SGR_GER:0 "ГГВ: Конфликт Шпеера - Шпайделя"
@@ -175,8 +175,8 @@
  WAR_NAME_CHI_YUN:0 "Западное Восстание"
  
  ### Second Indian War of Independence ###
- WAR_NAME_RAJ_BEN:0 "17th Indo-Bengali War"
- WAR_NAME_BEN_RAJ:0 "Indo-Bengali War"
+ WAR_NAME_RAJ_BEN:0 "Вторая индийская война за независимость"
+ WAR_NAME_BEN_RAJ:0 "Вторая великая революция"
  
  ### Indo-Afghan War ###
  WAR_NAME_RAJ_AFG:0 "Индо-Афганская война"
@@ -193,3 +193,7 @@
  ##Irish War##
  WAR_NAME_IRE_ULS:0 "Ирландская война"
  WAR_NAME_ULS_IRE:0 "Ирландская война"
+
+
+
+

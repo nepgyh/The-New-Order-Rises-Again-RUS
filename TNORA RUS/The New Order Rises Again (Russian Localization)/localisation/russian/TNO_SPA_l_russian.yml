@@ -1,25 +1,25 @@
 ﻿l_russian:
 #Country names 
- SPA_fascism:0 "Испания"
- SPA_fascism_DEF:0 "Испания"
- SPA_social_liberal:0 "Испания"
- SPA_social_liberal_DEF:0 "Испания"
- SPA_market_liberal:0 "Испания"
- SPA_market_liberal_DEF:0 "Испания"
- SPA_social_conservative:0 "Испания"
- SPA_social_conservative_DEF:0 "Испания"
- SPA_authoritarian_democrat:0 "Испания"
- SPA_authoritarian_democrat_DEF:0 "Испания"
- SPA_despotism:0 "Испания"
- SPA_despotism_DEF:0 "Испанское государство"
- SPA_communist:0 "Испания"
- SPA_communist_DEF:0 "Испания"
- SPA_socialist:0 "Испания"
- SPA_socialist_DEF:0 "Испания"
- SPA_national_socialism:0 "Испания"
- SPA_national_socialism_DEF:0 "Испания"
- SPA_ultranational_socialism:0 "Испания"
- SPA_ultranational_socialism_DEF:0 "Испания"
+ SPA_fascism:0 "Spain"
+ SPA_fascism_DEF:0 "Spain"
+ SPA_social_liberal:0 "Spain"
+ SPA_social_liberal_DEF:0 "Spain"
+ SPA_market_liberal:0 "Spain"
+ SPA_market_liberal_DEF:0 "Spain"
+ SPA_social_conservative:0 "Spain"
+ SPA_social_conservative_DEF:0 "Spain"
+ SPA_authoritarian_democrat:0 "Spain"
+ SPA_authoritarian_democrat_DEF:0 "Spain"
+ SPA_despotism:0 "Spain"
+ SPA_despotism_DEF:0 "Spain"
+ SPA_communist:0 "Spain"
+ SPA_communist_DEF:0 "Spain"
+ SPA_socialist:0 "Spain"
+ SPA_socialist_DEF:0 "Spain"
+ SPA_national_socialism:0 "Spain"
+ SPA_national_socialism_DEF:0 "Spain"
+ SPA_ultranational_socialism:0 "Spain"
+ SPA_ultranational_socialism_DEF:0 "Spain"
  SPA_MILITARYCOUP_fascism:0 "Иберийское Управление"
  SPA_MILITARYCOUP_fascism:0 "Иберийское Управление"
 #Party names 
@@ -56,3 +56,7 @@
  SPA_Alejandro_Valcarcel_for:0 "Алехандро Родригес де Валькарсель"
 
  SPA_Mariano_Rubio_eco:0 "Мариано Наварро Рубио"
+
+
+
+

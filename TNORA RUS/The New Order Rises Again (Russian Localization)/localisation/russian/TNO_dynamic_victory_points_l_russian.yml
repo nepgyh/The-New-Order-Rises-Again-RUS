@@ -13,13 +13,13 @@
  VICTORY_POINTS_3977_rus:0 "Уссурийск"
  VICTORY_POINTS_6961_rus:0 "Находка"
  VICTORY_POINTS_957_rus:0 "Владивосток"
- VICTORY_POINTS_957_chi:0 "Хайшэньвай"
+ VICTORY_POINTS_957_chi:0 "Хайшенвай"
  VICTORY_POINTS_3338_ary:0 "Эрценгель"
  VICTORY_POINTS_6124_com:0 "Рыков"
  VICTORY_POINTS_272_com:0 "Рыково-Чепецк"
  VICTORY_POINTS_11352_com:0 "Краснокамск"
  VICTORY_POINTS_7375_nor:0 "Пермь"
- VICTORY_POINTS_11375_ary:0 "Нидернойштадт"
+ VICTORY_POINTS_11375_ary:0 "Нидернойштат"
  VICTORY_POINTS_11375_nor:0 "Нижний Новгород"
  VICTORY_POINTS_11225_com:0 "Куйбышев"
  VICTORY_POINTS_9243_com:0 "Новокуйбышевск"
@@ -130,3 +130,7 @@
  VICTORY_POINTS_318_rus:0 "Гродек" # <<TRANSLATED>>
  VICTORY_POINTS_11479_rus:0 "Львов" # <<TRANSLATED>>
  VICTORY_POINTS_3686_rus:0 "Севастополь" # <<TRANSLATED>>
+
+
+
+

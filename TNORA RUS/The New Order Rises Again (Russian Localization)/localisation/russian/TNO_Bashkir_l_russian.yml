@@ -4,7 +4,7 @@
  
  BKR_communist_party:0 "ЗРРФ"
  BKR_communist_party_long:0 "Западнорусский Революционный Фронт"
- BKR_socialist_party:0 "ЗРРФ - Клика Жукова"
+ BKR_socialist_party:0 "ЗРРФ-Клика Жукова"
  BKR_socialist_party_long:0 "Западнорусский Революционный Фронт - Клика Жукова"
  BKR_social_democrat_party:0 "ДСНП"
  BKR_social_democrat_party_long:0 "Демократическая Социалистическая Народная Партия"
@@ -12,8 +12,8 @@
  BKR_social_conservative_party_long:0 "Башкирский Национальный Совет"
  BKR_authoritarian_democrat_party:0 "БНС"
  BKR_authoritarian_democrat_party_long:0 "Башкирский Национальный Совет"
- BKR_despotism_party:0 "Монархисты-легитимисты"
- BKR_despotism_party_long:0 "Монархисты-легитимисты"
+ BKR_despotism_party:0 "РОВС"
+ BKR_despotism_party_long:0 "Русский Обще-Воинский Союз"
  BKR_fascism_party:0 "КОНР"
  BKR_fascism_party_long:0 "Комитет Освобождения Народов России"
  BKR_national_socialism_party:0 "КОНР"
@@ -31,3 +31,7 @@
  BKR_Muhammed_Gabdulkhay_Kurbangaliev_for:0 "Мухаммед-Габдульхай Курбангалиев"
  BKR_Midhat_Shakirov_eco:0 "Мидхат Шакиров"
  BKR_Tagir_Kusimov_sec:0 "Тагир Кусимов"
+
+
+
+

@@ -30,13 +30,13 @@ very_high_popularity_desc:0 "You'll be at Very High Popularity if your ruling pa
 popularity:0 "Popularity"
 
 ### Economic Health ###
-boom_economy:0 "WIP" #Boom Economy WIP!!!
-good_economy:0 "WIP" #Good Economy WIP!!!
-medium_economy:0 "WIP" #Medium Economy WIP!!!
-bad_economy:0 "WIP" #Bad Economy WIP!!!
-bust_economy:0 "WIP" #Bust Economy WIP!!!
-crash_economy:0 "WIP" #Crash Economy WIP!!!
-economic_health:0 "Work in progress, don't worry about this" #Economic Health WIP!!!
+boom_economy:0 "WIP"
+good_economy:0 "WIP"
+medium_economy:0 "WIP"
+bad_economy:0 "WIP"
+bust_economy:0 "WIP"
+crash_economy:0 "WIP"
+economic_health:0 "Work in progress, don't worry about this"
 
 ### Stability Events ###
 kr.political.1.t:0 "Downfall in Stability!"
@@ -152,3 +152,7 @@ KR_similar_ideology:0 "Similar Ideology"
 KR_same_ideology:0 "Same Ideology"
 same_ruling_party:0 "Одинаковая правящая партия"
 different_party_types:0 "Другая идеология"
+
+
+
+

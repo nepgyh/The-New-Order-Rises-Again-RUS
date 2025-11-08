@@ -108,7 +108,7 @@ USA_Wilbur_Mills_eco:0 "Wilbur Mills"
 USA_Russell_Long_eco:0 "Russell B. Long"
 USA_Maxwell_Taylor_dep:0 "Maxwell Taylor"
 USA_Spiro_Agnew_dep:0 "Spiro Agnew"
-USA_Caspar_Weinberger_eco:0 "Caspar Weinberger"
+USA_Caspar_Weinberger_eco:0 "Каспар Вайнбергер"
 USA_Jeane_Kirkpatrick_pol:0 "Jeane Kirkpatrick"
 USA_John_Stennis_mil:0 "John Stennis"
 USA_Spiro_Agnew_pol:0 "Spiro Agnew"
@@ -160,8 +160,8 @@ CRO_Mladen_Lorkovic_for:0 "Mladen Lorković"
 CRO_Andrija_Hebrang_hog:0 "Andrija Hebrang"
 CRO_Leon_Gerskovic_eco:0 "Leon Geršković"
 CRO_Ivan_Gosnjak_sec:0 "Ivan Gošnjak"
-#CRO_Leon_Gerskovic_eco:0 "Leon Gerskovic" #duplicate loc key
-#CRO_Ivan_Gosnjak_sec:0 "Ivan Gosnjak" #duplicate loc key
+#CRO_Leon_Gerskovic_eco:0 "Leon Gerskovic"
+#CRO_Ivan_Gosnjak_sec:0 "Ivan Gosnjak"
 CRO_Edvard_Kardelj_for:0 "Edvard Kardelj"
 
 #AuthSoc
@@ -370,4 +370,8 @@ AKT_Nikolai_Zabelkin_hog:0 "Nikolai Zabelkin"
 AKT_alexei_kunitsa_sec:0 "Alexei Kunitsa"
 AKT_Sadwaqas_Ghylmani_eco:0 "Sadwaqas Ghylmani"
 AKT_Absattar_Derbisali_for:0 "Absattar Derbisali"
+
+
+
+
 

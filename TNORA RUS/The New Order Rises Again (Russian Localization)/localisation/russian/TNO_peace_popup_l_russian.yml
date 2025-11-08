@@ -44,7 +44,7 @@
 
  TNO_PEACE_POPUP_WAR_CONCLUSION_GER_PLANZEROWIN:0 "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! восстановила свою хватку в [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! после их смелого побега."
 
- TNO_PEACE_POPUP_WAR_SCOTLAND_WIN:0 "§Y[winning_country.GetNameWithFlag]§! захватила §Y[losing_country.GetNameWithFlag]§! и унаследовала Остров."
+ TNO_PEACE_POPUP_WAR_SCOTLAND_WIN:0 "§Y[winning_country.GetFlag]§! захватила §Y[winning_country.GetNameDef]§! и унаследовала Остров. [losing_country.GetFlag] [losing_country.GetNameDef]"
 
  #Capitulation (war continuing) events
  
@@ -74,12 +74,12 @@
 
 
  #Mongolia flavor
- TNO_PEACE_POPUP_FLAVOR_MEN:0 "Живым отказали в столе, мертвым достался целый гроб."
+ TNO_PEACE_POPUP_FLAVOR_MEN:0 "Монгольская нация вновь едина."
  TNO_PEACE_POPUP_FLAVOR_MON:0 "В степи вернулся порядок."
  TNO_PEACE_POPUP_FLAVOR_SVO_MEN:0 "Монголия объединена."
 
  #Western Insurrection
- TNO_PEACE_POPUP_FLAVOR_YUN_NPA:0 "Это национальная борьба и борьба за выживание, которой все мы, гордые китайцы, посвятим свои души и усилия."
+ TNO_PEACE_POPUP_FLAVOR_YUN_NPA:0 "Безумный Пёс усыплён, на Юго-Востоке вновь порядок."
 
  #GAW flavor
  TNO_PEACE_POPUP_FLAVOR_CHI_GAW:0 "Японские войска маршируют по Шанхаю, Пекину, и Нанкину, надежда на свободу разрушена. Япония победила Китай в войне, а следовательно - и весь Восток."
@@ -89,7 +89,7 @@
  
  #Iberian Wars
  TNO_PEACE_POPUP_FLAVOR_SPR:0 "Мы прошли!"
- TNO_PEACE_POPUP_FLAVOR_SPA:0 "Кто родился с мечом, от меча и погибнет."
+ TNO_PEACE_POPUP_FLAVOR_SPA:0 "Кто родился с мечём, от меча и погибнет."
  TNO_PEACE_POPUP_FLAVOR_SPS:0 "В итоге, скатерть вся изорвана, розы пали, перевёрнут стол."
  TNO_PEACE_POPUP_FLAVOR_CNT:0 "Наша мечта мертва."
  TNO_PEACE_POPUP_FLAVOR_CTL:0 "Каталония всегда будет свободной в наших сердцах."
@@ -108,7 +108,7 @@
  
  #American policing actions flavor
  TNO_PEACE_POPUP_FLAVOR_GUY:0 "Несправедливость где-либо – это угроза справедливости повсюду."
- TNO_PEACE_POPUP_FLAVOR_WIN:0 "Разделенный дом Вест-Индии не устоял."
+ TNO_PEACE_POPUP_FLAVOR_WIN:0 "Павшая Вест-Индия не выстояла."
 
  #2nd Italo Turkish War
  TNO_PEACE_POPUP_FLAVOR_IME:0 "О, Родина моя, красивая и потерянная!"
@@ -122,24 +122,24 @@
  TNO_PEACE_POPUP_FLAVOR_MZB:0 "Так и настал конец ужасному режиму Хюттига."
 
  #War Plan 0 
- TNO_PEACE_POPUP_FLAVOR_CZE:0 "Хоть их храбрость и была отличительной, Богемцы вновь стали добычей Германского Рейха."
+ TNO_PEACE_POPUP_FLAVOR_CZE:0 "Хоть и их храбрость была отличительной, Богемцы вновь стали добычей Германского Рейха."
  TNO_PEACE_POPUP_FLAVOR_SLO:0 "Братислава горит, а с ней - и последний бастион светлого будущего. У народа Словакии больше нет никакой надежды."
  TNO_PEACE_POPUP_FLAVOR_POL:0 "Хоть польские мужи и жёны пустили в бой всё, что у них было, Польша всё же потеряна. В этот раз, скорее всего, навсегда."
 
  #UOB Flavour
- TNO_PEACE_POPUP_FLAVOR_SCO:0 "Возвышаясь в галантной славе, Шотландия, горная родина моя, пусть славно развевается твой штандарт."
+ TNO_PEACE_POPUP_FLAVOR_SCO:0 "Возвышаясь в галантой славе, Шотландия, горная родина моя, пусть славно развевается штандарт твой высоко."
  
  #Russia
  TNO_PEACE_POPUP_FLAVOR_WRS:0 "Лишь в смерти кончается служба."
- TNO_PEACE_POPUP_FLAVOR_VOL:0 "Видимо, у мира нет шансов в России."
+ TNO_PEACE_POPUP_FLAVOR_VOL:0 "Видимо, у мира в нет шансов в России."
  TNO_PEACE_POPUP_FLAVOR_NIK:0 "Коробка Пандоры будет навечно закрыта."
  TNO_PEACE_POPUP_FLAVOR_GAY:0 "Верующего похоронят с благословениями."
  TNO_PEACE_POPUP_FLAVOR_KIR:0 "Не суждено больше кричать Орлу."
- TNO_PEACE_POPUP_FLAVOR_MAR:0 "Не добра Россия к дуалистичным режимам."
+ TNO_PEACE_POPUP_FLAVOR_MAR:0 "Не добра Россия к Дуалистичным Режимам."
  TNO_PEACE_POPUP_FLAVOR_SAM:0 "Предатели не расскажут историю со своей точки зрения."
  TNO_PEACE_POPUP_FLAVOR_CHU:0 "Машины войны сломлены и разбиты."
  TNO_PEACE_POPUP_FLAVOR_PRM:0 "В Русской Анархии ещё осталась какая-то справедливость."
- TNO_PEACE_POPUP_FLAVOR_TAR:0 "Свобода достойна того, чтобы за неё умереть."
+ TNO_PEACE_POPUP_FLAVOR_TAR:0 "Свобода достойна того, чтобы умереть за неё."
  TNO_PEACE_POPUP_FLAVOR_BKR:0 "Муэдзины больше не поют."
  TNO_PEACE_POPUP_FLAVOR_VTY:0 "Путь в Европу вновь открыт - а через него и проносится запах войны."
  TNO_PEACE_POPUP_FLAVOR_KST:0 "Нейтральный город, без своих покровителей, был просто брошен волкам."
@@ -151,13 +151,13 @@
  TNO_PEACE_POPUP_FLAVOR_SEM:0 "Самый милый из всех цветков завял со стеблем."
  TNO_PEACE_POPUP_FLAVOR_KOK:0 "Хан не смог уехать от истории."
  TNO_PEACE_POPUP_FLAVOR_VOR:0 "Проклятые души больше не сторожат свой Ад."
- TNO_PEACE_POPUP_FLAVOR_KOM:0 "Коробка Пандоры будет навечно закрыта."
+ TNO_PEACE_POPUP_FLAVOR_KOM:0 "Воры и бандиты никогда не победят армию."
  TNO_PEACE_POPUP_FLAVOR_TOB:0 "Старые солдаты не умирают - они просто затухают в небытие."
  TNO_PEACE_POPUP_FLAVOR_ISH:0 "Нация железа, земля слёз."
  TNO_PEACE_POPUP_FLAVOR_OMS:0 "Они найдут умиротворение в смерти."
  TNO_PEACE_POPUP_FLAVOR_UDM:0 "Торговцы продали верёвку, на которой сейчас висят."
  TNO_PEACE_POPUP_FLAVOR_FAV:0 "Она грустно улыбнулась, и улетела в ночь."
- TNO_PEACE_POPUP_FLAVOR_PAV:0 "Самый милый из всех цветков завял со стеблем."
+ TNO_PEACE_POPUP_FLAVOR_PAV:0 "Даже Сокол не летит против ветра."
  TNO_PEACE_POPUP_FLAVOR_ERS:0 "Погиб поэт, невольник чести."
  TNO_PEACE_POPUP_FLAVOR_KHA:0 "И уплыла река Анархии."
  TNO_PEACE_POPUP_FLAVOR_SAH:0 "Восстание Андреева закончилось так же, как и началось."
@@ -165,7 +165,7 @@
  TNO_PEACE_POPUP_FLAVOR_ALT:0 "Зов к традиции заглушили барабаны войны."
  TNO_PEACE_POPUP_FLAVOR_SVO:0 "Последние их мысли были о своих домах, и о тех, кого они любили."
  TNO_PEACE_POPUP_FLAVOR_IRK:0 "Для боли нет героев."
- TNO_PEACE_POPUP_FLAVOR_BRY:0 "Безумству храбрых, поём мы песню."
+ TNO_PEACE_POPUP_FLAVOR_BRY:0 "Во славу смелости смеющих мы песню поём."
  TNO_PEACE_POPUP_FLAVOR_SEV:0 "Утерянные души наконец нашли свой покой."
  TNO_PEACE_POPUP_FLAVOR_YAK:0 "Их алмазы больше не сияют."
  TNO_PEACE_POPUP_FLAVOR_WCH:0 "Нет середины - русский царь либо правит, либо исчезает."
@@ -201,3 +201,7 @@
  TNO_PEACE_POPUP_FLAVOR_AMR_AM:0 "Ни одно доброе дело не останется безнаказанным." # <<TRANSLATED>>
  TNO_PEACE_POPUP_FLAVOR_MAG_AM:0 "Реки богатства были заменены кровью." # <<TRANSLATED>>
  TNO_PEACE_POPUP_FLAVOR_KMC_AM:0 "Никто не пришёл их спасти." # <<TRANSLATED>>
+
+
+
+

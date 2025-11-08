@@ -24,10 +24,10 @@
 
 ### Parties ###
 
- DSR_fascism_party:0 "С-Ш"
- DSR_fascism_party_long:0 "Сопротивление Шпеера"
- DSR_national_socialism_party:0 "НСДАП"
- DSR_national_socialism_party_long:0 "Национал-социалистическая немецкая рабочая партия"
+ DSR_fascism_party:0 "S-W"
+ DSR_fascism_party_long:0 "Speer Widerstandsbewegung"
+ DSR_national_socialism_party:0 "NSDAP"
+ DSR_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
  DSR_ultranational_socialism_party:0 "SS Loyalisten"
  DSR_ultranational_socialism_party_long:0 "SS Loyalisten"
  DSR_social_democrat_party:0 "LS-RO"
@@ -40,21 +40,21 @@
  DSR_social_conservative_party_long:0 "Rechter Republikanische Oppositionspartei"
  DSR_authoritarian_democrat_party:0 "S-W"
  DSR_authoritarian_democrat_party_long:0 "Speer Widerstandsbewegung"
- DSR_despotism_party:0 "НННП"
- DSR_despotism_party_long:0 "Немецкая национальная народная партия"
- DSR_socialist_party:0 "СЕПГ"
- DSR_socialist_party_long:0 "Социалистическая единая партия Германии"
- DSR_communist_party:0 "СЕПГ"
- DSR_communist_party_long:0 "Социалистическая единая партия Германии"
+ DSR_despotism_party:0 "DNVP"
+ DSR_despotism_party_long:0 "Deutschnationale Volkspartei"
+ DSR_socialist_party:0 "SDEP"
+ DSR_socialist_party_long:0 "Sozialistische Deutsche Einheitspartei"
+ DSR_communist_party:0 "SDEP"
+ DSR_communist_party_long:0 "Sozialistische Deutsche Einheitspartei"
  
  ### Ideas ###
- DSR_Andreas_Baader_hog_com:0 "Андреас Баадер"
- DSR_Jan_Carl_Raspe_sec:0 "Ян-Карл Распе"
- DSR_Gudrun_Ensslin_for:0 "Гудрун Энслин"
- DSR_Horst_Mahler_eco:0 "Хорст Малер"
+ DSR_Andreas_Baader_hog_com:0 "Andreas Baader"
+ DSR_Jan_Carl_Raspe_sec:0 "Jan-Carl Raspe"
+ DSR_Gudrun_Ensslin_for:0 "Gudrun Ensslin"
+ DSR_Horst_Mahler_eco:0 "Horst Mahler"
  
  ### Leaders ###
- POLITICS_ULRIKE_MEINHOF_DESC:0 "Красное государство возвышается над пеплом старого порядка. Ульрика Майнхоф, некогда студенческий организатор и одна из самых ярых и преданных сторонниц Шпеера, восстала против своих прежних идеалов и разрушила все, за что так упорно боролись студенческие ополченцы.\n\nОна проповедует огонь и ярость. Кто такой Шпеер? Этот человек никогда не был ярым сторонником правого дела. С каждым днем это становилось все более очевидным. Неужели он очередная марионетка СС, который оказался на своем месте просто для того, чтобы гарантировать, что мятежники никогда не смогут добиться своего? В любом случае, Шпеер оказался не способен на какие-либо решительный действия, несмотря на свои утверждения и слова.\n\nВ чем его смысл? Что такое либерализм в Рейхе? Как вообще возможен либерализм, когда им руководит человек, на один оттенок серого отличающийся от нацизма? Какая польза от либерализма, когда он не идет против такой злой силы, как рабовладельческая империя Германии? Как серый цвет борется с черным? Чтобы по-настоящему воевать, вы должны вести огонь с как можно большего расстояния. А для этого вам просто нельзя копировать идеалы своих врагов.\n\nКоммунизм, социализм, большевизм. Как бы это ни называли нацисты, многие немцы выросли в полном неведении о том, что это на самом деле означает. Однако Майнхоф была другой. Для нее только одна вещь была важнее всего -  быть настолько далеко от нацизма, насколько это можно себе представить.\n\nЧтобы по-настоящему победить зло, нужно стать тем, чего это зло боится. Майнхоф видит себя не только освободительницей народа и той, кто разорвет цепи, наложенные на него Рейхом. Самое главное, что она видит себя монстром, прячущимся под кроватью нацистов."
+ POLITICS_ULRIKE_MEINHOF_DESC:0 "A red state rises over the ashes of an old. Ulrike Meinhof, once a student organizer and one of Speer's most ardent and dedicated supporters has turned against her former ideals and destroyed everything that the student militias have fought so hard to build.\n\nShe preaches fire and fury. Who is Speer? The man has never been an ardent supporter of the cause. This became more clear by the day. Is he a Burgundian, simply here to ensure the rebels never reach their peak? He certainly never prosecuted the war as strongly as he could, despite accusations of child soldiers and a thousand other claims.\n\nWhat is his cause? What is liberalism in a Reich? What is liberalism when it's being led by a man a single shade of black away from Nazism? What use is liberalism when it goes against a power so evil as the slave empire of Germany? How does grey fight black? To truly do war, you must fire from as far away as possible. You can never copy your enemies ideals.\n\nCommunism, Socialism, Bolshevikism. Whatever the Nazis called it, many Germans grew up in utter ignorance of what it truly meant. Meinhof was different however, and she knew one thing was most important of all, whatever it was, it was as far divorced from Nazism as one could imagine.\n\nTo truly defeat evil, one must become what evil fears. Meinhof sees herself not only as a liberator of the people and the one who will break the chains the Reich has foisted upon them, but as the monster hiding under the Nazis bed."
 
 ### Foci ###
 
@@ -112,3 +112,7 @@
  DSR_the_final_solution:0 "The Answer"
  DSR_for_the_good_of_germany:0 "For the Good of Germany"
  DSR_for_the_good_of_mankind:0 "For the Good of Mankind"
+
+
+
+

@@ -78,7 +78,7 @@ gaw.206.a:0 "We have gained everything we wanted."
 gaw.206.b:0 "To hell with the Japanese!"
 
 gaw.300.t:0 "The Fall of Manchukuo"
-gaw.300.d:0 "News have reached us today that the authority of the Manchurian Government has finally collapsed. Following the capture of several key cities by NLF forces, the government of Manchukuo has been evacuated to Japan, with the remnants of the Kwantung Army left as the last authority of the Rising Sun in the area.\n\nWhile the Japanese Government under Prime Minister [JAP.GetLeader] remains adamant that the fall of the Empire's Industrial Heart is but a minor setback in the "Righteous Campaign against the Chinese rebels", masses of Chinese citizens were seen cheering and celebrating all across China and beyond.\n\nMany observers both within and without the former Co-Prosperity Sphere predict a swift end to the Great Asian War following this decisive development, with China coming out as the clear winner of the bloodiest conflict in Asian history."
+gaw.300.d:0 "News have reached us today that the authority of the Manchurian Government has finally collapsed. Following the capture of several key cities by NLF forces, the government of Manchukuo has been evacuated to Japan, with the remnants of the Kwantung Army left as the last authority of the Rising Sun in the area.\n\nWhile the Japanese Government under Prime Minister [JAP.GetLeader] remains adamant that the fall of the Empire's Industrial Heart is but a minor setback in the \"Righteous Campaign against the Chinese rebels\", masses of Chinese citizens were seen cheering and celebrating all across China and beyond.\n\nMany observers both within and without the former Co-Prosperity Sphere predict a swift end to the Great Asian War following this decisive development, with China coming out as the clear winner of the bloodiest conflict in Asian history."
 gaw.300.a:0 "Victory is within our grasp!"
 gaw.300.b:0 "The War is not yet lost!"
 gaw.300.c:0 "The End draws near."
@@ -125,3 +125,7 @@ GAW_CHI_victory_con_tt_3:0 "The §YHui State§! has been defeated"
 #GAW Ideas:
 GAW_cta_block:0 "Diplomatic Chaos"
 GAW_cta_block_desc:0 "With the outbreak of the Greatest Land War Asia has ever witnessed, the diplomatic canals of the Sphere have been thrown into complete turmoil. It will take some time until each nation has found its side in the Great Asian War."
+
+
+
+

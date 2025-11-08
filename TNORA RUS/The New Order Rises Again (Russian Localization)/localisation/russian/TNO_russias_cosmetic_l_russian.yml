@@ -58,7 +58,7 @@
  NIK_REGIONAL_AUTHSOC_socialist_ADJ:0 "Западнорусск."
  
  NIK_REGIONAL_LIBSOC_socialist:0 "Западнорусская Советская Федерация"
- NIK_REGIONAL_LIBSOC_socialist_DEF:0 ""Западнорусская Советская Федерация"
+ NIK_REGIONAL_LIBSOC_socialist_DEF:0 "\"Западнорусская Советская Федерация"
  NIK_REGIONAL_LIBSOC_socialist_ADJ:0 "Западнорусск."
  
  NIK_REGIONAL_ZHDANOV_communist:0 "Западнорусская Советская Федерация"
@@ -644,10 +644,10 @@
  #Novosibirsk
  PAV_RUS_social_conservative:0 "Российская Федерация"
  PAV_RUS_social_conservative_DEF:0 "Российская Федерация"
- PAV_RUS_social_conservative_ADJ:0 "Российск"
+ PAV_RUS_social_conservative_ADJ:0 "Русск."
  PAV_RUS_authoritarian_democrat:0 "Российская Федерация"
  PAV_RUS_authoritarian_democrat_DEF:0 "Российская Федерация"
- PAV_RUS_authoritarian_democrat_ADJ:0 "Российск"
+ PAV_RUS_authoritarian_democrat_ADJ:0 "Русск."
  
  #Kemerovo
  KEM_RUS_authoritarian_democrat:0 "Царство Русское"
@@ -824,3 +824,7 @@
  YAK_collapse_communist:0 "Якутская Народная Республика"
  BRY_collapse_social_democrat:0 "Республика Бурятия"
  WCH_collapse_socialist:0 "Республика Чита"
+
+
+
+

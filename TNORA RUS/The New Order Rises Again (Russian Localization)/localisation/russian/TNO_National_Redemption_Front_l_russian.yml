@@ -43,7 +43,7 @@
  POLITICS_ARIAS_NAVARRO_DESC:0 ""
  
  #Leader Traits
- holy_regent:0 "Его Святешество Регент - защитник епископа Римского и Испании."
+ holy_regent:0 "His Holy Regent, Protector of the Bishops of Rome and Hispania"
  #misc
  FSR_lower_morality_value_tt:0 "Это же §!" # <<TRANSLATED>>
  FSR_raise_morality_value_tt:0 "Это §!" # <<TRANSLATED>>
@@ -291,3 +291,7 @@
  FSR_first_before_god:0 "Первый перед Богом" # <<TRANSLATED>>
  FSR_first_before_god_desc:0 "Только Царство Божие вечно, и царства человеческие мимолетны; но одни из них более равны, чем другие; Святое Царство Иберия есть первое среди народов, и через него будет очевидна воля Божия." # <<TRANSLATED>>
  FSR_first_before_god_tt:0 "§ ПЕФЕФЕР ОКОНЧАЕТСЯ НАСЫЛОЧНЫМ §!" # <<TRANSLATED>>
+
+
+
+

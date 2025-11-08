@@ -29,11 +29,11 @@ l_russian:
  ##============|  |=============##
  #################################
  UPO_communist:0 "Объединённая Партизанская Организация"
- UPO_communist_DEF:0 "Объединённая Партизанская Организация"
- UPO_communist_ADJ:0 "Партизанск."
+ UPO_communist_DEF:0 "Де Франктие Партизане Организатион"
+ UPO_communist_ADJ:0 "Партизанск"
  UPO_socialist:0 "Объединённая Партизанская Организация"
- UPO_socialism_DEF:0 "Объединённая Партизанская Организация"
- UPO_socialism_ADJ:0 "Партизанск."
+ UPO_socialism_DEF:0 "Де Франктие Партизане Организатион"
+ UPO_socialism_ADJ:0 "Партизанск"
  UPO_social_democrat:0 "Объединённая Партизанская Организация"
  UPO_social_democrat_DEF:0 "Де Франктие Партизане Организатион"
  UPO_social_democrat_ADJ:0 "Партизанск"
@@ -47,14 +47,14 @@ l_russian:
  UPO_authoritarian_democrat_DEF:0 "Де Франктие Партизане Организатион"
  UPO_authoritarian_democrat_ADJ:0 "Партизанск"
  UPO_despotism:0 "Объединённая Партизанская Организация"
- UPO_despotism_DEF:0 "Объединённая Партизанская Организация"
- UPO_despotism_ADJ:0 "Партизанск."
+ UPO_despotism_DEF:0 "Де Франктие Партизане Организатион"
+ UPO_despotism_ADJ:0 "Партизанск"
  UPO_fascism:0 "Объединённая Партизанская Организация"
- UPO_fascism_DEF:0 "Объединённая Партизанская Организация"
- UPO_fascism_ADJ:0 "Партизанск."
+ UPO_fascism_DEF:0 "Де Франктие Партизане Организатион"
+ UPO_fascism_ADJ:0 "Партизанск"
  UPO_national_socialism:0 "Рейх Объединённой Партизанской Организации"
- UPO_national_socialism_DEF:0 "Объединённая Партизанская Организация Рейх"
- UPO_national_socialism_ADJ:0 "Партизанск."
+ UPO_national_socialism_DEF:0 "Де Франктие Партизане Организатион Рейх"
+ UPO_national_socialism_ADJ:0 "Партизанск"
  UPO_ultranational_socialism:0 "Объединённая Партизанская Организация"
  UPO_ultranational_socialism_DEF:0 "Де Франктие Партизане Организатион"
  UPO_ultranational_socialism_ADJ:0 "Партизанск"
@@ -422,3 +422,7 @@ l_russian:
  UPO_kiddush_hashem:0 "Куддиш Насшхем"
  UPO_kiddush_hashem_desc:0 "Вставьте текст"
  UPO_kiddush_hashem_tt:0 ""
+
+
+
+

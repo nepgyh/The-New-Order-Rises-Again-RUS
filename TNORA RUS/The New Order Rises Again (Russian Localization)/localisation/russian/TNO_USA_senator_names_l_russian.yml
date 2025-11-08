@@ -3,12 +3,12 @@
 
   ############# PARTIES
 
- RD_R_SENATOR_PARTY:0 "(£GFX_rd_r_texticon §RР§!-§BД§! - §RРеспубликанец§!) "
- RD_D_SENATOR_PARTY:0 "(£GFX_rd_d_texticon §RР§!-§BД§! - §BДемократ§!) "
- NPP_C_SENATOR_PARTY:0 "(£GFX_npp_c_texticon §OНПП§! - §KПрогрессивист§!) "
- NPP_FR_SENATOR_PARTY:0 "(£GFX_npp_fr_texticon §OНПП§! - §gНационалист§!) "
- NPP_L_SENATOR_PARTY:0 "(£GFX_npp_l_texticon §OНПП§! - §eКоммунист§!) "
- NPP_R_SENATOR_PARTY:0 "(£GFX_npp_y_texticon §OНПП§! - §jНациональный Авангард§!) "
+ RD_R_SENATOR_PARTY:0 "(§wР§!-§BД§!П - §wРеспубликанец§!) "
+ RD_D_SENATOR_PARTY:0 "(§wР§!-§BД§!П - §BДемократ§!) "
+ NPP_C_SENATOR_PARTY:0 "(§OНПП§! - §PЦентрист§!) "
+ NPP_FR_SENATOR_PARTY:0 "(§OНПП§! - §gУльтраправый§!) "
+ NPP_L_SENATOR_PARTY:0 "(§OНПП§! - §eЛевый§!) "
+ NPP_R_SENATOR_PARTY:0 "(§OНПП§! - §r\"Йокиист\"§!) "
 
  RD_R_SENATOR_ALABAMA_1:0 "Ричмонд Флауэрс-ст.."
  RD_R_SENATOR_ALABAMA_2:0 "Джон Холл Бьюкенен-мл.."
@@ -403,7 +403,7 @@
  NPP_C_SENATOR_NEW_HAMPSHIRE_2:0 "Джон Уильям Кинг"
  NPP_R_SENATOR_NEW_HAMPSHIRE_1:0 "Джеймс МакДэниэл"
  NPP_R_SENATOR_NEW_HAMPSHIRE_2:0 "Кертис Бин Долл"
- NPP_FR_SENATOR_NEW_HAMPSHIRE_1:0 "Морис Дж. «Мо» Мерфи-мл"
+ NPP_FR_SENATOR_NEW_HAMPSHIRE_1:0 "Морис Дж. \"Мо\" Мерфи-мл"
  NPP_FR_SENATOR_NEW_HAMPSHIRE_2:0 "Мелдрим Томсон-мл."
 
  RD_R_SENATOR_NEW_JERSEY_1:0 "Арчибальд Кокс"
@@ -505,7 +505,7 @@
  RD_D_SENATOR_OREGON_1:0 "Эдит Грин"
  RD_D_SENATOR_OREGON_2:0 "Аль Ульман"
  NPP_L_SENATOR_OREGON_1:0 "Роберт Джордж Томпсон"
- NPP_L_SENATOR_OREGON_2:0 "Болеслав Геберт"Bill" Gebert"
+ NPP_L_SENATOR_OREGON_2:0 "Болеслав Геберт"
  NPP_C_SENATOR_OREGON_1:0 "Вейн Морс"
  NPP_C_SENATOR_OREGON_2:0 "[GetSenatorNeubergerName]"
  NPP_C_SENATOR_OREGON_2_STANDARD:0 "Морин Нойбергер"
@@ -716,3 +716,7 @@
  NPP_FR_SENATOR_SOUTH_CAROLINA_1_ALTERNATE:0 "Джордж Белл Тиммерман-мл."
  NPP_FR_SENATOR_LOUISIANA_1_ALTERNATE:0 "Аллен Джозеф Эллендер"
  RD_D_SENATOR_ARIZONA_1_ALTERNATE:0 "Уэсли Болин"
+
+
+
+

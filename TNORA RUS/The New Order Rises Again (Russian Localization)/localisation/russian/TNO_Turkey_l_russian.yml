@@ -1,5 +1,5 @@
 ﻿ l_russian:
- TUR_THENEWORDER_DESC:0 "Когда немецкие предатели перекрыли Дарданеллы своей плотиной, это не только разрушило нашу экономику, но и любую доброжелательность, которая у нас была раньше по отношению к Германии"
+ TUR_THENEWORDER_DESC:0 "Когда немецкие предатели перекрыли Дарданеллы своей плотиной, это не только разрушило нашу экономику, но и любую доброжелательность, которая у нас была раньше по отношению к Германии\". В то время как мы старались изо всех сил индустриализировать нашу страну и субсидировать наших фермеров, она просто не смогла остановить продолжающийся экономический спад, с которым мы сталкиваемся в настоящее время. Турецкие сухопутные войска являются гордостью нашей великой нации, и единственное, что предотвращает переворот и нестабильность в Турции"
  #############
  ##Ministers##
  #############
@@ -41,7 +41,7 @@
  ###############
  ##Leader Bios##
  ###############
- POLITICS_ALPARSLAN_TURKES_DESC:0 ""
+ POLITICS_ALPARSLAN_TURKES_DESC:0 "\"Если кто и олицетворяет новую Турцию, так это Алпарслан Тюркеш, Башбуг\". Родившийся как Хусейн Фейзуллах в турецкой семье в Никосии, он сменил свое имя на Алпарслан Тюркеш, а в 1930-х годах эмигрировал вместе с ними в не слишком иностранное государство, расположенное чуть севернее - в Турецкую Республику. Добровольно призванный служить в армии своей страны в 1938 г., он быстро вступил в контакт с турецкими фашистскими группировками, многие из которых были более чем готовы служить в армии своей великой нации. Однако Тюркеш считал, что Турция должна стать лучшей нацией для турков, и что именно он сделает это. Возможность для Тюркеша появилась в 1942 году. Разочарованный бездействием президента Иноню в войне, он вместе с другими офицерами правого крыла захватил контроль над страной в результате переворота. Теперь полковник Тюркеш был у власти и готов был проложить новый курс для турецкого государства. Объединившись с войсками оси, турецкие войска воевали на востоке, оккупировав Кавказ. Однако по окончании войны Германия захватила Азербайджан - не только богатый нефтью регион, но и населенный тюркскими азербайджанцами - и часть Грузии. После того, как Азербайджан не был захвачен, все пошло на спад для Башбуга.Уже начали проявляться эффекты настойчивости Тюркеша в самостоятельном управлении экономикой, но, с осушением Средиземноморья, состояние дел действительно стало очевидным, так как экономика Турции пошла на спад. Чтобы удержать власть после катастрофы, Тюркешу пришлось искать способы повысить свою популярность. Так, он удвоил риторику экспансионизма, национализма и пантюркского единства, и итальянские территории на юге страны стали его достопримечательностями. Теперь, когда союз Турции с другими средиземноморскими державами ухудшается, время мира может продлиться недолго, и барабаны войны снова будут бить на Ближнем Востоке"
  
  #########
  ##Ideas##
@@ -52,7 +52,7 @@
  TUR_grey_wolves_terror_desc:0 "Чтобы сохранить нелояльные меньшинства, будь то этнические, политические или религиозные, наши Серые Волки проводят регулярные террористические рейды в гнезда этих нежелательных людей, это держит их достаточно дезорганизованными, чтобы не поднимать восстание, пока что.."
  TUR_weakening_grip:0 "Слабеющая хватка"
  TUR_weakening_grip_desc:0 "Алпарслан Тюркеш, турецкий Башбуг, теряет железную хватку в стране. Он больше не рассматривается как лидер турецкого народа, который ведет к славе, а неудача которая, приводит ко всем проблемам, которые испытывает Турция. Некоторые даже говорят что, дни Башбуга сочтены..."
- TUR_italian_interference:0 "Вмешательство Италии"
+ TUR_italian_interference:0 "Итальянское вмешательство"
  
  ###########
  ##Threats##
@@ -108,7 +108,7 @@
  turkey.921.a:0 "Turkey's fate is its own."
 
  turkey.2.t:0 "The German Moon Landing"
- turkey.2.d:0 "After a long day of inspecting the Grey Wolves, Başbuğ Alparslan Türkeş decided to retire to his study in Çankaya Mansion. After taking off his shoes, stepping over the Turkmen silk carpet lying on the wooden floor of the room and collapsing into his chair in tiredness, the Başbuğ asked the nanny who brought his evening coffee to turn on the television before leaving. The television showed an image that was almost surreal, and it took a good 30 seconds for the Başbuğ to fully understand what it meant. "Allah kahretsin!" he yelled as he threw his cup of coffee to the floor in anger. Now, both his carpet and his evening were ruined.\n\nThe broadcast of a German raumonaut saluting to the Nazi flag on the Moon was watched by all of the nation. Turkey was never a contender in the space race, as Turkey's space program is little more than an underfunded department under ROKETSAN. Such things do not matter to Turkey on the whole, however - the most impact it had was on the underground betting industry of Istanbul; many men had become rich that night off their unlikely bets on a German victory in the space race over America and Japan."
+ turkey.2.d:0 "After a long day of inspecting the Grey Wolves, Başbuğ Alparslan Türkeş decided to retire to his study in Çankaya Mansion. After taking off his shoes, stepping over the Turkmen silk carpet lying on the wooden floor of the room and collapsing into his chair in tiredness, the Başbuğ asked the nanny who brought his evening coffee to turn on the television before leaving. The television showed an image that was almost surreal, and it took a good 30 seconds for the Başbuğ to fully understand what it meant. \"Allah kahretsin!\" he yelled as he threw his cup of coffee to the floor in anger. Now, both his carpet and his evening were ruined.\n\nThe broadcast of a German raumonaut saluting to the Nazi flag on the Moon was watched by all of the nation. Turkey was never a contender in the space race, as Turkey's space program is little more than an underfunded department under ROKETSAN. Such things do not matter to Turkey on the whole, however - the most impact it had was on the underground betting industry of Istanbul; many men had become rich that night off their unlikely bets on a German victory in the space race over America and Japan."
  turkey.2.a:0 "Perhaps one day we shall reach the stars, as well."
  
  #############
@@ -118,3 +118,7 @@
  TUR_itatur_decisions:0 "Вторая итало-турецкая война"
  TUR_itatur_decisions_desc:0 "Наконец-то пришло время вернуть нам то, что принадлежит нам по праву! Наши могучие армии наступают на итальянскую провинцию Левант, и мы покажем этим профанам, что Турция всегда была истинным хозяином Ближнего Востока. Да не заржавеют наши сабли!"
  TUR_invade_cyprus:0 "Операция Аттила"
+
+
+
+

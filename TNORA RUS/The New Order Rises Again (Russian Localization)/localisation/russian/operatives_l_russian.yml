@@ -80,7 +80,7 @@
  upgrade_enhanced_interrogation_methods:0 "Современные методы допроса"
  upgrade_enhanced_interrogation_methods_desc:0 "§LЧаще эффективнее бывает сломать разум вражеского агента, а не его тело. Применение физической силы в этом случае ненадежно и часто приводит к получению ложной информации. Мастер допроса способен сломить дух противника, не прибегая к насилию. У нас есть способы разговорить любого...§!"
  upgrade_diplomatic_training:0 "Дипломатическая подготовка"
- upgrade_diplomatic_training_desc:0 "§LОбучив наших агентов «подмазывать» иностранных инвесторов и дипломатов, мы, возможно, сумеем убедить их в правильности нашего дела, и их интересы разойдутся с интересами врагов государства.§!"
+ upgrade_diplomatic_training_desc:0 "§LОбучив наших агентов \"подмазывать\" иностранных инвесторов и дипломатов, мы, возможно, сумеем убедить их в правильности нашего дела, и их интересы разойдутся с интересами врагов государства.§!"
  upgrade_psychological_warfare:0 "Психологическая война"
  upgrade_psychological_warfare_desc:0 "§LПропаганда — мощный инструмент обеспечения наших идеологических интересов в нашем же государстве, но ни одно средство не сравнится в эффективности с распространением жутких слухов о вражеском режиме и последствиях его прихода в страну. Научив наших агентов сотрудничать с антиидеологическими движениями в других странах, мы сможем гораздо эффективнее распространять собственную идеологию по миру...§!"
  
@@ -189,13 +189,13 @@
  OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_INVALID_TARGET:0 "Нельзя искоренить сопротивление в государстве $STATE|H$"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_TITLE:0 "Усилить идеологию"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_ACTION:0 "Усиливает идеологию"
- OPERATIVE_MISSION_BOOST_IDEOLOGY_TT:2 "Усиление идеологии «$IDEOLOGY|H$» в государстве $COUNTRY|H$ на $VALUE|H$ в день"
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_TT:2 "Усиление идеологии \"$IDEOLOGY|H$\" в государстве $COUNTRY|H$ на $VALUE|H$ в день"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_ASSIGNMENT_DESC:0 "§GЩёлкните§!, чтобы выделить подходящие государства. Затем §Gщёлкните§! государство, чтобы выбрать идеологию, которую вы хотите усилить."
  OPERATIVE_MISSION_BOOST_IDEOLOGY_DESC:2 "§LУсилить поддержку местной политической партии.§!\n§YЕжедневное увеличение поддержки идеологии: $BASE|1=$§!\nБазовое значение: $BASE|1G$"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_VALID_TARGET:1 "§GЩёлкните§!, чтобы выбрать идеологию и назначить агента $CODENAME|H$ для £operative_mission_icons_small|5£ усиления идеологии в государстве $STATE|H$"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_INVALID_TARGET:1 "Невозможно назначить агентов для усиления идеологии в государстве $STATE|H$\n\n$REASON|R$"
- OPERATIVE_MISSION_BOOST_IDEOLOGY_INITIATE_DESC:0 "Усилить поддержку идеологии «$IDEOLOGY|H$» на $VALUE|H$ в день"
- OPERATIVE_MISSION_BOOST_IDEOLOGY_PARTY_DESC:0 "Усилить популярность партии «$PARTY|H$», которую сейчас поддерживает $SUPPORT|H$ на $VALUE|H$ в день"
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_INITIATE_DESC:0 "Усилить поддержку идеологии \"$IDEOLOGY|H$\" на $VALUE|H$ в день"
+ OPERATIVE_MISSION_BOOST_IDEOLOGY_PARTY_DESC:0 "Усилить популярность партии \"$PARTY|H$\", которую сейчас поддерживает $SUPPORT|H$ на $VALUE|H$ в день"
  OPERATIVE_MISSION_BOOST_IDEOLOGY_OPERATIVE_ENTRY:0 "$OPERATIVE|H$: $VALUE|H$"
  OPERATIVE_MISSION_CONTROL_TRADE_TITLE:0 "Контролировать торговлю"
  OPERATIVE_MISSION_CONTROL_TRADE_ACTION:0 "Контролирует торговлю"
@@ -421,7 +421,7 @@
  OPERATIVE_NATIONALITY:0 "У этого агента есть гражданство государства $NATIONALITY|H$. Это дает ему следующие преимущества."
  OPERATIVE_NATIONALITY_MISSION_MODIFIERS_HEADER:0 "§HПри выполнении заданий в этой стране:§!"
  OPERATIVE_NATIONALITY_OPERATION_MODIFIERS_HEADER:0 "§HПри выполнении операций в этой стране:§!"
- OPERATIVE_NATIONALITY_DESC:0 "При работе в стране своего гражданства у агента есть преимущество.\n\nВнимание: для заданий £operative_mission_icons_small|1£Построить разведывательную сеть£operative_mission_icons_small|2£, £operative_mission_icons_small|4£Перевести разведывательную сеть в режим скрытности и «Искоренить сопротивление» учитывается оккупированная страна, а если таковой нет — контролирующая страна."
+ OPERATIVE_NATIONALITY_DESC:0 "При работе в стране своего гражданства у агента есть преимущество.\n\nВнимание: для заданий £operative_mission_icons_small|1£Построить разведывательную сеть£operative_mission_icons_small|2£, £operative_mission_icons_small|4£Перевести разведывательную сеть в режим скрытности и \"Искоренить сопротивление\" учитывается оккупированная страна, а если таковой нет — контролирующая страна."
  COUNTERINTELLIGENCE_ACTIVITY_LEVEL:0 "Уровень действий: "
  COUNTERINTELLIGENCE_ACTIVITY_LEVEL_0:0 "§GНизкий§!: подрывная деятельность почти не ведётся"
  COUNTERINTELLIGENCE_ACTIVITY_LEVEL_1:0 "§YСредний§!: обнаружен некий уровень деятельности"
@@ -440,3 +440,7 @@
  OPERATIVE_RESUME_MISSION_AFTER_OPERATION_INDICATOR_TOOLTIP:0 "При начале операции этот агент продолжит выполнять задание, на которое он назначен."
  OPERATIVE_DISBAND_TITLE:0 "Уволить агента"
  OPERATIVE_DISBAND_DESC:0 "Вы действительно хотите §Rуволить§! этого агента? На то, чтобы нанять нового, потребуется время."
+
+
+
+

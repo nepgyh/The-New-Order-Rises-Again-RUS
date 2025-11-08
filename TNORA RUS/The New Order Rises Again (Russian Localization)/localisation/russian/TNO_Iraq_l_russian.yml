@@ -60,25 +60,25 @@
 
 
 #Tooltips
- IRQ_ITALY_UP:0 "§GItalian influence will rise§!.\\n"
- IRQ_ITALY_DOWN:0 "§GItalian influence will fall§!.\\n"
+ IRQ_ITALY_UP:0 "§GItalian influence will rise§!.\n"
+ IRQ_ITALY_DOWN:0 "§GItalian influence will fall§!.\n"
  
- IRQ_NDP_UP:0 "§GNational Democratic Party influence will rise§!.\\n"
- IRQ_NDP_DOWN:0 "§RNational Democratic Party influence will fall§!.\\n"
+ IRQ_NDP_UP:0 "§GNational Democratic Party influence will rise§!.\n"
+ IRQ_NDP_DOWN:0 "§RNational Democratic Party influence will fall§!.\n"
  
- IRQ_Dawa_UP:0 "§GIslamic Dawa Party influence will rise§!.\\n"
- IRQ_Dawa_DOWN:0 "§GIslamic Dawa Party influence will fall§!.\\n"
+ IRQ_Dawa_UP:0 "§GIslamic Dawa Party influence will rise§!.\n"
+ IRQ_Dawa_DOWN:0 "§GIslamic Dawa Party influence will fall§!.\n"
  
- IRQ_J14_UP:0 "§GJuly 14th Party influence will rise§!.\\n"
- IRQ_J14_DOWN:0 "§GJuly 14th Party influence will fall§!.\\n"
+ IRQ_J14_UP:0 "§GJuly 14th Party influence will rise§!.\n"
+ IRQ_J14_DOWN:0 "§GJuly 14th Party influence will fall§!.\n"
  
  
 #Ideas
  IRQ_july_14_legacy:0 "Наследие 14-го июля"
  IRQ_july_14_legacy_desc:0 "Прошло почти 5 лет с момента революции 14-го июля, и во многих отношениях она так и не закончилась. Революция началась как народное и широко распространенное восстание против итальянского влияния, но быстро переросла в анархию, войну всех против всех. Коммунисты боролись с шиитами, демократы боролись с милитаристами, и все боролись с баасистами. Только военный переворот генерала Абд аль-Карима Касема и формирование его правительства национального согласия положили конец боевым действиям. С тех пор Касем был признан всеми партиями лидером Ирака. Его правление основано на консенсусе, что фальшивые политические партии страны по отдельности слишком слабы, чтобы объединиться против него, и что итальянцы всегда будут отчаянно поддерживать его режим в качестве оплота против поддерживаемого Германией баасизма."
  
- IRQ_july_14_legacy1:0 "Наследие 14 июля"
- IRQ_july_14_legacy1_desc:0 "Прошло почти 5 лет с момента революции 14 июля, и во многих отношениях она так и не закончилась. Революция началась как народное и широко распространенное восстание против итальянского влияния, но быстро переросла в анархию, войну всех против всех. Коммунисты боролись с шиитами, демократы боролись с милитаристами, и все боролись с баасистами. Только военный переворот генерала Абд аль-Карима Касима и формирование его правительства национального согласия положили конец боевым действиям. С тех пор Касим был признан всеми партиями лидером Ирака, но не очень влиятельным. Его правление основано на консенсусе, что фальшивые политические партии страны по отдельности слишком слабы, чтобы объединиться против него, и что итальянцы всегда будут отчаянно поддерживать его режим в качестве оплота против поддерживаемого Германией баасизма."
+ IRQ_july_14_legacy1:0 "Legacy of July 14th"
+ IRQ_july_14_legacy1_desc:0 "It has been almost 5 years since the 14th July Revolution, and in many ways it remains unfinished. The revolution began as a popular and widespread uprising against Italian Influence, but rapidly devolved into anarchy, a war of all against all. Communists fought Shiites, democrats fought militarists, and everyone fought the Ba'athists. It was only the military coup of general Abd al-Karim Qasim and the forging of his government of national consensus that brought an end to the fighting. Since then, Qasim has been recognized by every party as Iraq's leader, but not a very powerful one. His rule is based on consensus, that the nation's factitious political parties are individually too weak to unite against him, and that the Italians will be forever desperate to support his regime as a bulwark against German-backed Ba'athism."
  
  IRQ_dawa_ascendant:0 "Восходящая Дава"
  IRQ_dawa_ascendant_desc:0 "Большая часть политической сцены в Ираке оставалась неизменной на протяжении десятилетий. Слабое марионеточное правительство, поддерживаемое иностранной державой. Панарабисты, многочисленные в своей поддержке, но выступающие против всех остальных. Старики, болтающие о демократии, молодые люди, проповедующие коммунизм. Оппортунисты и коррупция в армии (и не только в ней). Однако, вдохновленные экономической стагнацией Ирака и притеснением их веры на Ближнем Востоке, иракские шииты стекаются все в большем количестве, чтобы присоединиться к исламистской партии Дава, основанной для того, чтобы представлять их взгляды и их приверженцев. В то время как сама партия далека от единства, ее звезда продолжает восходить, даже несмотря на то, что стабильность Ирака остается под вопросом, и мало кто может сомневаться, что это не та сила, с которой нужно считаться."
@@ -92,14 +92,14 @@
  IRQ_ineffecient_oil_industry:0 "Неэффективная нефтяная промышленность"
  IRQ_ineffecient_oil_industry_desc:0 "Можно было бы подумать, что открытие огромных запасов нефти приведет к экономическому подъему страны. Так можно было бы подумать, если вы никогда не бывали в Ираке. Хотя пустыни страны являются домом для огромных нефтяных месторождений, а ее города заполнены нефтеперерабатывающими заводами, фактическая добыча черного золота остается на прежнем уровне. Добытая нефть часто крадется и продается на черном рынке или теряется где-то в иракском лабиринте бюрократии, кумовства и загрязнения окружающей среды. Если, несмотря ни на что, баррель действительно попадет на отгрузку, деньги в основном достанутся итальянцам, которые его отправят. Но если все же одна-две лишние монеты вернутся в страну, то они быстро попадут в карманы политической или экономической элиты, а не в руки тех, кто действительно нашел нефть, добыл ее или работал над ее очисткой."
  
- IRQ_ineffecient_oil_industry1:0 "Неэффективная нефтяная промышленность"
- IRQ_ineffecient_oil_industry1_desc:0 "Можно было бы подумать, что открытие огромных запасов нефти приведет к экономическому подъему страны. Так можно было бы подумать, если вы никогда не бывали в Ираке. Хотя пустыни страны являются домом для огромных нефтяных месторождений, а ее города заполнены нефтеперерабатывающими заводами, фактическая добыча черного золота остается на прежнем уровне. Добытая нефть часто крадется и продается на черном рынке или теряется где-то в иракском лабиринте бюрократии, кумовства и загрязнения окружающей среды. Если, несмотря ни на что, баррель действительно попадет на отгрузку, деньги в основном достанутся итальянцам, которые его отправят. Но если все же одна-две лишние монеты вернутся в страну, то они быстро попадут в карманы политической или экономической элиты, а не в руки тех, кто действительно нашел нефть, добыл ее или работал над ее очисткой."
+ IRQ_ineffecient_oil_industry1:0 "Ineffecient Oil Industry"
+ IRQ_ineffecient_oil_industry1_desc:0 "One would think that the discovery of massive oil reserves would lead to some sort of economic improvement. One would be surprised then, if they visited Iraq. Although Iraq's deserts are home to towering oil fields and its cities stuffed with refineries for th eblack gold, its actual production remains under par. What oil is produced is often stolen and sold on the black market, or lost somewhere in Iraq's maze of bureaucracy, cronyism, and pollution. If, against all odds, a barral actually makes it to shipment, the money will mostly go to the Italians who ship it. Should a spare coin or two find its way back into the nation of its inception, then it will quickly go to line the pockets of the political or economic elite rather than into the hands of anyone who actually found the oil, extracted it, or worked to purify it."
  
  IRQ_the_spectre_of_baathism:0 "Призрак баасизма"
  IRQ_the_spectre_of_baathism_desc:0 "Как и везде в регионе, арабы Ирака становятся все более беспокойными, стремясь к единому государству, свободному от империализма и западного вырождения. В этом нет ничего нового, и эти чувства проявлялись и раньше, во время революции 14-го июля (которая черпала вдохновение в восстаниях в Египте и других местах). Однако провал революции не уничтожил иракский панарабизм, а вместо этого сделал его подпольным, эффективным и высокоорганизованным благодаря партии Баасистов. Хотя, возможно, баасисты не выходят на политическую сцену Ирака, тем не менее они там есть. Их плакаты появляются ночью, несмотря на двойные усилия правительства и гарнизона по их удалению; их лозунги выкрикиваются во время все более распространенных протестов; и, похоже, в пустыне есть неисчерпаемый запас этих преданных, разгневанных людей, жаждущих власти, которые, как они уверены, неизбежно встретятся на их пути."
  
- IRQ_the_spectre_of_baathism1:0 "Призрак баасизма"
- IRQ_the_spectre_of_baathism1_desc:0 "Как и везде в регионе, арабы Ирака становятся все более беспокойными, стремясь к единому государству, свободному от империализма и западного вырождения. В этом нет ничего нового, и эти чувства проявлялись и раньше, во время революции 14 июля (которая черпала вдохновение в восстаниях в Египте и других местах). Однако провал революции не уничтожил иракский панарабизм, а вместо этого сделал его подпольным, эффективным и высокоорганизованным благодаря партии Баасистов. Хотя, возможно, баасисты не выходят на политическу  сцену Ирака, тем не менее они там есть. Их плакаты появляются ночью, несмотря на двойные усилия правительства и гарнизона по их удалению; их лозунги выкрикиваются во время все более распространенных протестов; и, похоже, в пустыне есть неисчерпаемый запас этих преданных, разгневанных людей, жаждущих власти, которые, как они уверены, неизбежно встретятся на их пути."
+ IRQ_the_spectre_of_baathism1:0 "The Spectre of Ba'athism"
+ IRQ_the_spectre_of_baathism1_desc:0 "As elsewhere in the region, Iraq's Arabs grow increasingly restless, desiring a unified state, free from imperialism and western degeneracy. This is nothing new, and these feelings have been unleashed before, in the July 14th revolution (which drew its inspiration from the uprisings in Egypt and elsewhere). However, the revolution's failure did not defeat Iraqi Pan-Arabism, but instead made it clandestine, efficient, and highly organized through the Ba'ath party. While one might not be able to see the Ba'aths they are there nonetheless. Their posters appear at night despite the government's and garrison's dual efforts to remove them; their slogans are shouted at ever more common protests; and the desert seems to have an inexhaustible supply of these dedicated, angry men, hungry for the power they're sure will inevitably come their way."
  
  IRQ_iraq_economy_shift:0 "Shifting Economy"
  IRQ_iraq_economy_shift_desc:0 ""
@@ -501,7 +501,7 @@
  
 #Decisions
  IRQ_political_hell:0 "The Political Situation"
- IRQ_political_hell_desc:0 "July 14th Party Influence is: [ROOT.July14Inf]\\nIslamic Dawa Party Influence is: [ROOT.DawaInf]\\nNational Democratic Party Influence is: [ROOT.NDPInf]\\nArab Socialist Ba'ath Party Influence is: [ROOT.BaathInf]\\nItalian Influence is: [ROOT.IRQITAInf]\\n"
+ IRQ_political_hell_desc:0 "July 14th Party Influence is: [ROOT.July14Inf]\nIslamic Dawa Party Influence is: [ROOT.DawaInf]\nNational Democratic Party Influence is: [ROOT.NDPInf]\nArab Socialist Ba'ath Party Influence is: [ROOT.BaathInf]\nItalian Influence is: [ROOT.IRQITAInf]\n"
  
  IRQ_J14_Very_High:0 "§YVery High§!."
  IRQ_J14_High:0 "§YHigh§!."
@@ -529,3 +529,7 @@
  IRQ_Italy_Medium:0 "§YMedium§!."
  IRQ_Italy_Irrelevant:0 "§RIrrelevant§!."
  
+
+
+
+

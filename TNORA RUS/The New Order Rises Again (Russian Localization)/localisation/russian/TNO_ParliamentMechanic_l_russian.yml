@@ -59,18 +59,18 @@ l_russian:
   TNO_ParliamentMechanic_Party_Support_Yellow: "[?ParliamentMechanic_Party_Support^TNO_PM_GUIHelper_PartiesDisp_Array_val|%Y0]"
   TNO_ParliamentMechanic_Party_Support_Red: "[?ParliamentMechanic_Party_Support^TNO_PM_GUIHelper_PartiesDisp_Array_val|%R0]"
   TNO_ParliamentMechanic_Parties_Entry_Support_tt: "[TNO_ParliamentMechanic_Get_Party_ShortName] §Yподдерживает§! наше правительство"
-  #TNO_ParliamentMechanic_Parties_Entry_Support_ttd: "Экзампле"
+  #TNO_ParliamentMechanic_Parties_Entry_Support_ttd: "Example"
 
   # Number of Seats
   TNO_ParliamentMechanic_Parties_Entry_NumSeats_text: "[?ParliamentMechanic_Party_SeatNum^TNO_PM_GUIHelper_PartiesDisp_Array_val|Y0]"
   TNO_ParliamentMechanic_Parties_Entry_NumSeats_tt: "[TNO_ParliamentMechanic_Get_Party_Name] имеет [?ParliamentMechanic_Party_SeatNum^TNO_PM_GUIHelper_PartiesDisp_Array_val|Y0] мест в парламенте."
-  #TNO_ParliamentMechanic_Parties_Entry_NumSeats_ttd: "Ехампле"
+  #TNO_ParliamentMechanic_Parties_Entry_NumSeats_ttd: "Example"
 ##### GUI #####
 
 ##### Parties #####
  ### Names:
    # - Remember, parties are indexed by their identifier- which starts from 1 
-   TNO_ParliamentMechanic_Party_Name_1: "НУЛЕВАЯ партия" # Code convenience, 'holds' empty seats.
+   TNO_ParliamentMechanic_Party_Name_1: "НУЛЕВАЯ партия"
    TNO_ParliamentMechanic_Party_Name_2: "Независимые кандидаты"
    TNO_ParliamentMechanic_Party_Name_3: "Королевская Партия - Умеренные"
    TNO_ParliamentMechanic_Party_Name_4: "Королевская Партия - Реформисты"
@@ -94,7 +94,7 @@ l_russian:
    TNO_ParliamentMechanic_Party_Name_22: "Британское Национальное Собрание"
    TNO_ParliamentMechanic_Party_Name_23: "Народное Собрание"
 
-   TNO_ParliamentMechanic_Party_ShortName_1: "НОЛЬ" # Code convenience, 'holds' empty seats.
+   TNO_ParliamentMechanic_Party_ShortName_1: "НОЛЬ"
    TNO_ParliamentMechanic_Party_ShortName_2: "Независимые"
    TNO_ParliamentMechanic_Party_ShortName_3: "Умеренные"
    TNO_ParliamentMechanic_Party_ShortName_4: "Реформисты"
@@ -150,7 +150,7 @@ l_russian:
    TNO_ParliamentMechanic_Ideas_Speaker_Picture_Reg_Birch: "GFX_Portrait_ENG_Reg_Birch"
    TNO_ParliamentMechanic_Ideas_Speaker_Picture_David_Stirling: "GFX_Portrait_ENG_David_Stirling"
    TNO_ParliamentMechanic_Ideas_Speaker_Picture_Bernard_Montgomery: "GFX_Portrait_ENG_Bernard_Montgomery"
-   TNO_ParliamentMechanic_Ideas_Speaker_Picture_Claude_Auchinleck: "GFX_Portrait_ENG_Claude_Auchinleck" #Not a PM
+   TNO_ParliamentMechanic_Ideas_Speaker_Picture_Claude_Auchinleck: "GFX_Portrait_ENG_Claude_Auchinleck"
 
   ## Name
    TNO_ParliamentMechanic_Ideas_Speaker_Name_ex: "Экс"
@@ -198,7 +198,7 @@ l_russian:
    TNO_ParliamentMechanic_Ideas_Speaker_Desc_Reginald_Maudling: "Быть либералом в такие времена - довольно смелое заявление. Тем не менее, Реджинальд Модлинг не стал тем, кем он является сегодня, оставаясь неизвестным и ничем не примечательным, совсем наоборот. Его союз с Макмилланом сделал Модлинга одним из самых влиятельных людей в Англии, и это означает, что его страстные кампании за восстановление надлежащих демократических норм вынуждены воспринимать несколько серьезно люди, которые на самом деле предпочли бы, чтобы он просто умер. Модлинг вряд ли доставит им такое удовольствие, и пока он дышит, мечта об английской демократии продолжает жить."
    TNO_ParliamentMechanic_Ideas_Speaker_Desc_Reg_Birch: "Тщательность, с которой было подавлено Лондонское восстание, невозможно преуменьшить: из непосредственно участвовавших в нем коммунистических лидеров удалось спастись лишь четырем десяткам человек, а через три недели в живых осталось менее половины бойцов. Но Рег Бирч поступил, как всегда, - он упорствовал и отказывался сдаваться. Перестроив коммунистические сети в менее открытую боевую силу, Бирч стал одним из архитекторов левого сопротивления и его объединения с ХММЛР. Теперь, когда фашисты ушли, бывший инженер стал лицом английского коммунизма, и да поможет Бог тем, кто встанет на его пути."
    TNO_ParliamentMechanic_Ideas_Speaker_Desc_David_Stirling: "На Британских островах нет человека, который воевал бы дольше, чем Стирлинг. Дезертировав из капитулировавших британских войск в Средней полосе в конце Второй мировой войны, Стирлинг примечателен тем, что возглавил единственную группу сопротивления, которая вела боевые действия с начала правления Королевской партии и до его конца. Сейчас, находясь на политической сцене, человек, который спланировал и осуществил большую часть стратегии ХММЛР, обращает свой взор на менее жестокие цели, хотя некоторые могут утверждать, что ставки стали еще выше. Для парня из Пертшира это неплохой подъем, а то, что он делает это над трупами немцев, делает его еще лучше."
-   TNO_ParliamentMechanic_Ideas_Speaker_Desc_Bernard_Montgomery: "О, Бернард. Этот человек многое сделал для Англии. Он участвовал в многих боевых действиях. Он храбро проявил себя на службе, удостоившись многих наград. А ныне он живёт в политике, стремясь воплотить своё видение Англии в жизнь. Очевидно, что человек, знающий столь многое достоин управлять нашей падшей державой. Мы уверены, что под его правлением Англия расцветёт, и над ней снова не будет заходить солнце. Так что же нам мешает сделает главой Англии? Его сложный характер. Он, безусловно, сделал многое, но имеет немного сложный характер. Но мы все уверены, что с ним легко будет найти общий язык."
+   TNO_ParliamentMechanic_Ideas_Speaker_Desc_Bernard_Montgomery: ""
 
  ### Monarch
   ## Picture
@@ -301,3 +301,7 @@ l_russian:
    TNO_ParliamentMechanic_Monarch_Henry_IX: "Генрих IX"
    TNO_ParliamentMechanic_Monarch_Henry_IX_Incapacitated: "Генрих IX"
 ##### Parliamentary Leaders #####
+
+
+
+

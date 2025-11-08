@@ -618,10 +618,10 @@
  TRIGGER_HAS_NOT_ACTIVE_RESISTANCE:0 "Нет активного сопротивления"
  TRIGGER_HAS_WAR_OCCUPIED_TAG_IS:0 "Оккупированное государство: @$TAG$$COUNTRY|H$"
  TRIGGER_HAS_NOT_OCCUPIED_TAG_IS_NOT:0 "Оккупированное государство: не @$TAG$$COUNTRY|H$"
- TRIGGER_HAS_OCCUPATION_MODIFIER:0 "Есть модификатор оккупации §H«$MODIFIER$»§!"
- TRIGGER_HAS_NOT_OCCUPATION_MODIFIER:0 "Нет модификатора оккупации §H«$MODIFIER$»§!"
- TRIGGER_HAS_CORE_OCCUPATION_MODIFIER:0 "Есть модификатор оккупации §H«$MODIFIER$»§! в государстве $OCCUPIED_COUNTRY|H$"
- TRIGGER_HAS_NOT_CORE_OCCUPATION_MODIFIER:0 "Нет модификатора оккупации §H«$MODIFIER$»§! в государстве $OCCUPIED_COUNTRY|H$"
+ TRIGGER_HAS_OCCUPATION_MODIFIER:0 "Есть модификатор оккупации §H\"$MODIFIER$\"§!"
+ TRIGGER_HAS_NOT_OCCUPATION_MODIFIER:0 "Нет модификатора оккупации §H\"$MODIFIER$\"§!"
+ TRIGGER_HAS_CORE_OCCUPATION_MODIFIER:0 "Есть модификатор оккупации §H\"$MODIFIER$\"§! в государстве $OCCUPIED_COUNTRY|H$"
+ TRIGGER_HAS_NOT_CORE_OCCUPATION_MODIFIER:0 "Нет модификатора оккупации §H\"$MODIFIER$\"§! в государстве $OCCUPIED_COUNTRY|H$"
  TRIGGER_OCCUPATION_LAW:0 "Текущий оккупационный закон: $MODIFIER|H$"
  TRIGGER_OCCUPATION_LAW_NOT:0 "Текущий оккупационный закон: не $MODIFIER|H$"
  TRIGGER_OPERATIVE_LEADER_MISSION_IS:0 "Текущее задание агента: $MISSION|H$"
@@ -673,10 +673,10 @@
  TRIGGER_CONSCRIPTION_RATIO:0 "Процент мобилизации"
  TRIGGER_CURRENT_CONSCRIPTION_AMOUNT:0 "Текущий уровень мобилизации"
  TRIGGER_TARGET_CONSCRIPTION_AMOUNT:0 "Нужный уровень мобилизации"
- TRIGGER_LEADER_MISSON_NOT:0 "Не выполняет задание «$MISSION|H$»"
- TRIGGER_LEADER_MISSON:0 "Выполняет задание «$MISSION|H$»"
- TRIGGER_LEADER_OPERATION_NOT:0 "Не находится на операции «$OPERATION|H$»"
- TRIGGER_LEADER_OPERATION:0 "Находится на операции «$OPERATION|H$»"
+ TRIGGER_LEADER_MISSON_NOT:0 "Не выполняет задание \"$MISSION|H$\""
+ TRIGGER_LEADER_MISSON:0 "Выполняет задание \"$MISSION|H$\""
+ TRIGGER_LEADER_OPERATION_NOT:0 "Не находится на операции \"$OPERATION|H$\""
+ TRIGGER_LEADER_OPERATION:0 "Находится на операции \"$OPERATION|H$\""
  TRIGGER_NUM_FINISHED_OPERATIONS:0 "Количество $OPERATION|H$ операций, выполненных против государства $TARGET|H$"
  TRIGGER_IS_RUNNING_OPERATIONS:0 "Проводит $OPERATION|H$ операцию против государства $TARGET|H$"
  TRIGGER_IS_NOT_RUNNING_OPERATIONS:0 "Не проводит $OPERATION|H$ операцию против государства $TARGET|H$"
@@ -700,3 +700,7 @@
  TRIGGER_IS_OPERATION:0 "Операция $OPERATION|H$"
  TRIGGER_NUM_RESEARCHED_TECHS_MORE_THAN:0 "Изучено более $AMOUNT|H$ технологий"
  TRIGGER_NUM_RESEARCHED_TECHS_LESS_THAN:0 "Изучено менее $AMOUNT|H$ технологий"
+
+
+
+

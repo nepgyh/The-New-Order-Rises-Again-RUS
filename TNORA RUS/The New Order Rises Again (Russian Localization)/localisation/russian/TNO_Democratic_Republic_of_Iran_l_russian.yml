@@ -10,23 +10,23 @@
  IRL_social_liberal_party_long:0 "Jebhe-ye Melli-ye Irān"
  
  ## Ministers ##
- IRL_Mehdi_Bazargan_hog:0 "Мехди Базарган"
- IRL_Hassan_Pakravan_for:0 "Хассан Пакраван"
- IRL_Anvar_Khamei_eco:0 "Анвар Хамеи"
- IRL_Teymur_Bakhtiar_sec:0 "Теймур Бахтияр"
+ IRL_Mehdi_Bazargan_hog:0 "Mehdi Bazargan"
+ IRL_Hassan_Pakravan_for:0 "Hassan Pakravan"
+ IRL_Anvar_Khamei_eco:0 "Anvar Khamei"
+ IRL_Teymur_Bakhtiar_sec:0 "Teymur Bakhtiar"
  
  ## Ideas ##
 
  ## Decisions ##
  
  ## Tooltips ##
- IRL_filling_the_line_tooltip:0 "§YДве дивизии милиции появятся в Ширазе или его окрестностях§!\n"
- IRL_instigate_defections_tooltip:0 "§YПехотная дивизия появится в Ширазе или его окрестностях§!\n"
+ IRL_filling_the_line_tooltip:0 "§YTwo Militia Divisions will appear in or around Shiraz§!\n"
+ IRL_instigate_defections_tooltip:0 "§YAn Infantry Division will appear in or around Shiraz§!\n"
  ## Leader Bios ##
- POLITICS_KARIM_SANJABI_DESC:0 "Карим Санджаби не из тех, кто быстро сдаётся. Старая гвардия демократических националистов в Иране, его партия "Национальный фронт" поддерживала смелую оппозицию шаху и страдала за это, а оскорблённый САВАК принимал всё более жёсткие меры для подавления оппозиции. Сам Санджаби никогда не прекращал борьбу за свою мечту о сильном, свободном Иране. Именно его мужество и решительность сделали его фактическим лидером продемократического подполья в стране, превратившейся в развивающуюся Демократическую Республику Иран в начале Иранской революции.\n\nПотрясения, вызванные революцией, открыли новые возможности и заручились поддержкой нового друга на другом конце света. Мобилизовав все свои контакты, фракция Санджаби обратилась за помощью к Соединённым Штатам Америки, дав все необходимые обещания, чтобы заручиться поддержкой Вашингтона. Борьба будет трудной. Но, возможно, этот союз сможет переломить ситуацию, и если это так, то солнце может взойти над демократическим Ираном, где его народ процветает и свободен."
+ POLITICS_KARIM_SANJABI_DESC:0 "Карим Санджаби не из тех, кто быстро сдаётся. Старая гвардия демократических националистов в Иране, его партия "
  
  ## Focus Tree ##
- IRL_the_iranian_civil_war:0 "Иранская гражданская война"
+ IRL_the_iranian_civil_war:0 "The Iranian Civil War"
  IRL_the_iranian_civil_war_desc:0 ""
  IRL_arm_the_people:0 "Arm The People"
  IRL_arm_the_people_desc:0 ""
@@ -56,3 +56,7 @@
  IRL_in_an_american_gun_desc:0 ""
  
  ## Events ##
+
+
+
+

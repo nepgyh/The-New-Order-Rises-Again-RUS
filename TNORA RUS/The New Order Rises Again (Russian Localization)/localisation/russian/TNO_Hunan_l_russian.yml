@@ -1,5 +1,5 @@
 ﻿l_russian:
- HUU_fascism:0 "Уханьский Мандат" #Bukan
+ HUU_fascism:0 "Уханьский Мандат"
  HUU_fascism_DEF:0 "Уханьский Мандат"
  HUU_fascism_ADJ:0 "Ухань"
  HUU_social_liberal:0 "Хунань"
@@ -30,3 +30,7 @@
  HUU_socialist_ADJ:0 "хунаньск"
  HUU_ultranational_socialism_ADJ:0 "хунаньск"
  HUU_national_socialism_ADJ:0 "хунаньск"
+
+
+
+

@@ -44,10 +44,10 @@ AST_White_Australia_Policy_Initial_Relief:0 "White Australia Policy"
 AST_Looming_Japanese_Empire:0 "Looming Japanese Threat"
 AST_Looming_Japanese_Empire_desc:0 "I'm telling ya', right outside a stone's throw from Darwin is the Jap just waiting for us to fuck up so they can come swooping in and butcher us to the last man! We've already been caught by our bloody knickers down in New Guinea, and what did that get us? Fifty thousand funerals, is what! All this shite about harmless this, peace that -- well 'Never Another Moresby', I say! NEVER ANOTHER MORESBY!"
 
-AST_Looming_Japanese_Empire_Plan:0 "План для Японии"
+AST_Looming_Japanese_Empire_Plan:0 "A Plan For Japan"
 
 AST_Unpopular_Draft:0 "Unpopular Draft"
-AST_Unpopular_Draft_desc:0 "Draft an Australian to protect the continent and he will give his life without a second thought. Draft an Australian to protect the Free World and he will grumble lightly, before marching off to wherever he is needed. Draft an Australian for no good reason, however, and the first thing on his mind will be "What am I lugging twenty bloomin' pounds of kit for, then?" Indeed, this question has been asked by many such Australians as of late, as opposition to the National Service Act grows by the day..."
+AST_Unpopular_Draft_desc:0 "Draft an Australian to protect the continent and he will give his life without a second thought. Draft an Australian to protect the Free World and he will grumble lightly, before marching off to wherever he is needed. Draft an Australian for no good reason, however, and the first thing on his mind will be \"What am I lugging twenty bloomin' pounds of kit for, then?\" Indeed, this question has been asked by many such Australians as of late, as opposition to the National Service Act grows by the day..."
 
 #Focuses
 
@@ -77,7 +77,7 @@ AST_Reaffirm_OFN_Ties:0 "Reaffirm OFN Ties"
 AST_Reaffirm_OFN_Ties_desc:0 "Australia has always stood for freedom - and as the only free nation in the Western Pacific, we continue to face off warily against Japan and its Co-Prosperity Sphere.  Australia cannot afford to isolate itself - we must continue to deepen our ties, economic and military, with the rest of the Organization of Free Nations, supporting its initiatives so that it will support us in our hour of need."
 
 AST_Assist_Indonesian_Rebels:0 "Planning For War With Japan"
-AST_Assist_Indonesian_Rebels_desc:0 "'It's better to have a plan and not need it, than to need it and not have it."  It has been nearly twenty years since the end of the war with Japan, with momentous changes in technology and military doctrine - to say nothing of the geopolitical situation Australia now finds itself in.  The Australian defense establishment needs to conduct a net assessment to make sure that Australia has the means and the methods to remain free in a dark and dangerous world..."
+AST_Assist_Indonesian_Rebels_desc:0 "'It's better to have a plan and not need it, than to need it and not have it.\"  It has been nearly twenty years since the end of the war with Japan, with momentous changes in technology and military doctrine - to say nothing of the geopolitical situation Australia now finds itself in.  The Australian defense establishment needs to conduct a net assessment to make sure that Australia has the means and the methods to remain free in a dark and dangerous world..."
 
 AST_Summit_With_Nixon:0 "Summit With Nixon"
 AST_Summit_With_Nixon_desc:0 "Ever since the collapse of the United Kingdom, the United States has been the guarantor of Australia's security, reflected in the close relationship between the two countries and their common membership in the OFN.  With Australia deepening its ties with the rest of the OFN and actively preparing to counter the Japanese threat in the Pacific, it might be time for Prime Minister Hold to visit President Nixon to discuss their common interests in Oceania..."
@@ -129,7 +129,7 @@ AST_NZ_trade_modifier:0 "Транстасманское соглашение"
 australia_leaves:0 "Australia and the OFN"
 we_leave:0 "Leave the OFN"
 australia_general_information_politics:0 "The Political Landscape"
-australia_general_information_politics_desc:0 "\\n§wCoalition§! Seats:[?coalitions_seats]\n\n            §zLiberal Party§! Seats:[?liberal_seats]\n\n            §yCountry Party§! Seats:[?country_seats]\n\n §PLabour Party§! Seats:[?labor_seats]§!\n\n[This.majority_who]\n\n The Current Prime Minister Is:[this.pmwho]"
+australia_general_information_politics_desc:0 "\n§wCoalition§! Seats:[?coalitions_seats]\n\n            §zLiberal Party§! Seats:[?liberal_seats]\n\n            §yCountry Party§! Seats:[?country_seats]\n\n §PLabour Party§! Seats:[?labor_seats]§!\n\n[This.majority_who]\n\n The Current Prime Minister Is:[this.pmwho]"
 shallow_promises:0 "Shallow Promises"
 shallow_promises_desc:0 "A lie may take care of the present, but it has no future."
 #tooltips
@@ -156,8 +156,8 @@ AST_Allen_Fairhall_sec:0 "Allen Fairhall"
 AST_Doug_Anthony_sec:0 "Doug Anthony"
 
 #leader traits
-the_liberal_protege:0 "Протеже либералов"
-the_breaker_of_left_unity:0 "Разделитель левых"
+the_liberal_protege:0 "The Liberals' Protege"
+the_breaker_of_left_unity:0 "The Divider Of The Left"
 
 #opinion modifiers
 AST_OFN_ties:0 "Усиленные связи с ОСН"
@@ -169,5 +169,9 @@ AST_Coalition_Talks_Fail_1962_flag:0 "Coalition Talks Fail!"
 #leader bios
 POLITICS_HAROLD_HOLT_DESC:0 "Для Гарольда Эдварда Холта недавнее выдвижение на пост премьер-министра Австралийской республики стало последним достижением долгой и успешной карьеры в политике. Родившись в семье землевладельца в Сиднее, Холт пришел в политику в юном возрасте как член Молодых националистов, молодежного крыла Партии Единой Австралии, и был избран в парламент в возрасте 27 лет, став самым молодым членом парламента в то время. Быстро став протеже Роберта Мензиса, Холт продолжил свою карьеру в военное время и поднялся по карьерной лестнице в Либеральной партии Австралии, недавно сформированной преемнице ПЕА.\n\nВойна стала огромным потрясением для австралийской нации. В бессмысленной войне, закончившейся горьким поражением, страна потеряла целое поколение своих храбрых молодых людей, а когда над Тихим океаном взошло японское солнце, Австралия получила непоправимые шрамы от его жгучих лучей. На фоне криков о переменах и глубокого политического кризиса Канберра разорвала свои связи с Лондоном как раз в тот момент, когда нацистские войска завершили оккупацию Англии, и таким образом возникла Австралийская Республика. В политике молодой республики доминировала Лейбористская партия, но вскоре Холт выдвинулся в лидеры оппозиции, став в итоге лидером Либеральной партии.\n\nВ конце концов, Либеральная партия набрала достаточно популярности, чтобы одержать победу на выборах 1961 года, и Холт был окончательно провозглашен премьер-министром. Пообещав подтвердить связи страны с ОСН, как экономические, так и военные, окончательно стабилизировать экономику страны, а также раз и навсегда покончить с политикой Белой Австралии, Холт покорил нацию своей реформаторской платформой - однако только время покажет, суждено ли его видению свободной, процветающей и справедливой Австралии стать реальностью."
 
-POLITICS_ARTHUR_CALWELL_DESC:0 "За последние двадцать лет поддержка политики Белой Австралии постепенно уменьшалась. Сеть расистских законов, впервые принятых для защиты Австралии как форпоста британской расы в Океании, была и постепенно разматывается новым поколением осторожных реформаторов.\n\nВсе они проклятые предатели и популисты!\n\nАртур Огастус Калвелл - самый дотошный и яростный защитник политики Белой Австралии в федеральном парламенте. Калвелл утверждает, что, будучи сувереном своей собственной нации, африканец, азиат или мулат равен белому человеку, но, впервые попав в Австралию, он становится загрязнителем. Ни одна нация, какой бы сильной она ни была, не сможет выжить при несегрегированном совместном проживании рас. Именно с такими мыслями Калвелл утверждает, что он не расист, а просто гордится своим цветом кожи, как и положено любому человеку. Его критики высмеивают его за это. Калвелл же считает, что все они крысы.\n\nДействительно, то, во что верит Калвелл, всегда было для него на первом месте. Он утверждает, что СМИ выставляют его в ложном свете: они никогда не уделяют внимания человеку из рабочего класса, выступающему из кузова пикапа в изолированных поселках о необходимости сельских больниц; самообразованному профсоюзному активисту, говорящему на мандаринском языке и выступающему против участия в иностранных войнах; или социалисту-общественнику, выступающему за социальное обеспечение и хорошие зарплаты.\n\nНо всё это заканчивается на цветной линии. В туманном баре Дома Парламента, держа рюмку на уровне глаз, премьер-министр ухмыляется и говорит своим товарищам: "Два Вонга никогда не сделают белого ребенка"."
+POLITICS_ARTHUR_CALWELL_DESC:0 "За последние двадцать лет поддержка политики Белой Австралии постепенно уменьшалась. Сеть расистских законов, впервые принятых для защиты Австралии как форпоста британской расы в Океании, была и постепенно разматывается новым поколением осторожных реформаторов.\n\nВсе они проклятые предатели и популисты!\n\nАртур Огастус Калвелл - самый дотошный и яростный защитник политики Белой Австралии в федеральном парламенте. Калвелл утверждает, что, будучи сувереном своей собственной нации, африканец, азиат или мулат равен белому человеку, но, впервые попав в Австралию, он становится загрязнителем. Ни одна нация, какой бы сильной она ни была, не сможет выжить при несегрегированном совместном проживании рас. Именно с такими мыслями Калвелл утверждает, что он не расист, а просто гордится своим цветом кожи, как и положено любому человеку. Его критики высмеивают его за это. Калвелл же считает, что все они крысы.\n\nДействительно, то, во что верит Калвелл, всегда было для него на первом месте. Он утверждает, что СМИ выставляют его в ложном свете: они никогда не уделяют внимания человеку из рабочего класса, выступающему из кузова пикапа в изолированных поселках о необходимости сельских больниц; самообразованному профсоюзному активисту, говорящему на мандаринском языке и выступающему против участия в иностранных войнах; или социалисту-общественнику, выступающему за социальное обеспечение и хорошие зарплаты.\n\nНо всё это заканчивается на цветной линии. В туманном баре Дома Парламента, держа рюмку на уровне глаз, премьер-министр ухмыляется и говорит своим товарищам: "
+
+
+
+
 

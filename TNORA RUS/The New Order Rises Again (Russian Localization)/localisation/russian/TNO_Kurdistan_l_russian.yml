@@ -34,8 +34,8 @@
  ### Party Names ###
  KUR_communist_party:0 "ПКК"
  KUR_communist_party_long:0 "Партия коммунистов Курдистана"
- KUR_socialist_party:0 "НСК"
- KUR_socialist_party_long:0 "Национальный союз Курдистана"
+ KUR_socialist_party:0 ""
+ KUR_socialist_party_long:0 ""
  KUR_social_democrat_party:0 "VNK"
  KUR_social_democrat_party_long:0 "Yekîtiya Nîştimanî ya Kurdistanê"
  KUR_social_liberal_party:0 "PDK"
@@ -52,3 +52,7 @@
  KUR_national_socialism_party_long:0 ""
  KUR_ultranational_socialism_party:0 ""
  KUR_ultranational_socialism_party_long:0 ""
+
+
+
+

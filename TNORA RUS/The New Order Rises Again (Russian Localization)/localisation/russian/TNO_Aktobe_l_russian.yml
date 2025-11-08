@@ -1,9 +1,9 @@
 ﻿l_russian:
  ### Parties ###
- ARL_communist_party:0 "Красная Армия"
- ARL_communist_party_long:0 "Красная Армия"
- ARL_socialist_party:0 "КПК"
- ARL_socialist_party_long:0 "Коммунистическая партия Казахстана"
+ ARL_communist_party:0 "Qızıl Äskeri"
+ ARL_communist_party_long:0 "Qızıl Äskeri"
+ ARL_socialist_party:0 "QKP"
+ ARL_socialist_party_long:0 "Qazaqstan Kommýnıstik Partııasy"
  ARL_social_democrat_party:0 "QEP"
  ARL_social_democrat_party_long:0 "Qazaqstarlia Enbek Partiyasi"
  ARL_social_liberal_party:0 "DFP"
@@ -12,17 +12,17 @@
  ARL_social_conservative_party_long:0 "Qazaq Ultiq-Demokratiyalia Partiyasi"
  ARL_authoritarian_democrat_party:0 "QUDP"
  ARL_authoritarian_democrat_party_long:0 "Qazaq Ultiq-Demokratiyalia Partiyasi - Avtoritarliq"
- ARL_despotism_party:0 "ПНО"
- ARL_despotism_party_long:0 "Партия национального обновления"
- ARL_fascism_party:0 "ПНО"
- ARL_fascism_party_long:0 "Партия национального обновления"
- ARL_national_socialism_party:0 "ПКВ"
- ARL_national_socialism_party_long:0 "Партия казахского возрождения"
+ ARL_despotism_party:0 "UJP"
+ ARL_despotism_party_long:0 "Ultiq Janartu Partiyasi"
+ ARL_fascism_party:0 "UJP"
+ ARL_fascism_party_long:0 "Ultiq Janartu Partiyasi"
+ ARL_national_socialism_party:0 "QTP"
+ ARL_national_socialism_party_long:0 "Qazaq Tami Partiyasi"
  ARL_ultranational_socialism_party:0 "QTP"
  ARL_ultranational_socialism_party_long:0 "Qazaq Tami Partiyasi - Ekstremistik"
 
  ### Leader Descriptions ###
- POLITICS_NIKOLAI_ONOPRIENKO_DESC:0 "Полковник Николай Оноприенко делал все возможное, дабы сражаться за Советский Союз, но сейчас он сражается за Казахстан. Будучи солдатом во время войны, Оноприенко за свою карьеру добился больших побед и быстро стал одним из самых награжденных казахов в Советской армии. По мере того, как немцы продвигались на Восток, Оноприенко получал приказы уходить с линии фронта. Он стал командиром "
+ POLITICS_NIKOLAI_ONOPRIENKO_DESC:0 "Полковник Николай Оноприенко делал все возможное, дабы сражаться за Советский Союз, но сейчас он сражается за Казахстан. Будучи солдатом во время войны, Оноприенко за свою карьеру добился больших побед и быстро стал одним из самых награжденных казахов в Советской армии. По мере того, как немцы продвигались на Восток, Оноприенко получал приказы уходить с линии фронта. Он стал командиром \"миротворческой\" дивизии с целью поддержания порядка в своем родном районе Актобе, Казахстана, уже после распада Советского Союза.\n\nВ конце концов, Оноприенко понял, что Советский Союз удерживает Казахстан, а не пытается его развивать. Оноприенко и его коллеги-офицеры в конце концов откололись от казахского правительства Момышулы, чтобы сформировать свою военную клику. Он лично является автором идеологии, основанной на дисциплине, сочетающей в себе лучшие элементы коммунизма, капитализма и фашизма, известной как \"Национальное обновление\". Его клика имеет твердый контроль над Актюбинской областью со штаб-квартирой в Актобе. Ему суждено привести Казахстан в 20-ый век, даже если в это время он будет бить ногами и кричать - или он умрет, пытаясь."
  
  ### Ministers###
  ARL_Nikolay_Onoprienko_hog:0 "Nikolai Onoprienko"
@@ -40,13 +40,13 @@
  ARL_renovated_land_registry:0 "Обновленный земельный кадастр"
  ARL_renovated_land_registry_2:0 "Обновленный земельный кадастр"
  ARL_renovated_land_registry_3:0 "Обновленный земельный кадастр"
- ARL_defensive_surveys:0 "Оборонительное землеустройство"
- ARL_arms_manuals:0 "Руководства по вооружению"
- ARL_security_forces:0 "Силы безопасности Актобе"
- ARL_security_forces_2:0 "Силы безопасности Актобе"
- ARL_security_forces_desert:0 "Силы безопасности Актобе"
- ARL_security_forces_mobility:0 "Силы безопасности Актобе"
- ARL_security_forces_final:0 "Силы безопасности Актобе"
+ ARL_defensive_surveys:0 "Defensive Land Surveys"
+ ARL_arms_manuals:0 "Arms Manuals"
+ ARL_security_forces:0 "The Aktobe Security Forces"
+ ARL_security_forces_2:0 "The Aktobe Security Forces"
+ ARL_security_forces_desert:0 "The Aktobe Security Forces"
+ ARL_security_forces_mobility:0 "The Aktobe Security Forces"
+ ARL_security_forces_final:0 "The Aktobe Security Forces"
  
  ### Focus Tree ###
  ARL_The_Pragmatists_Of_The_Kazakh_Steppe:0 "The Pragmatists Of The Kazakh Steppe"
@@ -140,7 +140,7 @@
  ARL_The_Islamists:0 "The Islamists"
  ARL_The_Islamists_desc:0 "Banditry has long been a scourge across the former Soviet Union, but not all solutions to this problems are proving workable. To the north east the former bandit turned holy man Nikolai Zabelkin has successfully crushed all bandits under his boot. However his campaign against all Kazakh that displease Allah will inevitably result in a collision with our own desire to unify Kazakhstan.\n\nZabelkin's land is amongst the most fertile in Kazakhstan, and getting rids of his fanatics is essential to our long term goals. We must smash the so called Islamic Republic of Kazakhstan and spread the proper ethics of National Renewal Thought to Kostanay!"
  ARL_The_Germanophiles:0 "The Germanophiles"
- ARL_The_Germanophiles_desc:0 "While honest Kazakh people put many sacrifices to restore a normal life after the German bombings, the fanatics in Aktau decided to worship those butchers of the Kazakh land and are now trying to find a way to appease their masters and model their way of life after the dogmatic and fizzling Fascist system. The "Kazakh Dawn Blueshirts", as they prefer to fancy themselves, are slavishly obedient to their demagogic and buffoonish warlord Gazizov, who inspires them to wage terror on the civilian population and set off the peoples of Kazakhstan against each other. Such zealous and brutish sort of scum can't be compromised. The only way to deal with the state in Aktau is to completely eliminate the Fascist leadership and its followers and liberate the city from the reign of darkness."
+ ARL_The_Germanophiles_desc:0 "While honest Kazakh people put many sacrifices to restore a normal life after the German bombings, the fanatics in Aktau decided to worship those butchers of the Kazakh land and are now trying to find a way to appease their masters and model their way of life after the dogmatic and fizzling Fascist system. The \"Kazakh Dawn Blueshirts\", as they prefer to fancy themselves, are slavishly obedient to their demagogic and buffoonish warlord Gazizov, who inspires them to wage terror on the civilian population and set off the peoples of Kazakhstan against each other. Such zealous and brutish sort of scum can't be compromised. The only way to deal with the state in Aktau is to completely eliminate the Fascist leadership and its followers and liberate the city from the reign of darkness."
  ARL_Fortifying_The_East:0 "Fortifying The East"
  ARL_Fortifying_The_East_desc:0 "To our east in Kyzylorda lies a particularly big part of the rotting corpse of the Soviet Union. Under General Momyshuly, the Kazakh Red Army Remnants clings to the dream of a communist revival across all of the former Russian Empire. This has thankfully alienated them from all other Kazakh factions, surrounding them with enemies. Yet these lunatics remain dangerous. Their hold over one of the last armored division in the former Soviet Union might allow them to break through our forts and trenches.\n\nA new fortification effort on our border with the Red Army Remnants has been launched, with a particular eye for anti tank measures. While we do not have the material necessary to crush their obsolete tanks right now, this fortified border will hurt any Soviet attempt to invade us. We will deal with this communist threat later, when the time is right."
  ARL_A_Deal_With_The_Poles:0 "A Deal With The Poles"
@@ -165,3 +165,7 @@
  ARL_Renegotiating_With_The_Poles_desc:0 "In the critical early steps of our unification the Poles agreed to a non-aggression treaty that freed many of our men to unite the rest of Kazakhstan. Now that the situation has changed, we must revisit our arrangement with these foreigners. Good thing that we are a pragmatic lot.\n\nIt is true that the Poles have had a rotten deal from the infernal Germans. If they prove willing to join our unification and end their oppression of Kazakh citizens there is no reason why the Poles could not flourish in our country. History has seen a great many people meet across the steppes and work together. There is no reason for the leaders of Nowa Polska to refuse to help us in our efforts to build something greater."
  ARL_Kazakhstan_Is_One:0 "Kazakhstan Is One"
  ARL_Kazakhstan_Is_One_desc:0 "The golden eagle soars! Kazakhstan has been reunited and all the false prophets that led its children astray have been cast out.\n\nWe are now free to build up Kazakhstan, and make it a better place. The divisions of the past will be ended in time as National Renewal Thought serves as the founding ethic for a new nation. Already the world has taken notice that the Kazakh people have claimed a new destiny. In time all will stand in awe of what we've accomplished."
+
+
+
+

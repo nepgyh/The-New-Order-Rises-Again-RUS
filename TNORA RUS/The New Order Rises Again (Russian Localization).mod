@@ -1,4 +1,4 @@
-version="0.153"
+version="0.16"
 picture="thumbnail.png"
 tags={
 	"Translation"

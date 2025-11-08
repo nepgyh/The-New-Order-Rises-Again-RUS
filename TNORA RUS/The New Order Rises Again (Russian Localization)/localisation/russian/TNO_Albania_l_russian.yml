@@ -5,23 +5,23 @@
 # ALB_social_conservative_DEF:0 "Albania" #duplicate loc key
 # ALB_social_conservative_ADJ:0 "Albanian" #duplicate loc key
  ALB_communist:0 "Албания"
- ALB_communist_DEF:0 "Народная Республика Албания"
+ ALB_communist_DEF:0 "Албания"
  ALB_communist_ADJ:0 "Албанск"
  ALB_socialist:0 "Албания"
- ALB_socialist_DEF:0 "Народная Республика Албания"
- ALB_socialist_ADJ:0 "Албанск"
+ ALB_socialist_DEF:0 "Албания"
+ ALB_socialist_ADJ:0 "албанск."
  ALB_social_conservative:0 "Албания"
- ALB_social_conservative_DEF:0 "Республика Албания"
- ALB_social_conservative_ADJ:0 "албанск."
+ ALB_social_conservative_DEF:0 "Албания"
+ ALB_social_conservative_ADJ:0 "Албанск"
  ALB_authoritarian_democrat:0 "Албания"
- ALB_authoritarian_democrat_DEF:0 "Королевство Албания"
- ALB_authoritarian_democrat_ADJ:0 "албанск."
+ ALB_authoritarian_democrat_DEF:0 "Албания"
+ ALB_authoritarian_democrat_ADJ:0 "Албанск"
  
  ## Party Names ##
- ALB_communist_party:0 "АНОД-АКГ"
- ALB_communist_party_long:0 "Антифашистское национально-освободительное движение - Албанская коммунистическая группа"
- ALB_socialist_party:0 "АДК-ПФ"
- ALB_socialist_party_long:0 "Албанская демократическая коалиция - Профсоюзная фракция"
+ ALB_communist_party:0 "КПА"
+ ALB_communist_party_long:0 "Коммунистическая Партия Албании"
+ ALB_socialist_party:0 "КПА"
+ ALB_socialist_party_long:0 "Коммунистическая Партия Албании"
  ALB_social_conservative_party:0 "Партизаны-республиканцы"
  ALB_social_conservative_party_long:0 "Партизаны-республиканцы"
  ALB_authoritarian_democrat_party:0 "Партизаны-монархисты"
@@ -40,3 +40,7 @@
  ## Focus Tree ##
  
  ## Events ##
+
+
+
+

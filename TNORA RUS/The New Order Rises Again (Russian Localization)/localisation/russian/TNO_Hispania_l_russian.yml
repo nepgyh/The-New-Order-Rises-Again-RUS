@@ -1,6 +1,6 @@
 ﻿l_russian:
- RMN_fascism:0 "IX ИСПАНСКИЙ ЛЕГИОН"
- RMN_fascism_DEF:0 "IX ИСПАНСКИЙ ЛЕГИОН"
+ RMN_fascism:0 "LEGIO IX HISPANIA"
+ RMN_fascism_DEF:0 "The LEGIO IX HISPANIA"
  RMN_social_liberal:0 "LEGIO IX HISPANIA"
  RMN_social_liberal_DEF:0 "The LEGIO IX HISPANIA"
  RMN_market_liberal:0 "LEGIO IX HISPANIA"
@@ -9,21 +9,21 @@
  RMN_social_conservative_DEF:0 "The LEGIO IX HISPANIA"
  RMN_authoritarian_democrat:0 "LEGIO IX HISPANIA"
  RMN_authoritarian_democrat_DEF:0 "The LEGIO IX HISPANIA"
- RMN_despotism:0 "IX ИСПАНСКИЙ ЛЕГИОН"
- RMN_despotism_DEF:0 "IX ИСПАНСКИЙ ЛЕГИОН"
- RMN_communist:0 "IX ИСПАНСКИЙ ЛЕГИОН"
- RMN_communist_DEF:0 "IX ИСПАНСКИЙ ЛЕГИОН"
- RMN_socialist:0 "IX ИСПАНСКИЙ ЛЕГИОН"
- RMN_socialist_DEF:0 "IX ИСПАНСКИЙ ЛЕГИОН"
- RMN_radical_socialist:0 "IX ИСПАНСКИЙ ЛЕГИОН"
- RMN_radical_socialist_DEF:0 "IX ИСПАНСКИЙ ЛЕГИОН"
- RMN_fascism_ADJ:0 "Римск."
+ RMN_despotism:0 "LEGIO IX HISPANIA"
+ RMN_despotism_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_communist:0 "LEGIO IX HISPANIA"
+ RMN_communist_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_socialist:0 "LEGIO IX HISPANIA"
+ RMN_socialist_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_radical_socialist:0 "LEGIO IX HISPANIA"
+ RMN_radical_socialist_DEF:0 "The LEGIO IX HISPANIA"
+ RMN_fascism_ADJ:0 "Roman"
  RMN_social_liberal_ADJ:0 "Roman"
  RMN_market_liberal_ADJ:0 "Roman"
  RMN_social_conservative_ADJ:0 "Roman"
  RMN_authoritarian_democrat_ADJ:0 "Roman"
- RMN_despotism_ADJ:0 "Римск."
- RMN_communist_ADJ:0 "Римск."
+ RMN_despotism_ADJ:0 "Roman"
+ RMN_communist_ADJ:0 "Roman"
  
  ### National Focus Tree ###
  
@@ -38,3 +38,7 @@
 ### Ideas ###
 RMN_conquest_of_the_realms:0 "Завоеватели реальности"
 RMN_conquest_of_the_realms_desc:0 "Они маршируют все дальше и дальше. Из мира в мир. Из земель бесконечного металла и летающих колесниц в земли, превращенные в пепел и пыль гневом Богов. Легион бессмертных видел много миров, видел много раз и завоевал каждый из них.\n\nС каждым завоеванием они становились сильнее, и с каждым господством росла их жажда свободы от мук победы. Освобождение, однако, ускользает от них, и поэтому они побеждают. Снова и снова, до конца всех времен.\n\nНо что скрывается в темноте?"
+
+
+
+

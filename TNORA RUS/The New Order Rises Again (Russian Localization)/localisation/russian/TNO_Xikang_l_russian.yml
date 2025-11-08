@@ -103,7 +103,7 @@ yaa.11.b:0 "There are far better ways to kill a general than this. Let us try to
 yaa.12.t:0 "The station retaken"
 yaa.12.d:0 ""
 yaa.13.t:0 "The students demand to see Wenhui!"
-yaa.13.d:0 "The police lieutenant sent to make contact with the besieged has returned somewhat flustered to us. The only message he claims they would give him was "The students shall only present their case to the general Wenhui, not to any third party." At the very least it has become clear that the besieged are students, a fact made all the clearer by the pleas of a bedraggled professor who begged for violence to not be used against his wayward students until being temporarily detained. We still are no closer to understanding the motivations of these students, nor do we know what they will do once Wenhui is in sight..."
+yaa.13.d:0 "The police lieutenant sent to make contact with the besieged has returned somewhat flustered to us. The only message he claims they would give him was \"The students shall only present their case to the general Wenhui, not to any third party.\" At the very least it has become clear that the besieged are students, a fact made all the clearer by the pleas of a bedraggled professor who begged for violence to not be used against his wayward students until being temporarily detained.We still are no closer to understanding the motivations of these students, nor do we know what they will do once Wenhui is in sight..."
 yaa.13.a:0 "We gave them a chance. Send in the assault."
 yaa.13.b:0 "I asked for their statement, and I mean to get it. I'm going in"
 yaa.13.c:0 "Perhaps their teachers can talk some sense into them. The geologist seems honest."
@@ -142,3 +142,7 @@ yaa.55.t:0 "Bandit flees into Tibet!"
 yaa.55.a:0 "Pursue Him"
 yaa.55.b:0 "Settle for Exile"
 yaa.56.t:0 "Brought to justice"
+
+
+
+

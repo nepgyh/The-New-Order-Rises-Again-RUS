@@ -8,7 +8,7 @@
  GAB_social_conservative_party:0 "PDO"
  GAB_authoritarian_democrat_party:0 "PDO"
  GAB_despotism_party:0 "ДСвЗИАС"
- GAB_fascist_party:0 "Военные"
+ GAB_fascist_party:0 "Military"
  GAB_national_socialism_party:0 "ПНЕТ"
  GAB_ultranational_socialism_party:0 "PUNT"
 
@@ -20,7 +20,7 @@
  GAB_social_conservative_party_long:0 "Parti Démocratique Orungu"
  GAB_authoritarian_democrat_party_long:0 "Parti Démocratique Orungu"
  GAB_despotism_party_long:0 "Демократический союз в защиту интересов африканских стран"
- GAB_fascist_party_long:0 "Военное Правительство"
+ GAB_fascist_party_long:0 "Gouvernement Militaire"
  GAB_national_socialism_party_long:0 "Партия национального единства трудящихся"
  GAB_ultranational_socialism_party_long:0 "Parti d'Unité Nationale des Travailleurs"
 
@@ -28,3 +28,7 @@
  GAB_Jacques_Opangault_for:0 "Jacques Opangault"
  GAB_Apollinaire_Bazinga_eco:0 "Apollinaire Bazinga"
  GAB_Ba_Oumar_sec:0 "Ba Oumar"
+
+
+
+

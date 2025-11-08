@@ -22,7 +22,7 @@
  DON_ultranational_socialism_party_long:0 "Qazaq Tami Partiyasi - Ekstremistik"
 
  ### Leader Descriptions ###
- POLITICS_MARIAN_SPYCHALSKI_DESC:0 "Архитектор в молодости, Мариан Спыхальский посвятил свою жизнь делу освобождения польского трудового народа. Будучи членом Коммунистической партии Польши, Спыхальский с первых же дней нацистской оккупации ввязался в левое польское подполье, сформировав партизанскую группу под названием Гурдия Лудова. Стремясь установить дружеские отношения с советскими братьями, Спыхальский разместил силы Красной Армии, когда Западно-Российская война велась на восточной границе завоеваний Рейха, надеясь, что поляки и русские вместе освободят Польшу и другие угнетенные народы Европы от фашистского ига.\n\nBut Фронт, обездоленный собственной внутренней борьбой между командирами, не смог принести освобождение своему народу. Вместе со своими товарищами Спыхальский оказался на службе Польской АССР в Западном Казахстане, которая стала убежищем как для советских поляков, нашедших враждебность на опустошенной русской земле, так и для изгнанных поляков, изгнанных из своих домов нацистскими оккупантами. Благодаря славе партизанского лидера, Спыхальский быстро стал одним из наиболее видных членов реформированной польской армии. От имени польских генералов, которые считали, что правительство, возглавляемое Польской рабочей партией, было слишком догматичным и недальновидным, чтобы решать насущные вопросы в АССР, Спыхальский организовал бескровный переворот против партийного руководства, став председателем Рады Окалени Новей Польской. \n\nInaugurating Как военный диктатор во время кризиса, Спичальский поклялся сохранить государство Нова-Польская и защитить его от жаждущих власти казахских военачальников, которые угрожают его существованию. Хотя он по-прежнему искренне обещает свою верность социалистическому делу и Советскому Союзу, ему не стыдно пренебрегать революционными принципами в пользу прагматичных решений и искать неудобных союзников среди классовых врагов - чего бы это ни стоило новой польской родине, чтобы выжить на непрощающей, охваченной войной земле Средней Азии."
+ POLITICS_MARIAN_SPYCHALSKI_DESC:0 "Архитектор в молодости, Мариан Спихальский посвятил свою жизнь делу освобождения польского трудового народа. Будучи членом Коммунистической партии Польши, Спихальский с первых же дней нацистской оккупации ввязался в левое польское подполье, сформировав партизанскую группу под названием Гурдия Лудова. Стремясь установить дружеские отношения с советскими братьями, Спихальский разместил силы Красной Армии, когда Западно-Российская война велась на восточной границе завоеваний Рейха, надеясь, что поляки и русские вместе освободят Польшу и другие угнетенные народы Европы от фашистского ига.\n\nBut Фронт, обездоленный собственной внутренней борьбой между командирами, не смог принести освобождение своему народу. Вместе со своими товарищами Спихальский оказался на службе Польской АССР в Западном Казахстане, которая стала убежищем как для советских поляков, нашедших враждебность на опустошенной русской земле, так и для изгнанных поляков, изгнанных из своих домов нацистскими оккупантами. Благодаря славе партизанского лидера, Спихальский быстро стал одним из наиболее видных членов реформированной польской армии. От имени польских генералов, которые считали, что правительство, возглавляемое Польской рабочей партией, было слишком догматичным и недальновидным, чтобы решать насущные вопросы в АССР, Спихальский организовал бескровный переворот против партийного руководства, став председателем Рады Окалени Новей Польской. \n\nInaugurating Как военный диктатор во время кризиса, Спичальский поклялся сохранить государство Нова-Польская и защитить его от жаждущих власти казахских военачальников, которые угрожают его существованию. Хотя он по-прежнему искренне обещает свою верность социалистическому делу и Советскому Союзу, ему не стыдно пренебрегать революционными принципами в пользу прагматичных решений и искать неудобных союзников среди классовых врагов - чего бы это ни стоило новой польской родине, чтобы выжить на непрощающей, охваченной войной земле Средней Азии."
  
  ### Ministers ###
  DON_Edward_Osobka_Morawski_hog:0 "Edward Osóbka-Morawski"
@@ -36,7 +36,7 @@
  DON_nation_of_survivors_2:0 "Нация выживших"
 
  DON_Spychalski_Bizarre_Dictatorship_idea:0 "Причудливая диктатура Мариана Спихальского"
- DON_Spychalski_Bizarre_Dictatorship_idea_desc:0 "Рада Спасения Новой Польши"Rada Ocalenia Nowej Polski" (RONP) assumed power through a bloodless coup against the ineffective civilian government led by the Polish Workers' Party. The new military dictatorship consists of officers that fought alongside the Soviet Union in either the 1st Tadeusz Kościuszko Infantry Division or leftist resistance movements such as the People's Guard or the People's Army. Its political ideology defies categorization - Marian Spychalski declares "full allegiance to the West Russian Revolutionary Front, the Soviet Union and socialism as a whole", all while making tactical alliances with the clergy, subverting the Polish Workers' Party, and liberalizing society as a whole. This has been viewed as a betrayal of the principles of socialism by some, and has thus lead to staunch critique by ideological purists of the Polish Workers' Party. In the end, the RONP exists solely to ensure the survival of the endangered Polish nation - everything else comes second."
+ DON_Spychalski_Bizarre_Dictatorship_idea_desc:0 "Рада Спасения Новой Польши\" (РСНП) пришла к власти в результате бескровного переворота против неэффективного гражданского правительства во главе с Польской рабочей партией. Новая военная диктатура состоит из офицеров, которые сражались вместе с Советским Союзом в 1-й Тадеушской пехотной дивизии или в левых движениях сопротивления, таких как Народная гвардия или Народная армия. Его политическая идеология не поддаётся категоризации - Мариан Спихальский декларирует \"полную верность Западно-Российскому Революционному Фронту, Советскому Союзу и социализму в целом\", заключая тактические союзы с духовенством, свергая Польскую рабочую партию и либерализуя общество в целом. Это было расценено некоторыми как предательство принципов социализма и, таким образом, привело к жесткой критике со стороны идеологических пуристов Польской рабочей партии. В конце концов, РСНП существует исключительно для того, чтобы обеспечить выживание польской нации, находящейся под угрозой исчезновения, - все остальное на втором месте."
  
  DON_nation_of_survivors_0_desc:0 "Изначально территория Польской АССР была всего лишь нациестроительным проектом, инициированным Советским Союзом для создания польской автономии в составе Казахской ССР, и стала обетованной землей для тысяч поляков, депортированных нацистами со своей истинной родины, и советских польских граждан, оказавшихся нежелательными для постсоветских военачальников; каждый из них столкнулся с невероятными страданиями и трудностями на пути вдали от дома.\n\nThe Сыновья и дочери Нова-Польской ни перед чем не остановятся, чтобы защитить свою новую родину от любого захватчика."
  DON_nation_of_survivors_1_desc:0 "Изначально территория Польской АССР была всего лишь нациестроительным проектом, инициированным Советским Союзом для создания польской автономии в составе Казахской ССР, и стала обетованной землей для тысяч поляков, депортированных нацистами со своей истинной родины, и советских польских граждан, оказавшихся нежелательными для постсоветских военачальников; каждый из них столкнулся с невероятными страданиями и трудностями на пути вдали от дома.\n\nThe Сыновья и дочери Нова-Польской ни перед чем не остановятся, чтобы защитить свою новую родину от любого захватчика.."
@@ -52,7 +52,7 @@
  DON_polish_rule_2_desc:0 "Действуя в интересах польской нации, в первую очередь, правительство Нова Польши оказалось в противоречии с местным казахским населением, которое в настоящее время находится в невыгодном положении и подорвано на земле своих предков.\n\nCombined с неясной и едва определенной политикой польского государства по отношению к казахам, этническая напряженность остается для Нова Польши одной из главных проблем, угрожающих стабильности молодого государства."
  DON_polish_rule_3_desc:0 "Действуя в интересах польской нации, в первую очередь, правительство Нова Польши оказалось в противоречии с местным казахским населением, которое в настоящее время находится в невыгодном положении и подорвано на земле своих предков.\n\nCombined с неясной и едва определенной политикой польского государства по отношению к казахам, этническая напряженность остается для Нова Польши одной из главных проблем, угрожающих стабильности молодого государства."
  DON_polish_rule_4_desc:0 "Действуя в интересах польской нации, в первую очередь, правительство Нова Польши оказалось в противоречии с местным казахским населением, которое в настоящее время находится в невыгодном положении и подорвано на земле своих предков.\n\nCombined с неясной и едва определенной политикой польского государства по отношению к казахам, этническая напряженность остается для Нова Польши одной из главных проблем, угрожающих стабильности молодого государства."
- DON_polish_rule_5_desc:0 "Действуя в интересах польской нации, в первую очередь, правительство Нова Польши оказалось в противоречии с местным казахским населением, которое в настоящее время находится в невыгодном положении и подорвано на земле своих предков.\n\nCombined с неясной и едва определенной политикой польского государства по отношению к казахам, этническая напряженность остается для Нова Польши одной из главных проблем, угрожающих стабильности молодого государства." DON_food_rationing:0 "Food Rationing"
+ DON_polish_rule_5_desc:0 "Действуя в интересах польской нации, в первую очередь, правительство Нова Польши оказалось в противоречии с местным казахским населением, которое в настоящее время находится в невыгодном положении и подорвано на земле своих предков.\n\nCombined с неясной и едва определенной политикой польского государства по отношению к казахам, этническая напряженность остается для Нова Польши одной из главных проблем, угрожающих стабильности молодого государства.\" DON_food_rationing:0 \"Food Rationing"
 
  DON_grain_rationing:0 "Рационализация зерна"
  DON_both_rationing_0:0 "Пищевая и злаковая рационализация"
@@ -69,7 +69,7 @@
 
  ### Decisions 
  DON_A_New_Homeland:0 "A New Homeland"
- DON_A_New_Homeland_desc:0 "Since the foundation of Nowa Polska, there were always a divide between the Polish refugee settlers and the disenfranchised Kazakh population who, following the establishment of the Polish majority, found themselves as strangers in their homeland. While the National Salvation Council treats both nations equally on the paper, the continuous strife between the Poles and their Kazakh neighbors demonstrates a more grim perspective than we would like to see.\n\nFor our new homeland to be preserved, we should take drastic actions to alleviate the concerns of the Kazakh natives and put an end to the ethnic violence between the two nations, by any means, if necessary.\n\nPolish Approval : [Root.GetPolish_Approval][Root.GetPolish_Approval_monthly]\\nNative Unrest : [Root.GetNative_Unrest][Root.GetNative_Unrest_monthly]\\nFood Security : [Root.GetFood_Security][Root.GetFood_Security_monthly]"
+ DON_A_New_Homeland_desc:0 "Since the foundation of Nowa Polska, there were always a divide between the Polish refugee settlers and the disenfranchised Kazakh population who, following the establishment of the Polish majority, found themselves as strangers in their homeland. While the National Salvation Council treats both nations equally on the paper, the continuous strife between the Poles and their Kazakh neighbors demonstrates a more grim perspective than we would like to see.\n\nFor our new homeland to be preserved, we should take drastic actions to alleviate the concerns of the Kazakh natives and put an end to the ethnic violence between the two nations, by any means, if necessary.\n\nPolish Approval : [Root.GetPolish_Approval][Root.GetPolish_Approval_monthly]\nNative Unrest : [Root.GetNative_Unrest][Root.GetNative_Unrest_monthly]\nFood Security : [Root.GetFood_Security][Root.GetFood_Security_monthly]"
  DON_Polish_Approval_bad:0 "§R[?DON_Polish_Approval]%§!"
  DON_Polish_Approval_med:0 "§Y[?DON_Polish_Approval]%§!"
  DON_Polish_Approval_good:0 "§G[?DON_Polish_Approval]%§!"
@@ -95,53 +95,53 @@
  DON_crackdown_unrest:0 "Crackdown on Unrest"
  DON_recruit_kazakhs:0 "Recruit Kazakhs"
 
- DON_Food_Security_minor_decrease_tt:0 "§YFood Security:§! §R-4%§!\\n"
- DON_Food_Security_decrease_tt:0 "§YFood Security:§! §R-8§!\\n"
- DON_Food_Security_greatly_decrease_tt:0 "§YFood Security:§! §R-12§!\\n"
+ DON_Food_Security_minor_decrease_tt:0 "§YFood Security:§! §R-4%§!\n"
+ DON_Food_Security_decrease_tt:0 "§YFood Security:§! §R-8§!\n"
+ DON_Food_Security_greatly_decrease_tt:0 "§YFood Security:§! §R-12§!\n"
 
- DON_Food_Security_minor_increase_tt:0 "§YFood Security:§! §G+4%§!\\n"
- DON_Food_Security_increase_tt:0 "§YFood Security:§! §G+8%§!\\n"
- DON_Food_Security_greatly_increase_tt:0 "§YFood Security:§! §G+12%§!\\n"
+ DON_Food_Security_minor_increase_tt:0 "§YFood Security:§! §G+4%§!\n"
+ DON_Food_Security_increase_tt:0 "§YFood Security:§! §G+8%§!\n"
+ DON_Food_Security_greatly_increase_tt:0 "§YFood Security:§! §G+12%§!\n"
 
- DON_Native_Unrest_minor_decrease_tt:0 "§YNative Unrest:§! §G-4%§!\\n"
- DON_Native_Unrest_decrease_tt:0 "§YNative Unrest:§! §G-8%§!\\n"
- DON_Native_Unrest_greatly_decrease_tt:0 "§YNative Unrest:§! §G-12%§!\\n"
+ DON_Native_Unrest_minor_decrease_tt:0 "§YNative Unrest:§! §G-4%§!\n"
+ DON_Native_Unrest_decrease_tt:0 "§YNative Unrest:§! §G-8%§!\n"
+ DON_Native_Unrest_greatly_decrease_tt:0 "§YNative Unrest:§! §G-12%§!\n"
 
- DON_Native_Unrest_minor_increase_tt:0 "§YNative Unrest:§! §R+4%§!\\n"
- DON_Native_Unrest_increase_tt:0 "§YNative Unrest:§! §R+8%§!\\n"
- DON_Native_Unrest_greatly_increase_tt:0 "§YNative Unrest:§! §R+12%§!\\n"
+ DON_Native_Unrest_minor_increase_tt:0 "§YNative Unrest:§! §R+4%§!\n"
+ DON_Native_Unrest_increase_tt:0 "§YNative Unrest:§! §R+8%§!\n"
+ DON_Native_Unrest_greatly_increase_tt:0 "§YNative Unrest:§! §R+12%§!\n"
 
- DON_Polish_Approval_minor_decrease_tt:0 "§YPolish Approvaly:§! §R-4%§!\\n"
- DON_Polish_Approval_decrease_tt:0 "§YPolish Approval:§! §R-8%§!\\n"
- DON_Polish_Approval_greatly_decrease_tt:0 "§YPolish Approval:§! §R-12%§!\\n"
+ DON_Polish_Approval_minor_decrease_tt:0 "§YPolish Approvaly:§! §R-4%§!\n"
+ DON_Polish_Approval_decrease_tt:0 "§YPolish Approval:§! §R-8%§!\n"
+ DON_Polish_Approval_greatly_decrease_tt:0 "§YPolish Approval:§! §R-12%§!\n"
 
- DON_Polish_Approval_minor_increase_tt:0 "§YPolish Approvaly:§! §G+4%§!\\n"
- DON_Polish_Approval_increase_tt:0 "§YPolish Approval:§! §G+8%§!\\n"
- DON_Polish_Approval_greatly_increase_tt:0 "§YPolish Approval:§! §G+12%§!\\n"
+ DON_Polish_Approval_minor_increase_tt:0 "§YPolish Approvaly:§! §G+4%§!\n"
+ DON_Polish_Approval_increase_tt:0 "§YPolish Approval:§! §G+8%§!\n"
+ DON_Polish_Approval_greatly_increase_tt:0 "§YPolish Approval:§! §G+12%§!\n"
 
- DON_Food_Security_monthly_minor_decrease_tt:0 "§YMonthly Food Security:§! §R-0.25%§!\\n"
- DON_Food_Security_monthly_decrease_tt:0 "§YMonthly Food Security:§! §R-0.50§!\\n"
- DON_Food_Security_monthly_greatly_decrease_tt:0 "§YMonthly Food Security:§! §R-0.75§!\\n"
+ DON_Food_Security_monthly_minor_decrease_tt:0 "§YMonthly Food Security:§! §R-0.25%§!\n"
+ DON_Food_Security_monthly_decrease_tt:0 "§YMonthly Food Security:§! §R-0.50§!\n"
+ DON_Food_Security_monthly_greatly_decrease_tt:0 "§YMonthly Food Security:§! §R-0.75§!\n"
 
- DON_Food_Security_monthly_minor_increase_tt:0 "§YMonthly Food Security:§! §G+0.50%§!\\n"
- DON_Food_Security_monthly_increase_tt:0 "§YMonthly Food Security:§! §G+0.50%§!\\n"
- DON_Food_Security_monthly_greatly_increase_tt:0 "§YMonthly Food Security:§! §G+0.75%§!\\n"
+ DON_Food_Security_monthly_minor_increase_tt:0 "§YMonthly Food Security:§! §G+0.50%§!\n"
+ DON_Food_Security_monthly_increase_tt:0 "§YMonthly Food Security:§! §G+0.50%§!\n"
+ DON_Food_Security_monthly_greatly_increase_tt:0 "§YMonthly Food Security:§! §G+0.75%§!\n"
 
- DON_Native_Unrest_monthly_minor_decrease_tt:0 "§YMonthly Native Unrest:§! §G-0.25%§!\\n"
- DON_Native_Unrest_monthly_decrease_tt:0 "§YMonthly Native Unrest:§! §G-0.75%§!\\n"
- DON_Native_Unrest_monthly_greatly_decrease_tt:0 "§YMonthly Native Unrest:§! §G-0.75%§!\\n"
+ DON_Native_Unrest_monthly_minor_decrease_tt:0 "§YMonthly Native Unrest:§! §G-0.25%§!\n"
+ DON_Native_Unrest_monthly_decrease_tt:0 "§YMonthly Native Unrest:§! §G-0.75%§!\n"
+ DON_Native_Unrest_monthly_greatly_decrease_tt:0 "§YMonthly Native Unrest:§! §G-0.75%§!\n"
 
- DON_Native_Unrest_monthly_minor_increase_tt:0 "§YMonthly Native Unrest:§! §R+0.25%§! \\n"
- DON_Native_Unrest_monthly_increase_tt:0 "§YMonthly Native Unrest:§! §R+0.50%§!\\n"
- DON_Native_Unrest_monthly_greatly_increase_tt:0 "§YMonthly Native Unrest:§! §R+0.75%§!\\n"
+ DON_Native_Unrest_monthly_minor_increase_tt:0 "§YMonthly Native Unrest:§! §R+0.25%§! \n"
+ DON_Native_Unrest_monthly_increase_tt:0 "§YMonthly Native Unrest:§! §R+0.50%§!\n"
+ DON_Native_Unrest_monthly_greatly_increase_tt:0 "§YMonthly Native Unrest:§! §R+0.75%§!\n"
 
- DON_Polish_Approval_monthly_minor_decrease_tt:0 "§YMonthly Polish Approvaly:§! §R-0.25%§!\\n"
- DON_Polish_Approval_monthly_decrease_tt:0 "§YMonthly Polish Approval:§! §R-0.50%§!\\n"
- DON_Polish_Approval_monthly_greatly_decrease_tt:0 "§YMonthly Polish Approval:§! §R-0.75%§!\\n"
+ DON_Polish_Approval_monthly_minor_decrease_tt:0 "§YMonthly Polish Approvaly:§! §R-0.25%§!\n"
+ DON_Polish_Approval_monthly_decrease_tt:0 "§YMonthly Polish Approval:§! §R-0.50%§!\n"
+ DON_Polish_Approval_monthly_greatly_decrease_tt:0 "§YMonthly Polish Approval:§! §R-0.75%§!\n"
 
- DON_Polish_Approval_monthly_minor_increase_tt:0 "§YMonthly Polish Approvaly:§! §G+0.25%§!\\n"
- DON_Polish_Approval_monthly_increase_tt:0 "§YMonthly Polish Approval:§! §G+0.50%§!\\n"
- DON_Polish_Approval_monthly_greatly_increase_tt:0 "§YMonthly Polish Approval:§! §G+0.75%§!\\n"
+ DON_Polish_Approval_monthly_minor_increase_tt:0 "§YMonthly Polish Approvaly:§! §G+0.25%§!\n"
+ DON_Polish_Approval_monthly_increase_tt:0 "§YMonthly Polish Approval:§! §G+0.50%§!\n"
+ DON_Polish_Approval_monthly_greatly_increase_tt:0 "§YMonthly Polish Approval:§! §G+0.75%§!\n"
 
  ### Events ###
 
@@ -178,7 +178,7 @@
  DON.18.a:0 "Ration Foodstuff"
  DON.18.b:0 "Ration Grain"
  DON.18.c:0 "Ration Foodstuff and Grain"
- DON.18.c_tt:0 "§RTrying to ration both is the Hardest Choice§!\\n"
+ DON.18.c_tt:0 "§RTrying to ration both is the Hardest Choice§!\n"
 
  DON.55.t:0 "Where To Search"
  DON.55.desc:0 ""
@@ -220,12 +220,12 @@
  DON_track_down_herders:0 "Track Down The Herders"
  DON_reward_loyalty:0 "Reward Loyalty"
  DON_rationing_efforts:0 "Rationing Efforts"
- DON_rationing_efforts_tt:0 "\\nWe will choose what to Ration"
+ DON_rationing_efforts_tt:0 "\nWe will choose what to Ration"
  DON_provisional_ethnical_policies:0 "Provisional Ethnic Policies"
  DON_hard_decisions:0 "Hard Decisions"
  DON_punish_rebellion:0 "Punish Rebellion"
  DON_back_to_normal:0 "Back To Normal"
- DON_our_survival_is_paramount_tt:0 "\\n§RThis will make the Kazakhs angry§!"
+ DON_our_survival_is_paramount_tt:0 "\n§RThis will make the Kazakhs angry§!"
 
  DON_the_calvary_desc:0 ""
  DON_brace_for_the_worse_desc:0 ""
@@ -410,4 +410,8 @@
  DON_Against_the_Pagans_tt:0 "Adds §YLevel 3 Fort§! in the Aktau border"
  DON_Khromtau_Line_tt:0 "Adds §YLevel 2 Fort§! in the Khromtau border"
  DON_Last_Resort_Defense_tt:0 "Adds §YLevel 1 Fort§! along the Ural River"
+
+
+
+
 

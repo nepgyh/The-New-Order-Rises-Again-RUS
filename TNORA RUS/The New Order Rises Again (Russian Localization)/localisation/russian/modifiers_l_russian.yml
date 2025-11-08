@@ -1038,7 +1038,7 @@
  MODIFIER_NAVY_INTEL_FACTOR:1 "Флотские разведданные"
  MODIFIER_AIRFORCE_INTEL_FACTOR:1 "Авиационные разведданные"
  MODIFIER_INTELLIGENCE_AGENCY_DEFENSE:0 "Контрразведка"
- MODIFIER_ROOT_OUT_RESISTANCE_EFFECTIVENESS_FACTOR:1 "Эффекты задания «Искоренить сопротивление»"
+ MODIFIER_ROOT_OUT_RESISTANCE_EFFECTIVENESS_FACTOR:1 "Эффекты задания \"Искоренить сопротивление\""
  MODIFIER_DEFENSE_IMPACT_ON_BLUEPRINT_STEALING:1 "Влияние вражеской §Hконтрразведки§! на операцию §HУкрасть чертежи§!"
  MODIFIER_INTEL_FROM_OPERATIVES_FACTOR:1 "Разведданные, полученные от агентов и внедренных активов"
  MODIFIER_TARGET_SABOTAGE_FACTOR:1 "Эффективность прицельной диверсии"
@@ -1053,7 +1053,7 @@
  MODIFIER_CONTROL_TRADE_MISSION_FACTOR:0 "Эффекты от задания Контроль торговли"
  MODIFIER_DIPLOMATIC_PRESSURE_MISSION_FACTOR:0 "Эффекты от задания Дипломатическое давление"
  MODIFIER_PROPAGANDA_MISSION_FACTOR:0 "Эффекты от задания Пропаганда"
- MODIFIER_BOOST_IDEOLOGY_MISSION_FACTOR:0 "Эффекты от задания «Усиление идеологии»"
+ MODIFIER_BOOST_IDEOLOGY_MISSION_FACTOR:0 "Эффекты от задания \"Усиление идеологии\""
  MODIFIER_DECRYPTION_POWER:1 "£crypto£ Мощность дешифрования"
  MODIFIER_DECRYPTION_POWER_FACTOR:0 "£crypto£ Фактор мощности дешифрования"
  MODIFIER_CRYPTO_STRENGTH:1 "£crypto_defense£ Уровень криптологии"
@@ -1192,3 +1192,7 @@
  MODIFIER_STATE_RESOURCES_FACTOR_tt: "$MODIFIER_STATE_RESOURCES_FACTOR$: $RIGHT|+=%2$"
  MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR_tt: "$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: $RIGHT|+=%2$"
  MODIFIER_AIR_POWER_PROJECTION_FACTOR:0 "Авиационный фактор военного потенциала"
+
+
+
+

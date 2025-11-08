@@ -5,10 +5,10 @@ GER_reichstag_law_nsdap_laws_button:0 "§rЗаконы НСДАП§!"
 GER_reichstag_law_vup_laws_button:0 "§zЗаконы VUP§!"
 GER_reichstag_law_rsp_laws_button:0 "§gЗаконы RSP§!"
 GER_reichstag_law_vaaf_laws_button:0 "§eЗаконы VAAF§!"
-GER_reichstag_law_dg_laws_button:0 "§TЗаконы «Die Grünen»§!"
+GER_reichstag_law_dg_laws_button:0 "§TЗаконы \"Die Grünen\"§!"
 GER_reichstag_law_dap_laws_button:0 "§IЗаконы DAP§!"
 GER_reichstag_law_ler_laws_button:0 "§qЗаконы LER§!"
-GER_reichstag_law_total_seats:0 "§YВсего мест§! [?THIS.GER_reichstag_seats|W0] \n\n§YМест, необходимых \nдля большинства§! [?THIS.GER_reichstag_seats_majority|W0] \n\n§rНСДАП§! [?THIS.GER_nsdap_seats|r0]  \n\n§zVUP§! [?THIS.GER_vup_seats|z0]  \n\n§gRSP§! [?THIS.GER_rsp_seats|g0]  \n\n§eVAAF§! [?THIS.GER_vaaf_seats|e0]  \n\n§T«Die Grünen»§! [?THIS.GER_dg_seats|T0]  \n\n[GER_get_dap_seats]  \n\n[GER_get_ler_seats]"
+GER_reichstag_law_total_seats:0 "§YВсего мест§! [?THIS.GER_reichstag_seats|W0] \n\n§YМест, необходимых \nдля большинства§! [?THIS.GER_reichstag_seats_majority|W0] \n\n§rНСДАП§! [?THIS.GER_nsdap_seats|r0]  \n\n§zVUP§! [?THIS.GER_vup_seats|z0]  \n\n§gRSP§! [?THIS.GER_rsp_seats|g0]  \n\n§eVAAF§! [?THIS.GER_vaaf_seats|e0]  \n\n§T\"Die Grünen\"§! [?THIS.GER_dg_seats|T0]  \n\n[GER_get_dap_seats]  \n\n[GER_get_ler_seats]"
 #law names
 #nsdap laws
 ##term 1
@@ -24,7 +24,7 @@ GER_reichstag_law_for_restoring_pride_in_the_reich_text:0 "§rЗакон о го
 GER_reichstag_professional_adjustment_act_text:0 "§rЗакон о профессиональной перестройке§!"
 GER_reichstag_banking_simplification_bill_text:0 "§rЗаконопроект об упрощении банковского дела§!"
 GER_reichstag_bill_for_support_of_lawful_and_just_proceedings_text:0 "§rЗаконопроект о судебных процедурах§!"
-GER_reichstag_new_lebensborn_act_text:0 "§rЗакон о новом «Лебенсборне»§!"
+GER_reichstag_new_lebensborn_act_text:0 "§rЗакон о новом \"Лебенсборне\"§!"
 GER_reichstag_unification_law_text:0 "§rЗакон об объединении§!"
 GER_reichstag_historical_education_act_text:0 "§rЗакон о народном образовании§!"
 ##term 2
@@ -88,3 +88,7 @@ GER_reichstag_law_for_reconciliation_text:0 "§zЗакон о примирени
 GER_reichstag_governmental_policing_law_text:0 "§zЗакон о правительственной полиции§!"
 GER_reichstag_poland_act_text:0 "§zЗакон о Польше§!"
 GER_reichstag_heritage_protection_act_text:0 "§zЗакон о защите наследия§!"
+
+
+
+

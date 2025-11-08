@@ -3,21 +3,25 @@
  ###########
  ##Parties##
  ###########
- KAC_communist_party:0 "ОНК - Левое крыло"
- KAC_communist_party_long:0 "Организация независимости Качина - Левое крыло"
+ KAC_communist_party:0 "KIO - Left Wing"
+ KAC_communist_party_long:0 "Kachin Independence Organisation - Left Wing"
  KAC_social_liberal_party:0 "KNU"
  KAC_social_liberal_party_long:0 "Karen National Union"
- KAC_despotism_party:0 "ОНК - Правое крыло"
- KAC_despotism_party_long:0 "Организация независимости Качина - Правое крыло"
- KAC_fascism_party:0 "Блок "Свобода""
- KAC_fascism_party_long:0 "Блок "Свобода""
+ KAC_despotism_party:0 "KIO - Right Wing"
+ KAC_despotism_party_long:0 "Kachin Independence Organisation - Right Wing"
+ KAC_fascism_party:0 "DSA"
+ KAC_fascism_party_long:0 "Dobama-Sinyetha Asiayone"
  
  ################
  ##Leader Descs##
  ################
- POLITICS_LAHTAW_ZAU_SENG_DESC:0 "Зау Сенг никогда не знал дома. Он был качинского происхождения и родился в городе Качин в северных штатах Шан. Будучи подростком, он некоторое время служил рейнджером Качина, одним из военных проектов Соединенных Штатов в тылу Японии в рамках Управления стратегических служб. Однако когда война закончилась, Зау Сенг едва избежал обвинения в предательстве недавно созданного государства Бирма.\n\nСледующие пару лет он провел, выполняя различные случайные задания для Национальной армии Бирмы, в основном выслеживая коммунистических повстанцев. Затем он провел одиннадцать лет, делая себе имя, сражаясь бок о бок с сопротивлением каренов, прежде чем сесть со своими младшими братьями Зау Ту и Зау Даном, известными некоторым как Три Зауса, чтобы создать свой собственный инструмент сопротивления - Организацию независимости Качина. И из Организации независимости Качина выросла частная армия Зау Сенга - Армия независимости Качина.\n\nЗау Сенг создал небольшую, но очень хорошо обученную армию, при этом в которой каждой солдат знает английский язык, которому его обучали во время его первого опыта войны. В то время как его братья борются за идеологические цели, такие как маоизм у Зау Ту и возможность связей с США у Зау Дана и их идеалы, Зау Сенг сражаться просто ради того, чтобы сражаться."
+ POLITICS_LAHTAW_ZAU_SENG_DESC:0 "Zau Seng never knew a home. He was of Kachin origin and born in a Kachin town in the northern Shan states. As a teenager, he briefly served as a Kachin Ranger, one of the United States' wartime projects behind Japanese lines as part of the Office of Strategic Services. When the smoke cleared, Zau Seng barely escaped being charged as a traitor to the newly created State of Burma.\n\nHe spent the next couple of years doing various odd-jobs for the Burma National Army, mostly hunting down communist insurgents. Then, he spent eleven years making a name for himself as he fought alongside the Karen resistance before being sitting down with his younger brothers Zau Tu and Zau Dan, known to some as the Three Zaus, to create their own instrument of resistance – the Kachin Independence Organisation. And, from the Kachin Independence Organisation grew Zau Seng's private army – the Kachin Independence Army.\n\nZau Seng has built a small but extremely well trained army, drilling them in the English language that he was drilled in during his first experiences with war. While his brothers fight for ideological purposes, such as Zau Tu's interest in Maoism and Zau Dan's interests in diplomacy both abroad and at home, Zau Seng fights for a reason to fight."
  
  #############
  ##Ministers##
  #############
  KAC_Du_Kaba_Lahpai_Naw_Seng_sec:0 "Du Kaba Lahpai Naw Seng"
+
+
+
+

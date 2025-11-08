@@ -59,7 +59,7 @@
  MASTER_SURRENDER_FREEDOM_EFFECT:0 "Метрополия капитулировала"
  MISSING_AUTONOMY_SCORE:0 "Необходимо еще £autonomy_texticon $VAL|2Y$ автономии"
  TOO_MUCH_AUTONOMY_SCORE:0 "Обладает слишком большой автономией – на $VAL|2Y$"
- AUTONOMY_CHANGE_COST:1 "Стоимость (£pol_power ): $VALUE$"
+ AUTONOMY_CHANGE_COST:1 "Cost (£pol_power ): $VALUE$"
  AUTONOMY_FREEDOM_PROMOTE_COST:0 "Чтобы подняться до этого уровня, количество очков должно быть больше на £autonomy_texticon $SCORE|H0$"
  AUTONOMY_FREEDOM_DEMOTE_COST:0 "Чтобы опуститься на этот уровень, количество очков должно быть меньше на £autonomy_texticon $SCORE|H0$"
  CONTINUOUS_AUTONOMY_EFFECTS:0 "§HПостоянные факторы влияния на автономию§!"
@@ -75,3 +75,7 @@
  CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE:0 "§RНам запрещено понижать уровень или отменять строительство этого здания.§!"
  CONSTRUCTION_INFO_MASTER:0 "Строительство ведется на территории государства $WHO|H$. Если мы не используем все фабрики, они могут помочь, задействовав свои."
  CONSTRUCTION_INFO_SUBJECT:0 "Государство $WHO|H$ возводит это здание для нас. Если они не используют все фабрики, мы можем помочь, задействовав свои."
+
+
+
+

@@ -14,7 +14,7 @@
  cor_repurpose_civilian_goods:0 "Repurpose Civilian Goods"
  cor_arms_of_the_settlers:0 "Arms of the Settlers"
  cor_fortify_local_cities:0 "Fortify Local Cities"
- cor_building_a_bureaucracy:0 "Building a Bureaucracy"
+ cor_building_a_bureaucracy:0 "A Mercenary's bureaucracy"
  cor_seize_what_can_be_found:0 "Seize What Can Be Found"
  cor_whats_yours_is_ours:0 "What's Yours Is Ours"
  cor_leopolds_guide_to_success:0 "Leopold's Guide To Success"
@@ -33,10 +33,14 @@
  COR_civilian_precautions_1:0 "Civilian Precautions"
  COR_civilian_precautions_2:0 "Only One Opinion"
  COR_victory_is_approaching:0 "Victory Is Approaching"
- COR_building_a_bureaucracy:0 "Building a Bureaucracy"
+ COR_building_a_bureaucracy:0 "A Mercenary's bureaucracy"
  COR_a_penny_pinching_nation:0 "A Penny-Pinching Nation"
  COR_for_our_greater_good:0 "For Our Greater Good"
  COR_utilize_the_black_market_1:0 "Black Market Factory Support"
  COR_utilize_the_black_market_2:0 "Black Market Government Support"
  COR_utilize_the_black_market_3:0 "Black Market Army 'Motivation'"
  COR_leopolds_guide_to_success:0 "Leopold's Guide To Success"
+
+
+
+

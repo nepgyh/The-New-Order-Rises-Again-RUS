@@ -20,15 +20,15 @@
  VIN_national_socialism_DEF:0 "Вьетнамское Государство"
  VIN_ultranational_socialism:0 "Вьетнамское Государство"
  VIN_ultranational_socialism_DEF:0 "Вьетнамское Государство"
- VIN_fascism_ADJ:0 "Вьетнамск"
+ VIN_fascism_ADJ:0 "вьетнамск"
  VIN_social_liberal_ADJ:0 "вьетнамск"
  VIN_market_liberal_ADJ:0 "вьетнамск"
  VIN_social_conservative_ADJ:0 "вьетнамск"
  VIN_authoritarian_democrat_ADJ:0 "вьетнамск"
- VIN_national_socialism_ADJ:0 "Вьетнамск"
- VIN_communist_ADJ:0 "Вьетнамск"
- VIN_despotism_ADJ:0 "Вьетнамск"
- VIN_socialist_ADJ:0 "Вьетнамск"
+ VIN_national_socialism_ADJ:0 "вьетнамск"
+ VIN_communist_ADJ:0 "вьетнамск"
+ VIN_despotism_ADJ:0 "вьетнамск"
+ VIN_socialist_ADJ:0 "вьетнамск"
  VIN_ultranational_socialism_ADJ:0 "вьетнамск"
  
  VIN_THENEWORDER_DESC:0 "The Empire of Vietnam is a nation tearing itself apart at the seams. Since The Greater East Asian War ended Emperor Bao Dai and Prime Minister Diem have been jockeying for control in the capital, preventing any real reforms to the nation crippled by war. All while The Viet Minh and growing numbers of Japanese Settlers carve up the countryside. All these matters are made even worse by the nation's near total reliance on Japan in all matters of national security.\n\nWhatever was gained from independence has been snuffed out by this civil strife, and only a slight gust of wind is needed to bring it all down."
@@ -54,15 +54,15 @@
  VIN_communist_monarchy_national_socialism_DEF:0 "Вьетнамское Государство"
  VIN_communist_monarchy_ultranational_socialism:0 "Вьетнамское Государство"
  VIN_communist_monarchy_ultranational_socialism_DEF:0 "Вьетнамское Государство"
- VIN_communist_monarchy_fascism_ADJ:0 "Вьетнамск"
+ VIN_communist_monarchy_fascism_ADJ:0 "вьетнамск"
  VIN_communist_monarchy_social_liberal_ADJ:0 "вьетнамск"
  VIN_communist_monarchy_market_liberal_ADJ:0 "вьетнамск"
  VIN_communist_monarchy_social_conservative_ADJ:0 "вьетнамск"
  VIN_communist_monarchy_authoritarian_democrat_ADJ:0 "вьетнамск"
- VIN_communist_monarchy_national_socialism_ADJ:0 "Вьетнамск"
- VIN_communist_monarchy_communist_ADJ:0 "Вьетнамск"
- VIN_communist_monarchy_despotism_ADJ:0 "Вьетнамск"
- VIN_communist_monarchy_socialist_ADJ:0 "Вьетнамск"
+ VIN_communist_monarchy_national_socialism_ADJ:0 "вьетнамск"
+ VIN_communist_monarchy_communist_ADJ:0 "вьетнамск"
+ VIN_communist_monarchy_despotism_ADJ:0 "вьетнамск"
+ VIN_communist_monarchy_socialist_ADJ:0 "вьетнамск"
  VIN_communist_monarchy_ultranational_socialism_ADJ:0 "вьетнамск"
  
  
@@ -86,15 +86,15 @@
  VIN_non_communist_republic_national_socialism_DEF:0 "Вьетнамское Государство"
  VIN_non_communist_republic_ultranational_socialism:0 "Вьетнамское Государство"
  VIN_non_communist_republic_ultranational_socialism_DEF:0 "Вьетнамское Государство"
- VIN_non_communist_republic_fascism_ADJ:0 "Вьетнамск"
+ VIN_non_communist_republic_fascism_ADJ:0 "вьетнамск"
  VIN_non_communist_republic_social_liberal_ADJ:0 "вьетнамск"
  VIN_non_communist_republic_market_liberal_ADJ:0 "вьетнамск"
  VIN_non_communist_republic_social_conservative_ADJ:0 "вьетнамск"
  VIN_non_communist_republic_authoritarian_democrat_ADJ:0 "вьетнамск"
- VIN_non_communist_republic_national_socialism_ADJ:0 "Вьетнамск"
- VIN_non_communist_republic_communist_ADJ:0 "Вьетнамск"
- VIN_non_communist_republic_despotism_ADJ:0 "Вьетнамск"
- VIN_non_communist_republic_socialist_ADJ:0 "Вьетнамск"
+ VIN_non_communist_republic_national_socialism_ADJ:0 "вьетнамск"
+ VIN_non_communist_republic_communist_ADJ:0 "вьетнамск"
+ VIN_non_communist_republic_despotism_ADJ:0 "вьетнамск"
+ VIN_non_communist_republic_socialist_ADJ:0 "вьетнамск"
  VIN_non_communist_republic_ultranational_socialism_ADJ:0 "вьетнамск"
  
  ### Parties ###
@@ -107,7 +107,7 @@
  VIN_authoritarian_democrat_party:0 "Dai Viet Quoc dan dang"
  VIN_despotism_party:0 "Тайный совет"
  VIN_fascism_party:0 "ПТРП"
- VIN_national_socialism_party:0 "ВИА - "Младотурки""
+ VIN_national_socialism_party:0 "ВИА - "
  VIN_ultranational_socialism_party:0 "Viet Nam Quang Phuc Hoi"
  
  VIN_communist_party_long:0 "Коммунистическая партия Индокитая"
@@ -119,7 +119,7 @@
  VIN_authoritarian_democrat_party_long:0 "Dai Viet Quoc dan dang (Nationalist Party of Greater Vietnam - Moderates)"
  VIN_despotism_party_long:0 "Тайный совет"
  VIN_fascism_party_long:0 "Персоналистская трудовая революционная партия"
- VIN_national_socialism_party_long:0 "Вьетнамская императорская армия - "Младотурки""
+ VIN_national_socialism_party_long:0 "Вьетнамская императорская армия - "
  VIN_ultranational_socialism_party_long:0 "Viet Nam Quang Phuc Hoi (Vietnam Restoration League)"
  
  ### Leader Descriptions ###
@@ -598,3 +598,7 @@
  VIN_Search_and_Destroy:0 "Search and Destroy Missions"
  VIN_Bombing_Campaigns:0 "Firebombing Campaigns"
  VIN_Reconcentration:0 "Reconcentration Camps"
+
+
+
+

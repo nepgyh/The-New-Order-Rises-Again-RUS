@@ -98,7 +98,7 @@
  TRADE_ROUTE_CONVOY_LEND_LEASE_IMPORT:0 "Импорт по ленд-лизу из: $FR|H$ ( $CONVOYS|Y$ £convoy_texticon )"
  TRADE_ROUTE_CONVOY_LEND_LEASE_EXPORT:0 "Экспорт по ленд-лизу в: $TO|H$ ( $CONVOYS|Y$ £convoy_texticon )"
  TRADE_ROUTE_CONVOY_PRODUCTION_TRANSFER:0 "Переброска продукции из: $FROM|H$ в: $TO|H$ ( $CONVOYS|Y$ £convoy_texticon )"
- TRADE_ROUTE_CONVOY_SUPPLIES_TRANSFER:2 "Маршрут: «$FROM|H$ — $TO|H$» — $SUPPLIES|Y$ £supply_texticon ($CONVOYS_ACQUIRED|Y$/$CONVOYS|Y$ £convoy_texticon)"
+ TRADE_ROUTE_CONVOY_SUPPLIES_TRANSFER:2 "Маршрут: \"$FROM|H$ — $TO|H$\" — $SUPPLIES|Y$ £supply_texticon ($CONVOYS_ACQUIRED|Y$/$CONVOYS|Y$ £convoy_texticon)"
  TRADE_ROUTE_CONVOY_SUPPLIES_TRANSFER_NODE_ENTRY:0 "  £supply_texticon£$TO|H$ — $SUPPLIES|Y$ "
  TRADE_ROUTE_CONVOY_SUPPLIES_HEADER:0 "Перемещение припасов:\n"
  TRADE_ROUTE_CONVOY_PRODUCTION_HEADER:0 "Перемещение ресурсов:\n"
@@ -166,3 +166,7 @@
  RESOURCES_ADDITIONAL_TOOLTIP:0 "Дополнительные ресурсы: $RESOURCE$ ($NUM|.0H$)"
  RESOURCES_ADDITIONAL_FROM_BUILDING_TOOLTIP:0 "Сооружения: $RESOURCE$ ($NUM|.0H$)"
  RESOURCE_BALANCE_VALUE: "$VALUE$"
+
+
+
+

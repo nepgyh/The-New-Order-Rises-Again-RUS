@@ -21,8 +21,8 @@
  CTL_despotism:0 "Государство Каталония"
  CTL_despotism_DEF:0 "Государство Каталония"
  CTL_despotism_ADJ:0 "Каталонск."
- CTL_communist:0 "Народно-Демократическая Республика Каталония"
- CTL_communist_DEF:0 "Народно-Демократическая Республика Каталония"
+ CTL_communist:0 "Демократическая Народная Республика Каталония"
+ CTL_communist_DEF:0 "Демократическая Народная Республика Каталония"
  CTL_communist_ADJ:0 "Каталонск."
  CTL_socialist:0 "Социалистическая Республика Каталония"
  CTL_socialist_DEF:0 "Социалистическая Республика Каталония"
@@ -146,3 +146,7 @@
  
  CTL_remember_the_diada:0 "Помните Диаду" # <<TRANSLATED>>
  CTL_remember_the_diada_desc:0 "Каталония снова будет свободной." # <<TRANSLATED>>
+
+
+
+

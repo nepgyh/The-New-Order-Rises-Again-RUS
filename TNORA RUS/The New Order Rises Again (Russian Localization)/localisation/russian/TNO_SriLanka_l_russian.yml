@@ -3,10 +3,10 @@
  ###########
  ##Parties##
  ###########
- SRI_communist_party:0 "ТОТИ"
- SRI_communist_party_long:0 "Тигры освобождения Тамил-Илама"
- SRI_socialist_party:0 "ОНФ"
- SRI_socialist_party_long:0 "Объединенный народный фронт"
+ SRI_communist_party:0 "LTTE"
+ SRI_communist_party_long:0 "Liberation Tigers of Tamil Eelam"
+ SRI_socialist_party:0 "MEP"
+ SRI_socialist_party_long:0 "Mahajana Eksath Peramuna"
  SRI_social_democrat_party:0 "SLFP"
  SRI_social_democrat_party_long:0 "Sri Lanka Freedom Party"
  SRI_social_liberal_party:0 "Independents"
@@ -21,7 +21,7 @@
  ################
  ##Leader Descs##
  ################
- POLITICS_WILLIAM_GOPALLAWA_DESC:0 "Если бы можно было использовать один термин для описания Уильяма Гопаллавы, то это был бы человек из народа. Почти повсеместно популярный среди народа Шри-Ланки, неудивительно, что он был единогласно назначен ее первым президентом. Но у Гопаллавы, как и у многих на острове, скромные корни.\n\nРодившись в 1896 году, его первый выход на политическую арену был в городском совете в Матале, где он проработал 13 лет до 1939 года, будучи самым молодым председателем городской комиссии на британском Цейлоне. Однако после Матале Гопаллава получил повышение, когда был назначен первым муниципальным комиссаром бывшей столицы Канди. Внезапно Гопаллава, которого очень мало знали за пределами Матале, стал притчей во языцех.\n\nГопаллава продолжал свою карьеру, даже когда Вторая мировая война опустошила Азию, а ИЯА вошла в Калькутту. Однако, когда британский режим пал, и они отступили из Индии, Гопаллава поступил так, как поступали его предки. Он взял остров Цейлон под защиту ближайшей великой нации: недавно основанной Республики Индия.\n\nВ последующие годы Гопаллава занимал пост муниципального комиссара Коломбо на протяжении 1950-х годов, а совсем недавно - спикера Совета автономного округа Ланки. Однако теперь Шри-Ланка свободна, и он должен руководить ею."
+ POLITICS_WILLIAM_GOPALLAWA_DESC:0 "If one term could be used to describe William Gopallawa, it would be a man of the people. Almost universally popular among the people of Sri Lanka, it is no surprise that he was appointed its first President unanimously. But Gopallawa, like many, has humble roots.\n\nBorn in 1896, his first foray into the political field was on the Urban Council in Mathale, where he served for 13 years until 1939, as the youngest Urban Commission Chairman in British Ceylon. However, after Mathale, Gopallawa received a promotion, when he was appointed the first Municipal Commissioner of the former capital city of Kandy. Suddenly, Gopallawa, who had been known very little outside of Mathale, became the talk of the town.\n\nGopallawa held to his career, even as the Second World War ravaged Asia and the INA marched into Calcutta. However, when the British regime fell, and they retreated from India, Gopallawa did as his ancestors did, and brought the island of Ceylon under the protection of the closest greater nation: the newly-founded Republic of India.\n\nIn the years since, Gopallawa has served as the Municipal Commissioner of Colombo throughout the 1950s, and, most recently, as Speaker of the Lankan Autonomous District Council. Now, though, Sri Lanka is free, and it is up to him to guide it."
  
  #########
  ##Ideas##
@@ -93,14 +93,18 @@
  
  
  #Tooltips
- SRI_OFN_begin_economic_development_tt:0 "Мы начнем экономически развивать Цейлон, одновременно привязывая его к Америке."
- SRI_OFN_trade:0 "Увеличение торговли с США вызовет экономический бум!"
- SRI_OFN_corporate:0 "Приглашение американских корпораций станет благом для нашей экономики."
- SRI_OFN_support_elites:0 "Финансовая поддержка цейлонской элиты, хотя и несколько дорогостоящая, значительно повысит стабильность нашей администрации."
- SRI_OFN_investments:0 "Наш ВВП увеличится в результате американских инвестиций."
- SRI_OFN_joint_ventures:0 "Наш ВВП увеличится в результате сотрудничества между американскими и цейлонскими капиталистами."
- SRI_OFN_american_arms_makers:0 "Приглашение американских производителей оружия обосноваться на Цейлоне поможет нам поставлять оружие борцам за свободу Азии."
- SRI_OFN_arm_azad_hind_rebels:0 "Даст Америке дополнительные возможности вооружать повстанцев на территории, контролируемой Азад Хинд."
- SRI_OFN_arm_burmese_rebels:0 "Даст Америке дополнительные возможности вооружать повстанцев на территории, контролируемой Бирмой."
- SRI_OFN_arm_asia_rebels:0 "Даст Америке дополнительные возможности вооружать повстанцев по всей Сфере."
+ SRI_OFN_begin_economic_development_tt:0 "We will begin economically developing Ceylon, while tying it economically to America."
+ SRI_OFN_trade:0 "Increased trade with the USA will cause an economic boom!"
+ SRI_OFN_corporate:0 "Inviting American corporations will prove a boon for our economy."
+ SRI_OFN_support_elites:0 "Financial support for Ceylonese elites, while somewhat expensive, will significantly improve the stability of our administration."
+ SRI_OFN_investments:0 "Our GDP will increase as a result of American investments."
+ SRI_OFN_joint_ventures:0 "Our GDP will increase as a result of cooperation between American and Ceylonese capitalists."
+ SRI_OFN_american_arms_makers:0 "Inviting American arms manufacturers to set up in Ceylon will help us send arms to the freedom fighters of Asia."
+ SRI_OFN_arm_azad_hind_rebels:0 "Will give America further options to arm rebels in Azad Hind-controlled territory."
+ SRI_OFN_arm_burmese_rebels:0 "Will give America further options to arm rebels in Burmese-controlled territory."
+ SRI_OFN_arm_asia_rebels:0 "Will give America further options to arm rebels across the Sphere."
  
+
+
+
+

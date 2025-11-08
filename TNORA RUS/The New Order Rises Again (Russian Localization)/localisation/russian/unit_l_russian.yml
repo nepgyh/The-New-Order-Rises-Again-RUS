@@ -189,7 +189,7 @@
  TASK_FORCE_FLEET_INFORMATION_HEADER:0 "§HСведения о флоте§!\nМаксимальная скорость: $SPEED|H$\nМаксимальная дальность действия: $RANGE|H$\nОбнаружение подводных целей: $SUBDETECTION|H$\nОбнаружение надводных целей: $SURFACEDETECTION|H$\n"
  TASK_FORCE_FLEET_INFORMATION_SLOWEST_SHIPS:0 "\n§HСамые медленные корабли§!\n"
  TASK_FORCE_FLEET_INFORMATION_SHORTEST_RANGES:0 "\n§HМинимальная дальность действия§!\n"
- TASK_FORCE_FLEET_INFORMATION_DELAYED:0 "Чтобы узнать больше об отдельных кораблях, выберите оперативное соединение, затем щелкните по значку «Подробности о корабле»."
+ TASK_FORCE_FLEET_INFORMATION_DELAYED:0 "Чтобы узнать больше об отдельных кораблях, выберите оперативное соединение, затем щелкните по значку \"Подробности о корабле\"."
  OTHER_SHIPS:0 "Остальные корабли"
  ALL_SHIPS:0 "Все корабли"
  ALL_SAME_TYPE_SHIPS:0 "Все корабли типа $TYPE$"
@@ -551,3 +551,7 @@
  damaged_secondaries:0 "Вспомогательные орудия повреждены"
  CONFIRM_DISBAND_FLEET_TITLE:0 "Расформировать флот"
  CONFIRM_DISBAND_FLEET_DESC:0 "Вы действительно хотите §YРАСФОРМИРОВАТЬ§! флот $NAME|H$?\n\nВсе оперативные соединения будут отправлены в резерв."
+
+
+
+

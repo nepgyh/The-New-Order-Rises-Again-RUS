@@ -43,8 +43,8 @@
 # SPR_ultranational_socialism:0 "Spanish Republic" #duplicate loc key
 # SPR_ultranational_socialism_DEF:0 "The Spanish Republic" #duplicate loc key
 
- SPRKingdom_fascism:0 "Королевство Испания"
- SPRKingdom_fascism_DEF:0 "Испанское Королевство"
+ SPRKingdom_fascism:0 "Kingdom of Spain"
+ SPRKingdom_fascism_DEF:0 "the Kingdom of Spain"
  SPRKingdom_social_liberal:0 "Kingdom of Spain"
  SPRKingdom_social_liberal_DEF:0 "the Kingdom of Spain"
  SPRKingdom_market_liberal:0 "Kingdom of Spain"
@@ -55,19 +55,19 @@
  SPRKingdom_social_conservative_DEF:0 "the Kingdom of Spain"
  SPRKingdom_authoritarian_democrat:0 "Kingdom of Spain"
  SPRKingdom_authoritarian_democrat_DEF:0 "the Kingdom of Spain"
- SPRKingdom_despotism:0 "Королевство Испания"
- SPRKingdom_despotism_DEF:0 "Испанское Королевство"
- SPRKingdom_communist:0 "Королевство Испания"
- SPRKingdom_communist_DEF:0 "Испанское Королевство"
- SPRKingdom_socialist:0 "Королевство Испания"
- SPRKingdom_socialist_DEF:0 "Испанское Королевство"
- SPRKingdom_national_socialism:0 "Королевство Испания"
- SPRKingdom_national_socialism_DEF:0 "Испанское Королевство"
+ SPRKingdom_despotism:0 "Kingdom of Spain"
+ SPRKingdom_despotism_DEF:0 "the Kingdom of Spain"
+ SPRKingdom_communist:0 "Kingdom of Spain"
+ SPRKingdom_communist_DEF:0 "the Kingdom of Spain"
+ SPRKingdom_socialist:0 "Kingdom of Spain"
+ SPRKingdom_socialist_DEF:0 "the Kingdom of Spain"
+ SPRKingdom_national_socialism:0 "Kingdom of Spain"
+ SPRKingdom_national_socialism_DEF:0 "the Kingdom of Spain"
  SPRKingdom_ultranational_socialism:0 "Kingdom of Spain"
  SPRKingdom_ultranational_socialism_DEF:0 "the Kingdom of Spain"
  
- SPRMilitary_fascism:0 "Временное Испанское правительство"
- SPRMilitary_fascism_DEF:0 "Временное правительство Испании"
+ SPRMilitary_fascism:0 "Spanish Provisional Government"
+ SPRMilitary_fascism_DEF:0 "the Spanish Provisional Government"
  SPRMilitary_social_liberal:0 "Spanish Provisional Government"
  SPRMilitary_social_liberal_DEF:0 "the Spanish Provisional Government"
  SPRMilitary_market_liberal:0 "Spanish Provisional Government"
@@ -78,14 +78,14 @@
  SPRMilitary_social_conservative_DEF:0 "the Spanish Provisional Government"
  SPRMilitary_authoritarian_democrat:0 "Spanish Provisional Government"
  SPRMilitary_authoritarian_democrat_DEF:0 "the Spanish Provisional Government"
- SPRMilitary_despotism:0 "Временное Испанское правительство"
- SPRMilitary_despotism_DEF:0 "Временное правительство Испании"
- SPRMilitary_communist:0 "Временное Испанское правительство"
- SPRMilitary_communist_DEF:0 "Временное правительство Испании"
- SPRMilitary_socialist:0 "Временное Испанское правительство"
- SPRMilitary_socialist_DEF:0 "Временное правительство Испании"
- SPRMilitary_national_socialism:0 "Временное Испанское правительство"
- SPRMilitary_national_socialism_DEF:0 "Временное правительство Испании"
+ SPRMilitary_despotism:0 "Spanish Provisional Government"
+ SPRMilitary_despotism_DEF:0 "the Spanish Provisional Government"
+ SPRMilitary_communist:0 "Spanish Provisional Government"
+ SPRMilitary_communist_DEF:0 "the Spanish Provisional Government"
+ SPRMilitary_socialist:0 "Spanish Provisional Government"
+ SPRMilitary_socialist_DEF:0 "the Spanish Provisional Government"
+ SPRMilitary_national_socialism:0 "Spanish Provisional Government"
+ SPRMilitary_national_socialism_DEF:0 "the Spanish Provisional Government"
  SPRMilitary_ultranational_socialism:0 "Spanish Provisional Government"
  SPRMilitary_ultranational_socialism_DEF:0 "the Spanish Provisional Government"
 
@@ -205,5 +205,9 @@
 
  #Leader descs
  TORCUATO_FERNANDEZ_MIRANDA_SPR_DESC:0 "На первый взгляд, руководство бывшего члена франкоистского режима, как представляется, противоречит обещаниям Республики восстановить испанский республиканский характер и разорвать историю националистов. Для более информированного наблюдателя, мало кто, как представляется, лучше, чем сам Торкуато Фернандес-Миранда. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ." # <<TRANSLATED>>
+
+
+
+
 
 

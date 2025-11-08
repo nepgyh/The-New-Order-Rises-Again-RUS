@@ -251,3 +251,7 @@
  CHAT_ERROR_MUTE_MISSINGARGS:0 "Неправильный синтаксис, ожидаю: /mute <username>"
  CHAT_ERROR_UNMUTE_MISSINGARGS:0 "Неправильный синтаксис, ожидаю: /unmute <username>"
  CHAT_ERROR_MUTEUNMUTE_SELF:0 "Вы не можете замьютить себя!"
+
+
+
+

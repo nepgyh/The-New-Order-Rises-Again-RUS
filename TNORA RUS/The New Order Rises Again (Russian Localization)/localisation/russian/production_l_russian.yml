@@ -250,7 +250,7 @@
  PRODUCTION_LINE_CONVERT_SPEED_BASE:0 "Базовое значение: $VAL|Y0%$"
  PRODUCTION_LINE_CONVERT_RES_NEED:0 "Ресурсы, необходимые для модификации $NAME|Y$:"
  PRODUCTION_LINE_CONVERT_RES_NEED_ENTRY:0 "\n £resources_strip|$FRAME$: ($NEW|Y0$ - $OLD|G0$) = $SUM|R0$"
- PRODUCTION_LINE_SHIP_NAME_ALLOCATE:0 "Это имя еще не закреплено за каким-либо кораблем. §GНажмите§! кнопку «Добавить», чтобы закрепить это имя за данной очередью производства."
+ PRODUCTION_LINE_SHIP_NAME_ALLOCATE:0 "Это имя еще не закреплено за каким-либо кораблем. §GНажмите§! кнопку \"Добавить\", чтобы закрепить это имя за данной очередью производства."
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL_SIMPLE:0 "§HЛицензированное производство§!: $VALUE|+%$"
  LICENSED_EQUIPMENT_PRODUCTION_SPEED_TOTAL:0 "§HОбъем заводского производства по лицензии§!\nВсего: $VALUE|+%$\nРазбивка:"
  LICENSED_EQUIPMENT_TECH_SPEED_REDUCTION:1 "§YРазница между лицензированной технологией§!:\n Базовое значение: $BASE|+%$\n Итоговое значение: $TOTAL|+%$"
@@ -282,3 +282,7 @@
  PRODUCTION_SUB_UNIT_FILTER:0 "Показывать только $SUBUNIT|H$ ($COUNT|H$ совп.)"
  PRODUCTION_EQUIPMENT_ROLE_NO_FILTER:0 "Показывать все роли"
  PRODUCTION_EQUIPMENT_ROLE_FILTER:0 "Показывать только снаряжение с ролью $ROLE|H$"
+
+
+
+

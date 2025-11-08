@@ -1,9 +1,9 @@
 ﻿l_russian:
  
  #Parties
- FIN_communist_party:0 "КПФ"
+ FIN_communist_party:0 "Коммунистическая Партия Финляндии"
  FIN_communist_party_long:0 "Коммунистическая Партия Финляндии"
- FIN_socialist_party:0 "ДСФН"
+ FIN_socialist_party:0 "Демократический Союз Финского Народа"
  FIN_socialist_party_long:0 "Демократический Союз Финского Народа"
  FIN_social_democrat_party:0 "СДПФ"
  FIN_social_democrat_party_long:0 "Социал-Демократическая Партия Финляндии"
@@ -77,26 +77,26 @@
  FIN_intro_civil_defense_infrastructure_desc:0 "Civil Defense Infrastructure"
  FIN_intro_an_economic_appeal_desc:0 "An Economic Appeal"
  
- FIN_intro_the_blood_on_the_streets_tt:0 "\\nViolence and bloodshed in our police actions against protesters will lower our §Ypopular support§!, increase §Yradicalization§!, and increase §Ytensions in the Russian regions§!.\n\n"
- FIN_intro_expand_police_presence_tt:0 "\\nDeployment of more police and limited military presence on our streets will decrease §Ypopular support§!, but also force §Yradicalization§! down.\n\n"
- FIN_intro_the_karelian_riots_tt:0 "\\nMore scandals related to our resettlement projects will lead to a huge increase in §Ytensions in the Russian regions§!, as well as §Yradicalization§!!\n\n"
+ FIN_intro_the_blood_on_the_streets_tt:0 "\nViolence and bloodshed in our police actions against protesters will lower our §Ypopular support§!, increase §Yradicalization§!, and increase §Ytensions in the Russian regions§!.\n\n"
+ FIN_intro_expand_police_presence_tt:0 "\nDeployment of more police and limited military presence on our streets will decrease §Ypopular support§!, but also force §Yradicalization§! down.\n\n"
+ FIN_intro_the_karelian_riots_tt:0 "\nMore scandals related to our resettlement projects will lead to a huge increase in §Ytensions in the Russian regions§!, as well as §Yradicalization§!!\n\n"
  FIN_intro_russian_auxiliary_police_tt:0 "Expanding our Russian collaborator police force will lead to a decrease in total §Ytensions§!, but increase §Yradicalization§!.\n\n"
- FIN_intro_a_breath_of_fresh_air_tt:0 "\\nOur actions to deal with the crisis will lead to a minor decrease in §Yradicalization§!, and an increase in §Ypopular support§!.\n\n"
- FIN_intro_collaborate_with_onega_tt:0 "\\nIncreasing collaboration with Onega will increase our §Yrelations with Onega§! and lower §Ytensions in the Russian regions§!, at the cost of lower §Ypopular support§!.\n\n"
- FIN_intro_ensure_common_welfare_tt:0 "\\nWe will introduce a new economic plan - radically increasing the welfare available to the population, increasing §Yhealthcare coverage§!, §Ypensions§!, and §Yunemployment subsidies§!.\n\n"
+ FIN_intro_a_breath_of_fresh_air_tt:0 "\nOur actions to deal with the crisis will lead to a minor decrease in §Yradicalization§!, and an increase in §Ypopular support§!.\n\n"
+ FIN_intro_collaborate_with_onega_tt:0 "\nIncreasing collaboration with Onega will increase our §Yrelations with Onega§! and lower §Ytensions in the Russian regions§!, at the cost of lower §Ypopular support§!.\n\n"
+ FIN_intro_ensure_common_welfare_tt:0 "\nWe will introduce a new economic plan - radically increasing the welfare available to the population, increasing §Yhealthcare coverage§!, §Ypensions§!, and §Yunemployment subsidies§!.\n\n"
  FIN_intro_put_down_the_riots_tt:0 "Cracking down on riots in Russian-majority cities will decrease §Ypopular support§!, but also force §Yradicalization§! and §Ytensions§! down.\n\n"
- FIN_intro_a_new_economic_bridge_tt:0 "\\nThis will unlock §Ytrade decisions§! for serving as a middleman between the §gUnity-Pakt§! and §BOFN§!.\n\n"
- FIN_intro_a_proposal_to_the_usa_tt:0 "\\nThis will unlock §Ytrade decisions§! for expanding relations with the §BUnited States§!.\n\n"
- FIN_intro_a_proposal_to_germany_tt:0 "\\nThis will unlock §Ytrade decisions§! for expanding relations with the §gGerman Reich§!.\n\n"
- FIN_intro_gotterdammerung_tt:0 "\\n§RSurely, the German situation can't be as bad as we thought...§!\n\n"
+ FIN_intro_a_new_economic_bridge_tt:0 "\nThis will unlock §Ytrade decisions§! for serving as a middleman between the §gUnity-Pakt§! and §BOFN§!.\n\n"
+ FIN_intro_a_proposal_to_the_usa_tt:0 "\nThis will unlock §Ytrade decisions§! for expanding relations with the §BUnited States§!.\n\n"
+ FIN_intro_a_proposal_to_germany_tt:0 "\nThis will unlock §Ytrade decisions§! for expanding relations with the §gGerman Reich§!.\n\n"
+ FIN_intro_gotterdammerung_tt:0 "\n§RSurely, the German situation can't be as bad as we thought...§!\n\n"
  FIN_intro_a_possible_recovery_tt:0 "With our new expansion of trade, we are well on the road to recovery. This will increase our §YGDP§! by a healthy amount."
  FIN_intro_and_american_luxuries_tt:0 "We will begin expanding our offers for American luxury goods to the §gUnity-Pakt§!, through our channels established in §Ytrade decisions§!."
  FIN_intro_and_german_goods_too_tt:0 "We will begin expanding our offers for German specialty goods to the §BOFN§!, through our channels established in §Ytrade decisions§!."
  FIN_intro_lumber_and_paper_tt:0 "We will offer more of our natively-produced §Ywooden furniture§! and §Ypaper products§! to the West, in order to build up native capital."
  FIN_intro_copper_and_grain_tt:0 "We will offer more of our §Ynatural resource exports§! to the Pakt, in order to build up native capital and fill gaps in their own economies."
- FIN_intro_start_election_tt:0 "A §YPresidential Election§! and §YParliamentary Election§! shall be called.\\n"
+ FIN_intro_start_election_tt:0 "A §YPresidential Election§! and §YParliamentary Election§! shall be called.\n"
  FIN_intro_investments_for_resources_tt:0 "§gGermany§! and the §BUnited States§! will be given the opportunity to invest in Finnish §Ynatural resources§!."
- VTY_NEW_GENERAL_TT:0 "§YEnsio Siilasvuo§! will be assigned to our command.\\n"
+ VTY_NEW_GENERAL_TT:0 "§YEnsio Siilasvuo§! will be assigned to our command.\n"
  
  #WINTER WAR
  FIN_onegawar_the_winter_war:0 "Северная война"
@@ -130,9 +130,9 @@
  FIN.1.b:0 "Мы не можем. Они поблагодарят нас позже."
  FIN.2.t:0 "The Emergency Election"
  FIN.2.desc:0 "Замещающий текст"
- FIN.2.a:0 "The Agrarian League secures victory!" #Urho Kekkonen - SocLib
- FIN.2.b:0 "The National Coalition Party sweeps the polls!" #Teuvo Aura - SocCon
- FIN.2.c:0 "The Social Democratic Party wins!" #Karl-August Fagerholm - SocDem
+ FIN.2.a:0 "The Agrarian League secures victory!"
+ FIN.2.b:0 "The National Coalition Party sweeps the polls!"
+ FIN.2.c:0 "The Social Democratic Party wins!"
  FIN.3.t:0 ""
  FIN.3.desc:0 "Замещающий текст"
  FIN.3.a:0 "Замещающий текст"
@@ -277,7 +277,7 @@
  FIN.120.b:0 "Отвергнуть."
 
  FIN.125.t:0 "Финская трусость"
- FIN.125.desc:0 "В обмен на военные жертвы наши семьи будут возвращены нам. Сегодня Хельсинки демонстрирует свое полное отсутствие достоинства и свое подавляющее пренебрежение к нашей жизни с помощью новейшего набора приказов, доставленных нашему верховному командованию. Несмотря на наше явное военное превосходство, мы должны сдаться русским.\n\nКаждый человек в нашем высшем командовании сбит с толку этим развитием событий. Мы обескровливаем русских, и они совершенно не смогли пробить нашу оборону. Неужели финны потеряли аппетит к войне? Неужели они решили, что не будут жертвовать финскими жизнями ради каких-то "жалких русских"?" Неужели Хельсинки окончательно сошел с ума?\n\nМожет быть, если финны сдаются так рано, это значит, что российское правительство справедливо и не заслуживает такого кровопролития. Может быть, это правительство управляется действительно разумными мужчинами и женщинами, по сравнению с этими предателями-большевиками и сумасшедшими фашистами. Наши люди ждут, когда наши генералы отдадут приказ. Эти люди долго готовились к этой битве, они еще могут последовать за нами в кровавый последний бой. Однако это последнее противостояние будет только нашими силами, никакой финской помощи не будет оказано. Эта борьба, скорее всего, будет кровавой, жестокой и, вполне возможно, бесполезной. Может быть, лучше рискнуть с этим новым правительством и сложить оружие с миром?"
+ FIN.125.desc:0 "В обмен на военные жертвы наши семьи будут возвращены нам. Сегодня Хельсинки демонстрирует свое полное отсутствие достоинства и свое подавляющее пренебрежение к нашей жизни с помощью новейшего набора приказов, доставленных нашему верховному командованию. Несмотря на наше явное военное превосходство, мы должны сдаться русским.\n\nКаждый человек в нашем высшем командовании сбит с толку этим развитием событий. Мы обескровливаем русских, и они совершенно не смогли пробить нашу оборону. Неужели финны потеряли аппетит к войне? Неужели они решили, что не будут жертвовать финскими жизнями ради каких-то \"жалких русских\"?\" Неужели Хельсинки окончательно сошел с ума?\n\nМожет быть, если финны сдаются так рано, это значит, что российское правительство справедливо и не заслуживает такого кровопролития. Может быть, это правительство управляется действительно разумными мужчинами и женщинами, по сравнению с этими предателями-большевиками и сумасшедшими фашистами. Наши люди ждут, когда наши генералы отдадут приказ. Эти люди долго готовились к этой битве, они еще могут последовать за нами в кровавый последний бой. Однако это последнее противостояние будет только нашими силами, никакой финской помощи не будет оказано. Эта борьба, скорее всего, будет кровавой, жестокой и, вполне возможно, бесполезной. Может быть, лучше рискнуть с этим новым правительством и сложить оружие с миром?"
  FIN.125.a:0 "Пусть этой новой Россией руководят более милосердные люди, чем раньше."
  FIN.125.b:0 "Мы не уйдем тихо в ночь! Мы не исчезнем без боя!"
  
@@ -303,7 +303,7 @@
  
  ### 153
  FIN.153.t:0 "Необычно большая вспышка"
- FIN.153.desc:0 "Когда оператор гидролокатора FNS Karjala сообщил о крупной вспышке на своем экране, к нему сначала отнеслись с недоверием. Когда оператор гидролокатора FNS Turunmaa сообщил о подобной вспышке, атмосфера замешательства сменилась страхом. Быстрый разведывательный полет подтвердил подозрения флота - Германия послала свой флот и самолеты для его поддержки.\n\nСотни самолетов парят над громадой Кригсмарине, рассекая ледяные воды Балтики. Конечно, хлипкое оправдание "простых учений", предоставленное германским посольством, было почти проигнорировано правительством, которое видит это так, как оно есть на самом деле - Германия вернулась, и она уничтожит Финляндию, если мы не подчинимся. Однако какое-то время казалось, что из этого ничего не выйдет. Кригсмарине выполняло свои упражнения вполсилы, в то время как часть флота стояла на страже побережья. Казалось, что ситуация разрядится сама собой.\n\nНаши корабли неоднократно сообщали о небольших полетах бомбардировщиков Люфтваффе, жужжащих на их палубах, пролетающих прямо над ними и иногда пикирующих, как будто для атаки, только чтобы в последнюю минуту уйти. Эта ситуация привела наших адмиралов в неистовство, поскольку они требуют направить больше кораблей к побережью, чтобы противостоять этим актам агрессии. Нагнетание напряженности в этой ситуации кажется ужасной идеей, но оставлять наши корабли без защиты так же плохо. К сожалению, мы должны сделать выбор."
+ FIN.153.desc:0 "Когда оператор гидролокатора FNS Karjala сообщил о крупной вспышке на своем экране, к нему сначала отнеслись с недоверием. Когда оператор гидролокатора FNS Turunmaa сообщил о подобной вспышке, атмосфера замешательства сменилась страхом. Быстрый разведывательный полет подтвердил подозрения флота - Германия послала свой флот и самолеты для его поддержки.\n\nСотни самолетов парят над громадой Кригсмарине, рассекая ледяные воды Балтики. Конечно, хлипкое оправдание \"простых учений\", предоставленное германским посольством, было почти проигнорировано правительством, которое видит это так, как оно есть на самом деле - Германия вернулась, и она уничтожит Финляндию, если мы не подчинимся. Однако какое-то время казалось, что из этого ничего не выйдет. Кригсмарине выполняло свои упражнения вполсилы, в то время как часть флота стояла на страже побережья. Казалось, что ситуация разрядится сама собой.\n\nНаши корабли неоднократно сообщали о небольших полетах бомбардировщиков Люфтваффе, жужжащих на их палубах, пролетающих прямо над ними и иногда пикирующих, как будто для атаки, только чтобы в последнюю минуту уйти. Эта ситуация привела наших адмиралов в неистовство, поскольку они требуют направить больше кораблей к побережью, чтобы противостоять этим актам агрессии. Нагнетание напряженности в этой ситуации кажется ужасной идеей, но оставлять наши корабли без защиты так же плохо. К сожалению, мы должны сделать выбор."
  FIN.153.a:0 "Ничего не делать. Рано или поздно они уйдут."
  FIN.153.b:0 "Мы должны защитить наших. Пошлите остальные корабли."
  
@@ -324,16 +324,16 @@
  
  ### 156
  FIN.156.t:0 "Ультиматум"
- FIN.156.desc:0 "Хотя предыдущие новости между нами и Рейхом повергли правительство в страшную панику, ничто не сравнится с последним посланным нам пассажем. Почти не веря, правительство сидит парализованное, и все из-за одной быстрой записки прямо из Германии. В этой записке сам Геринг очень подробно пишет о великих исторических отношениях между финнами и немцами, как будто мы не вступали в стычки с кригсмарине и Люфтваффе в течение последних нескольких месяцев. Первый абзац полон комплиментов нашему расовому происхождению, нашей истории, нашей традиции "отбивать русских большевиков" и нашему народу. Если бы кто-то вырезал первый абзац и прочитал только это, они могли бы подумать, что это было любовное письмо.\n\nВторой абзац явно менее дружелюбен.\n\nВо втором абзаце Геринг отмечает статистику вермахта по сравнению с нашими силами, неравенство в подготовке и живой силе, безнадежность нашего положения. Он заканчивает письмо простым предложением - присоединиться к Пакту Единства или умереть.\n\nНа этот вопрос нелегко ответить, поскольку финское общество разрывается на части из-за того, что это может означать для Финляндии. Мы должны сделать выбор - можем ли мы отбиваться от немцев достаточно долго, рискуя быть уничтоженными? Или мы должны сдаться, чтобы увидеть еще один день?"
+ FIN.156.desc:0 "Хотя предыдущие новости между нами и Рейхом повергли правительство в страшную панику, ничто не сравнится с последним посланным нам пассажем. Почти не веря, правительство сидит парализованное, и все из-за одной быстрой записки прямо из Германии. В этой записке сам Геринг очень подробно пишет о великих исторических отношениях между финнами и немцами, как будто мы не вступали в стычки с кригсмарине и Люфтваффе в течение последних нескольких месяцев. Первый абзац полон комплиментов нашему расовому происхождению, нашей истории, нашей традиции \"отбивать русских большевиков\" и нашему народу. Если бы кто-то вырезал первый абзац и прочитал только это, они могли бы подумать, что это было любовное письмо.\n\nВторой абзац явно менее дружелюбен.\n\nВо втором абзаце Геринг отмечает статистику вермахта по сравнению с нашими силами, неравенство в подготовке и живой силе, безнадежность нашего положения. Он заканчивает письмо простым предложением - присоединиться к Пакту Единства или умереть.\n\nНа этот вопрос нелегко ответить, поскольку финское общество разрывается на части из-за того, что это может означать для Финляндии. Мы должны сделать выбор - можем ли мы отбиваться от немцев достаточно долго, рискуя быть уничтоженными? Или мы должны сдаться, чтобы увидеть еще один день?"
  FIN.156.a:0 "У нас нет выбора."
  FIN.156.b:0 "Мы не будем сдаваться!"
  
  
  ### 157
- FIN.157.t:0 "Второй ультиматум"
- FIN.157.desc:0 "Война продолжается, и за нее приходится дорого обходиться. Тысячи финнов умирают на поле боя каждую неделю, поскольку немецкий прилив постепенно становится всё сильнее и сильнее. Дома, города чередуются между тишиной строгого комендантского часа и хаосом ежедневных бомбардировок. Сельская местность медленно пустеет либо от людей, идущих на войну, либо от людей, уезжающих в поисках внутренней безопасности. Прежде всего, наша экономика даёт сбой, поскольку вся торговля оказывается отрезанной от всего мира. Кажется, если мы продолжим эту войну, нация может быть обречена.\n\nГеринг, что достаточно невероятно, выдал нам в форме второго ультиматума. Это письмо значительно резче и интересней, чем предыдущее. Никаких формальностей и любезностей. В самом деле, письмо - всего лишь параграф. Новый ультиматум, если мы примем условия, просто включит нас в Рейхскомиссариат Скандинавия. Для нас не будет автономии, свободы или каких-либо других особых обстоятельств, но наши люди доживут до следующего дня.\n\nОднако наши генералы по-прежнему настаивают на продолжении битвы. По наблюдениям как наших экономистов, так и наших военных, немецкий гигант стоит на чрезвычайно слабых ногах, опираясь только на добычу тех народов, которые пали от него. Если мы продержимся достаточно долго, Рейх может снова обрушиться на себя, позволяя нам убежать с нашей независимостью, нашей свободой и, прежде всего, нашей гордостью. Это было бы рискованно, но в ситуации, в которой мы находимся, это необходимо учитывать.\n\nТеперь мы подходим к тому, что, возможно, является величайшим перекрестком в истории Финляндии - уступим ли мы и подчинимся Герингу и его головорезам, или же большой риск и продолжать бороться ради шанса на выживание?"
- FIN.157.a:0 "Мы не можем сражаться более."
- FIN.157.b:0 "Не сдаёмся мы никогда!"
+ FIN.157.t:0 "A Second Ultimatum"
+ FIN.157.desc:0 "The war continues, and with it comes a heavy cost. Thousands of Finnish men die on the field of battle every week, as the German tide slowly grows stronger and stronger. At home, the cities alternate between the silence of a strict curfew and the chaos of daily bombing raids. The countryside slowly empties, either from the men going to war or the people leaving for the safety of the interior. Above all else, our economy falters, with all trade being cut off from the entire world. It seems if we continue this war, the nation may be doomed. \n\nGoering, unbelievably enough, has given us out in the form of a second ultimatum. This letter is significantly more blunt and harsh than the last. There are no formalities or pleasantries. Indeed, the letter is but a paragraph in length. The new ultimatum would, upon our acceptance of the terms, simply incorporate us into Reichskommissariat Skandinavien. There would be no autonomy, or freedom, or any other special circumstance for us, but our people would live to see another day.\n\nHowever, our generals still push to continue the fight. By the observations of both our economists and our military men, the German giant stands on extremely weak legs, buoyed only by the loot of those nations who have fallen to it. If we hold long enough, the Reich may fall in on itself again, allowing us to escape with our independence, our freedom, and above all else, our pride. This would be risky, but in the situation we are in, it must be considered.\n\nWe now come to what may be the greatest crossroad in Finnish history- do we give in and submit to Goering and his thugs, or take a great risk and keep fighting, for the chance of survival?"
+ FIN.157.a:0 "We cannot keep fighting."
+ FIN.157.b:0 "Never surrender!"
  
  #Leader Bios
  POLITICS_KARL_LENNART_OESCH_DESC:0 "На протяжении всей своей жизни целью Карла Леннарта Эша была помощь своей стране. Теперь, став ее лидером, он может исполнить свое желание.\n\nВ межвоенные годы Эш продолжал подниматься вверх по огромной иерархии финских вооруженных сил, приобретая при этом все больший и больший престиж. Будучи начальником Генерального штаба, он тесно сотрудничал с генералом Маннергеймом, но все же не заслужил его полного уважения и восхищения своим талантом. Однако этот талант проявится, когда волна войны захлестнет Финляндию, вынудив ее вступить в Зимнюю войну. Несмотря на умение Эша справляться с самыми трудными ситуациями, эта война все равно была проиграна. Это был не первый раз, когда страна сражалась с русскими коммунистами; еще дважды, на Восточном фронте Второй мировой войны и на фронте Западнорусской войны, Ош вел своих людей в бой. На самом деле, его невероятный успех в разгроме наступления ЗРРФ в Карелии и последующем возвращении Онежского региона повысил его популярность и влияние.\n\nСлава его народа не должна была длиться долго. После Западнорусской войны нестабильность доминировала на финской политической сцене, и у Эша был только один вариант: отправить армию. При одном из самых известных генералов страны был установлен временный военный режим. Популярность правительства была на рекордно низком уровне, и еще один удар по стране будет нанесен с крахом 50-х гг. Эш упорно трудился, чтобы сблизится с Германией, но это, казалось, имело массовые обратные последствия, поскольку экономическая депрессия Рейха поглотила Финляндию вместе с ним. И вот теперь перед военным вождем нации стоит ужасная ситуация: будут ли среди упадка нации услышаны голоса народа и сохранится ли демократия?"
@@ -376,38 +376,38 @@
  FIN_issues_desc:0 "Although our borders stretch from coast to coast, we find ourselves in a difficult position, beset by internal strife and tensions in the Russian-majority eastern zones. Handling these issues will be crucial for our survival.\n\nSupport for the current regime is currently [GetApprovalRating].\n\nThe opposition is currently [GetRadicalizationFinlandOpp].\n\nTension in Russian-majority areas is currently [GetRussiaTensions].\n\nOnega is currently [GetOnegaRelations] with us.\n\nWe have made [GetPromises] promises to the opposition."
  FIN_status:0 "Reset Status"
  FIN_supplemental_aid_to_onega:0 "Additional Aid To Onega"
- FIN_supplemental_aid_to_onega_tt:0 "This will increase our §Yrelations with Onega§! and lower §Ytensions with the Russian regions§! at the cost of our §Ypopular support§!.\\n"
+ FIN_supplemental_aid_to_onega_tt:0 "This will increase our §Yrelations with Onega§! and lower §Ytensions with the Russian regions§! at the cost of our §Ypopular support§!.\n"
  FIN_promises_to_the_opposition:0 "Placate The Democratic Opposition"
- FIN_promises_to_the_opposition_tt:0 "We will make more and more §Ypromises to the opposition§! to increase our §Ypopular support§! and lower §Yradicalization§!.\\n§RIf this is done, it would be wise to follow through.§!\\n"
+ FIN_promises_to_the_opposition_tt:0 "We will make more and more §Ypromises to the opposition§! to increase our §Ypopular support§! and lower §Yradicalization§!.\n§RIf this is done, it would be wise to follow through.§!\n"
  FIN_crack_down_on_opposition:0 "Crack Down On Opposition"
- FIN_crack_down_on_opposition_tt:0 "We will crack down with police, impacting §Ypopular support§! but lowering §Yradicalization§!.\\n"
+ FIN_crack_down_on_opposition_tt:0 "We will crack down with police, impacting §Ypopular support§! but lowering §Yradicalization§!.\n"
  
  FIN_the_economic_bridge:0 "The Economic Bridge"
  FIN_the_economic_bridge_desc:0 "In order to restore our nation's prosperity, a plan has been proposed to serve as an economic bridge with which to bypass the OFN-Pakt embargo. While instability in the Pakt is growing, this may be our only chance to pull ourselves out of our current pit.\n\nTrade with the USA is currently [GetUSATradeInfluence].\n\nTrade with the Pakt is currently [GetPaktTradeInfluence].\n\nOur current trade balance is [GetTradeBalance].\n\nOur current trade revenue from §BOFN§! nations is §G[?FIN.FINOFNRevenue] million USD§!\n\nOur current trade revenue from §gUnity-Pakt§! nations is §G[?FIN.FINPaktRevenue] million USD§!\n\nOur current combined foreign trade revenue is §G[?FIN.FINTotalRevenue] million USD§!.\n\nCurrent total foreign trade influence is [GetForeignInfluence]."
  FIN_appeal_further_to_USA:0 "Appeal Further For American Trade"
- FIN_appeal_further_to_USA_tt:0 "We will invest more into OFN-aligned trade, raising our §YGDP Growth§!, §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §BOFN§!.\n\nThis deal is projected to give us a 1% §YGDP Growth§! increase, a §G115 million USD§! §YGDP§! increase, and a §G345 million USD§! §YMisc Income§! increase.\\n"
+ FIN_appeal_further_to_USA_tt:0 "We will invest more into OFN-aligned trade, raising our §YGDP Growth§!, §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §BOFN§!.\n\nThis deal is projected to give us a 1% §YGDP Growth§! increase, a §G115 million USD§! §YGDP§! increase, and a §G345 million USD§! §YMisc Income§! increase.\n"
  FIN_appeal_further_to_GER:0 "Appeal Further For German Trade"
- FIN_appeal_further_to_GER_tt:0 "We will invest more into German-aligned trade, raising our §YGDP Growth§!, §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §gUnity-Pakt§!.\n\nThis deal is projected to give us a 1% §YGDP Growth§! increase, a §G75 million USD§! §YGDP§! increase, and a §G225 million USD§! §YMisc Income§! increase.\\n"
+ FIN_appeal_further_to_GER_tt:0 "We will invest more into German-aligned trade, raising our §YGDP Growth§!, §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §gUnity-Pakt§!.\n\nThis deal is projected to give us a 1% §YGDP Growth§! increase, a §G75 million USD§! §YGDP§! increase, and a §G225 million USD§! §YMisc Income§! increase.\n"
  FIN_pull_assets_from_germany:0 "Pull Assets From Germany"
- FIN_pull_assets_from_germany_tt:0 "We will immediately pull our investments out of §gUnity-Pakt§! nations.\n\n§RWhile this will severely harm our revenue, we will at least be able to salvage some money we otherwise would have lost in the event of a civil war.§!\\n"
+ FIN_pull_assets_from_germany_tt:0 "We will immediately pull our investments out of §gUnity-Pakt§! nations.\n\n§RWhile this will severely harm our revenue, we will at least be able to salvage some money we otherwise would have lost in the event of a civil war.§!\n"
  FIN_expand_trade_to_england:0 "Expand Trade With England"
- FIN_expand_trade_to_england_tt:0 "We will invest more into trade with England, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §gUnity-Pakt§!.\n\nThis deal is projected to give us a §G25 million USD§! §YGDP§! increase, and a §G75 million USD§! §YMisc Income§! increase.\\n"
+ FIN_expand_trade_to_england_tt:0 "We will invest more into trade with England, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §gUnity-Pakt§!.\n\nThis deal is projected to give us a §G25 million USD§! §YGDP§! increase, and a §G75 million USD§! §YMisc Income§! increase.\n"
  FIN_expand_trade_to_france:0 "Expand Trade With France"
- FIN_expand_trade_to_france_tt:0 "We will invest more into trade with France, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §gUnity-Pakt§!.\n\nThis deal is projected to give us a §G40 million USD§! §YGDP§! increase, and a §G120 million USD§! §YMisc Income§! increase.\\n"
+ FIN_expand_trade_to_france_tt:0 "We will invest more into trade with France, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §gUnity-Pakt§!.\n\nThis deal is projected to give us a §G40 million USD§! §YGDP§! increase, and a §G120 million USD§! §YMisc Income§! increase.\n"
  FIN_expand_trade_to_brittany:0 "Expand Trade With Brittany"
- FIN_expand_trade_to_brittany_tt:0 "We will invest more into trade with Brittany, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §gUnity-Pakt§!.\n\nThis deal is projected to give us a §G15 million USD§! §YGDP§! increase, and a §G45 million USD§! §YMisc Income§! increase.\\n"
+ FIN_expand_trade_to_brittany_tt:0 "We will invest more into trade with Brittany, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §gUnity-Pakt§!.\n\nThis deal is projected to give us a §G15 million USD§! §YGDP§! increase, and a §G45 million USD§! §YMisc Income§! increase.\n"
  FIN_expand_trade_to_denmark:0 "Expand Trade With Denmark"
- FIN_expand_trade_to_denmark_tt:0 "We will invest more into trade with Denmark, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §gUnity-Pakt§!.\n\nThis deal is projected to give us a §G20 million USD§! §YGDP§! increase, and a §G60 million USD§! §YMisc Income§! increase.\\n"
+ FIN_expand_trade_to_denmark_tt:0 "We will invest more into trade with Denmark, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §gUnity-Pakt§!.\n\nThis deal is projected to give us a §G20 million USD§! §YGDP§! increase, and a §G60 million USD§! §YMisc Income§! increase.\n"
  FIN_expand_trade_to_canada:0 "Expand Trade With Canada"
- FIN_expand_trade_to_canada_tt:0 "We will invest more into trade with Canada, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §BOFN§!.\n\nThis deal is projected to give us a §G40 million USD§! §YGDP§! increase, and a §G120 million USD§! §YMisc Income§! increase.\\n"
+ FIN_expand_trade_to_canada_tt:0 "We will invest more into trade with Canada, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §BOFN§!.\n\nThis deal is projected to give us a §G40 million USD§! §YGDP§! increase, and a §G120 million USD§! §YMisc Income§! increase.\n"
  FIN_expand_trade_to_guyana:0 "Expand Trade With Guyana"
- FIN_expand_trade_to_guyana_tt:0 "We will invest more into trade with Guyana, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §BOFN§!.\n\nThis deal is projected to give us a §G32 million USD§! §YGDP§! increase, and a §G95 million USD§! §YMisc Income§! increase.\\n"
+ FIN_expand_trade_to_guyana_tt:0 "We will invest more into trade with Guyana, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §BOFN§!.\n\nThis deal is projected to give us a §G32 million USD§! §YGDP§! increase, and a §G95 million USD§! §YMisc Income§! increase.\n"
  FIN_expand_trade_to_iceland:0 "Expand Trade With Iceland"
- FIN_expand_trade_to_iceland_tt:0 "We will invest more into trade with Iceland, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §BOFN§!.\n\nThis deal is projected to give us a §G15 million USD§! §YGDP§! increase, and a §G45 million USD§! §YMisc Income§! increase.\\n"
+ FIN_expand_trade_to_iceland_tt:0 "We will invest more into trade with Iceland, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §BOFN§!.\n\nThis deal is projected to give us a §G15 million USD§! §YGDP§! increase, and a §G45 million USD§! §YMisc Income§! increase.\n"
  FIN_expand_trade_to_west_indies:0 "Expand Trade With The West Indies"
- FIN_expand_trade_to_west_indies_tt:0 "We will invest more into trade with the West Indies Federation, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §BOFN§!.\n\nThis deal is projected to give us a §G21 million USD§! §YGDP§! increase, and a §G55 million USD§! §YMisc Income§! increase.\\n"
+ FIN_expand_trade_to_west_indies_tt:0 "We will invest more into trade with the West Indies Federation, raising our §YGDP§!, and §Ymisc income§! at the cost of altering our §Ytrade balance§! towards the §BOFN§!.\n\nThis deal is projected to give us a §G21 million USD§! §YGDP§! increase, and a §G55 million USD§! §YMisc Income§! increase.\n"
  FIN_surrender_olonets:0 "Surrender Olonets To Onega"
- FIN_surrender_olonets_tt:0 "We will pull our forces out of Olonets, and transfer the region to Onega. A 60-day period shall be instated for the evacuation of Finns from the region. §YRadicalization§! and §Ytensions in the Russian regions§! will harshly decrease.\\n"
+ FIN_surrender_olonets_tt:0 "We will pull our forces out of Olonets, and transfer the region to Onega. A 60-day period shall be instated for the evacuation of Finns from the region. §YRadicalization§! and §Ytensions in the Russian regions§! will harshly decrease.\n"
  FIN_intro_deals_with_ofn_tt:0 "Will unlock §Ydecisions§! that allow for new trade deals with §BOFN§! nations."
  FIN_intro_deals_with_pakt_tt:0 "Will unlock §Ydecisions§! that allow for new trade deals with §gUnity-Pakt§! nations."
  
@@ -460,3 +460,7 @@
  FIN_foreign_medium:0 "§Ymedium§!"
  FIN_foreign_low:0 "§Ylow§!"
  FIN_foreign_very_low:0 "§Yvery low§!"
+
+
+
+

@@ -5,7 +5,7 @@
 #Germany
 
 ESPIONAGE_GER_encryption_region_tt:0 "£GFX_encryption_texticon §QШифрование§!£GFX_counter_intelligence_GER §W[getGermanIntelAgency]§! в [getEncryptionRegion] меняется на [?val_SPY_loc|-]."
-ESPIONAGE_GER_encryption_global_tt:0 "£GFX_encryption_texticon §QШифрование§! £GFX_counter_intelligence_GER §W[getGermanIntelAgency]§! глобально меняется на [?val_SPY_loc]."
+ESPIONAGE_GER_encryption_global_tt:0 "£GFX_encryption_texticon §QШифрование§! £GFX_counter_intelligence_GER §W[getGermanIntelAgency]§!  глобально меняется на [?val_SPY_loc]."
 
 #USA
 
@@ -16,14 +16,14 @@ ESPIONAGE_USA_encryption_global_tt:0 "£GFX_encryption_texticon §QШифров�
 
 ESPIONAGE_Abwehr_name:0 "Абвер"
 ESPIONAGE_RND_name:0 "ИСБ"
-ESPIONAGE_HVA_name:0 "Главное разведывательное управление"
+ESPIONAGE_HVA_name:0 "Hauptverwaltung Aufklärung"
 
 ESPIONAGE_Abwehr_name_caps:0 "АБВЕР"
 ESPIONAGE_RND_name_caps:0 "ИСБ"
-ESPIONAGE_HVA_name_caps:0 "ГЛАВНОЕ РАЗВЕДЫВАТЕЛЬНОЕ УПРАВЛЕНИЕ"
+ESPIONAGE_HVA_name_caps:0 "HAUPTVERWALTUNG AUFKLÄRUNG"
 
 ESPIONAGE_RND_name_short:0 "ИСБ"
-ESPIONAGE_HVA_name_short:0 "ГРУ"
+ESPIONAGE_HVA_name_short:0 "HVA"
 
 ESPIONAGE_Africa_name:0 "§OАфрике§!"
 ESPIONAGE_Europe_name:0 "§xЕвропе§!"
@@ -35,3 +35,7 @@ ESPIONAGE_SouthAmerica_name:0 "§RЮжной Америке§!"
 ESPIONAGE_NorthAmerica_name:0 "§MСеверной Америке§!"
 ESPIONAGE_SouthEastAsia_name:0 "§GЮго-Восточной Азии§!"
 ESPIONAGE_Russia_name:0 "§GРоссии§!"
+
+
+
+

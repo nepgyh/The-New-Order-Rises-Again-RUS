@@ -16,7 +16,7 @@
  MOS_socialist:0 "Московия"
  MOS_socialist_DEF:0 "Московия"
  MOS_national_socialism:0 "Московия"
- MOS_national_socialism_DEF:0 "Мускови" # <<TRANSLATED>>
+ MOS_national_socialism_DEF:0 "Московия"
  MOS_ultranational_socialism:0 "Московия"
  MOS_ultranational_socialism_DEF:0 "Московия"
  MOS_fascism_ADJ:0 "московск"
@@ -44,3 +44,7 @@
  MOS_rural_state_desc:0 "With most of the large cities and industrial centers settled by the Germans and thus outside our reach, our administration lacks in industrial capability. At least our agriculture and especially our wheat harvest are producing an excess of food."
  MOS_shield_of_europa:0 "Булварк Европы" # <<TRANSLATED>>
  MOS_shield_of_europa_desc:0 "Весь Мусковый был передан прогерманской российской военной администрации, взамен они обязаны защищать территорию от всех внешних угроз, включая их соотечественников, единства, нерушимости, эйль-Европа." # <<TRANSLATED>>
+
+
+
+

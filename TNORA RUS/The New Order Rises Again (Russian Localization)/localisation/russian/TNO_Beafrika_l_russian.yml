@@ -4,8 +4,8 @@
  CAF_authoritarian_democrat_DEF:0 "Беафрика"
  CAF_authoritarian_democrat_ADJ:0 "Беафриканск."
 
- CAF_despotism:0 "Государство Биафрика"
- CAF_despotism_DEF:0 "Государство Биафрика"
+ CAF_despotism:0 "Беафриканское Государство"
+ CAF_despotism_DEF:0 "Беафриканское Государство"
  CAF_despotism_ADJ:0 "Беафриканск."
 
  CAF_social_democrat:0 "Беафриканская Республика"
@@ -35,3 +35,7 @@
  ## Events ##
 
  
+
+
+
+
